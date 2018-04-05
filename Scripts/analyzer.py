@@ -7,19 +7,21 @@ import sys
 def main(json_name):
 	hostnames = reader(json_name)
 	d = {}
-	print(hostnames)
 	#hostnames = ["www.falundafa.org","www.yahoo.com"]
 	for hostname in hostnames:
 		d[hostname] = {}
 		ans = dns_req(hostname)
-		ipid = ans[len(ans)-1][1][IP].id
-		ttl = ans[len(ans)-1][1][IP].ttl
-		d[hostname]["ttl"] = ttl
-		d[hostname]["ipid"] = ipid
 		if len(ans)<1:
-			d["blocked"] = False
+			d[hostname]["blocked"] = False
+			d[hostname]["ipid"] = -1
+			d[hostname]["ttl"] = -1
 		else:
-			d["blocked"] = True
+			d[hostname]["blocked"] = True
+			ipid = ans[len(ans)-1][1][IP].id
+			ttl = ans[len(ans)-1][1][IP].ttl
+			d[hostname]["ttl"] = ttl
+			d[hostname]["ipid"] = ipid
+		print(d)
 
 
 
