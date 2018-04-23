@@ -1,0 +1,13 @@
+Since we're dealing with close to 7 GB of text data:
+
+-parse in domains from all data sources
+-collect them in the "Parsed" directory (there will be many of them)
+-create a results .json to keep track of metadata and all blocked domains + their stats
+	Don't remember stats about non-blocked domains: There won't be a response so
+	there won't be anything to remember --> shrinks data down a bunch
+-in analysis script: 
+	-read in meta/results .json
+	-sequentially read in .json's from the Parsed directory
+	-add rejected sights and request/blocked request counts to meta/results .json
+	-save meta/results .json according to timestamp so we don't overwrite past results in the results directory
+-visualize and conclude stuff

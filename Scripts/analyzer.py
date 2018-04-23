@@ -34,4 +34,4 @@ def reader(file_name):
 		return json.load(f)
 
 if __name__ == "__main__":
-	main(sys.argv[1])
+	main()
