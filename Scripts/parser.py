@@ -91,7 +91,7 @@ def parseZones():
                 # read in the data from the entire file
                 for line in f:
                     if (len(line) > 0):
-                        domains[line] = {"src" : file.replace(".csv","")}
+                        domains[line.strip()] = {"src" : file.replace(".csv","")}
 
             # now that all lines are read, dump results to a json
             # print("Writing to: ", "../../Parsed/%s.json" % file.replace(".csv",""))
