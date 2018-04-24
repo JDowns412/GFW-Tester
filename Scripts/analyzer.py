@@ -108,7 +108,7 @@ def test():
 # this is the function that will spawn all of the worker threads
 def split():
 
-    loc = "Temp"
+    loc = "Inbound"
     processes = []
     counter = 0
     for chunk in os.listdir("../%s" % loc):
