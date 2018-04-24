@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "tried": 99,
+        "allowed": 89,
+        "blocked": 10,
+        "errors": 0
+    },
+    "domains": {
+        "arras.ac": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "asr.ac": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ateneo.ac": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "atma.ac": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bag.ac": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bananacoding.ac": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "blog.ac": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bowles.ac": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ceramic.ac": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "clinic.ac": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

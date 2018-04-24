@@ -18,29 +18,36 @@ def prime():
 
     return exNum
 
-def work(chunk):
+def work(chunk, loc, counter):
 
-    print("Started working on ", chunk)
+
+    print("Thread %d started working on %s" % (counter, chunk))
     # pdb.set_trace()
     # exNum = prime()
     exNum = 0
     
-    with open("../Temp/%s" % chunk, "r") as f:
+    with open("../%s/%s" % (loc, chunk), "r") as f:
         hostnames = json.load(f)
 
         results = {"meta" : {"tried" : 0, "allowed" : 0, "blocked" : 0, "errors" : 0}, "domains" : {}}
         #hostnames = ["www.falundafa.org","www.yahoo.com"]
+        count = 0
         for hostname in hostnames:
+            count += 1
+            if (count % 25 == 0):
+                print(str(count), " done on ", chunk, " by thread ", str(counter))
             try:
                 ans = dns_req(hostname)
                 if (len(ans)>=1):
                     # it's blocked
                     results["meta"]["blocked"] += 1
+
                     # removing this to decrease json size:
                     # results[hostname]["blocked"] = True
                     # if it's present in the results dict, we know it was blocked. If it's not, it's not blocked
                     ipid = ans[len(ans)-1][1][IP].id
                     ttl = ans[len(ans)-1][1][IP].ttl
+                    results["domains"][hostname] = {}
                     results["domains"][hostname]["ttl"] = ttl
                     results["domains"][hostname]["ipid"] = ipid
                     results["domains"][hostname]["responses"] = len(ans)
@@ -55,12 +62,13 @@ def work(chunk):
                 with open("../Logs/Experiment_%s.log" % str(exNum), 'a') as log:
                     name = repr(exception).split('(')[0]
                     print("%s exception encountered while testing %s" % (name, hostname))
-                    log.write("%s exception encountered while testing %s" % (name, hostname))
+                    log.write("%s exception encountered while testing %s\n" % (name, hostname))
+                    # pdb.set_trace()
                 # there was an error while testing the hostname
                 results["meta"]["errors"] += 1
 
         # dump the results
-        with open("results_%s.json" % chunk.replace(".json",""), 'w') as fp:
+        with open("../Out/results_%s.json" % chunk.replace(".json",""), 'w') as fp:
             json.dump(results, fp, indent=4)
 
     #     # dump the meta results
@@ -74,7 +82,7 @@ def work(chunk):
     # with open("expNum.json", 'r+') as f:
     #     temp = json.load(f)
     #     temp["number"] += 1
-    #     json.dump(temp, f, indent=4)
+    #     json.dump(temp, f, indent=4)c
 
 
 def dns_req(url):
@@ -100,9 +108,12 @@ def test():
 # this is the function that will spawn all of the worker threads
 def split():
 
+    loc = "Temp"
     processes = []
-    for chunk in os.listdir("../Temp"):
-        new_process = threading.Thread(target=work, args=(chunk,))
+    counter = 0
+    for chunk in os.listdir("../%s" % loc):
+        counter += 1
+        new_process = threading.Thread(target=work, args=(chunk, loc, counter,))
         processes.append(new_process)
         new_process.start()
 
@@ -110,10 +121,10 @@ def split():
     for proc in processes:
         proc.join()
 
-    with open("../Results/expNum.json", 'r+') as f:
-        temp = json.load(f)
-        temp["number"] += 1
-        json.dump(temp, f, indent=4)
+    # with open("../Results/expNum.json", 'r+') as f:
+    #     temp = json.load(f)
+    #     temp["number"] += 1
+    #     json.dump(temp, f, indent=4)
 
 if __name__ == "__main__":
     # main()
