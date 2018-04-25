@@ -17,12 +17,14 @@ def main():
 	responses = []
 	blocked, allowed = 0,0
 	total = 0
+	errors = 0
 	for file in os.listdir("../Out"):
 		data = json.load(open("../Out/"+file))
 		domains = data["domains"]
 		blocked+=data["meta"]["blocked"]
 		allowed+=data["meta"]["allowed"]
 		total+=data["meta"]["tried"]
+		errors+=data["meta"]["errors"]
 		for k,v in domains.items():
 			ipid = domains[k]["ipid"]
 			ipids.append(ipid)
@@ -46,14 +48,19 @@ def main():
 
 	categories = ["blocked","allowed"]
 	quants = [blocked,allowed]
-	print(categories)
-	print(quants)
+	print("blocked: ",blocked)
+	print("allowed: ",allowed)
+	print("total: ",total)
+	print("errors: ",errors)
 	p4 = figure(x_range=categories,title="Blocked vs Allowed")
 	p4.vbar(x=categories,top=quants,width=0.3)
 
+	p5 = figure(x_range=["April 2014","April 2018"],title="April 2014 v April 2018")
+	p5.vbar(x=["April 2014", "April 2018"],top=[35332,blocked],width=0.3)
+
 	#hmdata = {"ttl":ttls,"ipids":ipids}
 	#p3 = HeatMap(hmdata,x=bins("ipids"),y=bins("ttl"),stat='mean')
-	show(column(row(p1,p2),row(p3,p4)))
+	show(column(row(p1,p2),row(p3,p4),row(p5)))
 
 
 
