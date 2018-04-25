@@ -113,13 +113,19 @@ def split():
     counter = 0
     for chunk in os.listdir("../%s" % loc):
         counter += 1
+        if (counter % 100 == 0):
+            # wait for all threads to finish executing
+            print("Waiting for spawned threads to finish")
+            for proc in processes:
+                proc.join()
+            processes = []
+            print("Done")
+
         new_process = threading.Thread(target=work, args=(chunk, loc, counter,))
         processes.append(new_process)
         new_process.start()
 
-    # wait for all threads to finish executing
-    for proc in processes:
-        proc.join()
+    
 
     # with open("../Results/expNum.json", 'r+') as f:
     #     temp = json.load(f)

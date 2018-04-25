@@ -7,7 +7,7 @@ for chunk in os.listdir("../Temp"):
 
     count = 0
     temp = {}
-    num = 1000
+    num = 6000
     for domain in domains:
         count += 1
         # split off a new json every 10K domains
