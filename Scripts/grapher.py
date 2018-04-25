@@ -15,13 +15,14 @@ def main():
 	ipids = []
 	ttls = []
 	responses = []
-	blocked_count = {"blocked":0,"notblocked":0}
+	blocked, allowed = 0,0
+	total = 0
 	for file in os.listdir("../Out"):
 		data = json.load(open("../Out/"+file))
 		domains = data["domains"]
-		blocked_count["blocked"]+=data["meta"]["blocked"]
-		blocked_count["notblocked"]+=data["meta"]["allowed"]
-		
+		blocked+=data["meta"]["blocked"]
+		allowed+=data["meta"]["allowed"]
+		total+=data["meta"]["tried"]
 		for k,v in domains.items():
 			ipid = domains[k]["ipid"]
 			ipids.append(ipid)
@@ -29,7 +30,6 @@ def main():
 			ttls.append(ttl)
 			response = domains[k]["responses"]
 			responses.append(response)
-	print(blocked_count)
 	
 	output_file("graiphs.html")
 	p1 = Histogram(ipids,title="IPID Distribution")
@@ -44,8 +44,10 @@ def main():
 	p3.xaxis.axis_label = "Number of Responses"
 	p3.yaxis.axis_label = "Count"
 
-	categories = ["blocked","not blocked"]
-	quants = [blocked_count["blocked"],blocked_count["notblocked"]]
+	categories = ["blocked","allowed"]
+	quants = [blocked,allowed]
+	print(categories)
+	print(quants)
 	p4 = figure(x_range=categories,title="Blocked vs Allowed")
 	p4.vbar(x=categories,top=quants,width=0.3)
 
