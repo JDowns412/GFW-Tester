@@ -1,0 +1,980 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 805,
+        "blocked": 194,
+        "errors": 0
+    },
+    "domains": {
+        "attservicesinc.tt.omtrdc.net": {
+            "ttl": 82,
+            "ipid": 44794,
+            "responses": 2
+        },
+        "ads.roku.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "q79ph3kevj.eu-west-1.elasticbeanstalk.com": {
+            "ttl": 36,
+            "ipid": 22847,
+            "responses": 2
+        },
+        "s.m.huffpost.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "iquery.finance.yahoo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ocsp07.actalis.it": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "leadback.ace.advertising.com.adcom.akadns.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ns.leadback.ace.advertising.com.adcom.akadns.net": {
+            "ttl": 73,
+            "ipid": 42128,
+            "responses": 2
+        },
+        "ninja.onap.io": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "pushdata.sendpulse.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "staples.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "msavideo-a.akamaihd.net": {
+            "ttl": 50,
+            "ipid": 56340,
+            "responses": 2
+        },
+        "photos-5.dropbox.com": {
+            "ttl": 104,
+            "ipid": 27710,
+            "responses": 2
+        },
+        "i3.cwip.eset.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "telegram.org": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 4
+        },
+        "static.flickr.com": {
+            "ttl": 83,
+            "ipid": 43845,
+            "responses": 2
+        },
+        "photos-6.dropbox.com": {
+            "ttl": 66,
+            "ipid": 52696,
+            "responses": 2
+        },
+        "api.instabug.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "p55-buy.itunes-apple.com.akadns.net": {
+            "ttl": 50,
+            "ipid": 25731,
+            "responses": 2
+        },
+        "em.realtime.email": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "photos-1.dropbox.com": {
+            "ttl": 71,
+            "ipid": 24346,
+            "responses": 2
+        },
+        "photos-4.dropbox.com": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        },
+        "g.static.mega.co.nz": {
+            "ttl": 55,
+            "ipid": 48390,
+            "responses": 2
+        },
+        "image-store.slidesharecdn.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "com.akapinimg.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "pinimg.com.akapinimg.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "miaozhen.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "id.google.ca": {
+            "ttl": 62,
+            "ipid": 40664,
+            "responses": 2
+        },
+        "direct.ly": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ibb.co": {
+            "ttl": 52,
+            "ipid": 35678,
+            "responses": 2
+        },
+        "usemessages.com": {
+            "ttl": 73,
+            "ipid": 51814,
+            "responses": 2
+        },
+        "districtm-openrtb-alb-99880871.us-east-1.elb.amazonaws.com": {
+            "ttl": 34,
+            "ipid": 27605,
+            "responses": 2
+        },
+        "cdn.relap.io": {
+            "ttl": 34,
+            "ipid": 44924,
+            "responses": 2
+        },
+        "retailmenot.com": {
+            "ttl": 61,
+            "ipid": 3203,
+            "responses": 4
+        },
+        "gravitec.net": {
+            "ttl": 84,
+            "ipid": 25656,
+            "responses": 2
+        },
+        "s.loris.llnwd.net": {
+            "ttl": 34,
+            "ipid": 29708,
+            "responses": 2
+        },
+        "g.switchadhub.com": {
+            "ttl": 58,
+            "ipid": 65441,
+            "responses": 2
+        },
+        "res.wx.qq.com": {
+            "ttl": 27,
+            "ipid": 742,
+            "responses": 2
+        },
+        "scloud-p2uw2-ext.elb.samsungcloud.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "usr.navdmp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sdkconfig.vrvm.com": {
+            "ttl": 71,
+            "ipid": 15602,
+            "responses": 2
+        },
+        "yummly.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "n.areyouahuman.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "masdk.3g.qq.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mobileads.msn.com": {
+            "ttl": 93,
+            "ipid": 64179,
+            "responses": 2
+        },
+        "audio-fac.spotify.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mlb.demdex.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "murdoog.com": {
+            "ttl": 62,
+            "ipid": 11825,
+            "responses": 2
+        },
+        "js.usemessages.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "carnivalmobile.com": {
+            "ttl": 100,
+            "ipid": 11090,
+            "responses": 2
+        },
+        "merriam-webster.com": {
+            "ttl": 49,
+            "ipid": 55045,
+            "responses": 2
+        },
+        "user-images.githubusercontent.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "graph.microsoft.com.akadns.net": {
+            "ttl": 39,
+            "ipid": 42232,
+            "responses": 2
+        },
+        "tag.getdrip.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swapi.webexconnect.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "mps.cnbc.com": {
+            "ttl": 46,
+            "ipid": 18059,
+            "responses": 2
+        },
+        "xmppapi.zoom.us": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "glispa.com": {
+            "ttl": 58,
+            "ipid": 48603,
+            "responses": 2
+        },
+        "sc-ddml.appspot.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ars.oobesaas.adobe.com": {
+            "ttl": 38,
+            "ipid": 24212,
+            "responses": 2
+        },
+        "webmail-aoltoday.comet.aol.com": {
+            "ttl": 72,
+            "ipid": 60433,
+            "responses": 2
+        },
+        "winniex-u-b-ds.nuggad.net": {
+            "ttl": 82,
+            "ipid": 48456,
+            "responses": 2
+        },
+        "manifest.prod.boltdns.net": {
+            "ttl": 79,
+            "ipid": 43832,
+            "responses": 2
+        },
+        "coupons.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "broker.skype.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "curse.com": {
+            "ttl": 97,
+            "ipid": 40301,
+            "responses": 4
+        },
+        "search.app.goo.gl": {
+            "ttl": 90,
+            "ipid": 59999,
+            "responses": 2
+        },
+        "dyndns.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "crashplan.com": {
+            "ttl": 91,
+            "ipid": 42952,
+            "responses": 2
+        },
+        "stun.client.akadns.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rarbg.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cs934.wac.thetacdn.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "wu.wpc.apr-52dd2.edgecastdns.net": {
+            "ttl": 65,
+            "ipid": 11399,
+            "responses": 2
+        },
+        "ud.tubemogul.com": {
+            "ttl": 93,
+            "ipid": 57806,
+            "responses": 2
+        },
+        "java.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "people.skype.com": {
+            "ttl": 54,
+            "ipid": 56142,
+            "responses": 2
+        },
+        "cdn.evbstatic.com": {
+            "ttl": 98,
+            "ipid": 7056,
+            "responses": 2
+        },
+        "onlineregister.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "static.ctctcdn.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 12
+        },
+        "glb1.hp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "public.vilynx.com": {
+            "ttl": 78,
+            "ipid": 51520,
+            "responses": 2
+        },
+        "nav.bloomberg.com": {
+            "ttl": 54,
+            "ipid": 29885,
+            "responses": 2
+        },
+        "v-pinimg-com-edgekey-net.pinimg.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "e.global-ssl.fastly.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dataswitch-ads-75496044.us-east-1.elb.amazonaws.com": {
+            "ttl": 46,
+            "ipid": 43764,
+            "responses": 2
+        },
+        "events.redditmedia.com": {
+            "ttl": 49,
+            "ipid": 28132,
+            "responses": 2
+        },
+        "pg.cdn.viber.com": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 3
+        },
+        "bbinternal.net": {
+            "ttl": 97,
+            "ipid": 21238,
+            "responses": 2
+        },
+        "duolingo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "global.safebrowsing.service.amazonsilk.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tagdelivery.com": {
+            "ttl": 58,
+            "ipid": 63597,
+            "responses": 1
+        },
+        "smartsheet.com": {
+            "ttl": 77,
+            "ipid": 20181,
+            "responses": 1
+        },
+        "webview.myfitnesspal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "db5.wns.notify.windows.com.akadns.net": {
+            "ttl": 77,
+            "ipid": 11674,
+            "responses": 2
+        },
+        "p60-contacts.fe.apple-dns.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "metrika.yandex.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tbs.qq.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "occ-0-2219-2218.1.nflxso.net": {
+            "ttl": 65,
+            "ipid": 20458,
+            "responses": 2
+        },
+        "com.akadns.net.b-0016.b-msedge.net": {
+            "ttl": 47,
+            "ipid": 9808,
+            "responses": 2
+        },
+        "saber.srvcs.tumblr.com": {
+            "ttl": 101,
+            "ipid": 60326,
+            "responses": 2
+        },
+        "e-0001.dc-msedge.net": {
+            "ttl": 72,
+            "ipid": 37013,
+            "responses": 2
+        },
+        "internetwarriors.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "j.global-ssl.fastly.net": {
+            "ttl": 86,
+            "ipid": 49590,
+            "responses": 4
+        },
+        "wargaming.net": {
+            "ttl": 38,
+            "ipid": 51485,
+            "responses": 2
+        },
+        "google.com.ar": {
+            "ttl": 59,
+            "ipid": 16861,
+            "responses": 2
+        },
+        "malwaredomainlist.com": {
+            "ttl": 28,
+            "ipid": 8257,
+            "responses": 2
+        },
+        "assets.clever.com": {
+            "ttl": 59,
+            "ipid": 63663,
+            "responses": 2
+        },
+        "distroscale-d.openx.net": {
+            "ttl": 84,
+            "ipid": 46732,
+            "responses": 2
+        },
+        "sjc.mediaplex.bfp.dotomi.weighted.com.akadns.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "qbo.intuit.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "pubsub-edge.chat.twitch.tv": {
+            "ttl": 75,
+            "ipid": 64873,
+            "responses": 2
+        },
+        "yimg.jp": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "backup.bar-navig.com": {
+            "ttl": 49,
+            "ipid": 17462,
+            "responses": 2
+        },
+        "img03.en25.com": {
+            "ttl": 57,
+            "ipid": 29219,
+            "responses": 2
+        },
+        "api.typekit.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "36f11203.akstat.io": {
+            "ttl": 47,
+            "ipid": 15706,
+            "responses": 2
+        },
+        "optimahub.com": {
+            "ttl": 46,
+            "ipid": 64059,
+            "responses": 2
+        },
+        "mindspark.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "adperfect.com": {
+            "ttl": 91,
+            "ipid": 50726,
+            "responses": 4
+        },
+        "hearst.map.fastly.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "purch-match.dotomi.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "jcloudms.com": {
+            "ttl": 94,
+            "ipid": 1673,
+            "responses": 2
+        },
+        "a387aa0de2c3811e8bf231255298d383-987175746.us-east-1.elb.amazonaws.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "e3664.b.akamaiedge.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "intelligence-head.pinsightmedia.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "pxf.io": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com.102.112.2o7.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "c8.alamy.com": {
+            "ttl": 74,
+            "ipid": 34385,
+            "responses": 2
+        },
+        "dscc.akamai.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "casper.sp1.convertro.com": {
+            "ttl": 63,
+            "ipid": 35846,
+            "responses": 2
+        },
+        "adups.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "img.etsystatic.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "mepodownload.mediatek.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sp11p03sa.guzzoni-apple.com.akadns.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "prod.sift.co": {
+            "ttl": 102,
+            "ipid": 26155,
+            "responses": 2
+        },
+        "tri.privy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "livefilestore.com": {
+            "ttl": 168,
+            "ipid": 35788,
+            "responses": 1
+        },
+        "creditkarma.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "international.baidu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "images.performgroup.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "img.purch.com": {
+            "ttl": 68,
+            "ipid": 63984,
+            "responses": 2
+        },
+        "36f10834.akstat.io": {
+            "ttl": 77,
+            "ipid": 33736,
+            "responses": 2
+        },
+        "cackle.me": {
+            "ttl": 45,
+            "ipid": 54929,
+            "responses": 2
+        },
+        "rarbg.to": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "36f11e49.akstat.io": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "public-ubiservices.ubi.com": {
+            "ttl": 35,
+            "ipid": 23259,
+            "responses": 2
+        },
+        "t.symcd.com": {
+            "ttl": 93,
+            "ipid": 9875,
+            "responses": 3
+        },
+        "europa.eu": {
+            "ttl": 104,
+            "ipid": 31684,
+            "responses": 4
+        },
+        "theblaze.com": {
+            "ttl": 30,
+            "ipid": 60922,
+            "responses": 2
+        },
+        "media4.s-nbcnews.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "36f1082f.akstat.io": {
+            "ttl": 35,
+            "ipid": 9073,
+            "responses": 2
+        },
+        "lsmdm.com": {
+            "ttl": 97,
+            "ipid": 29986,
+            "responses": 2
+        },
+        "bc.pdx.sp-prod.net": {
+            "ttl": 90,
+            "ipid": 15010,
+            "responses": 2
+        },
+        "static.ak.fbcdn.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "wpc.betacdn.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "xtra2.gpsonextra.net": {
+            "ttl": 79,
+            "ipid": 60140,
+            "responses": 2
+        },
+        "shredder.osi.office.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "36f11e95.akstat.io": {
+            "ttl": 55,
+            "ipid": 4373,
+            "responses": 2
+        },
+        "am3pap001.storage.live.com": {
+            "ttl": 62,
+            "ipid": 11385,
+            "responses": 2
+        },
+        "dualstack-pinterest-map-fastly-net.pinimg.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "eacdn.com": {
+            "ttl": 87,
+            "ipid": 53368,
+            "responses": 2
+        },
+        "2-01-4ca6-0004.cdx.cedexis.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "e2201.g.akamaiedge.net": {
+            "ttl": 65,
+            "ipid": 18591,
+            "responses": 2
+        },
+        "perr.hola.org": {
+            "ttl": 33,
+            "ipid": 64267,
+            "responses": 2
+        },
+        "d2.shared.global.fastly.net": {
+            "ttl": 48,
+            "ipid": 13556,
+            "responses": 2
+        },
+        "capi.cpgr.io": {
+            "ttl": 88,
+            "ipid": 15536,
+            "responses": 2
+        },
+        "am0.yahoodns.net": {
+            "ttl": 106,
+            "ipid": 22476,
+            "responses": 2
+        },
+        "global.market.xiaomi.com": {
+            "ttl": 72,
+            "ipid": 20629,
+            "responses": 2
+        },
+        "conf.international.baidu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "upload1.systemmonitor.us": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "classdojo.com": {
+            "ttl": 46,
+            "ipid": 50735,
+            "responses": 2
+        },
+        "us2.roaming1.live.com.akadns.net": {
+            "ttl": 97,
+            "ipid": 50071,
+            "responses": 4
+        },
+        "uzto.netdna-cdn.com": {
+            "ttl": 46,
+            "ipid": 21474,
+            "responses": 2
+        },
+        "cdn.amplitude.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "audioboom.com": {
+            "ttl": 34,
+            "ipid": 43683,
+            "responses": 2
+        },
+        "xplosion.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "youtube.googleapis.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "5gn07.ads.tremorhub.com": {
+            "ttl": 53,
+            "ipid": 21790,
+            "responses": 2
+        },
+        "entitlement-public-service-prod08.ol.epicgames.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "optimize-stats.voxmedia.com": {
+            "ttl": 38,
+            "ipid": 55126,
+            "responses": 2
+        },
+        "forecast.weather.gov": {
+            "ttl": 42,
+            "ipid": 8042,
+            "responses": 1
+        },
+        "d41.co": {
+            "ttl": 102,
+            "ipid": 4397,
+            "responses": 2
+        },
+        "ad1.adfarm1.adition.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "moto-cds.appspot.com": {
+            "ttl": 101,
+            "ipid": 37430,
+            "responses": 2
+        },
+        "http-test1.hola.org": {
+            "ttl": 60,
+            "ipid": 30494,
+            "responses": 2
+        },
+        "textnow.me": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        },
+        "peopledotcom.files.wordpress.com": {
+            "ttl": 49,
+            "ipid": 34565,
+            "responses": 2
+        },
+        "subscription.timeinc.com": {
+            "ttl": 77,
+            "ipid": 12133,
+            "responses": 2
+        },
+        "scrootca1.ocsp.secomtrust.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dfp-gateway.onscroll.com": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 1
+        },
+        "play.king.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "minecraftprod.rtep.msgamestudios.com": {
+            "ttl": 97,
+            "ipid": 26164,
+            "responses": 2
+        },
+        "mlbstatic.com": {
+            "ttl": 100,
+            "ipid": 27156,
+            "responses": 2
+        },
+        "musthird.com": {
+            "ttl": 104,
+            "ipid": 63134,
+            "responses": 2
+        }
+    }
+}
