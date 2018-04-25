@@ -1,9 +1,690 @@
 {
     "meta": {
         "tried": 999,
-        "allowed": 999,
-        "blocked": 0,
+        "allowed": 863,
+        "blocked": 136,
         "errors": 0
     },
-    "domains": {}
+    "domains": {
+        "multisom.com.br": {
+            "ttl": 88,
+            "ipid": 12341,
+            "responses": 2
+        },
+        "uniara.com.br": {
+            "ttl": 54,
+            "ipid": 22116,
+            "responses": 2
+        },
+        "guiabh.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sexodeamadoras.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "valecard.com.br": {
+            "ttl": 40,
+            "ipid": 17538,
+            "responses": 2
+        },
+        "vidprank.com": {
+            "ttl": 89,
+            "ipid": 63891,
+            "responses": 2
+        },
+        "ultragaz.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lojapescaalternativa.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jornalivre.org": {
+            "ttl": 98,
+            "ipid": 53884,
+            "responses": 2
+        },
+        "final.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "s3s-viaj.com.br": {
+            "ttl": 98,
+            "ipid": 56213,
+            "responses": 2
+        },
+        "copart.com.br": {
+            "ttl": 105,
+            "ipid": 7805,
+            "responses": 2
+        },
+        "pisosalarial.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "recrutaja.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "receitas-sem-fronteiras.com": {
+            "ttl": 104,
+            "ipid": 57889,
+            "responses": 2
+        },
+        "grupointegrado.br": {
+            "ttl": 81,
+            "ipid": 43798,
+            "responses": 2
+        },
+        "novomp3.net.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "escolasempartido.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "esbocosermao.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "zoiofilmesadulto.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "svscomics.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ucsal.br": {
+            "ttl": 98,
+            "ipid": 64725,
+            "responses": 2
+        },
+        "guiadoscuriosos.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "caderno1.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "librosintinta.in": {
+            "ttl": 44,
+            "ipid": 43464,
+            "responses": 2
+        },
+        "jmnoticia.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ofluminense.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "topsocialtab.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bibliaonline.net": {
+            "ttl": 30,
+            "ipid": 53895,
+            "responses": 2
+        },
+        "sakuraanimes.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "receitasnaturais.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "powerminas.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "lojac.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "supermercadosguanabara.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tradezone.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "enviarsmsacuba.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "likelobrasilv1.blogspot.com.br": {
+            "ttl": 49,
+            "ipid": 40050,
+            "responses": 2
+        },
+        "opencartbrasil.com.br": {
+            "ttl": 27,
+            "ipid": 36261,
+            "responses": 2
+        },
+        "assistirseriadosonline.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mp3goo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sertanejodiario.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "smartzone.com.br": {
+            "ttl": 38,
+            "ipid": 32260,
+            "responses": 2
+        },
+        "videosdesexo.name": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "pornografia.blog.br": {
+            "ttl": 50,
+            "ipid": 39465,
+            "responses": 2
+        },
+        "aprovadonovestibular.com": {
+            "ttl": 79,
+            "ipid": 52749,
+            "responses": 2
+        },
+        "direcional.com.br": {
+            "ttl": 46,
+            "ipid": 42903,
+            "responses": 1
+        },
+        "sonharcom.co": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "frasesparaniversario.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "jornalopcao.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "profmat-sbm.org.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "educaedu-brasil.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "marketingdigitalmania.blogspot.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "psdb.org.br": {
+            "ttl": 105,
+            "ipid": 31399,
+            "responses": 2
+        },
+        "ceabs.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "atacadao.com.br": {
+            "ttl": 46,
+            "ipid": 60922,
+            "responses": 4
+        },
+        "ad-maven.com": {
+            "ttl": 56,
+            "ipid": 34090,
+            "responses": 2
+        },
+        "jornalfolhadosul.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "oficinadevideos.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "nobeta.vc": {
+            "ttl": 72,
+            "ipid": 21448,
+            "responses": 2
+        },
+        "sescmg.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "simuladododetran.net.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "significadodepalavra.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "cantao.com.br": {
+            "ttl": 65,
+            "ipid": 499,
+            "responses": 2
+        },
+        "assistirfilmesonline.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "reaconaria.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "consertasmart.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "msccruzeiros.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "whatstube.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "baytqatar.qa": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "urcamp.edu.br": {
+            "ttl": 70,
+            "ipid": 34194,
+            "responses": 2
+        },
+        "mensagemdeaniversarios.com.br": {
+            "ttl": 45,
+            "ipid": 23883,
+            "responses": 2
+        },
+        "novinhafudendo.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "fsadu.org.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "rhportal.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "aquinoticias.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "glambox.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "iftm.edu.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "antonimos.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "filmepornoxxx.club": {
+            "ttl": 101,
+            "ipid": 46804,
+            "responses": 2
+        },
+        "dragsterbrasil.com": {
+            "ttl": 40,
+            "ipid": 51176,
+            "responses": 1
+        },
+        "vivomaissaudavel.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ahduvido.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "baixarcdsetorrent.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bbel.uol.com.br": {
+            "ttl": 50,
+            "ipid": 49581,
+            "responses": 2
+        },
+        "naval.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sitpass.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "br-linux.org": {
+            "ttl": 85,
+            "ipid": 17382,
+            "responses": 2
+        },
+        "brazucaliker.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dci.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "adrenalinamotoracing.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "blog-facil.com": {
+            "ttl": 92,
+            "ipid": 21456,
+            "responses": 2
+        },
+        "portalprocessual.com": {
+            "ttl": 56,
+            "ipid": 65307,
+            "responses": 2
+        },
+        "fauel.org.br": {
+            "ttl": 91,
+            "ipid": 46072,
+            "responses": 2
+        },
+        "mysearchengine.info": {
+            "ttl": 72,
+            "ipid": 48370,
+            "responses": 2
+        },
+        "vip-shared.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "deca.com.br": {
+            "ttl": 57,
+            "ipid": 25130,
+            "responses": 2
+        },
+        "suacorrida.com.br": {
+            "ttl": 65,
+            "ipid": 44784,
+            "responses": 2
+        },
+        "choux-nl.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "suefun.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "lingerie.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "vemprafam.com.br": {
+            "ttl": 54,
+            "ipid": 50865,
+            "responses": 2
+        },
+        "corello.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "deldebbio.com.br": {
+            "ttl": 85,
+            "ipid": 56001,
+            "responses": 2
+        },
+        "amadoraspornos.com": {
+            "ttl": 71,
+            "ipid": 55231,
+            "responses": 2
+        },
+        "melissa.com.br": {
+            "ttl": 63,
+            "ipid": 9105,
+            "responses": 2
+        },
+        "upessencia.com.br": {
+            "ttl": 52,
+            "ipid": 61575,
+            "responses": 2
+        },
+        "mediaessence.net": {
+            "ttl": 67,
+            "ipid": 61931,
+            "responses": 2
+        },
+        "iluria.com.br": {
+            "ttl": 106,
+            "ipid": 24633,
+            "responses": 2
+        },
+        "croche.com.br": {
+            "ttl": 28,
+            "ipid": 49913,
+            "responses": 2
+        },
+        "modeloscurriculos.com.br": {
+            "ttl": 69,
+            "ipid": 26586,
+            "responses": 2
+        },
+        "estagiarios.com": {
+            "ttl": 87,
+            "ipid": 51501,
+            "responses": 2
+        },
+        "newbalance.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "flixpress.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "opet.com.br": {
+            "ttl": 30,
+            "ipid": 14167,
+            "responses": 2
+        },
+        "prefeitura.rio": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "seminariodefilosofia.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "techdowns.com.br": {
+            "ttl": 68,
+            "ipid": 61525,
+            "responses": 2
+        },
+        "naotafacil.com.br": {
+            "ttl": 106,
+            "ipid": 6747,
+            "responses": 4
+        },
+        "unicrednne.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "vazlon.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "masterfilmesonlinegratis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "funrio.org.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "chatadegalocha.com": {
+            "ttl": 46,
+            "ipid": 46156,
+            "responses": 2
+        },
+        "usf.edu.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tre-pe.jus.br": {
+            "ttl": 39,
+            "ipid": 8023,
+            "responses": 2
+        },
+        "teenow.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "abrirsuasurpresa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sobreacarne.com.br": {
+            "ttl": 94,
+            "ipid": 58955,
+            "responses": 2
+        },
+        "rdisoftware.com": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 2
+        },
+        "plantei.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "soubh.com.br": {
+            "ttl": 65,
+            "ipid": 31442,
+            "responses": 2
+        },
+        "doctum.edu.br": {
+            "ttl": 79,
+            "ipid": 26686,
+            "responses": 2
+        },
+        "baixarfilmesdubladosviatorrent.biz": {
+            "ttl": 82,
+            "ipid": 53029,
+            "responses": 2
+        },
+        "brcondominio.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lorenzetti.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "guicheweb.com.br": {
+            "ttl": 83,
+            "ipid": 22414,
+            "responses": 2
+        }
+    }
 }
