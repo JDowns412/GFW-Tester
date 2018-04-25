@@ -1,9 +1,30 @@
 {
     "meta": {
         "tried": 47,
-        "allowed": 47,
-        "blocked": 0,
+        "allowed": 43,
+        "blocked": 4,
         "errors": 0
     },
-    "domains": {}
+    "domains": {
+        "xn----8sbaracqvvbzhyed.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "silverstream.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "wayout-inv.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "relz.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        }
+    }
 }

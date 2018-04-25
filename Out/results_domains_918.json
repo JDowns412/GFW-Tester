@@ -1,9 +1,550 @@
 {
     "meta": {
         "tried": 999,
-        "allowed": 999,
-        "blocked": 0,
+        "allowed": 891,
+        "blocked": 108,
         "errors": 0
     },
-    "domains": {}
+    "domains": {
+        "itellyou.cn": {
+            "ttl": 60,
+            "ipid": 15650,
+            "responses": 2
+        },
+        "nengyuan.com": {
+            "ttl": 103,
+            "ipid": 32267,
+            "responses": 2
+        },
+        "nirong.net": {
+            "ttl": 74,
+            "ipid": 48909,
+            "responses": 2
+        },
+        "1ppt.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "trends.com.cn": {
+            "ttl": 89,
+            "ipid": 63891,
+            "responses": 2
+        },
+        "judou123.cn": {
+            "ttl": 45,
+            "ipid": 48551,
+            "responses": 2
+        },
+        "28e53.com": {
+            "ttl": 99,
+            "ipid": 63785,
+            "responses": 4
+        },
+        "letpub.com.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wdwcn.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wangxiao.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "njuftp.org": {
+            "ttl": 101,
+            "ipid": 35643,
+            "responses": 2
+        },
+        "yzqcw.com": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "go-gddq.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "1024hgc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "qupan.com": {
+            "ttl": 86,
+            "ipid": 46328,
+            "responses": 2
+        },
+        "aititi.com": {
+            "ttl": 76,
+            "ipid": 60804,
+            "responses": 2
+        },
+        "cs090.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "dajiashuo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "360boclub.com": {
+            "ttl": 86,
+            "ipid": 37058,
+            "responses": 2
+        },
+        "itavcn.com": {
+            "ttl": 72,
+            "ipid": 3138,
+            "responses": 2
+        },
+        "medcn.cn": {
+            "ttl": 86,
+            "ipid": 41870,
+            "responses": 2
+        },
+        "zgw.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "zhuwang.cc": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "frontget.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cnjzjj.com": {
+            "ttl": 79,
+            "ipid": 6035,
+            "responses": 2
+        },
+        "29938aaza.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seelishi.com": {
+            "ttl": 89,
+            "ipid": 37542,
+            "responses": 2
+        },
+        "shdjt.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "224la.com": {
+            "ttl": 63,
+            "ipid": 63421,
+            "responses": 2
+        },
+        "win8china.com": {
+            "ttl": 55,
+            "ipid": 20470,
+            "responses": 2
+        },
+        "izdinix.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "jyslw.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "haozip.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mecl.me": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "zzjyzy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "yinlaohan.com": {
+            "ttl": 61,
+            "ipid": 51065,
+            "responses": 2
+        },
+        "quledu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "w7000.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "jcrb.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "668yo.com": {
+            "ttl": 97,
+            "ipid": 21939,
+            "responses": 2
+        },
+        "emushroom.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "87.cn": {
+            "ttl": 63,
+            "ipid": 48369,
+            "responses": 2
+        },
+        "guifun.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cntrades.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "enjoyschool.cn": {
+            "ttl": 54,
+            "ipid": 4547,
+            "responses": 2
+        },
+        "777b.com": {
+            "ttl": 75,
+            "ipid": 52940,
+            "responses": 2
+        },
+        "jingoal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "downxiazai.info": {
+            "ttl": 64,
+            "ipid": 8885,
+            "responses": 2
+        },
+        "61ic.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ynten.com": {
+            "ttl": 58,
+            "ipid": 23574,
+            "responses": 2
+        },
+        "77w7.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cehome.com": {
+            "ttl": 28,
+            "ipid": 51931,
+            "responses": 2
+        },
+        "zg114jy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "azg168.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "txtnovel.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "4409.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "yocity.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "quwan.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fzyb.gov.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "civilcn.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ja44.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "csix.cn": {
+            "ttl": 79,
+            "ipid": 23897,
+            "responses": 2
+        },
+        "hexieshe.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "jmbbs.com": {
+            "ttl": 78,
+            "ipid": 55594,
+            "responses": 2
+        },
+        "china360.cn": {
+            "ttl": 93,
+            "ipid": 52969,
+            "responses": 2
+        },
+        "milimami.com": {
+            "ttl": 102,
+            "ipid": 41336,
+            "responses": 2
+        },
+        "foxconnmall.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "3t.cn": {
+            "ttl": 98,
+            "ipid": 25261,
+            "responses": 2
+        },
+        "374399.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "37mnm.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hbxcfg.com": {
+            "ttl": 53,
+            "ipid": 62033,
+            "responses": 2
+        },
+        "60abc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "zb580.tv": {
+            "ttl": 69,
+            "ipid": 31733,
+            "responses": 2
+        },
+        "5093.com": {
+            "ttl": 74,
+            "ipid": 53815,
+            "responses": 2
+        },
+        "akjunshi.com": {
+            "ttl": 85,
+            "ipid": 49725,
+            "responses": 2
+        },
+        "zycg.gov.cn": {
+            "ttl": 46,
+            "ipid": 64187,
+            "responses": 4
+        },
+        "uszcn.com/user/account": {
+            "ttl": 36,
+            "ipid": 13228,
+            "responses": 2
+        },
+        "yylm.org": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "uszcn.com/user/addresses": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "wjlib.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "enetedu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "anywlan.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "gdgiant.com.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "060s.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "txzqw.com": {
+            "ttl": 64,
+            "ipid": 61558,
+            "responses": 2
+        },
+        "wangxing.com": {
+            "ttl": 98,
+            "ipid": 23509,
+            "responses": 2
+        },
+        "shipgce.com": {
+            "ttl": 74,
+            "ipid": 59903,
+            "responses": 2
+        },
+        "jwgou.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fyyxyz.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "bvgcyh.com": {
+            "ttl": 27,
+            "ipid": 54207,
+            "responses": 2
+        },
+        "luce.com.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ok188888888.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "zhankoo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "90win.com": {
+            "ttl": 55,
+            "ipid": 57519,
+            "responses": 2
+        },
+        "5iyq.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dnsc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "p234.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cogoask.com": {
+            "ttl": 32,
+            "ipid": 32473,
+            "responses": 2
+        },
+        "mnks.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "us-ex.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dj520.com": {
+            "ttl": 92,
+            "ipid": 2451,
+            "responses": 2
+        },
+        "yuanxinyu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "faxingzhan.com": {
+            "ttl": 90,
+            "ipid": 18880,
+            "responses": 2
+        },
+        "jxyoucai.com": {
+            "ttl": 74,
+            "ipid": 36761,
+            "responses": 2
+        },
+        "ilongterm.com": {
+            "ttl": 65,
+            "ipid": 30636,
+            "responses": 2
+        },
+        "hugcar.com": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "511shou.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "chinaedu.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
 }

@@ -1,9 +1,680 @@
 {
     "meta": {
         "tried": 999,
-        "allowed": 999,
-        "blocked": 0,
+        "allowed": 865,
+        "blocked": 134,
         "errors": 0
     },
-    "domains": {}
+    "domains": {
+        "meubarato.com": {
+            "ttl": 60,
+            "ipid": 15650,
+            "responses": 2
+        },
+        "apaixonadosporseries.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "willianjusten.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "historianet.com.br": {
+            "ttl": 34,
+            "ipid": 39122,
+            "responses": 2
+        },
+        "ccxp.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "even.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "maisfutebolaovivo.net": {
+            "ttl": 95,
+            "ipid": 30111,
+            "responses": 2
+        },
+        "definicaototal.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "gartic.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pornobrazilian.com": {
+            "ttl": 32,
+            "ipid": 8753,
+            "responses": 2
+        },
+        "redamateurtube.com": {
+            "ttl": 93,
+            "ipid": 14229,
+            "responses": 1
+        },
+        "webcloudnews.com": {
+            "ttl": 56,
+            "ipid": 214,
+            "responses": 2
+        },
+        "pornogratisxxx.tv": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ondda.com": {
+            "ttl": 95,
+            "ipid": 11146,
+            "responses": 2
+        },
+        "levelup.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "arnhemondernemt.com": {
+            "ttl": 32,
+            "ipid": 35779,
+            "responses": 2
+        },
+        "essemundoenosso.com.br": {
+            "ttl": 28,
+            "ipid": 45724,
+            "responses": 2
+        },
+        "genjuridico.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "chaecia.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "legalleconcursos.com.br": {
+            "ttl": 30,
+            "ipid": 55535,
+            "responses": 2
+        },
+        "dontpad.com": {
+            "ttl": 69,
+            "ipid": 22293,
+            "responses": 2
+        },
+        "lancesdevantagens.com.br": {
+            "ttl": 29,
+            "ipid": 42526,
+            "responses": 2
+        },
+        "consultacpfbrasil.com.br": {
+            "ttl": 85,
+            "ipid": 34144,
+            "responses": 2
+        },
+        "playboyesexy.tumblr.com": {
+            "ttl": 38,
+            "ipid": 20888,
+            "responses": 2
+        },
+        "jobbydoo.com.br": {
+            "ttl": 76,
+            "ipid": 48437,
+            "responses": 2
+        },
+        "blackboxrepack.com": {
+            "ttl": 53,
+            "ipid": 65515,
+            "responses": 2
+        },
+        "rdc-ferias.com.br": {
+            "ttl": 87,
+            "ipid": 19558,
+            "responses": 2
+        },
+        "highposts116.com.br": {
+            "ttl": 96,
+            "ipid": 43367,
+            "responses": 4
+        },
+        "bolaovip.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "azeitonapreta.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "remediodaterra.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "notetec.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "pokemon-revolution-online.net": {
+            "ttl": 79,
+            "ipid": 47355,
+            "responses": 2
+        },
+        "pornomalandro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sectorrent.com": {
+            "ttl": 40,
+            "ipid": 40879,
+            "responses": 2
+        },
+        "gold-file.space": {
+            "ttl": 76,
+            "ipid": 62325,
+            "responses": 2
+        },
+        "doghero.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bedream.me": {
+            "ttl": 72,
+            "ipid": 40221,
+            "responses": 2
+        },
+        "filmes-onlinegratis.com": {
+            "ttl": 106,
+            "ipid": 46501,
+            "responses": 2
+        },
+        "lojabuscanimes.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "looke.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "downloadsmusicas.com": {
+            "ttl": 71,
+            "ipid": 22649,
+            "responses": 2
+        },
+        "infnet.edu.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "webmaster.pt": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "imgview.info": {
+            "ttl": 103,
+            "ipid": 37151,
+            "responses": 2
+        },
+        "hdviu.blogspot.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "supervasco.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "filmesdoyoutube.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "blogodorium.com.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hipernoticias.com.br": {
+            "ttl": 82,
+            "ipid": 51413,
+            "responses": 2
+        },
+        "oswaldocruz.br": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hernandesdiaslopes.com.br": {
+            "ttl": 79,
+            "ipid": 52749,
+            "responses": 2
+        },
+        "dxtrack22.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "angusreidforum.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "firstrowca.eu": {
+            "ttl": 32,
+            "ipid": 51849,
+            "responses": 2
+        },
+        "careerbuilder.ca": {
+            "ttl": 38,
+            "ipid": 11138,
+            "responses": 2
+        },
+        "isarta.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "disneyjunior.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "chinasmile.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "weblocal.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "target.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "guess.ca": {
+            "ttl": 97,
+            "ipid": 25052,
+            "responses": 2
+        },
+        "gianttiger.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "canadianonlinegamers.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "frenchtorrentdb.com": {
+            "ttl": 92,
+            "ipid": 24937,
+            "responses": 2
+        },
+        "annonceintime.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "pembinavalleyonline.com": {
+            "ttl": 71,
+            "ipid": 61122,
+            "responses": 2
+        },
+        "chatrwireless.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "publimaison.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "tomorrowsgaspricetoday.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "savonaequip.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "townshoes.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "e2mv.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "gov.nf.ca": {
+            "ttl": 44,
+            "ipid": 11672,
+            "responses": 2
+        },
+        "full-stream.me": {
+            "ttl": 68,
+            "ipid": 51579,
+            "responses": 2
+        },
+        "my-link.pro": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "grandstitres.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "freedomthirtyfiveblog.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ecosinformation.com": {
+            "ttl": 42,
+            "ipid": 46577,
+            "responses": 2
+        },
+        "lanouvelle.net": {
+            "ttl": 84,
+            "ipid": 9406,
+            "responses": 2
+        },
+        "superpoints.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "sinoquebec.com": {
+            "ttl": 28,
+            "ipid": 56633,
+            "responses": 2
+        },
+        "kingeshop.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-23.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rogersonenumber.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "speechbobble.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "compareschoolrankings.org": {
+            "ttl": 74,
+            "ipid": 53815,
+            "responses": 2
+        },
+        "radioplanets.com": {
+            "ttl": 43,
+            "ipid": 37873,
+            "responses": 2
+        },
+        "flattenstomach.com": {
+            "ttl": 92,
+            "ipid": 37942,
+            "responses": 2
+        },
+        "sonara.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shoptoit.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "contestcanada.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "theredpin.com": {
+            "ttl": 82,
+            "ipid": 19090,
+            "responses": 2
+        },
+        "brownsshoes.com": {
+            "ttl": 28,
+            "ipid": 49913,
+            "responses": 2
+        },
+        "nscc.ca": {
+            "ttl": 93,
+            "ipid": 11651,
+            "responses": 2
+        },
+        "todayslifestyle.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "caseypalmer.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rienquedugratuit.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cobourginternet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "canadianfitness.net": {
+            "ttl": 54,
+            "ipid": 2140,
+            "responses": 2
+        },
+        "directcanada.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "projectfreetv.cc": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dealuse.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hrsdc.gc.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "safesystemupgrade.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "monsterauto.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "jcixtrk.com": {
+            "ttl": 40,
+            "ipid": 51277,
+            "responses": 2
+        },
+        "babesmoney.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ymcagta.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "minutebuzz.com": {
+            "ttl": 66,
+            "ipid": 17191,
+            "responses": 2
+        },
+        "hostpapa.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cooppromotions.com": {
+            "ttl": 85,
+            "ipid": 65130,
+            "responses": 4
+        },
+        "cnsx.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "desjardins.ca": {
+            "ttl": 65,
+            "ipid": 7322,
+            "responses": 2
+        },
+        "sexy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sail.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "soccerreviewsforyou.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "niagarafallsreview.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "naughtygirllingerie.ca": {
+            "ttl": 99,
+            "ipid": 46390,
+            "responses": 2
+        },
+        "tdinsurance.com": {
+            "ttl": 105,
+            "ipid": 18207,
+            "responses": 2
+        },
+        "edmontonhomesonsale.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "marlies.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "weekendcollective.com": {
+            "ttl": 43,
+            "ipid": 15175,
+            "responses": 2
+        },
+        "myehealth.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gallerynova.se": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "alexaboostup.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "keurig.ca": {
+            "ttl": 65,
+            "ipid": 31442,
+            "responses": 2
+        },
+        "uwcssa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "softonic.fr": {
+            "ttl": 80,
+            "ipid": 57563,
+            "responses": 2
+        },
+        "whitecapsfc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "hacktheentrepreneur.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "leadnow.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mysurvey.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tsquirrel.com": {
+            "ttl": 33,
+            "ipid": 20610,
+            "responses": 2
+        }
+    }
 }

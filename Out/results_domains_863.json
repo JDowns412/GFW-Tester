@@ -1,9 +1,755 @@
 {
     "meta": {
         "tried": 999,
-        "allowed": 999,
-        "blocked": 0,
+        "allowed": 850,
+        "blocked": 149,
         "errors": 0
     },
-    "domains": {}
+    "domains": {
+        "relationclientmag.fr": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "rema.no": {
+            "ttl": 83,
+            "ipid": 44589,
+            "responses": 2
+        },
+        "rep.avon.uk.com": {
+            "ttl": 51,
+            "ipid": 6051,
+            "responses": 4
+        },
+        "req12pkgb.com": {
+            "ttl": 103,
+            "ipid": 32267,
+            "responses": 2
+        },
+        "res0.graysonline.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "resources.nhommua.com": {
+            "ttl": 30,
+            "ipid": 62205,
+            "responses": 2
+        },
+        "ri3.voicefive.com": {
+            "ttl": 30,
+            "ipid": 40218,
+            "responses": 2
+        },
+        "riskukuruzabio.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "roem.ru": {
+            "ttl": 43,
+            "ipid": 28424,
+            "responses": 2
+        },
+        "romansavage.com": {
+            "ttl": 55,
+            "ipid": 24383,
+            "responses": 2
+        },
+        "rootofgood.com": {
+            "ttl": 41,
+            "ipid": 8133,
+            "responses": 2
+        },
+        "rpc.ift.org.mx": {
+            "ttl": 67,
+            "ipid": 52362,
+            "responses": 2
+        },
+        "ru.downloadatoz.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ru.pngtree.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rusnauka.com": {
+            "ttl": 62,
+            "ipid": 64081,
+            "responses": 2
+        },
+        "rxsight.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s-02d055-i.sgizmo.com": {
+            "ttl": 99,
+            "ipid": 8268,
+            "responses": 2
+        },
+        "s-81.optvdo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s2couch.hubapp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "s6.img26.com": {
+            "ttl": 67,
+            "ipid": 49257,
+            "responses": 2
+        },
+        "s920.thetrafficstat.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "saberia.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "saitek.com": {
+            "ttl": 93,
+            "ipid": 48918,
+            "responses": 2
+        },
+        "saksfifthavenue.loopgift.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "samweber.biz": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sankey-diagrams.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sbsd.virginia.gov": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "scelta-migliore.it": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "schemas.android.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scontent.fjrs7-1.fna.fbcdn.net": {
+            "ttl": 38,
+            "ipid": 19527,
+            "responses": 2
+        },
+        "search.cafe": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "search.smt.docomo.ne.jp": {
+            "ttl": 32,
+            "ipid": 14732,
+            "responses": 2
+        },
+        "seattlestravels.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "secure.payoff.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "secure2.landal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "secure6.arcot.com.guglielmo.biz": {
+            "ttl": 59,
+            "ipid": 2269,
+            "responses": 2
+        },
+        "securimate.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "securitycareers-aus.icims.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "seller.pcstore.com.tw": {
+            "ttl": 102,
+            "ipid": 33707,
+            "responses": 2
+        },
+        "servers.netregistry.net": {
+            "ttl": 92,
+            "ipid": 974,
+            "responses": 2
+        },
+        "session-20313.ww.np.matching.playstation.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "severalclean.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sf2018.gifshow.com": {
+            "ttl": 30,
+            "ipid": 28026,
+            "responses": 2
+        },
+        "sflitewebsiteapi-tm.trafficmanager.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "share.881903.com": {
+            "ttl": 68,
+            "ipid": 53805,
+            "responses": 2
+        },
+        "shirazu.ac.ir": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopruche.com": {
+            "ttl": 46,
+            "ipid": 42903,
+            "responses": 1
+        },
+        "si3.gslb.bcentral.cl": {
+            "ttl": 66,
+            "ipid": 59137,
+            "responses": 2
+        },
+        "sierraperez.com": {
+            "ttl": 74,
+            "ipid": 44570,
+            "responses": 2
+        },
+        "signon-bos-nba.yinzcam.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "siiifibiiegiiciib.info": {
+            "ttl": 100,
+            "ipid": 13605,
+            "responses": 2
+        },
+        "simplemanner.net": {
+            "ttl": 60,
+            "ipid": 63125,
+            "responses": 2
+        },
+        "singsnap.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "sio.si": {
+            "ttl": 106,
+            "ipid": 3119,
+            "responses": 2
+        },
+        "skycdp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "skyranch.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "slams015.exitgames.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sleeprefresh.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "slot-e637.masterpass.com.edgekey.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "small4.itiexue.net": {
+            "ttl": 47,
+            "ipid": 21352,
+            "responses": 7
+        },
+        "smsdrcgw02.redecard.com.br": {
+            "ttl": 65,
+            "ipid": 25255,
+            "responses": 2
+        },
+        "smtp-gateway1.carleton.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "smtp.rimpingvillage.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "smtp.skagitanglers.com": {
+            "ttl": 31,
+            "ipid": 6564,
+            "responses": 2
+        },
+        "smtp2.visammg.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sn-0opoxu-hxmz.googlevideo.com": {
+            "ttl": 54,
+            "ipid": 45466,
+            "responses": 2
+        },
+        "sn-5hnekn76.c.2mdn.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sn-avop-cuge.gvt1.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sn-bg0e7n7k.gvt1.com": {
+            "ttl": 66,
+            "ipid": 30986,
+            "responses": 2
+        },
+        "sn-hp57knll.c.2mdn.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sn-jv90p-nw0z.googlevideo.com": {
+            "ttl": 71,
+            "ipid": 24887,
+            "responses": 2
+        },
+        "sn-nu5gi0c-npoe7.googlevideo.com": {
+            "ttl": 33,
+            "ipid": 52673,
+            "responses": 2
+        },
+        "sn-ovgq0oxu-j2ie.googlevideo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "social.yandex.fr": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "socialdesk-campagne.nl": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "socialshift.chatdesk.com": {
+            "ttl": 84,
+            "ipid": 5192,
+            "responses": 2
+        },
+        "soft.moxiu.net": {
+            "ttl": 92,
+            "ipid": 24937,
+            "responses": 2
+        },
+        "soiree-eventdesign.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "solarmovie-1.disqus.com": {
+            "ttl": 82,
+            "ipid": 8919,
+            "responses": 2
+        },
+        "sonar-fmex.xx.fbcdn.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "songsmp3.io": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "sonic302-21.consmr.mail.ne1.yahoo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "sophos.ezmicro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "spam119.daum.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "spdyn.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "specess-videos.azureedge.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "specom.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "src.tscimg.ca": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "srv12.vidzi.tv": {
+            "ttl": 74,
+            "ipid": 63238,
+            "responses": 2
+        },
+        "srvnl.nl": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ssologin.worldpay.us": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "st-v3-sos-srs-win-3220.api.splashtop.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "starrcompanies.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "starrspangledplanner.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "static.dateinasia.com": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 2
+        },
+        "static.movistar.com.ve": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "static.tou.tv": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "static0-tiendeo-mx.cdn.ampproject.org": {
+            "ttl": 98,
+            "ipid": 25261,
+            "responses": 2
+        },
+        "stats.safetrafficrotator.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "stealthhub.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "stream-04.ix7.dailymotion.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "streetfire.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "stse02.ultipro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "student.nhanow.com": {
+            "ttl": 85,
+            "ipid": 56001,
+            "responses": 4
+        },
+        "studydirect.sussex.ac.uk": {
+            "ttl": 46,
+            "ipid": 64187,
+            "responses": 2
+        },
+        "succulent.studio": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "suno.vn": {
+            "ttl": 72,
+            "ipid": 56774,
+            "responses": 2
+        },
+        "supplytechnologies.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "support.emmisolutions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "svc.hawaiianairlines.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "svenskafans.com": {
+            "ttl": 70,
+            "ipid": 42768,
+            "responses": 2
+        },
+        "sweetgamesbox.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "syd.com.mx": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sz.photo.store.qq.com": {
+            "ttl": 85,
+            "ipid": 40117,
+            "responses": 2
+        },
+        "t.soakmug.com": {
+            "ttl": 103,
+            "ipid": 59287,
+            "responses": 2
+        },
+        "talk10140an.kik.com": {
+            "ttl": 63,
+            "ipid": 52949,
+            "responses": 2
+        },
+        "tanuki-chat.saloon.jp": {
+            "ttl": 46,
+            "ipid": 14281,
+            "responses": 2
+        },
+        "tcpiputils.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tech.instory.cz": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tee.gr": {
+            "ttl": 37,
+            "ipid": 1502,
+            "responses": 2
+        },
+        "tendencias21.net": {
+            "ttl": 87,
+            "ipid": 2533,
+            "responses": 2
+        },
+        "texasstormchasers.com": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        },
+        "th2-cdn-us.ipstatic.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "thaionlinemarket.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "thefoodieandthefix.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "thekillerpunch.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "themetalbikini.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "thenerdmag.com": {
+            "ttl": 30,
+            "ipid": 51215,
+            "responses": 2
+        },
+        "theodoregray.com": {
+            "ttl": 64,
+            "ipid": 22761,
+            "responses": 2
+        },
+        "thepattersonnashville.com": {
+            "ttl": 43,
+            "ipid": 15175,
+            "responses": 2
+        },
+        "thepetsite.co.uk": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "thepoetryofmaterialthings.tumblr.com": {
+            "ttl": 86,
+            "ipid": 57818,
+            "responses": 2
+        },
+        "therewillbeeffects.tumblr.com": {
+            "ttl": 59,
+            "ipid": 56813,
+            "responses": 2
+        },
+        "thesavvycouple.com": {
+            "ttl": 58,
+            "ipid": 39495,
+            "responses": 2
+        },
+        "theunitedfamily.com": {
+            "ttl": 61,
+            "ipid": 1964,
+            "responses": 2
+        },
+        "thinprint.com": {
+            "ttl": 70,
+            "ipid": 21129,
+            "responses": 2
+        },
+        "thmarinesupplies.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "thor-na.wargaming.net": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "thumbnails12.imagebam.com": {
+            "ttl": 71,
+            "ipid": 48765,
+            "responses": 2
+        },
+        "tikiroom.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "timescolonist.adperfect.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "titance.us13.list-manage.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "tkpl.us": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "to-tit-fuck.tumblr.com": {
+            "ttl": 54,
+            "ipid": 15521,
+            "responses": 4
+        },
+        "toknowmoreabout.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "topcall.toptal.com": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "topnudecelebs.nl": {
+            "ttl": 91,
+            "ipid": 35928,
+            "responses": 2
+        },
+        "torchtire.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "torontosun-com.cdn.ampproject.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
 }
