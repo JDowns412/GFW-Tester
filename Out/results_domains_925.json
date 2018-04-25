@@ -1,9 +1,460 @@
 {
     "meta": {
         "tried": 999,
-        "allowed": 999,
-        "blocked": 0,
+        "allowed": 909,
+        "blocked": 90,
         "errors": 0
     },
-    "domains": {}
+    "domains": {
+        "cewe-fotobuch.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "typo3.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "gina-laura.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "gentledom.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "teenmoviesarchive.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "erotikforum.at": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "singleboersen-vergleich.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "empire.kred": {
+            "ttl": 31,
+            "ipid": 48415,
+            "responses": 2
+        },
+        "klett-sprachen.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "pm-outdoorshop.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mymonk.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "1tube.to": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "atlanticgam.es": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "milfs.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "l.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "der.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "aksiyonhaber.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "amateuralbum.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sparda-h.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "firmendb.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "spk-aschaffenburg.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "autoteile-teufel.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tamilgun.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "marathonfitness.de": {
+            "ttl": 43,
+            "ipid": 42241,
+            "responses": 2
+        },
+        "joggen-online.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "leebmann24.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "1password.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "voirfilms.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "whitewall.com": {
+            "ttl": 32,
+            "ipid": 57401,
+            "responses": 2
+        },
+        "gigabyte.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rani-jarkas.blogspot.nl": {
+            "ttl": 72,
+            "ipid": 56933,
+            "responses": 2
+        },
+        "youtubeconverter.me": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gamesbasis.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "essen.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "feed-reader.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ortelmobile.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swingerklub.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "chessmail.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mietrecht.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "seatsandsofas.de": {
+            "ttl": 56,
+            "ipid": 32546,
+            "responses": 2
+        },
+        "meteox.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "trutzgauer-bote.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "perversefrage.com": {
+            "ttl": 54,
+            "ipid": 17785,
+            "responses": 2
+        },
+        "yeswegays.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "newyoungporn.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "vinos.de": {
+            "ttl": 69,
+            "ipid": 42350,
+            "responses": 2
+        },
+        "smotri-filmi.net": {
+            "ttl": 91,
+            "ipid": 39295,
+            "responses": 2
+        },
+        "shopwahl.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "talk-mailer.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reduto.de": {
+            "ttl": 68,
+            "ipid": 10032,
+            "responses": 2
+        },
+        "saas.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "interchalet.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "autotraderbot.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "felgenshop.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "gannikus.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "degussa-bank.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "directline.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "asssex1.com": {
+            "ttl": 53,
+            "ipid": 51148,
+            "responses": 2
+        },
+        "pokemapper.co": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "mix1.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "funfone.me": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        },
+        "fonic-mobile.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "energiekosten-zuhause.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "beautytesterin.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fernsehen-live-stream.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "meine-flohmarkt-termine.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "kissnofrog.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vhv.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "enjoyyourcamera.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "awg-mode.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mysunnyresort.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sauspiel.de": {
+            "ttl": 93,
+            "ipid": 22447,
+            "responses": 2
+        },
+        "htwk-leipzig.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "comstats.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "radbag.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "chillmo.com": {
+            "ttl": 54,
+            "ipid": 11376,
+            "responses": 2
+        },
+        "wirtschaftslexikon24.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kids-party-world.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "anime-tube.tv": {
+            "ttl": 49,
+            "ipid": 2265,
+            "responses": 2
+        },
+        "billpay-intern.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fremdwort.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "deutsche-apotheker-zeitung.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "privat-einbruchschutz.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "wecuddle.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mrgoodlife.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "gea.de": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "viralmonster.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "kidsweb.de": {
+            "ttl": 36,
+            "ipid": 18890,
+            "responses": 2
+        },
+        "moviesource.to": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "telly-loans.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
 }

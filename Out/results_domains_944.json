@@ -1,9 +1,530 @@
 {
     "meta": {
         "tried": 999,
-        "allowed": 999,
-        "blocked": 0,
+        "allowed": 895,
+        "blocked": 104,
         "errors": 0
     },
-    "domains": {}
+    "domains": {
+        "telebank.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "vulkandeluxe.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "odnako.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ofigenno.cc": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "banerator.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "philips.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ssmaker.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "openbank.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cxz.to": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dolboeb.livejournal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bigbilet.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "teplovodservice.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "mvdinform.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "std3.ru": {
+            "ttl": 89,
+            "ipid": 37311,
+            "responses": 2
+        },
+        "mosgorzdrav.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "aviaforum.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mlm.re": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "4x4experience.ru": {
+            "ttl": 98,
+            "ipid": 39165,
+            "responses": 2
+        },
+        "rsdn.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hts.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "glasscannon.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "venalia.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ukraine.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bespridanitsa.livejournal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "agava.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "amovies.tv": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "w-o-s.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "begemoti.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "brainstorage.me": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mercedes-benz.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "pesiq.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iidf.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "gisvid.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mainspy.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bodybuilding-shop.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "1-x-bet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "2dr.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "babyblog.ru/user/news": {
+            "ttl": 43,
+            "ipid": 4170,
+            "responses": 2
+        },
+        "vxzone.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rail-club.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "aqualogo.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "browsers.ucoz.ru": {
+            "ttl": 86,
+            "ipid": 20229,
+            "responses": 2
+        },
+        "lokata.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "phpclub.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "landrover.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kino-dom.tv": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "4tochki.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "krasnogorie.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "checktrust.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "photochki.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "gmstar.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "arabeski-spb.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sxlove.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "socialtools.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "happywaytravel.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "icover.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "pajero4x4.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "prekrasniy-mir.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tiger-profits.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "kniga.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ruxvideos.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "perevezi.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "player.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "kusochek.com": {
+            "ttl": 78,
+            "ipid": 3349,
+            "responses": 2
+        },
+        "bankuralsib.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "videochart.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mitsubishi-motors.ru": {
+            "ttl": 66,
+            "ipid": 28165,
+            "responses": 2
+        },
+        "aviakassa.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "at-communication.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "pornotube.name": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ajwalton.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rustorrents.net": {
+            "ttl": 52,
+            "ipid": 29565,
+            "responses": 2
+        },
+        "videoigr.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "regforum.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "f4f.in.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ammo1.livejournal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gazart-audit.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "casino-x.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "domkadrov.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "prbb.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "skuky.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fun2mass.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cassad.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "goldentea.su": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "yamalpk.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "elenamagic.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cdnet.tv": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "smstraffic.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "redcube.ru": {
+            "ttl": 35,
+            "ipid": 28495,
+            "responses": 2
+        },
+        "nookkindle.ru": {
+            "ttl": 41,
+            "ipid": 40188,
+            "responses": 2
+        },
+        "doc-pro.com": {
+            "ttl": 49,
+            "ipid": 2265,
+            "responses": 2
+        },
+        "ki-bella.livejournal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "privateinvestor2000.com": {
+            "ttl": 27,
+            "ipid": 48973,
+            "responses": 2
+        },
+        "kinomoov.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hpc.ru": {
+            "ttl": 94,
+            "ipid": 10707,
+            "responses": 2
+        },
+        "yes-traflab.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "a-angel.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "appat.co": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "autokontinent.ru": {
+            "ttl": 49,
+            "ipid": 34568,
+            "responses": 2
+        },
+        "ecolens.ch": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "okmarket.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "allhockey.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pornoxyu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "poimel.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
 }

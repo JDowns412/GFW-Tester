@@ -1,9 +1,465 @@
 {
     "meta": {
         "tried": 999,
-        "allowed": 999,
-        "blocked": 0,
+        "allowed": 908,
+        "blocked": 91,
         "errors": 0
     },
-    "domains": {}
+    "domains": {
+        "alexfilm.cc": {
+            "ttl": 50,
+            "ipid": 12809,
+            "responses": 2
+        },
+        "flimflamfutura.tumblr.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "mazok.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "arniigames.eu": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "wmcash.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "itsgomezsel.tumblr.com": {
+            "ttl": 48,
+            "ipid": 29950,
+            "responses": 2
+        },
+        "cinemaciti.kiev.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "agrotender.com.ua": {
+            "ttl": 96,
+            "ipid": 65036,
+            "responses": 2
+        },
+        "pz.gov.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vapers.in.ua": {
+            "ttl": 36,
+            "ipid": 22989,
+            "responses": 2
+        },
+        "tymofieiev.org.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "arowana-im.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "igid.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "vsegda-gotov.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "theformat.com.ua": {
+            "ttl": 53,
+            "ipid": 64981,
+            "responses": 2
+        },
+        "ukesa.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "texmarket.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "veddro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "happyworkshop.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "e-kirpich.in.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "potok.in.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fanvoxua.org": {
+            "ttl": 42,
+            "ipid": 61439,
+            "responses": 2
+        },
+        "viasat-channels.tv": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "abur.tv": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "xmlgold.eu": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "molodejca.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "refine.org.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "umax.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "boardgamer.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "exponenta.ru": {
+            "ttl": 102,
+            "ipid": 60036,
+            "responses": 2
+        },
+        "iskorostenskiy-studio.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hneu.edu.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "modelcentro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cashadstream.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "novorossia.today": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dailymix.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rnbee.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "clashhupu.ucoz.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "educa.io": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "odynsport.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "faberlic-online.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "karpaty.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "skybus.kiev.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sall.com.ua": {
+            "ttl": 66,
+            "ipid": 23016,
+            "responses": 2
+        },
+        "tops.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sexnarod.ru": {
+            "ttl": 90,
+            "ipid": 5159,
+            "responses": 2
+        },
+        "sadowajaimperija.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "1info.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rargg.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "koff.org.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "triolan.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vseonauke.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dramatica.org.ua": {
+            "ttl": 71,
+            "ipid": 14863,
+            "responses": 2
+        },
+        "mayak.org.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kievkino.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "letsunlockiphone.services": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "icebrg.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "chytomo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "chery-club.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "relaxportal.biz": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "app4droid.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "loveawake.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "prolidepp.tumblr.com": {
+            "ttl": 99,
+            "ipid": 17057,
+            "responses": 2
+        },
+        "svdevelopment.com": {
+            "ttl": 48,
+            "ipid": 63411,
+            "responses": 2
+        },
+        "polemika.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ag47.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "foodpanda.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vintagemarket.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "coinverting.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "potolki-titan.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mamabliss.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "adihash.net": {
+            "ttl": 67,
+            "ipid": 18669,
+            "responses": 2
+        },
+        "dragonheartonline.com": {
+            "ttl": 98,
+            "ipid": 17674,
+            "responses": 2
+        },
+        "zizn.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "druzi.org.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "onu.edu.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "arbitrage-betting.ru": {
+            "ttl": 77,
+            "ipid": 8868,
+            "responses": 2
+        },
+        "ted1.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "radio-hobby.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "portalzdorovja.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "studentam.net.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "misto.kiev.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "novicom.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "b2btoday.com.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bz.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mash.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tutraflab.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "takeinfo.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "4proxy.de": {
+            "ttl": 89,
+            "ipid": 45940,
+            "responses": 2
+        },
+        "minuet.biz": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "accounting-ukraine.kiev.ua": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
 }
