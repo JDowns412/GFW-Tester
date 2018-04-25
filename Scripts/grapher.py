@@ -40,7 +40,7 @@ def main():
 	p2.xaxis.axis_label = "TTL Values"
 	p2.yaxis.axis_label = "Count"
 
-	p3 = Histogram(responses,title="Response Number",width=.8)
+	p3 = Histogram(responses,title="Response Number")
 	p3.xaxis.axis_label = "Number of Responses"
 	p3.yaxis.axis_label = "Count"
 
@@ -48,7 +48,6 @@ def main():
 	quants = [blocked_count["blocked"],blocked_count["notblocked"]]
 	p4 = figure(x_range=categories,title="Blocked vs Allowed")
 	p4.vbar(x=categories,top=quants,width=0.3)
-	p4.add_layout(labels)
 
 	#hmdata = {"ttl":ttls,"ipids":ipids}
 	#p3 = HeatMap(hmdata,x=bins("ipids"),y=bins("ttl"),stat='mean')
