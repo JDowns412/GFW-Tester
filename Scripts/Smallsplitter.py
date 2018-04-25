@@ -1,13 +1,13 @@
 import json, os, math, pdb, time
 
-for chunk in os.listdir("../Temp"):
+for chunk in os.listdir("../Temp/%s" % sys.argv[1]):
     print("Splitting %s" % chunk)
-    with open("../Temp/%s" % chunk, "r") as f:
+    with open("../Temp/%s/%s" % (sys.argv[1], chunk), "r") as f:
         domains = json.load(f)
 
     count = 0
     temp = {}
-    num = 6000
+    num = 1000
     for domain in domains:
         count += 1
         # split off a new json every 10K domains
