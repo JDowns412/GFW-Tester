@@ -1,9 +1,430 @@
 {
     "meta": {
         "tried": 999,
-        "allowed": 999,
-        "blocked": 0,
+        "allowed": 915,
+        "blocked": 84,
         "errors": 0
     },
-    "domains": {}
+    "domains": {
+        "mobile-vertraege.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "contorion.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "gegen-hartz.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fashion-for-her.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "klett.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "netzsieger.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "die-besten-gartentipps.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "avis.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "helpfultipsforhome.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sklavenzentrale.com": {
+            "ttl": 48,
+            "ipid": 29950,
+            "responses": 2
+        },
+        "promi7.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rc-network.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lebenslauf.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "free-sms24.at": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fvw.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "popcity.club": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "advanzia.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "postofficeshop.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "saxoprint.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "kino-streamz.com": {
+            "ttl": 89,
+            "ipid": 37311,
+            "responses": 2
+        },
+        "sanicare.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "roomido.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "musiker-board.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "farmerama.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "alltours.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vlh.de": {
+            "ttl": 60,
+            "ipid": 7099,
+            "responses": 2
+        },
+        "berliner-bank.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "meldebox.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto-treff.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "gutesex.com": {
+            "ttl": 28,
+            "ipid": 16055,
+            "responses": 2
+        },
+        "die-schoensten-reisen.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sparkasse-hildesheim.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "aubi-plus.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s-jena.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "0770.pics": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "editionf.com": {
+            "ttl": 46,
+            "ipid": 9546,
+            "responses": 2
+        },
+        "eispop.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "movie-streams.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "brd-schwindel.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sparda-b.de": {
+            "ttl": 64,
+            "ipid": 1632,
+            "responses": 2
+        },
+        "honda.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "xcams.com": {
+            "ttl": 34,
+            "ipid": 33287,
+            "responses": 1
+        },
+        "gehaltsvergleich.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hardsexfilms.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bildblog.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "plashporn.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "impressionen.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "alza.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "raid-rush.ws": {
+            "ttl": 28,
+            "ipid": 53739,
+            "responses": 2
+        },
+        "ebook.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "signal-iduna.de": {
+            "ttl": 57,
+            "ipid": 28594,
+            "responses": 2
+        },
+        "kraftfuttermischwerk.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tier.tv": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hansemerkur.de": {
+            "ttl": 45,
+            "ipid": 31163,
+            "responses": 2
+        },
+        "firstaffair.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "myadvertisingpays-forum.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sparkasse-saarbruecken.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "flynder.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "atraveo.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "systemprotect.site": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "wiwi-treff.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "franzis.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "e1j.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "darklight.to": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "th-koeln.de": {
+            "ttl": 89,
+            "ipid": 60384,
+            "responses": 2
+        },
+        "netzclub.net": {
+            "ttl": 63,
+            "ipid": 4436,
+            "responses": 2
+        },
+        "kuechen-quelle.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "lidl-connect.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hartziv.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bose.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swiss-methods.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "1-2-fly.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nivea.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "zfilme-online.org": {
+            "ttl": 63,
+            "ipid": 58490,
+            "responses": 2
+        },
+        "hardwareschotte.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hochzeitsportal24.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "notesofberlin.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "freiercafe.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "helpling.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "gamepoint.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "krankenkassen.de": {
+            "ttl": 36,
+            "ipid": 18890,
+            "responses": 2
+        },
+        "ubup.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "getprofitadz.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sparda-n.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
 }

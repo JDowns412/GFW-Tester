@@ -1,9 +1,445 @@
 {
     "meta": {
         "tried": 999,
-        "allowed": 999,
-        "blocked": 0,
+        "allowed": 912,
+        "blocked": 87,
         "errors": 0
     },
-    "domains": {}
+    "domains": {
+        "doskaobyavlenii.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "otkritiefc.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "de-bon-ton.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "n149adserv.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "novostroy.su": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ivanovonews.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "erofullsets.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "moscowindex.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "gorod55.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "elpn.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "allergist.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "darkmoney.cc": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "heritage-blog.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "antibolit.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "agava-ltd.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "metrinfo.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "traders-union.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tltgorod.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "avp.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "alladvertising.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "38mama.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "serfavto.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "syrianow.sy": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "spbrepetitor.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hc5.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hobbygames.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "trahun.tv": {
+            "ttl": 32,
+            "ipid": 57401,
+            "responses": 2
+        },
+        "alexandr-rogers.livejournal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "narkom.pro": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "games-tv.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "info-hit.ru": {
+            "ttl": 34,
+            "ipid": 33287,
+            "responses": 1
+        },
+        "vernee.ru": {
+            "ttl": 102,
+            "ipid": 60036,
+            "responses": 2
+        },
+        "sovsekretno.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "amurmedia.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "oleg-leusenko.livejournal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "transcust-group.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bankturov.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "litl-admin.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "chudo-clumba.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fitnesshouse.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "xreferat.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "goodwallet.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bdsmf.su": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reborngame.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "mfxbroker.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "energoportal.ru": {
+            "ttl": 51,
+            "ipid": 23212,
+            "responses": 2
+        },
+        "kinoafisha.spb.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bandb.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "t-raflab.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lsr.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "runovosti.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "wallmaker.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "todomundo.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "exkavator.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "100gadgets.ru": {
+            "ttl": 53,
+            "ipid": 51148,
+            "responses": 2
+        },
+        "lovigin.livejournal.com": {
+            "ttl": 48,
+            "ipid": 34948,
+            "responses": 2
+        },
+        "chery.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mywed.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "promosecrets.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "epool.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "alex-kurteev.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "remont-kompyuterov-elektrostal.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "kemdetki.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "malina.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "file.karelia.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "andreyvadjra.livejournal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "uniplace.ru": {
+            "ttl": 36,
+            "ipid": 14511,
+            "responses": 2
+        },
+        "knclub.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "zenitspb.org": {
+            "ttl": 91,
+            "ipid": 53688,
+            "responses": 2
+        },
+        "b2bsky.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "neomir.club": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vbank.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "prometriki.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tuchkatv.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "itsoft.net.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "apico-fish.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nicola-tesla.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "webtous.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "kurs4today.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "wood-film.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "livadia-room.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fitseven.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "termika.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kantiana.ru": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fayloobmennik.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "saletur.ru": {
+            "ttl": 89,
+            "ipid": 45940,
+            "responses": 2
+        },
+        "ruta.ru": {
+            "ttl": 63,
+            "ipid": 41636,
+            "responses": 2
+        }
+    }
 }

@@ -1,9 +1,625 @@
 {
     "meta": {
         "tried": 999,
-        "allowed": 999,
-        "blocked": 0,
+        "allowed": 876,
+        "blocked": 123,
         "errors": 0
     },
-    "domains": {}
+    "domains": {
+        "processingexpert.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tec-semgroup.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bestjobs.com.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "drinkcraftbeer.asia": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "els.edu.my": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "analution.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hoteljen.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "propertyreview.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "upper-shoes.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ladylove.com.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "qm127.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cheryltay.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hdhallyu.blogspot.sg": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 2
+        },
+        "vitinhduyhung.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "wimaogawa.blogspot.sg": {
+            "ttl": 96,
+            "ipid": 65036,
+            "responses": 2
+        },
+        "fareastagents.com.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "thebondingtool.com": {
+            "ttl": 36,
+            "ipid": 59363,
+            "responses": 2
+        },
+        "gamegenie.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "wis.com.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "longgar58.tumblr.com": {
+            "ttl": 53,
+            "ipid": 64981,
+            "responses": 2
+        },
+        "newmovies2u.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "wrensden.blogspot.sg": {
+            "ttl": 39,
+            "ipid": 22162,
+            "responses": 2
+        },
+        "losmovies.ch": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sggirls-deluxed.tumblr.com": {
+            "ttl": 80,
+            "ipid": 4478,
+            "responses": 2
+        },
+        "naughtymalaysia.tumblr.com": {
+            "ttl": 98,
+            "ipid": 39165,
+            "responses": 2
+        },
+        "careerjet.co.in": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "keywordcanine.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "singapore-ipos.blogspot.sg": {
+            "ttl": 100,
+            "ipid": 24569,
+            "responses": 2
+        },
+        "vaingloriousyou.blogspot.sg": {
+            "ttl": 60,
+            "ipid": 7099,
+            "responses": 2
+        },
+        "ramblerwithoutborders.blogspot.sg": {
+            "ttl": 43,
+            "ipid": 42241,
+            "responses": 2
+        },
+        "sillyinvestor.blogspot.sg": {
+            "ttl": 67,
+            "ipid": 17337,
+            "responses": 2
+        },
+        "initialview.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fionasohyuru.blogspot.sg": {
+            "ttl": 81,
+            "ipid": 45417,
+            "responses": 2
+        },
+        "ktvteoheng.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "nsone.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hairlossprotocol101.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mfex.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "yopika.tv": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "beemtube.com": {
+            "ttl": 71,
+            "ipid": 60503,
+            "responses": 2
+        },
+        "hut-of-love.myshopify.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fashiondreamsandlifestyle.blogspot.sg": {
+            "ttl": 96,
+            "ipid": 50044,
+            "responses": 2
+        },
+        "jac-recruitment.jp": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gadis-malam.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "blog2an.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "streamsp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bestpianosingaporesale.com": {
+            "ttl": 38,
+            "ipid": 17451,
+            "responses": 2
+        },
+        "distansutbildningar.se": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sgdriving.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "8441612974566621809_0f6a4c0b34c7ee3187d69a11cbd47ff5e1305794.blogspot.com": {
+            "ttl": 29,
+            "ipid": 19629,
+            "responses": 2
+        },
+        "sporehallofshame.blogspot.sg": {
+            "ttl": 56,
+            "ipid": 32546,
+            "responses": 2
+        },
+        "simplyjesme.blogspot.sg": {
+            "ttl": 45,
+            "ipid": 425,
+            "responses": 2
+        },
+        "blqordhd.tumblr.com": {
+            "ttl": 97,
+            "ipid": 35194,
+            "responses": 2
+        },
+        "kickass.gd": {
+            "ttl": 54,
+            "ipid": 17785,
+            "responses": 2
+        },
+        "diablohub.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "wirelessdogfencereview.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "image-in-ing.blogspot.sg": {
+            "ttl": 37,
+            "ipid": 5712,
+            "responses": 2
+        },
+        "vmware.jobs": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "helpasocialistout.tumblr.com": {
+            "ttl": 66,
+            "ipid": 23016,
+            "responses": 2
+        },
+        "fuckyeahsgxiaomeimei.tumblr.com": {
+            "ttl": 73,
+            "ipid": 59233,
+            "responses": 2
+        },
+        "supermommy.com.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "motherinc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "trikmudahseo.blogspot.sg": {
+            "ttl": 31,
+            "ipid": 45805,
+            "responses": 2
+        },
+        "childrensociety.org.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cersex.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wtfywt.tumblr.com": {
+            "ttl": 52,
+            "ipid": 50882,
+            "responses": 2
+        },
+        "keep.com.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "healthyandnaturallife.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "buddhoamuletshop.blogspot.sg": {
+            "ttl": 78,
+            "ipid": 3349,
+            "responses": 2
+        },
+        "aaliyahfantasies.blogspot.sg": {
+            "ttl": 54,
+            "ipid": 54917,
+            "responses": 2
+        },
+        "muntalksfood.blogspot.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "adsense.blogspot.sg": {
+            "ttl": 100,
+            "ipid": 59164,
+            "responses": 2
+        },
+        "senderscore.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mgplabel.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "inkandpaperie.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "jeffieshannie.blogspot.sg": {
+            "ttl": 53,
+            "ipid": 51148,
+            "responses": 2
+        },
+        "oracle-f.com": {
+            "ttl": 97,
+            "ipid": 32064,
+            "responses": 1
+        },
+        "handjobfantasies.tumblr.com": {
+            "ttl": 57,
+            "ipid": 40182,
+            "responses": 2
+        },
+        "filmsemitop.us": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "timberland.com.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "myhentaiart.tumblr.com": {
+            "ttl": 28,
+            "ipid": 53739,
+            "responses": 2
+        },
+        "22ndsggirls.tumblr.com": {
+            "ttl": 52,
+            "ipid": 29565,
+            "responses": 2
+        },
+        "c2o-library.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "toyhaven.blogspot.sg": {
+            "ttl": 57,
+            "ipid": 28594,
+            "responses": 2
+        },
+        "strobist.blogspot.sg": {
+            "ttl": 75,
+            "ipid": 52686,
+            "responses": 2
+        },
+        "clarkequay.com.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "donovan-ang.blogspot.sg": {
+            "ttl": 51,
+            "ipid": 21039,
+            "responses": 2
+        },
+        "gotmoneygothoney.blogspot.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "kuchingnite.blogspot.sg": {
+            "ttl": 96,
+            "ipid": 55572,
+            "responses": 2
+        },
+        "2540448742554741631_fd89b002ba3de15be353083e958dd245fbdd35cb.blogspot.com": {
+            "ttl": 45,
+            "ipid": 31163,
+            "responses": 2
+        },
+        "ihraj.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "didikariyana16.blogspot.sg": {
+            "ttl": 48,
+            "ipid": 63411,
+            "responses": 2
+        },
+        "mydailyupdates.tk": {
+            "ttl": 91,
+            "ipid": 53688,
+            "responses": 2
+        },
+        "jediyuth.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "acefile.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bekasiekspresnews.co.id": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "toyoko-inn.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dp.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "singaporedesk.blogspot.sg": {
+            "ttl": 66,
+            "ipid": 35295,
+            "responses": 2
+        },
+        "k-porno.tumblr.com": {
+            "ttl": 35,
+            "ipid": 28495,
+            "responses": 2
+        },
+        "leech1s.com": {
+            "ttl": 77,
+            "ipid": 3270,
+            "responses": 2
+        },
+        "wantanewcareer.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "housetutorssingapore.blogspot.sg": {
+            "ttl": 49,
+            "ipid": 2265,
+            "responses": 2
+        },
+        "cocoetlavieenrose.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "free-e-cards-online.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rankitwp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "foodblogeventslist.blogspot.sg": {
+            "ttl": 51,
+            "ipid": 24751,
+            "responses": 2
+        },
+        "maasrowingshells.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dsc-clinic.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shwenaingan.blogspot.sg": {
+            "ttl": 36,
+            "ipid": 19917,
+            "responses": 2
+        },
+        "scwo.org.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "gshipexpress.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tualobang.blogspot.sg": {
+            "ttl": 79,
+            "ipid": 50359,
+            "responses": 2
+        },
+        "mtbs3d.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vicam.com.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "singaporemanofleisure.blogspot.sg": {
+            "ttl": 32,
+            "ipid": 57657,
+            "responses": 2
+        },
+        "singaporememory.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "playdota.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "coderspreview.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "carltonhotel.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "cultizm.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "st.sakura.ne.jp/~iyukari": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "undertheangsanatree.blogspot.sg": {
+            "ttl": 52,
+            "ipid": 63180,
+            "responses": 2
+        },
+        "ies.org.sg": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
 }
