@@ -15,9 +15,8 @@ def main():
 	ipids = []
 	ttls = []
 	responses = []
-	blocked, allowed = 0,0
-	total = 0
-	errors = 0
+	blocked, allowed, total, errors = 0,0,0,0
+	seen_domains = []
 	for file in os.listdir("../Out"):
 		data = json.load(open("../Out/"+file))
 		domains = data["domains"]
@@ -26,14 +25,16 @@ def main():
 		total+=data["meta"]["tried"]
 		errors+=data["meta"]["errors"]
 		for k,v in domains.items():
-			ipid = domains[k]["ipid"]
-			ipids.append(ipid)
-			ttl = domains[k]["ttl"]
-			ttls.append(ttl)
-			response = domains[k]["responses"]
-			responses.append(response)
+			if k not in seen_domains:
+				seen_domains.append(k)
+				ipid = domains[k]["ipid"]
+				ipids.append(ipid)
+				ttl = domains[k]["ttl"]
+				ttls.append(ttl)
+				response = domains[k]["responses"]
+				responses.append(response)
 	
-	output_file("graiphs.html")
+	output_file("../Figures/graphs.html")
 	p1 = Histogram(ipids,title="IPID Distribution")
 	p1.xaxis.axis_label = "IPID Values"
 	p1.yaxis.axis_label = "Count"
