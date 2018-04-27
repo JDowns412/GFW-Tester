@@ -1,7 +1,8 @@
 domains		doing
-all-domains	splitting
-info		split
-net		splitting
-org		splitting
+all-domains	splitting, independent folder
+info		doing
+net		splitting, independent folder
+org		splitting, independent folder
 com		splitting
-biz		split
+biz		not pushed
+original Alexa 	split
