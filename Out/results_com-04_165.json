@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "retrowork.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "kill-me.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "champaigncountry.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "sarahbraybrooke.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "jesussaved.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "longislandjanitor.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "faithisthevictory.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "simplerbiz.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "delica.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

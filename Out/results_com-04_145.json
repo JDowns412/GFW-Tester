@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 989,
+        "blocked": 10,
+        "errors": 0
+    },
+    "domains": {
+        "motorcycle-sales.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bourgeois-marsolais.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "flexomag.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "davidpetersonphoto.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "unclebubbasoysterhouse.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ismack.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "englishcollegenoosa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "badkamers-keukens.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "industrialauctioneer.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mccayphoto.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
+}

@@ -1,0 +1,440 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 913,
+        "blocked": 86,
+        "errors": 0
+    },
+    "domains": {
+        "lldpjs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "lldpls.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "lldpxs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "lldths.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "llfths.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "llhnds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "llhpds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "llhqqs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "llhxss.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "lljtcs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "lljtts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "lllcds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "llldss.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "lllkns.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "lllqms.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "lllrts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "llltbs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "llmlfs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "llmqps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "llmrgs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "llmzgs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "llnfbs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "llntcs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "llnwks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "llpnms.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "llppes.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "llqqhs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "llqrzs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "llqyqs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "llrdhs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "llrhks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "llrkds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "llrpgs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "llrtgs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "llswds.info": {
+            "ttl": 99,
+            "ipid": 38005,
+            "responses": 2
+        },
+        "llsxms.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lltdgs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "lltfns.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "lltgrs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lltmjs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "lltrms.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "lluuqs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "llvves.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "llwhzs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "llydrs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "llykrs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "llytys.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "llyxts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "llzfws.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lmcyys.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "lmphhs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "lmrccs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "lndtts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "lnsrrs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "lnzpps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "looaas.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "lpdmms.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "lpdxxs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "lpmmms.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "lprbbs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "lprkks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "lpyjjs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "lqqxxs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "lrgrgs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "lrsggs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "lrtbbs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lsjkks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "lsjmms.info": {
+            "ttl": 47,
+            "ipid": 12729,
+            "responses": 2
+        },
+        "ltckks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ltjffs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ltltks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ltnsss.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ltprrs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "lujujs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "lwdlls.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "lwjjjs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "lwldds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "lwlkks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "lwxffs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "lwylls.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "lxdggs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lxgxxs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lxhmms.info": {
+            "ttl": 82,
+            "ipid": 57740,
+            "responses": 2
+        },
+        "lydbbs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "lymyms.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "lysyys.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}
