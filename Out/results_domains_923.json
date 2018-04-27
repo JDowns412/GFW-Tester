@@ -1,0 +1,655 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 870,
+        "blocked": 129,
+        "errors": 0
+    },
+    "domains": {
+        "7weibo.com": {
+            "ttl": 96,
+            "ipid": 13129,
+            "responses": 2
+        },
+        "166f.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "zoukankan.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hao8gua.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "yhfund.com.cn": {
+            "ttl": 34,
+            "ipid": 39122,
+            "responses": 2
+        },
+        "ovi.com.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hainan.edu.cn": {
+            "ttl": 81,
+            "ipid": 57776,
+            "responses": 4
+        },
+        "guijj.com": {
+            "ttl": 96,
+            "ipid": 5658,
+            "responses": 2
+        },
+        "lookmw.cn": {
+            "ttl": 99,
+            "ipid": 63785,
+            "responses": 4
+        },
+        "zzhelps.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tui5.com": {
+            "ttl": 32,
+            "ipid": 56280,
+            "responses": 2
+        },
+        "rtysu.net": {
+            "ttl": 27,
+            "ipid": 24421,
+            "responses": 2
+        },
+        "okfys.com": {
+            "ttl": 104,
+            "ipid": 36392,
+            "responses": 2
+        },
+        "ulaangil.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bdqn.cn": {
+            "ttl": 81,
+            "ipid": 33956,
+            "responses": 2
+        },
+        "lanrensc.com": {
+            "ttl": 67,
+            "ipid": 45576,
+            "responses": 2
+        },
+        "qlniu.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "hexi-ha.com": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 2
+        },
+        "yxuuw.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "265kb.com": {
+            "ttl": 32,
+            "ipid": 15246,
+            "responses": 2
+        },
+        "bbzhi.com": {
+            "ttl": 98,
+            "ipid": 56213,
+            "responses": 2
+        },
+        "rcsc.com": {
+            "ttl": 50,
+            "ipid": 29571,
+            "responses": 2
+        },
+        "goodmood.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "yudingle.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "yuanlin365.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "pak.com.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "nyz.com.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hao315.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "95191.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "58cyw.cn": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ebookcn.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jd37.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cg160.com": {
+            "ttl": 31,
+            "ipid": 28523,
+            "responses": 1
+        },
+        "oia.cn": {
+            "ttl": 41,
+            "ipid": 23944,
+            "responses": 2
+        },
+        "yqrc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ufeifan.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "anhuijrw.tv": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "qiyenet.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "wz76.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cueka.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "7837.com": {
+            "ttl": 100,
+            "ipid": 1092,
+            "responses": 1
+        },
+        "pmk.com.cn": {
+            "ttl": 73,
+            "ipid": 23662,
+            "responses": 7
+        },
+        "58xmjz.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "21qudao.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "07pp.com": {
+            "ttl": 44,
+            "ipid": 2365,
+            "responses": 2
+        },
+        "owz.cn": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "394889ae.cn": {
+            "ttl": 50,
+            "ipid": 39465,
+            "responses": 2
+        },
+        "voip88.com": {
+            "ttl": 69,
+            "ipid": 55173,
+            "responses": 2
+        },
+        "10000link.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "laihaitao.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "algocashmaster.net": {
+            "ttl": 86,
+            "ipid": 7172,
+            "responses": 2
+        },
+        "kopp-verlag.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "spielenxxl.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "lotto.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "gayroyal.com": {
+            "ttl": 76,
+            "ipid": 43527,
+            "responses": 2
+        },
+        "finanz-nachrichten.me": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "schoener-fernsehen.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mopo24.de": {
+            "ttl": 56,
+            "ipid": 34090,
+            "responses": 2
+        },
+        "macuser.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "seobility.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "poco.de": {
+            "ttl": 28,
+            "ipid": 10780,
+            "responses": 1
+        },
+        "auto-service.de": {
+            "ttl": 53,
+            "ipid": 54386,
+            "responses": 2
+        },
+        "adpackpro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "tvinfo.de": {
+            "ttl": 34,
+            "ipid": 43393,
+            "responses": 2
+        },
+        "usenet-4all.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "4fansites.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-selected-winners.online": {
+            "ttl": 39,
+            "ipid": 54075,
+            "responses": 2
+        },
+        "team-andro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "allsexclips.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "only-dates.de": {
+            "ttl": 98,
+            "ipid": 45896,
+            "responses": 2
+        },
+        "firmenwissen.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "win-10-forum.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "selbstaendig-im-netz.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "huk24.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "imgoutlet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "99damage.de": {
+            "ttl": 95,
+            "ipid": 6968,
+            "responses": 2
+        },
+        "capsid.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sparkasse-pforzheim-calw.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "abakus-internet-marketing.de": {
+            "ttl": 54,
+            "ipid": 2461,
+            "responses": 2
+        },
+        "dielottozahlende.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "travelbird.de": {
+            "ttl": 67,
+            "ipid": 17168,
+            "responses": 2
+        },
+        "singlesonsearch.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ragecomic.com": {
+            "ttl": 32,
+            "ipid": 11971,
+            "responses": 2
+        },
+        "byte.to": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "formulare-bfinv.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bruegelmann.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "smklub.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nzb.to": {
+            "ttl": 44,
+            "ipid": 4557,
+            "responses": 2
+        },
+        "travelcircus.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "vagosex.xxx": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fahrrad-xxl.de": {
+            "ttl": 66,
+            "ipid": 29892,
+            "responses": 2
+        },
+        "backinjob.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "myfreefarm.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "contra-magazin.com": {
+            "ttl": 99,
+            "ipid": 29034,
+            "responses": 2
+        },
+        "binmitdabei.com": {
+            "ttl": 29,
+            "ipid": 34897,
+            "responses": 2
+        },
+        "sparkasse-mainfranken.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sparkasse-heidelberg.de": {
+            "ttl": 33,
+            "ipid": 0,
+            "responses": 3
+        },
+        "hausgarten.net": {
+            "ttl": 75,
+            "ipid": 58675,
+            "responses": 2
+        },
+        "letzonke.com": {
+            "ttl": 70,
+            "ipid": 35014,
+            "responses": 2
+        },
+        "sanego.de": {
+            "ttl": 60,
+            "ipid": 61620,
+            "responses": 2
+        },
+        "pornsocket.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "peoplecheck.de": {
+            "ttl": 30,
+            "ipid": 14167,
+            "responses": 2
+        },
+        "24video.xxx": {
+            "ttl": 78,
+            "ipid": 58282,
+            "responses": 2
+        },
+        "sparkasse-dortmund.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "zoll-auktion.de": {
+            "ttl": 75,
+            "ipid": 57392,
+            "responses": 2
+        },
+        "bader.de": {
+            "ttl": 86,
+            "ipid": 6982,
+            "responses": 2
+        },
+        "berge-meer.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "epidemz.com": {
+            "ttl": 59,
+            "ipid": 33556,
+            "responses": 2
+        },
+        "jetaoshqef.co": {
+            "ttl": 85,
+            "ipid": 53200,
+            "responses": 2
+        },
+        "gfoundries.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dokujunkies.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "youngasstube.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tripbookingservices.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ao.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "studycheck.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "single.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "datei.to": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "deutschlandsim.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "moviestarplanet.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "vanion.eu": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "lokaljobber.de": {
+            "ttl": 92,
+            "ipid": 2451,
+            "responses": 2
+        },
+        "berlinintim.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vidaxl.de": {
+            "ttl": 58,
+            "ipid": 11234,
+            "responses": 2
+        },
+        "tastymovie.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopping24.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "sparkasse-essen.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "xvicious.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "berlinstartupjobs.com": {
+            "ttl": 91,
+            "ipid": 35928,
+            "responses": 2
+        },
+        "mmozone.de": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
+}
