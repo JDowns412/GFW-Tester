@@ -1,0 +1,420 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 917,
+        "blocked": 82,
+        "errors": 0
+    },
+    "domains": {
+        "btc-knowing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btc-ltd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btc-packs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btc-report.info": {
+            "ttl": 29,
+            "ipid": 23497,
+            "responses": 2
+        },
+        "btc-run.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btc-tax.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btc-ws.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "btc1.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btc148.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btc21mil.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "btcat.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "btccn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btcdd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btcdoubler.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btcetfs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "btcforfree.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "btchk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "btci.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btcibanking.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btciq.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btcj.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btcloan.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btcloudpayments.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btcmall.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "btcmaster.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btcminer.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "btcmkr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btcobmen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btcpool.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "btcq.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btcqrcode.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "btcrally.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btcresidual.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "btcsmnx.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btcstore.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btctaxes.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "btctcc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btctdb.info": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "btcteam.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "btcunit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btcxcoin.info": {
+            "ttl": 32,
+            "ipid": 41212,
+            "responses": 2
+        },
+        "btdcp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btde.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btdgp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "btdgxj.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btdh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btdiowa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btdm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btdz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bteace.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bteampower.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "btec.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btecoin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btekipman.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btelco.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "btetsjff.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bteuyo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btex.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btexkd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bteyh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btf95v.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btf9p0.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btfa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btfd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btfeco.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btfiloh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btfjv.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btfysq.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btg4life.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "btgc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btgchain.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btgdogtraining.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btgirls.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "btgkvadi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "btgn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "btgwallet.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "btgz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bthere2dthat.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bthgc2.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bthhof.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "bthj.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bthkmcks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

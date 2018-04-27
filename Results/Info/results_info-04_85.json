@@ -1,0 +1,520 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 897,
+        "blocked": 102,
+        "errors": 0
+    },
+    "domains": {
+        "se-plan.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "se-rihujun.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "se-shop.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "se-st-jakobus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "se-tb1.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "se004.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "se1122.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "se20se.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "se27se.info": {
+            "ttl": 33,
+            "ipid": 30366,
+            "responses": 2
+        },
+        "se28se.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "se2se.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "se33se.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "se360funds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "se365.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "se42se.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "se44.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "se44se.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "se58.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "se72.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "se77av.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "se800.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "se8884.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "se8886.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "se8888.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "se89.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "se925206.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "se94secomm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "se95.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "se9995.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "se9998.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sea.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sea-angling.info": {
+            "ttl": 70,
+            "ipid": 33313,
+            "responses": 2
+        },
+        "sea-bay.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sea-dog.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "sea-flex.info": {
+            "ttl": 54,
+            "ipid": 64098,
+            "responses": 2
+        },
+        "sea-for-you.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sea-guini.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sea-helm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sea-info.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "sea-online.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "sea-plane.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sea-safe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sea-scouting.info": {
+            "ttl": 29,
+            "ipid": 40418,
+            "responses": 2
+        },
+        "sea-sea.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "sea-son.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sea-tech.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sea-way.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sea-ya.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "seaa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seaapp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "seaartcreations.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "seabeachproperties.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seabee.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "seabeedc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "seabeesinfantry.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seabhs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "seabinfoundation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seabook.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "seabreeders.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "seabreezeyachtsales.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "seabreezie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "seabridge-tours.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seaburynorwalk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seacansrus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "seacapmarine.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seachbuddy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "seaclj.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "seacoastbodybalance.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "seacoastchurch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "seacoastcurling.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "seacoastevents.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "seacoastrestoration.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "seacoastsolutions.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "seacoin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "seaconke.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seacontainerhomes.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "seaconteceucomeles.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "seacrestbeachhotel.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "seacrestor.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 12
+        },
+        "seacretdirect.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seacretnigeria.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "seacretsr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seacrush.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seadata.info": {
+            "ttl": 34,
+            "ipid": 17106,
+            "responses": 2
+        },
+        "seadooparts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seaduckfabrics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "seaeducation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seaenvy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seafarerhelp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "seafarers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "seafarm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "seafirstonline.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "seafoilsglobal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seafoodgroup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "seafoods.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "seafordhomevalue.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seafp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seafreshgroup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seafrogs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seagar.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "seagate.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seagatesuites.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

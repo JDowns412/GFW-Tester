@@ -1,0 +1,505 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 900,
+        "blocked": 99,
+        "errors": 0
+    },
+    "domains": {
+        "swaminarayanlibrary.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "swamiu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swammerdam.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "swampbuggybrewery.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "swampbutt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swampcooling.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swampguard.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "swampnews.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swampscotthawthorne.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swampstock.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "swan-conseil.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swan-kyoto.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "swanbarbevy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swanbeck.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swancreditportal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swanee.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swanenergyceaseanddesist.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "swanenergyfraudblog.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "swanenergyincfrauds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "swanenergyinclawsuit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swanenergyincscam.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swanenergyscam.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swankblue.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swankinc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swankybrownies.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swankycurves.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swankyexplorers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "swankysalonsuites.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swanmedsupply.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swanmorevillage.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "swanphotography.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "swanproductions.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "swanpropertiesltd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "swanracingbrandondavis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swanseabaycityregion.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swanseabiz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swansislandvacations.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "swansonplace.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 13
+        },
+        "swanvalleyconnections.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swaonline.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "swap-3p-sex.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swap-point.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "swap-switch-sex.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swapassana.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swapation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swapit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swaplay.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "swaplucky.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swapmeet.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swappersbarn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swappyswap.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "swaps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swapsheetmedia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "swaptagz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "swaption.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swapto.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swapture.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swapwhereyoushop.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swaraavox.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swaram.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "swardstromgroup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "swareiinc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swareo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swarfreight.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 12
+        },
+        "swarm2d.info": {
+            "ttl": 53,
+            "ipid": 46447,
+            "responses": 2
+        },
+        "swarmbox.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swarmcoop.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "swarmgroup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "swarmit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "swarmmobility.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 14
+        },
+        "swarmstorage.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swarovski-bridge.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swarovskicrystalbeautyacademy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swarowsky.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "swartzelectric.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "swartzlaw.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swasthya.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swastik.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "swasygr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swat3lastresort.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "swata.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swatchdog.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swatchtheclub.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swatdyg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "swathidevasani.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "swatigupta.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "swatministries.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "swatprotection.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swatt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swatusa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "swav.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "swaworldtour.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swawp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "swax.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "swaydo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "swaymark.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "swayreviews.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "swaze.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "swazilanddirect.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        }
+    }
+}

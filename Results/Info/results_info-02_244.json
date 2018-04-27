@@ -1,0 +1,380 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 925,
+        "blocked": 74,
+        "errors": 0
+    },
+    "domains": {
+        "holiday-bulgaria.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "holiday-dental.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holiday-europe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holiday-france-direct.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "holiday-gram.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holiday-memories.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holiday-suites.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "holiday-taxi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holiday4you.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidayandalucia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidayandco.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidayapartmentcornwall.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holidayautos.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidaybazaar.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidayblog.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holidaycamps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "holidaycasino.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holidaycheck.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holidaycheck-mietwagen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidayclaims.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "holidaycottagesforsale.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holidaycruise.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "holidaydeals.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidaydeals24.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "holidayescapes.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "holidayfair.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "holidayguide.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "holidayhousecheck.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "holidayinmacau.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "holidayinnclubvacations.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "holidayinprague.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "holidayinsorrento.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "holidaylk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "holidaylodges.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "holidaypost.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holidaypostcard.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holidayreservations.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holidays-in-austria.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "holidays-in-heaven.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidays-in-spain.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "holidays-insicily.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holidays-uncovered.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holidaysandssouthbeach.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "holidaysfinder.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "holidaysinpaxos.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidaysrentals.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidaystar.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidaystomexico.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holidayswithaheart.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holidaytravelinternational.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "holidaytraveltip.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidaytravelwatch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holidayvacations.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holidayworld.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holierthanthou.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holiplayers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "holistahelps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holistech.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "holistic-clinician.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holistic-drug-rehabs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "holistic-sales.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "holistic-therapies.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "holisticanimaltraining.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holisticblood.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holisticbusinessschool.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "holisticcentral.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "holisticdecluttering.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "holisticdigitalmarketing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "holisticdoctorslosangeles.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holistichealingarts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holistichealth-solutions.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holistichealthsuite.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holistichound.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

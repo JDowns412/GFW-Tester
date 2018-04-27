@@ -1,0 +1,415 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 918,
+        "blocked": 81,
+        "errors": 0
+    },
+    "domains": {
+        "rrdqds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rrdtfs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rrdxls.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "rrdzws.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rrfbgs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rrfmjs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rrftks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rrhhzs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rriias.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rrjdys.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rrjjcs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rrjkms.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "rrjqps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "rrjyqs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rrkbrs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rrkgks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rrkkqs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rrksks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rrlkps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rrlqys.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rrlrfs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rrlwks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rrmgfs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rrmgys.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rrmtgs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rrnrns.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rrooas.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rrpgws.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rrpkns.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rrpqhs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rrpqzs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "rrprqs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rrqbgs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rrqfss.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rrqhqs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rrqlbs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "rrqwjs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rrqzrs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "rrraws.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rrrhts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "rrriws.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rrrjrs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rrrpws.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rrrrrr9.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rrscws.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rrsrys.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rrswds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "rrtdzs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rrwnks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rrxgbs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rrxmzs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rrxrrs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rrxxgs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rrylfs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rrytss.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rrzhls.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rrzkls.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rrzlps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rrzqjs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rswdds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rtckks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rtxccs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rwlnns.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rwvvvs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rxrffs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rymsss.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "rypkks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ryppps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rzgkks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rzhccs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rzprrs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sababs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "samol.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "sasars.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "sbkxxs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "sbyccs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "scctts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "scknns.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "scqkks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "scwnns.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sddggs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        }
+    }
+}

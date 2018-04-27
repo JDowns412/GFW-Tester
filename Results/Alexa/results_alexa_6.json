@@ -1,0 +1,110 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 979,
+        "blocked": 20,
+        "errors": 0
+    },
+    "domains": {
+        "java2s.com": {
+            "ttl": 30,
+            "ipid": 9000,
+            "responses": 2
+        },
+        "epochtimes.com": {
+            "ttl": 31,
+            "ipid": 9826,
+            "responses": 2
+        },
+        "majorgeeks.com": {
+            "ttl": 28,
+            "ipid": 35075,
+            "responses": 2
+        },
+        "it-ebooks.info": {
+            "ttl": 60,
+            "ipid": 33308,
+            "responses": 2
+        },
+        "ptt.cc": {
+            "ttl": 57,
+            "ipid": 201,
+            "responses": 2
+        },
+        "google.org": {
+            "ttl": 84,
+            "ipid": 35444,
+            "responses": 2
+        },
+        "kay.com": {
+            "ttl": 70,
+            "ipid": 27951,
+            "responses": 2
+        },
+        "unlv.edu": {
+            "ttl": 94,
+            "ipid": 6978,
+            "responses": 2
+        },
+        "uship.com": {
+            "ttl": 36,
+            "ipid": 57573,
+            "responses": 2
+        },
+        "google.com.pk": {
+            "ttl": 56,
+            "ipid": 47848,
+            "responses": 2
+        },
+        "lofter.com": {
+            "ttl": 57,
+            "ipid": 7099,
+            "responses": 2
+        },
+        "vocaroo.com": {
+            "ttl": 30,
+            "ipid": 42335,
+            "responses": 2
+        },
+        "t66y.com": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 2
+        },
+        "netgalley.com": {
+            "ttl": 73,
+            "ipid": 63963,
+            "responses": 2
+        },
+        "liketwice.com": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 2
+        },
+        "rezserver.com": {
+            "ttl": 103,
+            "ipid": 28605,
+            "responses": 2
+        },
+        "subscribe.wordpress.com": {
+            "ttl": 90,
+            "ipid": 944,
+            "responses": 2
+        },
+        "invitrogen.com": {
+            "ttl": 61,
+            "ipid": 42013,
+            "responses": 2
+        },
+        "pseg.com": {
+            "ttl": 53,
+            "ipid": 24221,
+            "responses": 2
+        },
+        "smackjeeves.com": {
+            "ttl": 88,
+            "ipid": 51014,
+            "responses": 2
+        }
+    }
+}

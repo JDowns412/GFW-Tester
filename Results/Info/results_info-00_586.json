@@ -1,0 +1,425 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 916,
+        "blocked": 83,
+        "errors": 0
+    },
+    "domains": {
+        "auto-haus-schiess.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto-hero.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "auto-hersteller.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "auto-iconica.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto-import.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "auto-import-finanzierung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "auto-inform.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto-inkoop.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "auto-insurance-online-quotes.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto-insurance-quotes-california.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto-insuroped.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "auto-italia.info": {
+            "ttl": 76,
+            "ipid": 41076,
+            "responses": 2
+        },
+        "auto-janus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "auto-kauf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "auto-kfz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto-kozmetika.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto-laden.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "auto-leads.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto-lindner.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "auto-loan.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "auto-loterie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto-matrimonio.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto-medic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto-michel.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "auto-mobile-insurance-quote.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto-mobilis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "auto-motori.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto-nachtzug.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "auto-oase.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "auto-origin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto-owner.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "auto-parts-store.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "auto-pause.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto-repair-atlanta.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto-repair-oklahoma-city.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "auto-reparatur.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "auto-report.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "auto-rims.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto-safe-flexi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto-service.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "auto-sitzheizung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "auto-specht.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "auto-station.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto-suche.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto-suggestion.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "auto-treff.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "auto-trend.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "auto-validation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto-value.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "auto24h.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auto39.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "auto4baberuthleague.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "auto4motion.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "autoaccessoriesonline.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "autoaccident-injury.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "autoaccidentattorney.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "autoaccidentattorneysa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "autoaccidentattorneyssi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "autoaccidentinjurylawyersk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "autoaccidentlawyer.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "autoaccidentsattorneys.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "autoaccidentslawyers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "autoanalyse.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "autoandcar.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "autoandgeneralcarinsurance.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "autoankauf-dresden.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "autoankaufmuenchen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "autoanzeigen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "autoappraisalassurancegroup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "autoarb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "autoauctionguy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "autobahneastcarsales.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "autobahnen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "autobahnkirchen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "autobahnrast.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "autobaleset.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "autobasepostit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "autobasis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "autobasta.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "autobetonpumpe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "autobidmaster.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "autobig.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "autobild.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        }
+    }
+}

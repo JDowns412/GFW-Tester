@@ -1,0 +1,505 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 900,
+        "blocked": 99,
+        "errors": 0
+    },
+    "domains": {
+        "shoper.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shopercize.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopeset.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shopfashiongo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shopfesta.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "shopfinderseeker.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopfitting.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopfleursavage.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shopflooronline.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "shopforacop.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopforangelsoft.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "shopforaurelia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "shopforbox.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopfordixieplates.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopforfriends24.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopforfunds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shopformtg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopfortale.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopforultima.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "shopforwatch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shopforwomen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "shopfurniture.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "shopgasper.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopgiantdeals.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shopgiantsales.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopgiantsavings.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "shopgirls.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopgolf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopgolfclubsstore.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopgostar.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shopgpa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopgreenapple.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shopgreencleaningproducts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shophairuwear.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shophangxachtay.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shopherbergers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shopholic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "shophopgo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shophoster.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "shophouseofnow.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "shophousesoutheastasiankitchen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shophrpeterson.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "shopid.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shopidhsaa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopifyexpert.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopifyplus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shopifytips.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shopihsaa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopiify.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "shoping-cakes.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopingdirect.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "shopingreen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shopinsidethetriangle.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shopinspiration.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "shopinspiredsilver.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shopintlminutepress.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shopinwish.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopipopa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "shopitfast.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopitforwardfundraising.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopjessamineky.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "shopkalkulator.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopkind.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopkirstiealley.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shopladybug.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shoplandlady.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shoplaprairie.info": {
+            "ttl": 28,
+            "ipid": 33839,
+            "responses": 2
+        },
+        "shoplargemarkdowns.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shoplash.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shoplhsaa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shoplibertymotors.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopliste.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "shoplocalboardman.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shoplotsbargain.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "shoplotssales.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shoploveemme.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "shoplularoerebecca.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shoplydirect.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopmademasteredshirt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shopmajadesigns.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "shopmania.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "shopmarmari.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopmassivesale.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopmaster.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "shopmega.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopmelaleuca.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "shopmerchantising.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopmiami.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopminuteman.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopmiway.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shopmoop.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "shopmormon.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "shopmortgagerates.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopmosaics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "shopmy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopmyfit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopmylocker.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopnav.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "shopnews.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        }
+    }
+}

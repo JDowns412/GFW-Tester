@@ -1,0 +1,410 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 919,
+        "blocked": 80,
+        "errors": 0
+    },
+    "domains": {
+        "farmfyi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "farmgame.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "farmgirlfresh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "farmgoods.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "farmhandbrands.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "farmhaus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farmhistorica.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farmhouse.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "farmhouse-culture.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "farmhousedesign.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "farming-digital.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farming-simulators.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "farmingequipmentpartsmegastoreinventory.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "farmingequipmentpartssuperstore.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "farmingforconsumer.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "farminginegypt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farmingnet.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "farmingpro.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "farmingtoncanalheritagegreenway.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "farmingtonrotary.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "farminthebox.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "farmit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "farmopcredit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farmorranchproperty.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "farmprojects.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farms-us.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "farmsandfinance.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "farmskills.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "farmsofthefuture.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "farmsteadcommunity.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "farmswefollow.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "farmtable.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "farmtablesf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "farmtax.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "farmtiva.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farmtivity.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farmtomarkert.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "farmveda.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "farmwatchbc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farmwilljobs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "farmzone.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "farnboroughnews.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "farnfield.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "farnorthchristianschool.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "farnostostrov.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "farnpflanzen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "faro.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "farocapocomino.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "faroempresarial.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "faronsbbq.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "faronstugby.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "farooqfoji.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "farowebshare.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "farox.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "farpointdevelopment.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "farragutrealty.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farrahfitfoods.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "farranco.info": {
+            "ttl": 68,
+            "ipid": 43328,
+            "responses": 2
+        },
+        "farrape.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farriers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "farriscwilks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "farriswilkssucks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "farrokhzad.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "farrol.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farrow-ball.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "farsave.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "farsicrc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "farsimovie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "farsiquran.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "farsitypography.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "farskids.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "farsvr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fartclan.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "fartfans.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "farthrongdli.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "faruanwen.info": {
+            "ttl": 52,
+            "ipid": 47580,
+            "responses": 2
+        },
+        "farukeczacibasi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "faruo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "faruqueahmed.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "faruru.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
+}

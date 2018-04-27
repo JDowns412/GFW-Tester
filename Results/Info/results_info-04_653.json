@@ -1,0 +1,510 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 899,
+        "blocked": 100,
+        "errors": 0
+    },
+    "domains": {
+        "travelpi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travelpictures.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "travelplanet.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "travelpoland.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "travelpool.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "travelportugal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "travelprints.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "travelpunjab.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "travelqy.info": {
+            "ttl": 53,
+            "ipid": 38136,
+            "responses": 2
+        },
+        "travelreporter.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "travelreservation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "travelresponsibly.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "travelrites.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "travelrus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "travelsafetyreport.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "travelsalediv3.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "travelsamoa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "travelsavesmoney.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "travelsavingsdollars.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "travelscout.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travelsecret.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travelsecrets.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "travelsection.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "travelsellers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travelshades.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "travelsharm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "travelshopandsave.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "travelshopsave.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "travelsin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travelsizestoreonline.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "travelslovakia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "travelsmartcard.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "travelsodak.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travelsolution.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "travelsoon.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "travelsouthamerica.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "travelspb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "travelstorical.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "travelsuitor.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "travelsuriname.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travelswithparkypigeon.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "travelta.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "travelteamsports.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "traveltechnologies.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "traveltest.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "traveltheworldforless.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "traveltigers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "traveltip.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "traveltips-pro.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "traveltocroatia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "traveltogether.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "traveltoguinea.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 13
+        },
+        "traveltohongkong.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "traveltokyo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "traveltomelbourne.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "traveltonewyork.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "traveltons.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "traveltop100.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "traveltorbay.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "traveltourbharat.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "traveltriphanam.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "traveltur.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "travelu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "travelua.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "travelunited.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "travelusedom.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "travelv.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travelvancouver.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "travelvirtual.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "travelvizion.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "travelvoyages.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "travelwarden.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "travelwarlock.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travelwarm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 12
+        },
+        "travelways.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "travelweather.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travelwell.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "travelwithalex.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "travelwithanimals.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "travelwithjeanrich.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "travelwithkie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "travelwithpickles.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "travelwithrhonda.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "travelwiththeboss.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "travelwiththemagic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "travelwithtoya.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "travelword24h.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "travelwordshop.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travelworldinc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "travelxpress.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "travelziprail.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "travelzone.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "travelzoo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "travemuender-woche.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "travenort.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "travera.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "traversasolution.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "traversautoplex.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "traversebay4sale.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "traversecityattorney.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        }
+    }
+}

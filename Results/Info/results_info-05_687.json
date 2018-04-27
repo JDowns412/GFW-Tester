@@ -1,0 +1,485 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 904,
+        "blocked": 95,
+        "errors": 0
+    },
+    "domains": {
+        "teslamacko.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "tffbh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "tffbu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tffce.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tffda.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "tffdb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "tffde.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tffdm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "tffdv.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "tffdz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "tfffk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "tffft.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tffgh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "tffgo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tffgs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "tffhn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tffhv.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tffjd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tffkd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tffkj.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tfflc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tffld.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "tfflg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tfflw.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tffmc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tffml.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tffmz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "tffnb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tffpb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tffpe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tffpg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tffpr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tffpv.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tffqd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "tffqk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "tffqq.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tffrb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tffrk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "tffsg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tffsp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tffta.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tffte.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tfftm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tfftq.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "tfftu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tffwe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tffwp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tffxp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tffzd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tffzj.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tffzm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tfjzzs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tfrchcw.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tgdlls.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "tggbq.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tggmmyn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tgrpps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tgsdds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "thebestcrypto.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "thebluechipcompany.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "thecooperco.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "thelatinx.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "thesba.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tipax.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tirota2211.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tjlhhs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tkalu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tltlis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "tmrtts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "tnnjjs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tnpxsyk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "tntbbs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "toplaptops.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "trade-list.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "trendingbalita.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "trfba.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "trfbd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "trfbe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "trfbk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "trfbn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "trfbw.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "trfby.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "trfdg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "trfdx.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "trfdz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "trffa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "trffc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "trfffs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "trffl.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "trfgm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "trfgp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "trfgr.info": {
+            "ttl": 29,
+            "ipid": 31730,
+            "responses": 2
+        },
+        "trfhe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "trfhn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "trfjm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

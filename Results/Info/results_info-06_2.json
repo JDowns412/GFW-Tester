@@ -1,0 +1,520 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 897,
+        "blocked": 102,
+        "errors": 0
+    },
+    "domains": {
+        "spsdisabilityservices.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "star-power.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "storewars.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 12
+        },
+        "su-wuhletal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-facts-to-amassmovingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-facts-to-grasp-goingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "super-facts-to-haverunningahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "super-facts-to-keep-movingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "super-facts-to-keeprushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-facts-to-ownrushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-facts-to-savepushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-facts-toamasspushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-facts-toamassrollingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "super-facts-toamassrunningahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 12
+        },
+        "super-facts-tocachepushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "super-facts-toenjoy-going-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "super-facts-tograsp-going-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "super-factsto-store-going-forth.info": {
+            "ttl": 102,
+            "ipid": 30793,
+            "responses": 2
+        },
+        "super-factstocache-moving-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "super-factstoenjoyrolling-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "super-factstograsppushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-factstoretain-going-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-factstoretainrollingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "super-factstosave-running-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "super-factstostore-moving-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-factstostorerunning-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "super-info-to-carryrollingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-info-to-enjoy-movingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-info-to-grasprunningahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-info-to-havepushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "super-info-to-keeprushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "super-info-to-retaingoing-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "super-info-to-save-moving-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-info-to-save-rushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "super-info-to-saverolling-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-info-to-store-movingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "super-info-tocarryrolling-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-info-tosave-rolling-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "super-infoto-amass-moving-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-infoto-carry-moving-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-infoto-have-pushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "super-infotocache-pushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-infotograsp-rolling-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-infotostore-rolling-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "super-insight-tostoregoingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "super-insighttoamassmovingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "super-insighttoown-moving-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "super-insighttostoregoing-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-knowledge-toowngoingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "super-knowledgetosavegoingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "super-scoop-to-cache-goingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "super-scoop-to-carry-goingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "super-scoop-to-have-going-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-scoop-to-save-going-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "super-scoop-to-savepushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "super-scoop-to-saverollingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-scoop-toamassrushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "super-scoop-tocarryrunningahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-scoop-tocarryrushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "super-scoop-tograsprushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-scoop-toown-rolling-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "super-scoop-toretainmovingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "super-scoopto-own-rushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "super-scooptoamasspushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-scooptoamassrunning-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-scooptocachepushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "super-wisdom-to-graspgoingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "super-wisdom-to-ownmoving-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "super-wisdom-toamassgoing-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "super-wisdom-tohaverushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "super-wisdom-toretaingoingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-wisdom-tosaverushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "super-wisdomto-have-going-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "super-wisdomtograsprushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "super-wisdomtoown-pushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "super-wisdomtostorepushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "super-wisdomtostorerushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "superfacts-to-amass-going-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "superfactsto-grasp-moving-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "superfactstoretainrushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "superinfo-to-amass-moving-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "superinfo-to-keep-rushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "superinfo-to-save-pushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "superinfo-to-save-rushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "superinfoto-amass-pushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "superinfoto-amass-rolling-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "superinfoto-carry-pushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "superinfoto-grasp-pushing-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "superinfoto-store-running-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "superinsighttocarrypushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "superinsighttograsprushingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "superinsighttokeeprunning-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "superknowledgetograspgoingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "superknowledgetoownrollingahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "superknowledgetostoregoingforth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "supernug.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "superscoopto-amass-moving-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "superscoopto-enjoy-moving-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "superscoopto-have-rolling-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "superwisdom-to-keep-going-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "superwisdomto-cache-going-forth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "superwisdomto-own-rolling-ahead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        }
+    }
+}
