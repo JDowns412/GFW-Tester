@@ -1,0 +1,390 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 923,
+        "blocked": 76,
+        "errors": 0
+    },
+    "domains": {
+        "bitcoin4me.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bitcoin5.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "bitcoinaccelerator.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoinadvisors.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bitcoinamerica.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoinautotrader.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoinballerclub.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoinbankdao.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bitcoinbargins.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bitcoinbase.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoinben.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "bitcoinbiblechurch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bitcoinbits.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bitcoinbookkeeper.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoinbrandon.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoinbroking.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bitcoinbuysell.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoincash-trading.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bitcoincashflow.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoincasino.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoincentr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoincentral.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoinchange.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoincharity.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bitcoinchart.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoinclub.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "bitcoincol.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bitcoindaily.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "bitcoindeal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoindiamond.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoineducation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bitcoineliteclub.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoinetfstock.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoinexchangedubai.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "bitcoinexchangerates.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoinfaucetrotator.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoinforensics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "bitcoinforwomen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoinfreedomteam.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bitcoinfreefaucet.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoinfunnel.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoinfuture.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoinfutures.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bitcoingaming.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoingang.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoingaranti.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoingenie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoingo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoinindia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoininformation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoininvest.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bitcoinjet.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoinkenya.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bitcoinkosova.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bitcoinlab.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "bitcoinlaunch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "bitcoinlcc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bitcoinlife.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoinloans.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoinmainbank.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bitcoinmarketme.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoinmeetup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bitcoinminingfarm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoinn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoinnetzwelt.info": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 2
+        },
+        "bitcoinoptionscontracts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoinoutlet.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoinpassiveprofit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bitcoinpress.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bitcoinprice.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoinprivacy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoinprocesses.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "bitcoinpublicledger.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bitcoinrealty.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bitcoinrenaisance.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bitcoinresults.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
+}

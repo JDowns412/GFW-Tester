@@ -1,0 +1,485 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 904,
+        "blocked": 95,
+        "errors": 0
+    },
+    "domains": {
+        "com-96.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-access.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-account.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-account-eresolved.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "com-account-noetiefications.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-account-verif.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-adult.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-alertfertivyappsid.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "com-am.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-antofagasta.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-appnotices.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-armenia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "com-article11.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-article2.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-article21.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "com-as.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "com-assist.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-au.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-authentifizierung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-author.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-barcelos.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "com-bigbang.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-bonus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-browser.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "com-burgau.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-camposdejordao.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-castelobranco.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "com-castro.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-castromarim.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-cervia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-cgi-bin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-chance.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "com-chrome.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-cleaner.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-confirm-your-account.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-dailynews.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-deals.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-definitions.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-ec.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-engineer.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-ericeira.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-es.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-eueitil.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-eur.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-eus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "com-exclusive.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-ezwinning18.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-ezwinning8.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-finder.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-fix-acc-issue-6464.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-fozdoiguazu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-free-give-away.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-free-webinar.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-freeitem.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-freetrial-giveaway.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-get-details.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "com-good.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-helpcenters.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-home-case.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-hotel.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "com-huanchaco.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-huaraz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "com-ifind.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "com-immobilien.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-incs-recovery.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-indexit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "com-int-cgiset.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-int-servconnect.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-ismy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-jump.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-kliksini.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-last.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-limit-supportcenter.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-limitedserver.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "com-live-getsupport.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "com-local-business.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-localnews.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-locatdevice.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-locked-account.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-lostdevice.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-lostphones.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-m532.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-magazine.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-mapsconnect.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-med.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "com-mega.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-member.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-mm510.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "com-monteverde.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-morrodesaopaulo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-newsarticle.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-notices.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-noticesunlock.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "com-onlinereport.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "com-pageaccounts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        }
+    }
+}

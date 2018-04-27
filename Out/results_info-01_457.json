@@ -1,0 +1,555 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 890,
+        "blocked": 109,
+        "errors": 0
+    },
+    "domains": {
+        "drohnenflugschein.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "drohnenflugschule.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "drohnenkaufen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "drohnenschein.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "drohnenvergleich.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "droid-co.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "droid-republic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "droidapp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "droidarena.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "droidbooks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "droidburg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "droidnets.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "droidtaxi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "droilymom.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "droit-immo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "droit-oubli.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "droitaucoeur.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "droitdanslemur.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "droitdeshommes.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "droitdessuccessions.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "droitdevant.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "droitjustice.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "droitprivegeneral.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "droliviac.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dromaludaire.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "dromet.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "drommedaris.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dromosinfraestructuras.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dronaholics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronaliste.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "drone-4-home.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "drone-academy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "drone-business.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "drone-city.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "drone-dieppe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "drone-inspections-usa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "drone-insurance.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "drone-lp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "drone-masters.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "drone-mission.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "drone-permits.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "drone-world.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "drone4drone.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "drone4kids.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "droneairdefense.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronealouer.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "droneasia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "droneaward.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dronebase.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "dronebooth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronecareers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "dronechannel.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronecoin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dronecompetitor.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "dronecrash.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronedeath.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "dronedirectory.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dronedynamix.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "droneexchange.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "droneextension.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronefarm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronefilm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "dronefishing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "droneflyguys.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "droneflyzone.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronefootage.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "droneforce.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "droneforsale.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dronefriendly.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "droneimageusa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "droneimmo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "droneinfo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "droneinsurancecost.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dronejacker.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "dronejamboree.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dronejobpostings.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "dronekenya.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dronelec.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "droneliability.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "droneliness.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dronelookup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronemadesimple.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dronemasters.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dronemax.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dronemedic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronementor.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dronenationalsecurity.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "droneology.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "droneops.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dronepeep.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dronephotographyrental.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "droneplus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "droneportcastroville.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "droneracingschools.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "droneregistrationservice.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dronerental.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "drones-consulting.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "drones-expertises.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "drones-for-sale.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dronesafetytips.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "dronescanhelppeople.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronescape.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "droneservicebidding.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dronesforinspections.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "droneshots.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "droneskycamera.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dronesonduty.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dronesoveramerica.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "dronestrikes.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

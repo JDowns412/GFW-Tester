@@ -1,0 +1,555 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 890,
+        "blocked": 109,
+        "errors": 0
+    },
+    "domains": {
+        "acryl-buchstaben.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "acrylamideinfo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "acrylamidesafety.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "acryled.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "acrylicon.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "acrylit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "acrylkunst.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "acrylmalkurs.info": {
+            "ttl": 105,
+            "ipid": 4762,
+            "responses": 2
+        },
+        "acrynessconnect.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "acryond.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "acs-directhealth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "acs-georgiahealth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "acs-sds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "acs-stl.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "acs-tactical.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "acs8ef.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "acsb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "acscripts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "acsd3.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "acsentur.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "acservices.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "acsexams.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "acsi-kampeerreizen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "acsiglobal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "acsit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "acsitea.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "acsk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "acsk-12.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "acskzax.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "acslabico.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "acslibertygroup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "acsllc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "acslperu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "acsol.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "acsprogramming.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "acsrep.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "acsrh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "acsservicesllc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "acssi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "acssmartbuildings.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "acsss.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "acssu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "acstests.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "acsu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "acsystechnologies.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "act-and-echo.info": {
+            "ttl": 64,
+            "ipid": 56283,
+            "responses": 2
+        },
+        "act-club.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "act-co.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "act-one.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "act-smartware.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "act4apps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "act4change.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "act4lasers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "acta-alga.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "actacademy.info": {
+            "ttl": 59,
+            "ipid": 47091,
+            "responses": 2
+        },
+        "actactuaries.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actaftercancertreatment.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "actalis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actamarine.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "actamed.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "actandgrowrich.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "actantis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "actathletic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "actautobrokers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "actavis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actax.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "actcenter.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "actcleaning.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actcoursechoice.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "actcpas.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "acte.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "acte-avocat.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "acteane.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "acteau.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actecprojects.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "acteh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "actelion.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "actelis.info": {
+            "ttl": 42,
+            "ipid": 16655,
+            "responses": 2
+        },
+        "actemra-gca.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "actepentrufirma.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actessud.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "actevio.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actexperiment.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "actfa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "actforamerica.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "actforyou.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "acthair.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "actherapeuticslimited.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "acthew.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "actholdings.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "actibe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actibump.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "acticand.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actidia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actidiag.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "actiecode.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actiefleven.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "actiegeld.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "actif-signal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "actifiti-accont.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "actifpourmaretraite.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "actifsde-labeaute.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "actifyneuro.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "actihike.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "actimage.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "actimindex.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "actimmune-fa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "actimove.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "actimstats.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        }
+    }
+}

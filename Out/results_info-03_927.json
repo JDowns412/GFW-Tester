@@ -1,0 +1,370 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 927,
+        "blocked": 72,
+        "errors": 0
+    },
+    "domains": {
+        "riddor.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ride-ebikes.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ride-for-guides.info": {
+            "ttl": 42,
+            "ipid": 24092,
+            "responses": 2
+        },
+        "ride-n-roses.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ride-share.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ride-sharedriversassociation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ride-yamaha.info": {
+            "ttl": 45,
+            "ipid": 22497,
+            "responses": 2
+        },
+        "ride2run.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "ride2share.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ride430x.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "rideability.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rideandrealm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ridearrival.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rideave.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ridebaja.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ridebluehorse.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ridebluetier.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rideboom.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ridecamelback.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ridecapitalregion.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "rideconnects.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ridecraftcustoms.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ridefar.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ridefndr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ridefordads.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ridefreeform.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ridelawyers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ridemotus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ridenow.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "riderebates.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "riderebels.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "riderplanet-usa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "riderssharingwhileridesharing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "rides.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ridesharedriversingingbonus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "rideshareinjuryattorneys.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ridesharesxsw.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ridesmarter.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ridestyle.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rideswd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ridetheultimatechallenge.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ridetowork.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ridetrick.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ridewithcoach.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rideyourown.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "ridgeback.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ridgefieldrecovery.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ridgefields.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ridgehillford.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ridgeleisurecommunities.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ridgelineconsultants.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ridgelyhomes.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ridgerunnerauto.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ridgerunnerent.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ridgesmountain.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ridgestoneestates.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "ridgeviewmonroe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ridgewoodbank.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ridgewooddeepwater.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ridgewoodproperties.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "ridgi-pad.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "ridgiddiehead.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ridgidonline.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ridglok.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ridicak.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ridicske-prukazy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "riding-arena.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ridingbike.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "ridingcostarica.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ridinghorses.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ridinglessons.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ridingthecurrent.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,540 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 893,
+        "blocked": 106,
+        "errors": 0
+    },
+    "domains": {
+        "s-models.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s-murakami.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s-nf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s-oil.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s-one-tv.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "s-online.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s-p-h.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s-pankki.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s-pb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s-pica.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s-privatebanking.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s-s-i-v.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s-sansei.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s-seaside.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "s-sens.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "s-servicepartner.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s-shop.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s-shoshi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s-smotorsports.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "s-sone.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s-square.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s-ssecurity.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "s-stage.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s-t-b.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s-t-o-p.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s-table.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "s-tek.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s-tours.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "s-twmirs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s-u-c.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "s-u-v.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "s-und-b.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s-versicherungen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "s-video.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s-vietnam.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "s-w-l.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "s-wallet.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s-wear.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s-win.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s-works.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s-y-s.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s001a.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "s001jp6595.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s002jp6601.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s003jp6607.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s006jp6623.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "s008jp6631.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s0213k.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s0290l.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s02oc6.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "s05ia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "s06.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s0632e.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s090916.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s0c.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s0cial-hookup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s0qvp1.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s0r1a.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s0txm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "s0x6h.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "s10-t-spi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s108w34800shoredr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s10l.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s1168z.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s128.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s1288.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s128sabungayam.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s12m5v.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s13.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "s1316.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s1338r.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s1487n5.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s14d0.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s15.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s1523r.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s1692u.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s175422.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s18972.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s18tve.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "s190.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s19961.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s1beds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s1d3.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s1f0m1f2.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s1hi9.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "s1hv0.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s1lingerie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s1men7.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s1n2a6.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s1ngularis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s1x.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "s1y67.info": {
+            "ttl": 80,
+            "ipid": 15475,
+            "responses": 2
+        },
+        "s211.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "s23.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s2426s.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s2440q.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s24yq.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "s26baby.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "s26gold.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "s2923w.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s2988w.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s2a3.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "s2bventurecapital.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "s2ch2.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "s2clogistics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "s2dqc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        }
+    }
+}

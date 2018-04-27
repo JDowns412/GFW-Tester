@@ -1,0 +1,455 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 910,
+        "blocked": 89,
+        "errors": 0
+    },
+    "domains": {
+        "ferienhof-christa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "ferienhof-kahlcke.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ferienhof-schmoelz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienimmobilien.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferieninfranken.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienland-deutschland.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienland-ostsee.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferienmaus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienpichler.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ferienplaner.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ferienwohnsitz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienwohnung-asendorf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferienwohnung-augsburg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ferienwohnung-bad-harzburg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ferienwohnung-bad-nauheim.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ferienwohnung-berchtesgaden.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ferienwohnung-chiemsee-blick.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ferienwohnung-dangast.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "ferienwohnung-deutschland.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ferienwohnung-dorn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ferienwohnung-erfurt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "ferienwohnung-gaestehaus-hella.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "ferienwohnung-gollenstede.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ferienwohnung-harlesiel.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienwohnung-hauser.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienwohnung-im-allgaeu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferienwohnung-in-mv.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "ferienwohnung-in-tirol.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ferienwohnung-insel-fehmarn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ferienwohnung-kaiser.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ferienwohnung-kassel.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ferienwohnung-kleinmann.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "ferienwohnung-lautertal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienwohnung-mecklenburg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ferienwohnung-norddeich.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ferienwohnung-oberammergau.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ferienwohnung-olpenitz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferienwohnung-ostseestrand.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferienwohnung-piemont.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ferienwohnung-prora.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ferienwohnung-quedlinburg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ferienwohnung-saarland.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ferienwohnung-sonntag.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ferienwohnung-timmendorf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ferienwohnung-ulm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ferienwohnung-volkach.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienwohnung-walchensee.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienwohnung-wismar.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ferienwohnung-wyk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ferienwohnungborkum.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ferienwohnungdresden.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferienwohnungen-groemitz.info": {
+            "ttl": 45,
+            "ipid": 16038,
+            "responses": 2
+        },
+        "ferienwohnungen-kroatien.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ferienwohnungen-pellenzblick.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ferienwohnungen-schwarzwald.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferienwohnungenborkum.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferienwohnungenkroatien.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienwohnungfreiburg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienwohnungharz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ferienwohnungmieten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ferienwohnungwien.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferienwohnungzingst.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferienzeit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "feriepenge.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ferietur.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferigele.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "feriomat.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ferizaj05.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ferkelnarkose.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fermanagh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fermatfibonacci.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fermatnode02.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fermedelayole.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "fermedufutur.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "fermenai.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "fermenta.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fermentation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fermentationagency.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fermentationlab.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fermentering.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fermenti.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fermentum.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fermibubbles.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fermiersdefamille.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fermo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "fermodellismo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "fern-bus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fern-weh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fernakademie-klett.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

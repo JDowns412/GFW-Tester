@@ -1,0 +1,495 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 902,
+        "blocked": 97,
+        "errors": 0
+    },
+    "domains": {
+        "bild-poeten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "bild-raum.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bild-schoen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bild-und-rahmen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bildbearbeitung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bildbyran.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bildebok.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bilder.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bilder-finden.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bilder-hochladen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bilderfest.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bilderhaus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bilderleisten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bildernetz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bilderstreit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bildertexten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bildhauerei-cs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bildhauerschule.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bildin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bildkunstakademie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bildkurier.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bildmagazin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bildnetwork.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "bildnit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bildrauschen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bildschirmschoner-kostenlos.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bildschoen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bildstein.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bildung-leben.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bildung-und-erziehung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bildungbayern.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bildunginteraktiv.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bildungsagentur.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bildungsberatung-ulm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bildungsbuero-aschaffenburg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bildungskiste.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bildungslandschaft-wolfsburg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bildungslobby.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bildungsmanagement.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bildungsoffensive.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "bildungspapier.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bildungsportal-bayern.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bildungsportale.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bildungsseiten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bildungssommer.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bildungsstreik-duesseldorf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bildungsurlaub.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "bildungsurlaub-hessen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bildungswerkstatt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bildungszentren.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "bildutrapagaran.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bildverarbeitung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bilecikescortbu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bileckojezero.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bilekarpaty.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bilet-loto.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "biletcionline.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bilete-avion-ieftine.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bileteieftineavion.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bileteksper.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "biletpariuri.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "biletpro.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "biletsigur.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "biletua.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "biletulzilei.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bilexan.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bilforsakring.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "bilforsikringer.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bilgames.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bilgenesil.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bilgi365.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bilgroth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bilhuset.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "biliana.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "biliards.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "biliblanketrentals.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bilibobaccesorios.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bilici-architekt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bilijar.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bilikbolong.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bilimakademisi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "bilimmuzesi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bilimokuloncesi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bilingualamerica.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bilingualandspanishofficiant.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bilingualkeytherapy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bilingualschoolparis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bilingualstaffing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bilingualstart.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bilingualtoo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bilinguenow.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bilixiang17.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bilixiang26.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "bilixiang41.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bilixiang44.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bilixiang70.info": {
+            "ttl": 57,
+            "ipid": 49583,
+            "responses": 2
+        },
+        "bilixiang86.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        }
+    }
+}

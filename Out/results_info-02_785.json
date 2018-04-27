@@ -1,0 +1,505 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 900,
+        "blocked": 99,
+        "errors": 0
+    },
+    "domains": {
+        "learn-2-play-guitar.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learn-90.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learn-aid.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learn-create.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learn-french-abroad.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "learn-french-now.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learn-french-together.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learn-german-munich.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learn-media.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learn-online.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "learn-piano-music.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "learn-to-trade-the-market.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learn-to-trade-the-markets.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learn2drive.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learn2earn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "learn2hope.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "learn2learn.info": {
+            "ttl": 53,
+            "ipid": 24733,
+            "responses": 2
+        },
+        "learn2read.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learn2recycle.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "learn2ride.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learn2write.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learn3dp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learn4change.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learnaboutitnow.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "learnaboutmedicare.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learnaboutpace.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learnaboutpregnancy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learnaboutvitamin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learnai.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learnandearn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learnarabicfree.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learnbigdataonline.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learnbiml.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "learnbusiness.info": {
+            "ttl": 100,
+            "ipid": 24654,
+            "responses": 2
+        },
+        "learnbutton.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "learncivics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learncompetitive.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "learncomputer.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learncopywritingsecrets.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learncss.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learndating.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "learndirectapprenticeships.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learnedenterprises.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learnenglisheasily.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "learnenglishusa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learnerlegal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learnersassembly.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learnersupermarket.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learnethos.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "learneverythingbelievenothing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learnfastacademy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learnfluentenglish.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learnfromfailure.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learnfromhome.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learnfromtheworld.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 15
+        },
+        "learnfunctionalneurology.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "learngermanfast.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learngermantoday.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learngolf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learngoogle.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learngroup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learnhack.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learnhownow.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learnhowtohunt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learnhowtosellmybusiness.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learnhowtostoprenting.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "learnhowtosurf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learning-adventures.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "learning-bank.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learning-from-videos.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learning-kungfu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "learning-mastery.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learning-network.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learning-repository.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learning-spanish.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "learning-teaching.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learning-to-win-win.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learning-together.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learning2step.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learning3.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learning4dev.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learningabilities.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learninganalytics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "learninganalyticsenabledcontent.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learningand.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learningandplace.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "learningatlloydsbankinggroup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learningbeeacademy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "learningbenchmark.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "learningboy411.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learningbydesign.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "learningcatalan.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learningcommons.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learningdesign.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "learningdesignware.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "learningdifficultieshelp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "learningdisabilities.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "learningdiscovery.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "learningdisorders.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

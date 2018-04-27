@@ -1,0 +1,525 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 896,
+        "blocked": 103,
+        "errors": 0
+    },
+    "domains": {
+        "scie-involve.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "scieagogo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "scielo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "science-cafe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "science-center.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "science-communication.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "science-fair-topics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "science-fiction-meditation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "science-fontiersell.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "science-innovations.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "science-intention.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "science-positive.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "science-tanka.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "science180.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "scienceabout.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "scienceandspiritualityinstitute.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scienceaspect.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sciencebod.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "sciencebooks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sciencecamp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sciencecatalogue.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "sciencecharter.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sciencecomedian.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sciencedaily.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sciencediving.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scienceenlivre.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sciencefairguild.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "sciencefictionandfantasy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sciencefictions.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "scienceforkids.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "scienceforparents.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "sciencegenie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sciencego.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sciencehub.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "scienceisnotfiction.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "sciencelab.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sciencemaze.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sciencemuseumgroup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sciencenote.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sciencenow.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "scienceofagroecology.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "scienceofcd70.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scienceofchiropractic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "scienceofclimate.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scienceofcme.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "scienceoffreedomfoundation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "scienceofidentityfoundation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scienceofsciencebook.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "scienceofsexy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "scienceoftheparanormal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "scienceolympiad.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "scienceontheslopes.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "scienceoverstigma.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sciencepeers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "scienceproject.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sciencerabbi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sciencereports.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scienceright.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scienceroadtrip.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "sciences24.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "sciencesalesacademy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "sciencescampus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "sciencescity.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sciencesclub.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sciencescom.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "scienceshow.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sciencesisters4teachers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "sciencespoaix.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sciencestechnologie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "sciencestools.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sciencetalentsearch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scienceticker.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sciencetouring.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "scienceup.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "sciencevideos.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "sciencewatch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "sciencewithimpact.info": {
+            "ttl": 59,
+            "ipid": 62603,
+            "responses": 2
+        },
+        "scienceym.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sciencial.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scienscope.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "scient.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "scientechnic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "scientia4us.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "scientiacg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "scientific-computing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "scientificcommunity.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "scientificfact.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "scientifichealing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "scientifickitcen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "scientificmarketing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "scientificmicromolder.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "scientificreasoning.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "scientificsoundssystems.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "scientistdata.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scientologie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "scientologistreligiousfreedomleague.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "scientologists-stand.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "scientology-book.info": {
+            "ttl": 29,
+            "ipid": 0,
+            "responses": 1
+        },
+        "scientology-kaohsiung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "scientology-kirche.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "scientology-news.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "scientology-religion.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "scientology101.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        }
+    }
+}

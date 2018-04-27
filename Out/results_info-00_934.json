@@ -1,0 +1,535 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 894,
+        "blocked": 105,
+        "errors": 0
+    },
+    "domains": {
+        "cabinephotos.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cabinest.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabinet-2a-immobilier.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabinet-cardiologie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cabinet-dermatologie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cabinet-guru.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cabinet-jan.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "cabinet-lafont-inrap.info": {
+            "ttl": 88,
+            "ipid": 8947,
+            "responses": 2
+        },
+        "cabinet-louis-reynaud.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabinet-mcpatrimoine.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cabinetcenter.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cabinetdemoly.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabinetdepotcabinets.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabinetdepotkitchenandbath.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cabinetestomatologice.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabinetlist.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabinetmayor.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cabinetnataf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabinetreport.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cabinetsatlanta.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cabinetsaustin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabinetschicago.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cabinetscincinnati.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cabinetscolumbus-ohio.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "cabinetsdirectonline.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cabinetshopper.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cabinetsia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabinetsincharlotte.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabinetsoklahomacity.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cabinetssacramento.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cabinettree.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cabinetwoodworkingplans.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabinfy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabinpressurerepair.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cabinsatrockcreek.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabintents.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cabirainc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabity.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cabkeb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cablaggielettrici.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cablazemeter.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cable-cam.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cable-connectors.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cable-digital.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cable-railing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cable-specialist.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cableadovozydatos.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cablebabe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cableboard.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cablecentre.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cablecrusader.info": {
+            "ttl": 95,
+            "ipid": 51618,
+            "responses": 2
+        },
+        "cablefaultlocation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cablelynx.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cablemediaworks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cablena.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cablenetmobile.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cablenetwrth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cablenj.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cablequick.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cablerailings.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cablerepadvertising.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cablerip.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "cables-automobiles-flexdynamic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cablesandchips.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cableson.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cablesplusworld.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cablingpermits.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cabltv.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cabo-bello.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cabo-roig.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "caboderosca.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "caboenglishchurch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabogata.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cabogolf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "cabograss.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "caboluxx.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabonay.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cabonorte.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "caboolturelittleathletics.info": {
+            "ttl": 43,
+            "ipid": 24544,
+            "responses": 2
+        },
+        "caboose-haps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "cabooseaustin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "caboradio.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "caboresorts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "caboroigimmobilien.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cabosfunchal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabotchristianschool.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabotplace.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cabovisao.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cabpharmatech.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cabpkdjb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cabrandyforum.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cabrandynews.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cabrasola.info": {
+            "ttl": 49,
+            "ipid": 4951,
+            "responses": 2
+        },
+        "cabre.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabregator.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabrerastoneservice.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabrerizo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabrft.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cabrils.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "cabrinischool.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "cabrio.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cabriofly.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabriorent.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cabritto.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cabrunello.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

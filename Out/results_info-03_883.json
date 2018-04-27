@@ -1,0 +1,435 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 914,
+        "blocked": 85,
+        "errors": 0
+    },
+    "domains": {
+        "reise-land.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reise-preisknaller.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reise-reporter.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "reise-tagebuch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reiseangebot.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reiseblog.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisebloggerne.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reisebuero-hamburg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisebuero-oberfell.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reisebus24.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisecms.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reiseforsikring.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "reisefotographie.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reisegeschichten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reisegutscheine.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reisehanoi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reisekataloge.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reisekontakte.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reiseland-deutschland.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reiseleicht.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reiselounge.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reisemarkt-flughafen-stuttgart.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisemed.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisemobil-center.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisemobile-wohnwagen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisemobilvermietung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "reisemobilversicherung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "reisemobilversicherungen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reisemobilversicherungsvergleich.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "reisen-flughafen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reisen-mit-kindern.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "reisen-ostsee.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisen-til-berlin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisen-tipps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "reisen24.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reisenbildet.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reisende-zimmererleute.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reiseperlen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reisepolice24.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reiseprofi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "reiser-systemtechnik.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "reiser-versand.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reiserbesen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisereklamationen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "reiservaringen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisescout.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reiseservice-visit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reiseshow.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reisesuchmaschine.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reisetasche.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisetrends.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "reiseverkehr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reiseverkehrs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisevermittler.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "reisevermittlung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "reiseversicherungen-testsieger.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "reisewelt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reisewerkstatt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reisewitz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reiseziele-deutschland.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reisforum.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reishand.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "reishi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "reisinger.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "reiskorn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "reislounge.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reisocialmediamarketing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reisrobotics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reiss.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reissmotivation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reissverschluesse.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "reisswolf-saarbruecken.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reisvanderazzia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "reit-im-winkl.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reit-way.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "reitemeier.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reiten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reiten-in-italien.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "reiten-in-niedersachsen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reiten-und-lernen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "reiter-ferien.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reiterhoefe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reiterkate-reitsport.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "reiternetzwerk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reitershop.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
+}

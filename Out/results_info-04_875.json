@@ -1,0 +1,525 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 896,
+        "blocked": 103,
+        "errors": 0
+    },
+    "domains": {
+        "visitparma.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "visitperth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitphila.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitprescott.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "visitpriorat.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visitr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "visitracine.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "visitraleigharts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "visitraleighdurham.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "visitrealtravel.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visitredding.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visitremax.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "visitridgecrestca.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "visitriodejaneiro.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "visitroanokeriver.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "visitroanokeriverregion.info": {
+            "ttl": 29,
+            "ipid": 17350,
+            "responses": 2
+        },
+        "visitsaddleridge.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "visitsaxony.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "visitsc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visitseattlesouthside.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitsecunderabad.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitseeleylake.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "visitshrewsbury.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visitshropshire.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "visitsimonmalls.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "visitskylinedrive.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "visitspringfield.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "visitsrilanka.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitstmichaelsmd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitsublette.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitsugarlandtx.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitsun.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "visitsvishtov.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "visittaj.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "visittalladega.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visittangier.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visitthat.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "visittheblackhills.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "visitthelastgreenvalley.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "visittherepublic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "visittheville.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visitthreesisterssprings.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "visittorshavn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "visitural.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "visitut.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "visitvalue.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "visitvb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "visitvictoria.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visitvillage.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "visitvillages.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitvillajoyosa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visitvillasimius.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "visitvintageatlantic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitvladimir.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "visitwallawalla.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitwardensville.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitwashtenaw.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visitwd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitwembley.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "visitwhitemountains.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "visitwichita.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "visitwy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "visityorkshire.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "visityorkshiredales.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "visityucatan.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "visivite.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visl.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "vislanguage.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vismans.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "visofarmaceutica.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visolux.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "visonic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "visop.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "visor-view.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "vispa-44.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vispario.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "vispol.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "vissa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "vissarion.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "visscher-caravelle.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "visser-online.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "visserij.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vissers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vissidus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vission-2020.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "vission-logistic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "vista-analytics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vista-development.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "vista-gonzo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "vista-m.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vistab.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "vistabet.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vistaclaim.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vistacompletecare.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "vistadelago.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "vistadelplaza.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "vistaestateimaging.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "vistafamily.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "vistage.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "vistagechairadmin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "vistagermantown.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "vistagold.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vistagy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

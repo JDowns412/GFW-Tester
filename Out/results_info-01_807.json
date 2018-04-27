@@ -1,0 +1,445 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 912,
+        "blocked": 87,
+        "errors": 0
+    },
+    "domains": {
+        "flugado.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "flugangst-frei.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "flugauto.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "flugbedarf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "flugfeldklinikum.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "flugfiskemassan.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "fluggastrechteanwalt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fluggastrechteverordnung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fluggerr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "flughafen-ber.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "flughafen-berlin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "flughafen-fuerteventura.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "flughafen-hahn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "flughafen-hurghada.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "flughafen-madeira.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "flughafen-nizza.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "flughafenangebote.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "flughafenreiseportal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "flughafentransfer-hagen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fluginfo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fluginspektion.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "flugkunft.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fluglaerm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fluglaternen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "flugplatz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "flugplatz-leer.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "flugplatzverzeichnis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "flugroboter.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "flugservice.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "flugsimulatoren.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "flugsport.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "flugtag.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "flugtermin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "flugvorbereitung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "flugzeiten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "flugzentrum.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "flugzeugmuseum.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "flugzeugverwertung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fluid-line.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "fluid-master.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "fluidampr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fluidcloud.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fluidcontrol.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fluidcoolingsolutions.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fluiddynamics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "fluidhosting.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fluidimaging.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "fluidline.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "fluidraulics.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "fluidsofdiesel2014.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fluidtechnologyresource.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fluidviewing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fluinfo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fluit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fluko.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "flumble.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "flumedesign.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "flumix.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "flumux.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "fluorconstructors.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "fluorcorporation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fluordesignbuild.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "fluorescencelifetimeflowcytometry.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "fluorezi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fluorgasc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "fluoride.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fluornewbuild.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fluornuscalepower.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "fluorsouthcarolina.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fluortech.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "flupirtin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "flurfoerderzeuge.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "flurorodends.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "flurox.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "flushing.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "flushingfinancial.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "flushinglocksmith.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "flushingonlinebanking.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "flushingplumbingheatingandcooling.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 11
+        },
+        "flushingsavngs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "flushtour.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "flusite.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "flussreiseclub.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "flusstours.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "flutaslegacy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "flutastic.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "flutetreefoundation.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        }
+    }
+}

@@ -1,0 +1,495 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 902,
+        "blocked": 97,
+        "errors": 0
+    },
+    "domains": {
+        "finance-360.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "finance-bux.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "finance-career.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "finance-deal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "finance-digital.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "finance-lib.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "finance-life.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "finance-sales.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "finance-scout24.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "finance-secure-web.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "finance-society.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "finance-solidaire.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "finance2030.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "finance4lawyers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financeassistants.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financeblog.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "financeblogs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financebutler.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financecanal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financecontrol.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financedaily.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financeeducator.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financeemea.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "financeetsante.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "financefabric.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "financeflow.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "financeforcare.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financeforeverybody.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financefrance.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "financefutures.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "financeh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financeinbusinesslife.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "financejobs.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financejourney.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financelink.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financenature.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "financepages.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financepro.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financequality.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financer.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financereport.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "financers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "financesaving.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "financescout.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "financetime.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "financetools.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financetrouble.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "financewatch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financia.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "financial-advisor.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "financial-center-frankfurt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financial-conduct.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financial-department.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financial-education.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financial-fitness-program.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financial-it-services.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financial-news.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financial-planner.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financial-power.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financial-rescuellc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financial-roundtable.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "financial-sanctions.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financial-translations.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financialaadvantage.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "financialadvantage.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financialadviserahp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "financialadvisorconnect.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "financialaidtv.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financialaidwiki.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "financialandtaxadvice.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "financialanswers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financialapp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "financialarticledirectory.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financialbananasplit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financialbasicsinfosystem.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "financialblindspots.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financialbreakthrough.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financialbuzz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financialcoachingconcepts.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financialconsultingforseniors.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financialdragon.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "financialed.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financialedge.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financialeducator.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "financialfitness47.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "financialfreedomclub.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "financialfreedomlife.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financialfreedomstudio.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financialfreedomtoday.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "financialfreedomwebinar.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "financialfridaysfamily.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "financialglossary.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "financialgravitycompanies.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "financialgrowth.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financialhardship.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "financialhealthcanada.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "financialhealthcheck.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

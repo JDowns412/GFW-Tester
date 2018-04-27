@@ -1,0 +1,455 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 910,
+        "blocked": 89,
+        "errors": 0
+    },
+    "domains": {
+        "die-show.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "die-sparkasse-bremen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "die-sport-apotheke.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "die-steinkette.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "die-steuer-partner.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "die-stimmexperten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "die-taschenspieler.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "die-texterin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "die-theaterwerkstatt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "die-therapeuten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "die-transportloesung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "die-unternehmensberatung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "die-vision.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "die-volks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "die-vorlesung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "die-weinberater.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "die-weltverbesserer.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "die-werkstatt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "die-wohnungswirtschaft.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "die-zahnarztpraxis-aachen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "die-zehn-gebote.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "die2-style.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "die8derwege.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "dieautohausfahrschule.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dieautowerkstatt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "diebauexperten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "diebaugeldmakler.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "diebauherrenberater.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "diebaumanns.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "diebestenderfeste.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "diebestenimherbst.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "diebestenimwinter.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "diebgdigital.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dieblumedeslebens.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "dieblumeninsel.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "diebolds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "diebspiel.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "diebstahlsicherung.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "diecastjunkies.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "diecielotto.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "diecisas.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dieck.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dieckhoff.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "diecutstickers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "diedachdecker.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "diedachmarke.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "diedistlers.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "diedorfmusikanten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dieedib.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dieeinmannbuergerwehr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dieenergieliga.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dieerste.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dieetdit.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "dieetdit-dieetdat.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "diefamilienpraxis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dieffe.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "dieffenbach.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "diefotobox.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "diefreiheit-bw.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "diefuenf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "diefuerstenfeldbrucker.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "diefunkelstadt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "diegap.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "diegastroberater.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "diegestalterin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "diegesundheitslotsen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "diegesundheitsprofis.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "diegiesserei.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "diego993.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "diegoarmandoguzman.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "diegobarizo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "diegobonnin.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "diegochacon.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "diegochicocorralesfund.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "diegoeguiguren.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "diegoherrera.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "diegojimenez.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 14
+        },
+        "diegoleal.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "diegovasallo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "diegustav.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "diegutachterinnen.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "dieguteidee.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dieguten.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "diehalle.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "diehaut.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "diehebamme.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "diehecks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "dieheilpraktiker.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "diehl-informatik.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        }
+    }
+}

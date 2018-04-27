@@ -1,0 +1,545 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 892,
+        "blocked": 107,
+        "errors": 0
+    },
+    "domains": {
+        "hs-matsumoto.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hs-merseburg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hs-tooling-werkzeugtechnik.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hs2sat.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "hs3.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hs7.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hs83k.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hs9zs3.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hsa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsa2-team.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsaadvocates.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsab.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsabrw.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsaenroll123.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsafordummies.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsajdd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsamuelgoldbuying.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "hsamutualfunds.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hsaondemand.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsapayments.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "hsarch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 12
+        },
+        "hsasystemsinc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsatdh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsaw.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsaycm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hsaz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "hsbc-hk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "hsbc-icps.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hsbc-ubp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "hsbc-usa-auto-loan.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "hsbcjade.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsbct.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "hsbcusaautos.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsbdesignco.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsbeisl.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsbfueht.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsbk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsbo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "hsbpn.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hsbqlv.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "hsbqp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "hsbsko.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsbund.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsby.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "hsc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "hsc2016.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsccanhelp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hscfuncenter.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsch.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hschaeufler.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hscjzevt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsckhjsz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "hsckqkws.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hscli.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hscrofh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hscrvtksybj.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hscsocks.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "hscwater.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsdinstitute.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsdkt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsdpa.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsdpep.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hsdq.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsdr.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsdva.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hsdx.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "hse-cert.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hse24-group.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hsebydeq.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hseh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsemicrosystems.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 9
+        },
+        "hseogf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hseqk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsesepk.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hseshare.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hset.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsettlephotography.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hseuzscm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hsexhy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsfhkszf.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsfi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsfocus.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "hsfqy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsfrdvi.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsfu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsg-llc.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsg055.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsg264.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsga.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsgafcm.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsgcd.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsge.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsgecz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsggkbhb.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsgjdmmo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hsgjtz.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsgljo.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsgrants.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsgt.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsgu.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsgv.info": {
+            "ttl": 60,
+            "ipid": 15151,
+            "responses": 2
+        },
+        "hsgy.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsh.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsh111.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "hsh8crrbdlbwbbhki.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hshamburg.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hshedvgrp.info": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}
