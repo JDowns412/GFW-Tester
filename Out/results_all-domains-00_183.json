@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "gngmodels.agency": {
+            "ttl": 81,
+            "ipid": 27772,
+            "responses": 2
+        },
+        "gossip.agency": {
+            "ttl": 105,
+            "ipid": 943,
+            "responses": 2
+        },
+        "greengotravel.agency": {
+            "ttl": 68,
+            "ipid": 4957,
+            "responses": 2
+        },
+        "grk.agency": {
+            "ttl": 82,
+            "ipid": 55161,
+            "responses": 2
+        },
+        "guided.agency": {
+            "ttl": 92,
+            "ipid": 52791,
+            "responses": 2
+        }
+    }
+}

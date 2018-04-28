@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "inyourlife.agency": {
+            "ttl": 92,
+            "ipid": 21067,
+            "responses": 2
+        },
+        "iop.agency": {
+            "ttl": 68,
+            "ipid": 49847,
+            "responses": 2
+        },
+        "janasky.agency": {
+            "ttl": 35,
+            "ipid": 58214,
+            "responses": 2
+        },
+        "jiaren.agency": {
+            "ttl": 75,
+            "ipid": 61500,
+            "responses": 2
+        },
+        "jwalterthompson.agency": {
+            "ttl": 38,
+            "ipid": 58437,
+            "responses": 2
+        }
+    }
+}

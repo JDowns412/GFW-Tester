@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "crowncasino.adult": {
+            "ttl": 63,
+            "ipid": 62595,
+            "responses": 2
+        },
+        "daenerys.adult": {
+            "ttl": 34,
+            "ipid": 5540,
+            "responses": 1
+        },
+        "dish.adult": {
+            "ttl": 73,
+            "ipid": 9070,
+            "responses": 2
+        },
+        "dunkindonuts.adult": {
+            "ttl": 35,
+            "ipid": 40568,
+            "responses": 2
+        },
+        "ebay.adult": {
+            "ttl": 53,
+            "ipid": 8385,
+            "responses": 2
+        },
+        "fabiia.adult": {
+            "ttl": 85,
+            "ipid": 58910,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "myfreefarm.ae": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "sntta.ae": {
+            "ttl": 87,
+            "ipid": 60823,
+            "responses": 2
+        },
+        "bigmart.ae": {
+            "ttl": 87,
+            "ipid": 28331,
+            "responses": 2
+        },
+        "ejobse.blogspot.ae": {
+            "ttl": 77,
+            "ipid": 28771,
+            "responses": 2
+        },
+        "education-in-the-uae.blogspot.ae": {
+            "ttl": 56,
+            "ipid": 39327,
+            "responses": 4
+        }
+    }
+}

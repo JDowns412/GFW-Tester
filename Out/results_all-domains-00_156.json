@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "factory.africa": {
+            "ttl": 80,
+            "ipid": 6215,
+            "responses": 2
+        },
+        "frontdoor.africa": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "goatdelivery.africa": {
+            "ttl": 88,
+            "ipid": 41650,
+            "responses": 2
+        }
+    }
+}

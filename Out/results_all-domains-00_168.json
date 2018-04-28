@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "kempf.ag": {
+            "ttl": 24,
+            "ipid": 0,
+            "responses": 1
+        },
+        "portmann.ag": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "radiusrealestate.ag": {
+            "ttl": 32,
+            "ipid": 24859,
+            "responses": 2
+        },
+        "remix.ag": {
+            "ttl": 87,
+            "ipid": 20583,
+            "responses": 2
+        }
+    }
+}

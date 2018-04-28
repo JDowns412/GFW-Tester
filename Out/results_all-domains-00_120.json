@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "esroee.accountant": {
+            "ttl": 63,
+            "ipid": 5780,
+            "responses": 2
+        },
+        "roofdad.accountant": {
+            "ttl": 64,
+            "ipid": 61363,
+            "responses": 2
+        },
+        "15j48su7qpdfc0l3hn.accountants": {
+            "ttl": 57,
+            "ipid": 18908,
+            "responses": 2
+        },
+        "ab.accountants": {
+            "ttl": 68,
+            "ipid": 30859,
+            "responses": 2
+        }
+    }
+}

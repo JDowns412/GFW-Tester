@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ipost.africa": {
+            "ttl": 33,
+            "ipid": 22827,
+            "responses": 2
+        },
+        "irina.africa": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "isite.africa": {
+            "ttl": 31,
+            "ipid": 44578,
+            "responses": 2
+        },
+        "itrade.africa": {
+            "ttl": 68,
+            "ipid": 4957,
+            "responses": 2
+        }
+    }
+}

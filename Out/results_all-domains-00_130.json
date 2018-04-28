@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "kevin.adult": {
+            "ttl": 36,
+            "ipid": 56859,
+            "responses": 2
+        },
+        "lacaixa.adult": {
+            "ttl": 61,
+            "ipid": 64933,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "ntzsog.accountant": {
+            "ttl": 39,
+            "ipid": 36008,
+            "responses": 2
+        },
+        "onlinedegreecourses.accountant": {
+            "ttl": 78,
+            "ipid": 42240,
+            "responses": 2
+        }
+    }
+}

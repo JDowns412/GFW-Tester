@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "bluebean.africa": {
+            "ttl": 84,
+            "ipid": 35231,
+            "responses": 2
+        },
+        "captur.africa": {
+            "ttl": 56,
+            "ipid": 19606,
+            "responses": 2
+        },
+        "christ.africa": {
+            "ttl": 78,
+            "ipid": 42240,
+            "responses": 2
+        }
+    }
+}

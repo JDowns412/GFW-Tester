@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "healthshare.agency": {
+            "ttl": 53,
+            "ipid": 22129,
+            "responses": 2
+        },
+        "hendersoninsurance.agency": {
+            "ttl": 100,
+            "ipid": 36328,
+            "responses": 2
+        },
+        "henerypress.agency": {
+            "ttl": 67,
+            "ipid": 24953,
+            "responses": 2
+        },
+        "highercreative.agency": {
+            "ttl": 36,
+            "ipid": 56859,
+            "responses": 2
+        },
+        "honor.agency": {
+            "ttl": 29,
+            "ipid": 54409,
+            "responses": 2
+        }
+    }
+}

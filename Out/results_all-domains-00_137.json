@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "compubase.ae": {
+            "ttl": 106,
+            "ipid": 17786,
+            "responses": 2
+        },
+        "crossfield.ae": {
+            "ttl": 77,
+            "ipid": 28771,
+            "responses": 2
+        },
+        "customwriting.ae": {
+            "ttl": 41,
+            "ipid": 23332,
+            "responses": 2
+        },
+        "cwm.ae": {
+            "ttl": 102,
+            "ipid": 44567,
+            "responses": 2
+        },
+        "discoverytravels.ae": {
+            "ttl": 40,
+            "ipid": 20073,
+            "responses": 2
+        }
+    }
+}
