@@ -88,7 +88,7 @@ def work(chunk, loc, counter):
 def dns_req(url):
     # should we use only theses IPs?
     ips = ["111.13.101.208", "125.39.240.113", "61.135.157.156", "202.114.64.5", "166.111.4.100", "162.105.131.196", "202.120.224.115", "106.11.47.20", "140.207.228.45", "118.178.213.186", "218.62.26.196"]
-    ans,unans = sr(IP(dst=ips[random.randint(0,len(ips)-1)])/UDP(dport=53)/DNS(rd=1,qd=DNSQR(qname=url)),verbose=0,multi=1,timeout=1)
+    ans,unans = sr(IP(dst=ips[random.randint(0,len(ips)-1)])/UDP(dport=53)/DNS(rd=1,qd=DNSQR(qname=url)),verbose=0,multi=1,timeout=.5)
     return ans
 
 def reader(file_name):
