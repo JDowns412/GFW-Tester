@@ -1,8 +1,8 @@
 import json, os, math, pdb, time
 
-for chunk in os.listdir("../Temp/Net"):
+for chunk in os.listdir("../Temp/All3"):
     print("Splitting %s" % chunk)
-    with open("../Temp/Net/%s" % chunk, "r") as f:
+    with open("../Temp/All3/%s" % chunk, "r") as f:
         domains = json.load(f)
 
     count = 0
