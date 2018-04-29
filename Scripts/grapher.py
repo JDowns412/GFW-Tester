@@ -5,7 +5,7 @@ from bokeh.charts import Histogram, output_file, show, HeatMap, bins,Bar
 from bokeh.plotting import figure
 from bokeh.models import ColumnDataSource
 from bokeh.palettes import Spectral6
-
+from collections import Counter
 
 #length of packet responses
 
@@ -33,6 +33,9 @@ def main():
 				ttls.append(ttl)
 				response = domains[k]["responses"]
 				responses.append(response)
+			else:
+				total-=1
+				blocked-=1
 	
 	output_file("../Figures/graphs.html")
 	p1 = Histogram(ipids,title="IPID Distribution")
@@ -46,7 +49,7 @@ def main():
 	p3 = Histogram(responses,title="Response Number")
 	p3.xaxis.axis_label = "Number of Responses"
 	p3.yaxis.axis_label = "Count"
-
+	print()
 	categories = ["blocked","allowed"]
 	quants = [blocked,allowed]
 	print("blocked: ",blocked)
@@ -55,6 +58,9 @@ def main():
 	print("errors: ",errors)
 	p4 = figure(x_range=categories,title="Blocked vs Allowed")
 	p4.vbar(x=categories,top=quants,width=0.3)
+
+	cnt = Counter(ttls)
+	print("ttls ",cnt.most_common(5))
 
 	p5 = figure(x_range=["April 2014","April 2018"],title="April 2014 v April 2018")
 	p5.vbar(x=["April 2014", "April 2018"],top=[35332,blocked],width=0.3)
