@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "miss-europe.adult": {
+            "ttl": 93,
+            "ipid": 7103,
+            "responses": 2
+        },
+        "nationalgrid.adult": {
+            "ttl": 35,
+            "ipid": 40568,
+            "responses": 2
+        },
+        "new-look.adult": {
+            "ttl": 68,
+            "ipid": 30859,
+            "responses": 2
+        },
+        "otk.adult": {
+            "ttl": 91,
+            "ipid": 14613,
+            "responses": 2
+        }
+    }
+}

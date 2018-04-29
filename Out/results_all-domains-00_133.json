@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "solera.adult": {
+            "ttl": 50,
+            "ipid": 32571,
+            "responses": 2
+        },
+        "soniakashukluxe.adult": {
+            "ttl": 56,
+            "ipid": 30932,
+            "responses": 2
+        },
+        "supergirl.adult": {
+            "ttl": 105,
+            "ipid": 42654,
+            "responses": 2
+        },
+        "tavistockhotellondon.adult": {
+            "ttl": 60,
+            "ipid": 7021,
+            "responses": 2
+        },
+        "temptation.adult": {
+            "ttl": 88,
+            "ipid": 41650,
+            "responses": 2
+        }
+    }
+}

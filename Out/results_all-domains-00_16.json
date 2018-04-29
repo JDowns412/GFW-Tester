@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "mindopeningmoments.academy": {
+            "ttl": 74,
+            "ipid": 60637,
+            "responses": 2
+        },
+        "mixer.academy": {
+            "ttl": 75,
+            "ipid": 61500,
+            "responses": 2
+        },
+        "mobility.academy": {
+            "ttl": 27,
+            "ipid": 58074,
+            "responses": 2
+        }
+    }
+}

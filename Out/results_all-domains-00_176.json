@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "celsius.agency": {
+            "ttl": 56,
+            "ipid": 7439,
+            "responses": 2
+        },
+        "chha.agency": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "chonghwa.agency": {
+            "ttl": 33,
+            "ipid": 22827,
+            "responses": 2
+        }
+    }
+}

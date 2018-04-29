@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "complaint.agency": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        },
+        "confident.agency": {
+            "ttl": 31,
+            "ipid": 25108,
+            "responses": 2
+        },
+        "corson.agency": {
+            "ttl": 42,
+            "ipid": 45595,
+            "responses": 2
+        },
+        "cps23.agency": {
+            "ttl": 88,
+            "ipid": 41650,
+            "responses": 2
+        },
+        "creativeproductions.agency": {
+            "ttl": 56,
+            "ipid": 27005,
+            "responses": 2
+        }
+    }
+}

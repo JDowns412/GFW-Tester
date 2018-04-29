@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "nlrd.africa": {
+            "ttl": 95,
+            "ipid": 207,
+            "responses": 2
+        },
+        "online-backup.africa": {
+            "ttl": 44,
+            "ipid": 54399,
+            "responses": 2
+        },
+        "opel.africa": {
+            "ttl": 85,
+            "ipid": 26631,
+            "responses": 2
+        },
+        "pioneerplastics.africa": {
+            "ttl": 33,
+            "ipid": 6329,
+            "responses": 2
+        }
+    }
+}

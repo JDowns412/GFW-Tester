@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "brabantia.adult": {
+            "ttl": 35,
+            "ipid": 30263,
+            "responses": 2
+        },
+        "canalplus.adult": {
+            "ttl": 94,
+            "ipid": 22001,
+            "responses": 2
+        },
+        "casino.adult": {
+            "ttl": 56,
+            "ipid": 39327,
+            "responses": 4
+        },
+        "chamberlainnurse.adult": {
+            "ttl": 57,
+            "ipid": 62879,
+            "responses": 2
+        },
+        "chequedejeuner.adult": {
+            "ttl": 51,
+            "ipid": 30985,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "stonecare.ae": {
+            "ttl": 80,
+            "ipid": 6215,
+            "responses": 2
+        },
+        "tanmiyat.ae": {
+            "ttl": 50,
+            "ipid": 32571,
+            "responses": 2
+        },
+        "tasleeh.ae": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "tivok.ae": {
+            "ttl": 73,
+            "ipid": 40291,
+            "responses": 2
+        },
+        "travelcounsellors.ae": {
+            "ttl": 55,
+            "ipid": 50886,
+            "responses": 2
+        },
+        "videoconnections.ae": {
+            "ttl": 38,
+            "ipid": 30554,
+            "responses": 2
+        }
+    }
+}

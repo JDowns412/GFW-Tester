@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "tmm.ae": {
+            "ttl": 29,
+            "ipid": 0,
+            "responses": 1
+        },
+        "uaenationalday.ae": {
+            "ttl": 73,
+            "ipid": 61469,
+            "responses": 2
+        },
+        "wziefah.blogspot.ae": {
+            "ttl": 74,
+            "ipid": 43934,
+            "responses": 2
+        },
+        "glsdubai.ae": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 1
+        },
+        "thinkrsa.ae": {
+            "ttl": 68,
+            "ipid": 53578,
+            "responses": 2
+        },
+        "ahappinesscenter.ae": {
+            "ttl": 35,
+            "ipid": 54811,
+            "responses": 2
+        },
+        "dwakapp.ae": {
+            "ttl": 30,
+            "ipid": 25685,
+            "responses": 2
+        }
+    }
+}

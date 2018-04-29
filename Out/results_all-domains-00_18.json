@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "overland.academy": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 1
+        },
+        "pistis.academy": {
+            "ttl": 72,
+            "ipid": 13065,
+            "responses": 2
+        },
+        "playtennis.academy": {
+            "ttl": 51,
+            "ipid": 24574,
+            "responses": 2
+        }
+    }
+}

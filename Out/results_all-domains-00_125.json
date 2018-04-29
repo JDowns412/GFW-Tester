@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "davidpeacock.actor": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "16punt30.ad": {
+            "ttl": 80,
+            "ipid": 17110,
+            "responses": 2
+        },
+        "andorrafreemarket.ad": {
+            "ttl": 55,
+            "ipid": 59785,
+            "responses": 2
+        },
+        "interurbana.ad": {
+            "ttl": 65,
+            "ipid": 35543,
+            "responses": 2
+        }
+    }
+}

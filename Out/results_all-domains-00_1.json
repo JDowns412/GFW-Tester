@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "randolphsampson.abogado": {
+            "ttl": 95,
+            "ipid": 207,
+            "responses": 2
+        },
+        "aoyama.ac": {
+            "ttl": 74,
+            "ipid": 20742,
+            "responses": 2
+        },
+        "artcenter.ac": {
+            "ttl": 55,
+            "ipid": 59785,
+            "responses": 2
+        },
+        "cam.ac": {
+            "ttl": 102,
+            "ipid": 31162,
+            "responses": 2
+        }
+    }
+}

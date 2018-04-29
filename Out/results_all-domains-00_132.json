@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ray-ban.adult": {
+            "ttl": 36,
+            "ipid": 49684,
+            "responses": 2
+        },
+        "realcanadianwholesaleclub.adult": {
+            "ttl": 55,
+            "ipid": 59785,
+            "responses": 2
+        },
+        "schaperbruemmer.adult": {
+            "ttl": 91,
+            "ipid": 14613,
+            "responses": 2
+        },
+        "schwabbankmortgage.adult": {
+            "ttl": 29,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

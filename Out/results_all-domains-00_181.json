@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "exptanzania.agency": {
+            "ttl": 56,
+            "ipid": 8481,
+            "responses": 2
+        },
+        "facebook-advertising.agency": {
+            "ttl": 51,
+            "ipid": 36724,
+            "responses": 2
+        },
+        "fakenews.agency": {
+            "ttl": 86,
+            "ipid": 29604,
+            "responses": 2
+        },
+        "familycommunicationsgroup.agency": {
+            "ttl": 44,
+            "ipid": 54399,
+            "responses": 2
+        },
+        "fascia.agency": {
+            "ttl": 42,
+            "ipid": 45595,
+            "responses": 2
+        },
+        "fatunicorn.agency": {
+            "ttl": 35,
+            "ipid": 54811,
+            "responses": 2
+        },
+        "federalenforcement.agency": {
+            "ttl": 91,
+            "ipid": 53452,
+            "responses": 2
+        },
+        "festtravel.agency": {
+            "ttl": 62,
+            "ipid": 12494,
+            "responses": 2
+        }
+    }
+}

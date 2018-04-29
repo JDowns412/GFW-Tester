@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "bi.agency": {
+            "ttl": 53,
+            "ipid": 22129,
+            "responses": 2
+        },
+        "bitt.agency": {
+            "ttl": 74,
+            "ipid": 43934,
+            "responses": 2
+        },
+        "blanko.agency": {
+            "ttl": 27,
+            "ipid": 11745,
+            "responses": 2
+        },
+        "boatrental.agency": {
+            "ttl": 29,
+            "ipid": 54409,
+            "responses": 2
+        },
+        "bohemiaamsterdam.agency": {
+            "ttl": 91,
+            "ipid": 53452,
+            "responses": 2
+        },
+        "bombano.agency": {
+            "ttl": 71,
+            "ipid": 10163,
+            "responses": 2
+        },
+        "boss.agency": {
+            "ttl": 40,
+            "ipid": 20073,
+            "responses": 2
+        }
+    }
+}

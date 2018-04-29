@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "collabryte.accountants": {
+            "ttl": 44,
+            "ipid": 4313,
+            "responses": 2
+        },
+        "broker.accountants": {
+            "ttl": 74,
+            "ipid": 60637,
+            "responses": 2
+        },
+        "kidrail.accountants": {
+            "ttl": 80,
+            "ipid": 17110,
+            "responses": 2
+        },
+        "emma.accountants": {
+            "ttl": 35,
+            "ipid": 40568,
+            "responses": 2
+        },
+        "powerolo.accountants": {
+            "ttl": 33,
+            "ipid": 22827,
+            "responses": 2
+        },
+        "check.accountants": {
+            "ttl": 60,
+            "ipid": 48153,
+            "responses": 2
+        },
+        "op.accountants": {
+            "ttl": 64,
+            "ipid": 11805,
+            "responses": 2
+        },
+        "successful.accountants": {
+            "ttl": 72,
+            "ipid": 13065,
+            "responses": 2
+        }
+    }
+}

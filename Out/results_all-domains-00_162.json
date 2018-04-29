@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "tweedenatuur.africa": {
+            "ttl": 33,
+            "ipid": 0,
+            "responses": 1
+        },
+        "wepay.africa": {
+            "ttl": 62,
+            "ipid": 12494,
+            "responses": 2
+        },
+        "women.africa": {
+            "ttl": 56,
+            "ipid": 27005,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "souvenir.africa": {
+            "ttl": 95,
+            "ipid": 207,
+            "responses": 2
+        },
+        "spas.africa": {
+            "ttl": 99,
+            "ipid": 10584,
+            "responses": 2
+        },
+        "stockexchange.africa": {
+            "ttl": 106,
+            "ipid": 17786,
+            "responses": 2
+        },
+        "sumo.africa": {
+            "ttl": 33,
+            "ipid": 22827,
+            "responses": 2
+        },
+        "tenmarks.africa": {
+            "ttl": 27,
+            "ipid": 286,
+            "responses": 2
+        },
+        "tenpay.africa": {
+            "ttl": 33,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ipmcoinc.academy": {
+            "ttl": 53,
+            "ipid": 60289,
+            "responses": 2
+        },
+        "iprep.academy": {
+            "ttl": 57,
+            "ipid": 18908,
+            "responses": 2
+        },
+        "ironfaculty.academy": {
+            "ttl": 94,
+            "ipid": 10485,
+            "responses": 2
+        },
+        "italianology.academy": {
+            "ttl": 91,
+            "ipid": 53452,
+            "responses": 2
+        }
+    }
+}

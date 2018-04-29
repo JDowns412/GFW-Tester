@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "dubai.ae": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "salik.gov.ae": {
+            "ttl": 77,
+            "ipid": 8193,
+            "responses": 2
+        },
+        "popcornnowis.blogspot.ae": {
+            "ttl": 34,
+            "ipid": 5540,
+            "responses": 2
+        },
+        "bulletproofsub.blogspot.ae": {
+            "ttl": 64,
+            "ipid": 61363,
+            "responses": 2
+        },
+        "sorbonne.ae": {
+            "ttl": 59,
+            "ipid": 34818,
+            "responses": 2
+        },
+        "01.ae": {
+            "ttl": 29,
+            "ipid": 27958,
+            "responses": 2
+        }
+    }
+}
