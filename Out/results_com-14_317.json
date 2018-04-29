@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "plplanners.com": {
+            "ttl": 44,
+            "ipid": 13079,
+            "responses": 2
+        },
+        "smallfoodssf.com": {
+            "ttl": 85,
+            "ipid": 19082,
+            "responses": 2
+        }
+    }
+}

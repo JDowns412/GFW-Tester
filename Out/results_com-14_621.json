@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "stauntonsonthegreen.com": {
+            "ttl": 93,
+            "ipid": 46669,
+            "responses": 1
+        },
+        "amyandkoni.com": {
+            "ttl": 73,
+            "ipid": 52794,
+            "responses": 2
+        }
+    }
+}

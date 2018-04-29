@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "euromedical-group.com": {
+            "ttl": 34,
+            "ipid": 13227,
+            "responses": 2
+        },
+        "andrexrewards.com": {
+            "ttl": 64,
+            "ipid": 18865,
+            "responses": 2
+        },
+        "apachestonemusic.com": {
+            "ttl": 90,
+            "ipid": 31042,
+            "responses": 2
+        },
+        "romanoscontadores.com": {
+            "ttl": 98,
+            "ipid": 7592,
+            "responses": 2
+        }
+    }
+}

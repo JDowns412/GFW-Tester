@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "golfjacket.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "citysnacks.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jeanvalles.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cbkids.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "snow-company.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

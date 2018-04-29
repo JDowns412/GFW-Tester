@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "google-anamytics.com": {
+            "ttl": 95,
+            "ipid": 29539,
+            "responses": 2
+        },
+        "87862.com": {
+            "ttl": 60,
+            "ipid": 56000,
+            "responses": 2
+        }
+    }
+}

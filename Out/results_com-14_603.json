@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "margkinneen.com": {
+            "ttl": 33,
+            "ipid": 0,
+            "responses": 1
+        },
+        "oushimei.com": {
+            "ttl": 93,
+            "ipid": 46669,
+            "responses": 1
+        }
+    }
+}

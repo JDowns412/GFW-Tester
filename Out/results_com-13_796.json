@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "southcoastcafeblinds.com": {
+            "ttl": 30,
+            "ipid": 16057,
+            "responses": 1
+        },
+        "springacresguesthouse.com": {
+            "ttl": 59,
+            "ipid": 37190,
+            "responses": 1
+        }
+    }
+}

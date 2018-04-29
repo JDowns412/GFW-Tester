@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "ctohome.com": {
+            "ttl": 99,
+            "ipid": 16802,
+            "responses": 1
+        },
+        "jeffchidester.com": {
+            "ttl": 97,
+            "ipid": 23039,
+            "responses": 2
+        }
+    }
+}

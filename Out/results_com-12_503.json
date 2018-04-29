@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "eopals.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "koshib.com": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "hytecauto.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "workingsafely.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ilovepizzamalaga.com": {
+            "ttl": 53,
+            "ipid": 42239,
+            "responses": 1
+        },
+        "playmome.com": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 2
+        },
+        "governmentwebdesign.com": {
+            "ttl": 99,
+            "ipid": 17506,
+            "responses": 2
+        },
+        "maevncanada.com": {
+            "ttl": 47,
+            "ipid": 43976,
+            "responses": 1
+        }
+    }
+}

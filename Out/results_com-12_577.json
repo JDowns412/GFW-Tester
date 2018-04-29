@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "vpntunnel.com": {
+            "ttl": 85,
+            "ipid": 7278,
+            "responses": 2
+        },
+        "hpdslabs.com": {
+            "ttl": 54,
+            "ipid": 37904,
+            "responses": 2
+        },
+        "matthewkenna.com": {
+            "ttl": 96,
+            "ipid": 45088,
+            "responses": 1
+        }
+    }
+}

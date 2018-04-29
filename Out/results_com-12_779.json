@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "omersa.com": {
+            "ttl": 68,
+            "ipid": 33435,
+            "responses": 2
+        },
+        "mybrainic.com": {
+            "ttl": 87,
+            "ipid": 2439,
+            "responses": 2
+        },
+        "xn--gurtbandfrderer-htb.com": {
+            "ttl": 81,
+            "ipid": 44629,
+            "responses": 1
+        }
+    }
+}

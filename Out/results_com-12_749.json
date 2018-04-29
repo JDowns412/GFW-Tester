@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "apartments-europe.com": {
+            "ttl": 68,
+            "ipid": 33435,
+            "responses": 2
+        },
+        "wilcoxenarts.com": {
+            "ttl": 100,
+            "ipid": 25116,
+            "responses": 2
+        }
+    }
+}

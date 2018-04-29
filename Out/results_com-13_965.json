@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "seagullhvac.com": {
+            "ttl": 95,
+            "ipid": 29539,
+            "responses": 2
+        },
+        "tweakbase.com": {
+            "ttl": 80,
+            "ipid": 7912,
+            "responses": 2
+        }
+    }
+}

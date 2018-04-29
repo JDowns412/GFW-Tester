@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "heaco.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "beatcrime.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "houseproduction.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sl4p.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "cambrillonespems.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "myturnkeybusiness.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

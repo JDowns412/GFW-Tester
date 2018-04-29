@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cs0099.com": {
+            "ttl": 72,
+            "ipid": 20667,
+            "responses": 1
+        },
+        "vikingcarribeancruise.com": {
+            "ttl": 60,
+            "ipid": 60684,
+            "responses": 2
+        }
+    }
+}

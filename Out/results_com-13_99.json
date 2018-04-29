@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "answertrilogy.com": {
+            "ttl": 105,
+            "ipid": 37530,
+            "responses": 2
+        },
+        "majesticmanors.com": {
+            "ttl": 83,
+            "ipid": 16739,
+            "responses": 2
+        }
+    }
+}

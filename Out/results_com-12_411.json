@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "r-lynchenterprises.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "terrific-livestock.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "antalian.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "beachcastle.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

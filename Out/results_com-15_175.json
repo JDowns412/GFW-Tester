@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "wellnessofutah.com": {
+            "ttl": 60,
+            "ipid": 6592,
+            "responses": 1
+        },
+        "roedermail.com": {
+            "ttl": 60,
+            "ipid": 44536,
+            "responses": 1
+        }
+    }
+}

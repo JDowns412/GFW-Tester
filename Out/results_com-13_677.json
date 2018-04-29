@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "greatzooofchinamovie.com": {
+            "ttl": 65,
+            "ipid": 28398,
+            "responses": 2
+        },
+        "winnipegmortgageexpert.com": {
+            "ttl": 53,
+            "ipid": 22300,
+            "responses": 1
+        },
+        "whyechang.com": {
+            "ttl": 72,
+            "ipid": 38937,
+            "responses": 1
+        },
+        "buneec.com": {
+            "ttl": 92,
+            "ipid": 55942,
+            "responses": 2
+        }
+    }
+}

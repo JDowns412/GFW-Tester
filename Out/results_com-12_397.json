@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "maggober.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "abstractcooking.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "kikuzato.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "estuchadosrampe.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "taichiwelllness.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

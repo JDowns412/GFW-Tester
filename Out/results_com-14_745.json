@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "aluminumcasting.com": {
+            "ttl": 85,
+            "ipid": 53130,
+            "responses": 2
+        },
+        "zerran.com": {
+            "ttl": 74,
+            "ipid": 65313,
+            "responses": 1
+        },
+        "americansteam.com": {
+            "ttl": 77,
+            "ipid": 63423,
+            "responses": 2
+        }
+    }
+}

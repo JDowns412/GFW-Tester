@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "medaox.com": {
+            "ttl": 84,
+            "ipid": 10458,
+            "responses": 1
+        },
+        "projectgoliath.com": {
+            "ttl": 96,
+            "ipid": 6844,
+            "responses": 1
+        },
+        "tittytwitter.com": {
+            "ttl": 88,
+            "ipid": 9142,
+            "responses": 2
+        }
+    }
+}

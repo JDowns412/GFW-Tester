@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "breakonthrough.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "agronomyjournal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ghyq.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "snapvideo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "medisis.com": {
+            "ttl": 47,
+            "ipid": 544,
+            "responses": 1
+        }
+    }
+}

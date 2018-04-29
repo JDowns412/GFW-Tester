@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "kingscrankshaft.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "resilient-solutions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "adventtechnologies.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "webfusionpublishing.com": {
+            "ttl": 68,
+            "ipid": 64570,
+            "responses": 1
+        },
+        "newportpress.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rmvizcaya.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "deconmastersfl.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shipboardvideoexpress.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "courtjesterpublications.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

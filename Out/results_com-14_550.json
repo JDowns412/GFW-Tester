@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "lilcanyoneer.com": {
+            "ttl": 102,
+            "ipid": 23756,
+            "responses": 1
+        },
+        "ebaraza.com": {
+            "ttl": 52,
+            "ipid": 42143,
+            "responses": 2
+        },
+        "theinsert.com": {
+            "ttl": 64,
+            "ipid": 35622,
+            "responses": 1
+        }
+    }
+}

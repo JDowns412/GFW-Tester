@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "furnituredesigngallery.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "notme2devices.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "statefarmpsp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "harmony-road.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "softpark-technologies.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

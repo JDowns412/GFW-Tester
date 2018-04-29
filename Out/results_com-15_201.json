@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "manitasonline.com": {
+            "ttl": 75,
+            "ipid": 44480,
+            "responses": 1
+        },
+        "carrentalsfresnoairport.com": {
+            "ttl": 60,
+            "ipid": 6721,
+            "responses": 1
+        }
+    }
+}

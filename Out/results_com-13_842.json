@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "toshibai.com": {
+            "ttl": 54,
+            "ipid": 44513,
+            "responses": 2
+        },
+        "adventurewonderstravel.com": {
+            "ttl": 90,
+            "ipid": 9719,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "northeast-aerospace.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "weareaware.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reallycare.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "seattlehomeleasing.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "aspatuckgardens.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mysharmony.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "asewinghabit.com": {
+            "ttl": 72,
+            "ipid": 2398,
+            "responses": 2
+        }
+    }
+}

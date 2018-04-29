@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "9xuexi.com": {
+            "ttl": 53,
+            "ipid": 42239,
+            "responses": 1
+        },
+        "lifestyletwitter.com": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 2
+        }
+    }
+}

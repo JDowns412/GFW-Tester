@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "vancouverbank.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "siuwingwa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "usercorp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "millsmall.com": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "horbacz.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lallarlleida.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "kvmdoor.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

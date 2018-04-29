@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "groovedsurface.com": {
+            "ttl": 80,
+            "ipid": 7912,
+            "responses": 2
+        },
+        "barryontheroad.com": {
+            "ttl": 104,
+            "ipid": 47795,
+            "responses": 1
+        }
+    }
+}

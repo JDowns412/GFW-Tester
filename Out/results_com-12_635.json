@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "fix4life.com": {
+            "ttl": 37,
+            "ipid": 31367,
+            "responses": 1
+        },
+        "wnlindsay.com": {
+            "ttl": 71,
+            "ipid": 19688,
+            "responses": 2
+        }
+    }
+}

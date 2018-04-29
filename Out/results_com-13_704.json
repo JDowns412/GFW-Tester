@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "55vpn.com": {
+            "ttl": 81,
+            "ipid": 53232,
+            "responses": 2
+        },
+        "marketingagencykit.com": {
+            "ttl": 31,
+            "ipid": 57179,
+            "responses": 1
+        }
+    }
+}

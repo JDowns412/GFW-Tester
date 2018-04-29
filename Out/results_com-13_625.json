@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "freshlyvegetarian.com": {
+            "ttl": 38,
+            "ipid": 25549,
+            "responses": 1
+        },
+        "abogadoscrp.com": {
+            "ttl": 86,
+            "ipid": 3836,
+            "responses": 2
+        }
+    }
+}

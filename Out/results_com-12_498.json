@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "beboconsulting.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shnmusic.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lgbtfallenheroes.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "technicalattorney.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "unexpectorated.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

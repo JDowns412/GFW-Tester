@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "hand-me-downs.com": {
+            "ttl": 50,
+            "ipid": 2528,
+            "responses": 2
+        },
+        "yk013.com": {
+            "ttl": 33,
+            "ipid": 6270,
+            "responses": 1
+        }
+    }
+}

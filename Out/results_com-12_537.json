@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "diez-de-ulzurrun.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bedbathshop.com": {
+            "ttl": 93,
+            "ipid": 25752,
+            "responses": 2
+        },
+        "paintinggoldenretrievers.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pondiuni.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "youreaclown.com": {
+            "ttl": 79,
+            "ipid": 41865,
+            "responses": 2
+        }
+    }
+}

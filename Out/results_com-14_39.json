@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "north-adventure.com": {
+            "ttl": 101,
+            "ipid": 24897,
+            "responses": 2
+        },
+        "tlesterphotography.com": {
+            "ttl": 64,
+            "ipid": 55491,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "huobi.com": {
+            "ttl": 74,
+            "ipid": 50285,
+            "responses": 1
+        },
+        "fawnmeadow.com": {
+            "ttl": 56,
+            "ipid": 880,
+            "responses": 2
+        }
+    }
+}

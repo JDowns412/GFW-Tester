@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "baillawyers.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "factknowledge.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "verjat.com": {
+            "ttl": 36,
+            "ipid": 13210,
+            "responses": 2
+        },
+        "ventapos.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "g2llc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "prontoviaggio.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bankfundsavailable.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "va1n.com": {
+            "ttl": 31,
+            "ipid": 44642,
+            "responses": 2
+        },
+        "ambattjohnson.com": {
+            "ttl": 58,
+            "ipid": 14452,
+            "responses": 2
+        }
+    }
+}

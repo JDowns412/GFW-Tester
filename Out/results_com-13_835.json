@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "miamiwelcomesyou.com": {
+            "ttl": 94,
+            "ipid": 48572,
+            "responses": 2
+        },
+        "clubtunnel.com": {
+            "ttl": 68,
+            "ipid": 22740,
+            "responses": 2
+        },
+        "andersonartbrokers.com": {
+            "ttl": 64,
+            "ipid": 26054,
+            "responses": 1
+        }
+    }
+}

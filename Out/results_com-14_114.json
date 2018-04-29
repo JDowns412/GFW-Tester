@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "snow-motor.com": {
+            "ttl": 36,
+            "ipid": 582,
+            "responses": 2
+        },
+        "flipagram-app-online-for-pc.com": {
+            "ttl": 30,
+            "ipid": 58228,
+            "responses": 2
+        }
+    }
+}

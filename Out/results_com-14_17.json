@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "tappin2it.com": {
+            "ttl": 53,
+            "ipid": 34383,
+            "responses": 1
+        },
+        "mykitchenandbaths.com": {
+            "ttl": 99,
+            "ipid": 19906,
+            "responses": 2
+        }
+    }
+}

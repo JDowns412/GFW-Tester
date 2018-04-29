@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "mgarza.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mchandler.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "formatos.com": {
+            "ttl": 93,
+            "ipid": 25752,
+            "responses": 2
+        },
+        "hentaiguy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pubfull.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "beebyte.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "oakwoodmotorcompany.com": {
+            "ttl": 72,
+            "ipid": 2398,
+            "responses": 2
+        }
+    }
+}

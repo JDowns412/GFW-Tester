@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "eftour.com": {
+            "ttl": 60,
+            "ipid": 6592,
+            "responses": 1
+        },
+        "robcassuto.com": {
+            "ttl": 62,
+            "ipid": 2891,
+            "responses": 1
+        }
+    }
+}

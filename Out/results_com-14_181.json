@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "61064b9.com": {
+            "ttl": 64,
+            "ipid": 39828,
+            "responses": 2
+        },
+        "acapyramid.com": {
+            "ttl": 42,
+            "ipid": 21757,
+            "responses": 2
+        },
+        "cyberguild2000.com": {
+            "ttl": 101,
+            "ipid": 57348,
+            "responses": 2
+        },
+        "vphoptometry.com": {
+            "ttl": 47,
+            "ipid": 34395,
+            "responses": 1
+        }
+    }
+}

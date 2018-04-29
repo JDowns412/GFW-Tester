@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "cab-log.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "silverwingenergyinc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "herbissima.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "weatherdimensions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

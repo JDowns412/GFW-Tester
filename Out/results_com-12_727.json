@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "hightec-24.com": {
+            "ttl": 36,
+            "ipid": 64906,
+            "responses": 2
+        },
+        "disk919.com": {
+            "ttl": 81,
+            "ipid": 44629,
+            "responses": 1
+        }
+    }
+}

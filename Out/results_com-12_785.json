@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "fraspa.com": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 1
+        },
+        "5616889.com": {
+            "ttl": 87,
+            "ipid": 2439,
+            "responses": 2
+        }
+    }
+}

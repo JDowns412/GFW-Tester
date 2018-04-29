@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "shawneesilk.com": {
+            "ttl": 28,
+            "ipid": 3821,
+            "responses": 2
+        },
+        "equalitech.com": {
+            "ttl": 79,
+            "ipid": 20055,
+            "responses": 1
+        }
+    }
+}

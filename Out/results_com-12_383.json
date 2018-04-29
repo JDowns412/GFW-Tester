@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "melsheimer.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "salmco.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "backdoorallstars.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "radiowebs.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "philipabrams.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "rubinofamily.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "familybankingcenter.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jmackie.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "easportssf12004.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}
