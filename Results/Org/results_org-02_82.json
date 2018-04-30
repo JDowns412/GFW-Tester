@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cshfus.org": {
+            "ttl": 64,
+            "ipid": 38767,
+            "responses": 1
+        },
+        "cshhsoccer.org": {
+            "ttl": 64,
+            "ipid": 34800,
+            "responses": 1
+        }
+    }
+}

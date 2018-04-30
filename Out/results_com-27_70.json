@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "mikes-cloud.com": {
+            "ttl": 64,
+            "ipid": 50808,
+            "responses": 1
+        },
+        "paintmyweddingday.com": {
+            "ttl": 29,
+            "ipid": 6132,
+            "responses": 1
+        }
+    }
+}

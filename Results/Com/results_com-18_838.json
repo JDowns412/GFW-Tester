@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "thecardcollege.com": {
+            "ttl": 95,
+            "ipid": 203,
+            "responses": 2
+        },
+        "hollowmachine.com": {
+            "ttl": 38,
+            "ipid": 17526,
+            "responses": 1
+        },
+        "camkoleji.com": {
+            "ttl": 103,
+            "ipid": 62818,
+            "responses": 1
+        },
+        "smartrepairs-marietta.com": {
+            "ttl": 64,
+            "ipid": 16399,
+            "responses": 1
+        },
+        "isidor.com": {
+            "ttl": 64,
+            "ipid": 62629,
+            "responses": 1
+        },
+        "smmmafy.com": {
+            "ttl": 48,
+            "ipid": 11051,
+            "responses": 2
+        },
+        "lac-chambon-guide.com": {
+            "ttl": 86,
+            "ipid": 56165,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "dijabetes.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "familyfiletrove.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

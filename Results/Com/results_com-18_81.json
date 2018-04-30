@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "triessentials.com": {
+            "ttl": 64,
+            "ipid": 30020,
+            "responses": 1
+        },
+        "onetoonecontacts.com": {
+            "ttl": 64,
+            "ipid": 3032,
+            "responses": 1
+        },
+        "ipowerwebsite.com": {
+            "ttl": 64,
+            "ipid": 51752,
+            "responses": 3
+        },
+        "ipowerwebdomain.com": {
+            "ttl": 79,
+            "ipid": 49534,
+            "responses": 1
+        }
+    }
+}

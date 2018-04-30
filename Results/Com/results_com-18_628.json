@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "toledosautorepair.com": {
+            "ttl": 57,
+            "ipid": 12642,
+            "responses": 1
+        },
+        "theglobalpastime.com": {
+            "ttl": 45,
+            "ipid": 52613,
+            "responses": 2
+        }
+    }
+}

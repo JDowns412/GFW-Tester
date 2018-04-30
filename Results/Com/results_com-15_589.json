@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "wander-bred.com": {
+            "ttl": 32,
+            "ipid": 38622,
+            "responses": 1
+        },
+        "v6vpn.com": {
+            "ttl": 30,
+            "ipid": 9571,
+            "responses": 2
+        }
+    }
+}

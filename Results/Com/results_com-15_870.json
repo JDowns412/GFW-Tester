@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "honjo-yeg.com": {
+            "ttl": 70,
+            "ipid": 61755,
+            "responses": 2
+        },
+        "v8821.com": {
+            "ttl": 54,
+            "ipid": 44189,
+            "responses": 1
+        }
+    }
+}

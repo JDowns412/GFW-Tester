@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "higherend.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "higherenergy.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "higherpraise1church.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "highfieldscapitaliilp.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

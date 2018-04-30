@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "tech-atelier.com": {
+            "ttl": 81,
+            "ipid": 36092,
+            "responses": 2
+        },
+        "imperfectdust.com": {
+            "ttl": 31,
+            "ipid": 42073,
+            "responses": 2
+        }
+    }
+}

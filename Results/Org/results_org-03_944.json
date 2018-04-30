@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "hospitalariescaldes.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospitalbelvidere.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospitalconsultinggroup.org": {
+            "ttl": 38,
+            "ipid": 3260,
+            "responses": 2
+        },
+        "hospitaler.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospitalfinances.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hospitalitymn.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "hospitalityrx.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospitalityschools.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospitalleonbecerra.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

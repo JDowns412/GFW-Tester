@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "loureal.com": {
+            "ttl": 103,
+            "ipid": 4910,
+            "responses": 2
+        },
+        "sys4peru.com": {
+            "ttl": 93,
+            "ipid": 40758,
+            "responses": 2
+        }
+    }
+}

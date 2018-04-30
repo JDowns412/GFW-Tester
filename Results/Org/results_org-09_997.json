@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "thegreenorganicjamaican.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "travelpirates.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "walker-mongopportunityranch.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "xdxcoin.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

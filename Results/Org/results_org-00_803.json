@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "automonster.org": {
+            "ttl": 33,
+            "ipid": 42755,
+            "responses": 2
+        },
+        "automotivecastle.org": {
+            "ttl": 37,
+            "ipid": 13427,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "examexpertise.org": {
+            "ttl": 34,
+            "ipid": 1312,
+            "responses": 2
+        },
+        "exatto.org": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "exbridge.org": {
+            "ttl": 64,
+            "ipid": 10644,
+            "responses": 1
+        },
+        "exbrpi.org": {
+            "ttl": 64,
+            "ipid": 51660,
+            "responses": 3
+        },
+        "excalibur-healthcare.org": {
+            "ttl": 64,
+            "ipid": 12371,
+            "responses": 2
+        }
+    }
+}

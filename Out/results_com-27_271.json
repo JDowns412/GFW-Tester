@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "fermentadorparacerveja.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "lindbohanon.com": {
+            "ttl": 81,
+            "ipid": 44903,
+            "responses": 2
+        },
+        "darksidetintpros.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "premiereradiation.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mlashamchaurasi.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "voltaeuropa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cirquedelaluna.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

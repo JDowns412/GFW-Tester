@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "roadbet.com": {
+            "ttl": 62,
+            "ipid": 8127,
+            "responses": 1
+        },
+        "worldjuniorcarptournament.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "laskutusohjelma.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hg3sc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jejumarineanimal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "praxismakesperfect.com": {
+            "ttl": 32,
+            "ipid": 3095,
+            "responses": 1
+        }
+    }
+}

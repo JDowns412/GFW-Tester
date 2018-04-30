@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "52ways.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "atomsmart.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "deftaiwan.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

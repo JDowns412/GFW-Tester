@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "hoergeraete-mannheim.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hoesheights.org": {
+            "ttl": 53,
+            "ipid": 43894,
+            "responses": 1
+        },
+        "hof-international.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hofstrahockey.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hoftown.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hog-heaven.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

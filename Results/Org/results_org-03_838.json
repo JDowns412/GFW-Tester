@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "hiaeyc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hiaus.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hibbeln.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hibeacon.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hibictc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hibrowz.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

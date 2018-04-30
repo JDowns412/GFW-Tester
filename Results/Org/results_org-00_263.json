@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "actapittsburgh.org": {
+            "ttl": 53,
+            "ipid": 10613,
+            "responses": 2
+        },
+        "actbefore.org": {
+            "ttl": 70,
+            "ipid": 29148,
+            "responses": 2
+        }
+    }
+}

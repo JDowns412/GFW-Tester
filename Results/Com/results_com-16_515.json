@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "homeiswhereilive.com": {
+            "ttl": 86,
+            "ipid": 47269,
+            "responses": 1
+        },
+        "ruclip.com": {
+            "ttl": 42,
+            "ipid": 12160,
+            "responses": 2
+        }
+    }
+}

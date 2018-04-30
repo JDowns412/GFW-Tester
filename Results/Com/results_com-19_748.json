@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "docomo-kaigai.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "myfreehomeappraisal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "free-url-submit.com": {
+            "ttl": 100,
+            "ipid": 44271,
+            "responses": 2
+        },
+        "agenpokerpro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

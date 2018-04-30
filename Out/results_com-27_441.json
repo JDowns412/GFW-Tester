@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "dirtyjeepsonline.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "marybloggins.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "venturalimoservice.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "agrosmarket.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

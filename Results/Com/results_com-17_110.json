@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "background-report.com": {
+            "ttl": 49,
+            "ipid": 41291,
+            "responses": 2
+        },
+        "maskfasteners.com": {
+            "ttl": 31,
+            "ipid": 42945,
+            "responses": 2
+        },
+        "szebedesign.com": {
+            "ttl": 74,
+            "ipid": 28750,
+            "responses": 2
+        }
+    }
+}

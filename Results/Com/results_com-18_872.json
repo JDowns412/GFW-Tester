@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "holiday-apartment-vienna.com": {
+            "ttl": 64,
+            "ipid": 15230,
+            "responses": 1
+        },
+        "fikirvitrini.com": {
+            "ttl": 64,
+            "ipid": 65371,
+            "responses": 1
+        }
+    }
+}

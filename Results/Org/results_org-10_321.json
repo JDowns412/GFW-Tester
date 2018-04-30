@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "raiseri.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "receptayyiperdogancamisi.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ryanoandp.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "safaripros.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "savestmarys.org": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

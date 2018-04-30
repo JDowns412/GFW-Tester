@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "duodu.com": {
+            "ttl": 34,
+            "ipid": 38249,
+            "responses": 2
+        },
+        "musclecarsaustralia.com": {
+            "ttl": 36,
+            "ipid": 44968,
+            "responses": 2
+        }
+    }
+}

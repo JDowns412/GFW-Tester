@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "theauctionbender.com": {
+            "ttl": 48,
+            "ipid": 60576,
+            "responses": 1
+        },
+        "fireflytwinklelights.com": {
+            "ttl": 95,
+            "ipid": 60949,
+            "responses": 1
+        },
+        "jttwissel.com": {
+            "ttl": 87,
+            "ipid": 22327,
+            "responses": 1
+        },
+        "331900.com": {
+            "ttl": 30,
+            "ipid": 5276,
+            "responses": 1
+        },
+        "0445z.com": {
+            "ttl": 68,
+            "ipid": 57771,
+            "responses": 2
+        }
+    }
+}

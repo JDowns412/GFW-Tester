@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "magnumgetyourshoton.com": {
+            "ttl": 95,
+            "ipid": 15820,
+            "responses": 2
+        },
+        "calletize.com": {
+            "ttl": 34,
+            "ipid": 60311,
+            "responses": 2
+        },
+        "kmyetherwallet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "anitrackgh.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

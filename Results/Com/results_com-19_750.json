@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "jessicakelle.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "u-ned.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hotelchilanatower.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "kitty-pedic.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "xcloudsolutions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

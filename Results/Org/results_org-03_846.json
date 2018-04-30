@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "highlandlakesolc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "highlandsgainesville.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "highlandshealth.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "highlandsministry.org": {
+            "ttl": 63,
+            "ipid": 8353,
+            "responses": 2
+        },
+        "highlandsphysicians.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "highlandsridge.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "highlimitcasino.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

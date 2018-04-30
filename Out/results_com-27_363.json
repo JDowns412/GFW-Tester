@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "techienepal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "googlezm.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "imperialambitions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bombshellbellydance.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

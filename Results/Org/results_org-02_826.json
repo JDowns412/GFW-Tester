@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "eurekadupont.org": {
+            "ttl": 64,
+            "ipid": 42488,
+            "responses": 1
+        },
+        "eurekaec.org": {
+            "ttl": 64,
+            "ipid": 29877,
+            "responses": 1
+        },
+        "eurekaelectrical.org": {
+            "ttl": 64,
+            "ipid": 3898,
+            "responses": 1
+        },
+        "eurekaengineering.org": {
+            "ttl": 64,
+            "ipid": 47909,
+            "responses": 1
+        }
+    }
+}

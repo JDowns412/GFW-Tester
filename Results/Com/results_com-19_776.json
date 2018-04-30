@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "my-paysafe.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lawcast101.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lucafarinastudio.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lifetocome.com": {
+            "ttl": 45,
+            "ipid": 9588,
+            "responses": 2
+        }
+    }
+}

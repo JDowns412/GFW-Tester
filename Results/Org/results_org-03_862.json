@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "hiramfootball.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hiredup.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hirelinks.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hireman.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

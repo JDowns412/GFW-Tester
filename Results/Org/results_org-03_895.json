@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "holistichealthacademy.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holisticlivingschool.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "holisticvitality.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holisticwellnesscoaching4u.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holistipedia.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

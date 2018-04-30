@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "wxddy.com": {
+            "ttl": 30,
+            "ipid": 19829,
+            "responses": 1
+        },
+        "mallardsaustralia.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "baoloctruong.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "qriousapp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "buyingedgewater.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rolllink.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "switchvpn.com": {
+            "ttl": 53,
+            "ipid": 7280,
+            "responses": 2
+        },
+        "ink4cake.com": {
+            "ttl": 73,
+            "ipid": 54410,
+            "responses": 1
+        }
+    }
+}

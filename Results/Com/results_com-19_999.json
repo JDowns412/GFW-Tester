@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "wouw-outdoor.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "todounpalo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "drivewaypavingbaltimore.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "halal-love-academy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

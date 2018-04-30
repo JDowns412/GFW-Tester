@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "homestone.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hometeamnet.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hometeethwhitening.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hometoday.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hometownautodealers.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

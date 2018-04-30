@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "sdobie.com": {
+            "ttl": 90,
+            "ipid": 10764,
+            "responses": 2
+        },
+        "adsnextweek.com": {
+            "ttl": 90,
+            "ipid": 35505,
+            "responses": 1
+        }
+    }
+}

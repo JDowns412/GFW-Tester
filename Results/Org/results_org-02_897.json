@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "fabulousinflatables.org": {
+            "ttl": 64,
+            "ipid": 15752,
+            "responses": 2
+        },
+        "fabulousmac.org": {
+            "ttl": 64,
+            "ipid": 12368,
+            "responses": 1
+        },
+        "fabulousmcgrady.org": {
+            "ttl": 64,
+            "ipid": 34143,
+            "responses": 1
+        },
+        "fabulousnewyou.org": {
+            "ttl": 64,
+            "ipid": 17284,
+            "responses": 1
+        }
+    }
+}

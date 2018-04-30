@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "cyberwa.org": {
+            "ttl": 41,
+            "ipid": 41259,
+            "responses": 1
+        },
+        "cyberwar.org": {
+            "ttl": 72,
+            "ipid": 11654,
+            "responses": 2
+        },
+        "cyborgretirement.org": {
+            "ttl": 36,
+            "ipid": 2642,
+            "responses": 2
+        }
+    }
+}

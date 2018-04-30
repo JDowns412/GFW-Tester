@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ethosministriesllc.org": {
+            "ttl": 64,
+            "ipid": 25647,
+            "responses": 1
+        },
+        "ethosnewmusic.org": {
+            "ttl": 64,
+            "ipid": 27359,
+            "responses": 1
+        },
+        "ethosngo.org": {
+            "ttl": 64,
+            "ipid": 7152,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "baitiaomall.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pensioncasadelabad.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "onlinestoragemart.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hus19.com": {
+            "ttl": 64,
+            "ipid": 24987,
+            "responses": 2
+        },
+        "saddleriversfinancialplanner.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

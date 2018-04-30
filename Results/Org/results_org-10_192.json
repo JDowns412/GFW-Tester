@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "belovedeverybody.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "boomyca.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "desimovieshd.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

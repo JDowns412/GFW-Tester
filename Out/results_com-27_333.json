@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "courser-adv.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "isol-en-laine.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lcacchiotti.com": {
+            "ttl": 36,
+            "ipid": 10230,
+            "responses": 1
+        },
+        "womensright2know.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

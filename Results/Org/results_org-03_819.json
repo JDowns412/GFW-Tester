@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "heritagebikeway.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "heritagefarmshoa.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "heritagehillfarm.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "heritagemercury.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

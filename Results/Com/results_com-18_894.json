@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "abnamromalaysia.com": {
+            "ttl": 36,
+            "ipid": 28469,
+            "responses": 2
+        },
+        "xukka.com": {
+            "ttl": 64,
+            "ipid": 28104,
+            "responses": 1
+        },
+        "hoganhouses.com": {
+            "ttl": 64,
+            "ipid": 53252,
+            "responses": 2
+        },
+        "mightypunches.com": {
+            "ttl": 64,
+            "ipid": 15253,
+            "responses": 1
+        },
+        "meadowstraining.com": {
+            "ttl": 64,
+            "ipid": 13141,
+            "responses": 1
+        }
+    }
+}

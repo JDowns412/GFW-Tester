@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "garyshoes.com": {
+            "ttl": 34,
+            "ipid": 44893,
+            "responses": 1
+        },
+        "blendwineshop.com": {
+            "ttl": 58,
+            "ipid": 15801,
+            "responses": 1
+        }
+    }
+}

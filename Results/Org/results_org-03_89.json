@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "florida-youth.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "floridaadoption.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "floridaalarmschool.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "floridaauctioneers.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "floridacarinsure.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

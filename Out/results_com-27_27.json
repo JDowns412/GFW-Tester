@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "cognizancemagazine.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kasetzer18.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "pacatuna.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "belarurbanismo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

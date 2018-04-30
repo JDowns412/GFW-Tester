@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 989,
+        "blocked": 10,
+        "errors": 0
+    },
+    "domains": {
+        "hseadvisor.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hseofficervn.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsfmo.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsgame.org": {
+            "ttl": 38,
+            "ipid": 47879,
+            "responses": 2
+        },
+        "hshscompare.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hsiangkuan.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsimuseum.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hsinfinity.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsinfu.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hsintao.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

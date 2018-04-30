@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "carvehairproducts.com": {
+            "ttl": 27,
+            "ipid": 2001,
+            "responses": 1
+        },
+        "ichinoseki-mochi.com": {
+            "ttl": 88,
+            "ipid": 35065,
+            "responses": 2
+        }
+    }
+}

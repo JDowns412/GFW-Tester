@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "rsf.org": {
+            "ttl": 38,
+            "ipid": 27851,
+            "responses": 2
+        },
+        "putlockerwatchfree.org": {
+            "ttl": 44,
+            "ipid": 8205,
+            "responses": 2
+        },
+        "dtwang.org": {
+            "ttl": 99,
+            "ipid": 8661,
+            "responses": 2
+        }
+    }
+}

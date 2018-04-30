@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "joshuajayevents.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "rollerskateskinny.com": {
+            "ttl": 58,
+            "ipid": 55253,
+            "responses": 2
+        }
+    }
+}

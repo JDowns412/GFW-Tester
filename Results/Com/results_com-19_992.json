@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "happytreeps.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "qponning.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "bypaulhouser.com": {
+            "ttl": 80,
+            "ipid": 64682,
+            "responses": 2
+        },
+        "teamregeneration.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "physiostconstant.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "smthgroup.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "logisticsframework.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

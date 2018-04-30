@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ewox.org": {
+            "ttl": 64,
+            "ipid": 42763,
+            "responses": 1
+        },
+        "ewpallacrosse.org": {
+            "ttl": 64,
+            "ipid": 2170,
+            "responses": 1
+        },
+        "ewpcradcliff.org": {
+            "ttl": 64,
+            "ipid": 17284,
+            "responses": 1
+        },
+        "ewpgqzxof.org": {
+            "ttl": 64,
+            "ipid": 61798,
+            "responses": 1
+        }
+    }
+}

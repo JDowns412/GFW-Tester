@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "azgarech.org": {
+            "ttl": 49,
+            "ipid": 24167,
+            "responses": 2
+        },
+        "azguntalk.org": {
+            "ttl": 90,
+            "ipid": 58495,
+            "responses": 2
+        }
+    }
+}

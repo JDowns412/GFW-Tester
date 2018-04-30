@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "topperminds.com": {
+            "ttl": 43,
+            "ipid": 8626,
+            "responses": 1
+        },
+        "palisadesvideo.com": {
+            "ttl": 64,
+            "ipid": 6052,
+            "responses": 1
+        },
+        "greenvolume.com": {
+            "ttl": 64,
+            "ipid": 51901,
+            "responses": 1
+        }
+    }
+}

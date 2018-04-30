@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "facee.org": {
+            "ttl": 34,
+            "ipid": 1312,
+            "responses": 2
+        },
+        "facepuss.org": {
+            "ttl": 64,
+            "ipid": 7152,
+            "responses": 1
+        },
+        "facer.org": {
+            "ttl": 64,
+            "ipid": 13418,
+            "responses": 1
+        }
+    }
+}

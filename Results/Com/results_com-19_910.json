@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "casanexthomebuyer.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "2ironmountainattorneys.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cfawestdalejobs.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "albanymart.com": {
+            "ttl": 32,
+            "ipid": 3095,
+            "responses": 1
+        }
+    }
+}

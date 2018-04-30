@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "uknibc.com": {
+            "ttl": 68,
+            "ipid": 52808,
+            "responses": 1
+        },
+        "xmxlf.com": {
+            "ttl": 81,
+            "ipid": 36110,
+            "responses": 1
+        },
+        "saveagirl.com": {
+            "ttl": 98,
+            "ipid": 61382,
+            "responses": 2
+        }
+    }
+}

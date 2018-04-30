@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "animedo.com": {
+            "ttl": 30,
+            "ipid": 19829,
+            "responses": 1
+        },
+        "fashionspotlights.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "orcavisuals.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "axarenmen.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jfrlblp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

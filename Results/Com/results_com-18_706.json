@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "whispernetwork.com": {
+            "ttl": 54,
+            "ipid": 14501,
+            "responses": 1
+        },
+        "hottestgeeks.com": {
+            "ttl": 98,
+            "ipid": 43443,
+            "responses": 1
+        }
+    }
+}

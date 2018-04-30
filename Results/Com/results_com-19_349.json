@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "stylebystark.com": {
+            "ttl": 73,
+            "ipid": 3393,
+            "responses": 2
+        },
+        "twi2022.com": {
+            "ttl": 97,
+            "ipid": 61952,
+            "responses": 1
+        }
+    }
+}

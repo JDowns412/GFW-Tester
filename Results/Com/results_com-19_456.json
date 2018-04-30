@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "jamesbartholomeusz.com": {
+            "ttl": 49,
+            "ipid": 15906,
+            "responses": 1
+        },
+        "shadowsokes.com": {
+            "ttl": 57,
+            "ipid": 61748,
+            "responses": 2
+        },
+        "lfzhulv.com": {
+            "ttl": 56,
+            "ipid": 48898,
+            "responses": 1
+        },
+        "gatitasardientes.com": {
+            "ttl": 43,
+            "ipid": 55973,
+            "responses": 1
+        }
+    }
+}

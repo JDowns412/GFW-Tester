@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "darkbluefund.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "concreteconspiracies.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mgcranes.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

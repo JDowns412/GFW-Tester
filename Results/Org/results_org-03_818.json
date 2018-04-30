@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "herestoyourhealth.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "heresylabs.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "herfitness.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hergbpmvg.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "herhome.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "heritage-rbc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "heritageadventurepark.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

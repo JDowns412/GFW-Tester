@@ -1,0 +1,105 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 980,
+        "blocked": 19,
+        "errors": 0
+    },
+    "domains": {
+        "wafin.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "wafres.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "wafwa.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wag-aic.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "wag-inc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wag-one.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wagan.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "wagashi.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wagdniw.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wagec.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "wageinsurance.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "wagemans.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wagenblast.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wageoutrage.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "wagetransparency.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "waggoner.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wagnerchiro.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wagnerfdn.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wagneropera.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

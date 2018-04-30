@@ -1,0 +1,385 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 924,
+        "blocked": 75,
+        "errors": 0
+    },
+    "domains": {
+        "mhsopenhouse.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "mhspirates.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mhsspartans.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mhstudies.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mhstudios.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "mhsvca.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mhsymposium.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mhtk.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mhtm.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mhtmagazine.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mhtower.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "mhtracytelugu.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mhtruitt.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mhtstl.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "mhtx.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mhuebner.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "mhughes.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "mhulen.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "mhum.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mhvicarsschools.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mhvideonetwork.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mhvkickball.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "mhvpls.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mhvsmri.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mhvwmkmzbm.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mhwee.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mhwf.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "mhwh.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mhwhces.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mhwirth.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "mhyh.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mhyk.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mhymy.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mhysc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mhzworldview.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "mi-beekeepers.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "mi-cef.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "mi-cert.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "mi-cloud.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mi-colitis.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mi-cops.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mi-dev13.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mi-frnds.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mi-hms.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mi-hms-testing.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mi-ho.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mi-ifm.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "mi-international.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mi-isapre.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mi-legalselfhelp.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mi-liuna.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "mi-media.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mi-newhome.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "mi-nkba.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "mi-oasis.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mi-piace.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "mi-probono.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mi-s.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mi-stagew03.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "mi-testq05.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "mi-testw03.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mi-testw08.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "mi-testw09.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mi-tiempo.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mi11i0naire.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mi11thgop.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "mi1dmat.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mi2.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mi2-factory.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "mi2g.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mi2karu.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mi4n6.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mi4q.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "mi5-services.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mi68.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

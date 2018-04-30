@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "wendysign.com": {
+            "ttl": 64,
+            "ipid": 59490,
+            "responses": 3
+        },
+        "ccroof.com": {
+            "ttl": 64,
+            "ipid": 16615,
+            "responses": 2
+        },
+        "sebago-shoes.com": {
+            "ttl": 64,
+            "ipid": 35530,
+            "responses": 1
+        },
+        "edata-it.com": {
+            "ttl": 64,
+            "ipid": 51752,
+            "responses": 3
+        }
+    }
+}

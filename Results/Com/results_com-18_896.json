@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "iforedetail.com": {
+            "ttl": 64,
+            "ipid": 28549,
+            "responses": 1
+        },
+        "kingsbridgemusic.com": {
+            "ttl": 64,
+            "ipid": 20249,
+            "responses": 1
+        },
+        "bellelaneneedham.com": {
+            "ttl": 87,
+            "ipid": 42349,
+            "responses": 2
+        },
+        "luxiusizhuang.com": {
+            "ttl": 43,
+            "ipid": 45719,
+            "responses": 1
+        }
+    }
+}

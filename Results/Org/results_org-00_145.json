@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "4tm.org": {
+            "ttl": 34,
+            "ipid": 46181,
+            "responses": 2
+        },
+        "4ulifecoaching.org": {
+            "ttl": 35,
+            "ipid": 24410,
+            "responses": 2
+        },
+        "4visitrollingacres.org": {
+            "ttl": 84,
+            "ipid": 19013,
+            "responses": 2
+        }
+    }
+}

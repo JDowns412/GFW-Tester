@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "sigmedpha.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sjindex.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "staionchain.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "thefactbook.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

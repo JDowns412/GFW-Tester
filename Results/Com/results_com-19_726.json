@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "jobeople.com": {
+            "ttl": 90,
+            "ipid": 1384,
+            "responses": 1
+        },
+        "porkessconsultancy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mycadillacelr.com": {
+            "ttl": 81,
+            "ipid": 11289,
+            "responses": 1
+        },
+        "zinomatics.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "carpromax.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "themedsupplyoutlet.com": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

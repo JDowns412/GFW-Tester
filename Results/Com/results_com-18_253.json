@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "internet-cruises.com": {
+            "ttl": 51,
+            "ipid": 41855,
+            "responses": 1
+        },
+        "kevinbaxterart.com": {
+            "ttl": 66,
+            "ipid": 59001,
+            "responses": 2
+        }
+    }
+}

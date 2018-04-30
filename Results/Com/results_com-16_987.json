@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "blavik.com": {
+            "ttl": 29,
+            "ipid": 57053,
+            "responses": 1
+        },
+        "25919.com": {
+            "ttl": 48,
+            "ipid": 34985,
+            "responses": 1
+        }
+    }
+}

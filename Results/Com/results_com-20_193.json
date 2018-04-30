@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "gotravelway.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "365enjoy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cafeguys.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "comfuwu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "asianrestaurantguide.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "trezor-invest.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sagiplan.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

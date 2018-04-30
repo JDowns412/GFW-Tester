@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "usscd.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "videotaped.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "zollamt.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bayterek.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

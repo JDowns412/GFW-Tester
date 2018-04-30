@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "factoranalysisrisk.org": {
+            "ttl": 64,
+            "ipid": 53131,
+            "responses": 1
+        },
+        "factorbook.org": {
+            "ttl": 64,
+            "ipid": 17284,
+            "responses": 1
+        }
+    }
+}

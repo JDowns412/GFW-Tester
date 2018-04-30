@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "aavs.org": {
+            "ttl": 37,
+            "ipid": 57630,
+            "responses": 2
+        },
+        "ab-inbev.org": {
+            "ttl": 79,
+            "ipid": 38581,
+            "responses": 2
+        },
+        "ab-support.org": {
+            "ttl": 53,
+            "ipid": 10613,
+            "responses": 2
+        }
+    }
+}

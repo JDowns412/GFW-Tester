@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "hvhomematters.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hvjc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hvl360.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hvnogmos.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hvpawnandfirearms.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hvps.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hvstrategies.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hvumc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hvww.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

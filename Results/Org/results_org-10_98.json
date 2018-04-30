@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "qphd.org": {
+            "ttl": 95,
+            "ipid": 54045,
+            "responses": 1
+        },
+        "speedfast365-cloud.org": {
+            "ttl": 73,
+            "ipid": 10159,
+            "responses": 2
+        }
+    }
+}

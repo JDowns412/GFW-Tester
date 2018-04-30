@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "gulara.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gulfcoastfoodco-op.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "gulfcoastiguanas.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

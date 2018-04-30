@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "extremerealnews.com": {
+            "ttl": 32,
+            "ipid": 54996,
+            "responses": 1
+        },
+        "99gg145.com": {
+            "ttl": 97,
+            "ipid": 24084,
+            "responses": 2
+        }
+    }
+}

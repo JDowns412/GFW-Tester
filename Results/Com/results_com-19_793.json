@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "musicquestion.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cwrightphotography.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "suedtirolsouvenirs.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "aspisllc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

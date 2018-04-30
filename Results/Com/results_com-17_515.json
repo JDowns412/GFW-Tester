@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "pu1122.com": {
+            "ttl": 58,
+            "ipid": 8023,
+            "responses": 1
+        },
+        "mygeopro.com": {
+            "ttl": 82,
+            "ipid": 48156,
+            "responses": 2
+        }
+    }
+}

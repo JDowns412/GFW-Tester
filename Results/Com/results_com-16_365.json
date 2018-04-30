@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "tonicaresearch.com": {
+            "ttl": 81,
+            "ipid": 11970,
+            "responses": 1
+        },
+        "lakewindsgolf.com": {
+            "ttl": 38,
+            "ipid": 61887,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 989,
+        "blocked": 10,
+        "errors": 0
+    },
+    "domains": {
+        "hospitalperformance.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospitalsofamerica.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospizdienst.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hosppta.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "host-line.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "host-roz.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hostageaffairs.org": {
+            "ttl": 90,
+            "ipid": 62699,
+            "responses": 2
+        },
+        "hostamun.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hostasia.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hostbartar.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

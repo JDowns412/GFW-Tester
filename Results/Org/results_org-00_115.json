@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "30apoolsandspas.org": {
+            "ttl": 73,
+            "ipid": 19524,
+            "responses": 2
+        },
+        "30daygoal.org": {
+            "ttl": 72,
+            "ipid": 37736,
+            "responses": 1
+        },
+        "30daygratitudechallenge.org": {
+            "ttl": 54,
+            "ipid": 6635,
+            "responses": 2
+        },
+        "30milliongays.org": {
+            "ttl": 45,
+            "ipid": 32741,
+            "responses": 2
+        }
+    }
+}

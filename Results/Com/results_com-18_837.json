@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "joycejudephoto.com": {
+            "ttl": 64,
+            "ipid": 12823,
+            "responses": 2
+        },
+        "gaunalifegroup.com": {
+            "ttl": 64,
+            "ipid": 15253,
+            "responses": 1
+        },
+        "ftavasia.com": {
+            "ttl": 64,
+            "ipid": 28082,
+            "responses": 1
+        }
+    }
+}

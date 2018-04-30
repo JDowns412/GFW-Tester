@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "evopak.org": {
+            "ttl": 64,
+            "ipid": 42763,
+            "responses": 1
+        },
+        "evopricing.org": {
+            "ttl": 64,
+            "ipid": 38767,
+            "responses": 1
+        },
+        "evoqcollaborate.org": {
+            "ttl": 64,
+            "ipid": 61798,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "adorox.com": {
+            "ttl": 35,
+            "ipid": 11180,
+            "responses": 1
+        },
+        "yalanbul.com": {
+            "ttl": 64,
+            "ipid": 60014,
+            "responses": 1
+        },
+        "paperspleasetees.com": {
+            "ttl": 64,
+            "ipid": 28925,
+            "responses": 1
+        },
+        "ckhan.com": {
+            "ttl": 64,
+            "ipid": 52210,
+            "responses": 1
+        },
+        "gccinternet.com": {
+            "ttl": 64,
+            "ipid": 51901,
+            "responses": 1
+        }
+    }
+}

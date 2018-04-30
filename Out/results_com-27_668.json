@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "lv500.com": {
+            "ttl": 49,
+            "ipid": 8180,
+            "responses": 1
+        },
+        "linkyogi.com": {
+            "ttl": 83,
+            "ipid": 64141,
+            "responses": 2
+        },
+        "vojsify.com": {
+            "ttl": 82,
+            "ipid": 402,
+            "responses": 1
+        }
+    }
+}

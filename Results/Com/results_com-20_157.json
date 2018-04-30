@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "ats-net.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hondacheck.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "steinbergmedical.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kutenkurvy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hcprimarycare.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "proposalcare.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "caseboy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
+}

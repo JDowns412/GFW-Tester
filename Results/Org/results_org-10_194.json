@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "leaderpage.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lhet.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "merm-aid.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "newchildrens.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "oftrustus.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

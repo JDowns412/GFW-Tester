@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cavemouth.com": {
+            "ttl": 85,
+            "ipid": 64225,
+            "responses": 1
+        },
+        "paulgillies.com": {
+            "ttl": 55,
+            "ipid": 2708,
+            "responses": 2
+        }
+    }
+}

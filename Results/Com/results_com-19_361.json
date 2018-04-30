@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "dainoshop.com": {
+            "ttl": 76,
+            "ipid": 19311,
+            "responses": 1
+        },
+        "isrcit.com": {
+            "ttl": 49,
+            "ipid": 60849,
+            "responses": 2
+        },
+        "gzellacollection.com": {
+            "ttl": 87,
+            "ipid": 22327,
+            "responses": 1
+        }
+    }
+}

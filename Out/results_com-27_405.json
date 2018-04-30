@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "groupvanmark.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hddspeed.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "herosenergie.com": {
+            "ttl": 81,
+            "ipid": 33578,
+            "responses": 2
+        },
+        "cmswebsource.com": {
+            "ttl": 105,
+            "ipid": 9923,
+            "responses": 1
+        }
+    }
+}

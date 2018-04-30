@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "78-dc.com": {
+            "ttl": 62,
+            "ipid": 30256,
+            "responses": 1
+        },
+        "duzituan.com": {
+            "ttl": 105,
+            "ipid": 34639,
+            "responses": 1
+        }
+    }
+}

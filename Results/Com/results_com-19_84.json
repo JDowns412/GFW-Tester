@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "fakehoax.com": {
+            "ttl": 90,
+            "ipid": 44236,
+            "responses": 1
+        },
+        "ericpession.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cftdmm.com": {
+            "ttl": 54,
+            "ipid": 58945,
+            "responses": 1
+        }
+    }
+}

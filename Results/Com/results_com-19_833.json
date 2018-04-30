@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "denisehaeussler.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "drcmall.com": {
+            "ttl": 81,
+            "ipid": 59368,
+            "responses": 1
+        }
+    }
+}

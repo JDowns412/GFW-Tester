@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "etvnord.org": {
+            "ttl": 64,
+            "ipid": 62425,
+            "responses": 1
+        },
+        "etvoices.org": {
+            "ttl": 64,
+            "ipid": 12368,
+            "responses": 1
+        },
+        "etvoila.org": {
+            "ttl": 64,
+            "ipid": 56734,
+            "responses": 1
+        }
+    }
+}

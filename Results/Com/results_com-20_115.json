@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "lederprint.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hastahomedelivery.com": {
+            "ttl": 79,
+            "ipid": 2750,
+            "responses": 1
+        },
+        "fengquanpack.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tractotor.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bestellen-ohne-schufa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fredsautoservicemi.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "bms-rara.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "youbot-shop.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "thekingofpong.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "digitalsoundlab.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "theimagemakr.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

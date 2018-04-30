@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "shoptooshady.com": {
+            "ttl": 70,
+            "ipid": 44297,
+            "responses": 1
+        },
+        "leancopywriting.com": {
+            "ttl": 87,
+            "ipid": 22327,
+            "responses": 1
+        },
+        "8milesforwater.com": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 2
+        },
+        "primusgrocery.com": {
+            "ttl": 81,
+            "ipid": 50672,
+            "responses": 1
+        }
+    }
+}

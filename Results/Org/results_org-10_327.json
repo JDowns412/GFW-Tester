@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "orangeblossompeds.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "parkandseek.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "preservetheforest.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "printersdrivers.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "qatest-jk-03132018.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ev-ssl-certificates.org": {
+            "ttl": 64,
+            "ipid": 737,
+            "responses": 1
+        },
+        "ev-taxi.org": {
+            "ttl": 64,
+            "ipid": 41522,
+            "responses": 1
+        },
+        "ev0-tech.org": {
+            "ttl": 64,
+            "ipid": 25647,
+            "responses": 1
+        },
+        "ev18.org": {
+            "ttl": 64,
+            "ipid": 29877,
+            "responses": 1
+        }
+    }
+}

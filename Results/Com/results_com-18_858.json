@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "usadentalstudio.com": {
+            "ttl": 64,
+            "ipid": 28104,
+            "responses": 1
+        },
+        "propcart.com": {
+            "ttl": 98,
+            "ipid": 44799,
+            "responses": 1
+        },
+        "dd1919.com": {
+            "ttl": 43,
+            "ipid": 45719,
+            "responses": 1
+        }
+    }
+}

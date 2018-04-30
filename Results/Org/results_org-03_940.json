@@ -1,0 +1,60 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 989,
+        "blocked": 10,
+        "errors": 0
+    },
+    "domains": {
+        "horrordb.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horrorfilm.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horrorhosthof.org": {
+            "ttl": 51,
+            "ipid": 28230,
+            "responses": 2
+        },
+        "horroruniversity.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horse4life.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horseboardinguk.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horseheritageconservancy.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horsemonkey.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "horseplayersassociation.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horseplayfarms.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

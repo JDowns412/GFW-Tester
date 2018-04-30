@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "vrsalescompany.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fullmoonincmovie.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ha962.com": {
+            "ttl": 29,
+            "ipid": 11804,
+            "responses": 1
+        },
+        "jannasdoggiedosandkittystoo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

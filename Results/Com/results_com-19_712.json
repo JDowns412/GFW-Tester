@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "12345365.com": {
+            "ttl": 27,
+            "ipid": 32312,
+            "responses": 1
+        },
+        "occ-med.com": {
+            "ttl": 74,
+            "ipid": 34460,
+            "responses": 2
+        }
+    }
+}

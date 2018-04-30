@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cheerful-inc.com": {
+            "ttl": 88,
+            "ipid": 42784,
+            "responses": 2
+        },
+        "lestroisfleurs.com": {
+            "ttl": 28,
+            "ipid": 15553,
+            "responses": 2
+        }
+    }
+}

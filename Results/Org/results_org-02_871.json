@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "expensiveshoes.org": {
+            "ttl": 64,
+            "ipid": 12118,
+            "responses": 1
+        },
+        "expensivetoys.org": {
+            "ttl": 64,
+            "ipid": 12370,
+            "responses": 2
+        }
+    }
+}

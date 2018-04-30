@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "foodsandbeauty.com": {
+            "ttl": 106,
+            "ipid": 21823,
+            "responses": 2
+        },
+        "stockbuyr.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vayameme.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

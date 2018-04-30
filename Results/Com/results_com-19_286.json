@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "conexionesla.com": {
+            "ttl": 27,
+            "ipid": 9903,
+            "responses": 1
+        },
+        "awa-express.com": {
+            "ttl": 50,
+            "ipid": 26882,
+            "responses": 1
+        },
+        "yourportcredit.com": {
+            "ttl": 27,
+            "ipid": 29981,
+            "responses": 1
+        }
+    }
+}

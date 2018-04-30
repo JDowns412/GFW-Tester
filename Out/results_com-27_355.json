@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "rmi2.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rentmytorontocondo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "explays.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sooliving.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "todoozr.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "robocopcentral.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mingloskijrandsons.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

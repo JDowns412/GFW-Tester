@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "icpsms.com": {
+            "ttl": 87,
+            "ipid": 53873,
+            "responses": 1
+        },
+        "primhangers.com": {
+            "ttl": 58,
+            "ipid": 15801,
+            "responses": 1
+        }
+    }
+}

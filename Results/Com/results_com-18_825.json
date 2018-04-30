@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "thesacredexpression.com": {
+            "ttl": 64,
+            "ipid": 27978,
+            "responses": 1
+        },
+        "12dotrekking.com": {
+            "ttl": 64,
+            "ipid": 13591,
+            "responses": 1
+        },
+        "michaelvictorsimon.com": {
+            "ttl": 64,
+            "ipid": 2829,
+            "responses": 1
+        },
+        "cosimpatico.com": {
+            "ttl": 64,
+            "ipid": 20734,
+            "responses": 1
+        },
+        "agartha-belfort.com": {
+            "ttl": 64,
+            "ipid": 51752,
+            "responses": 1
+        },
+        "5188500.com": {
+            "ttl": 98,
+            "ipid": 44799,
+            "responses": 1
+        }
+    }
+}

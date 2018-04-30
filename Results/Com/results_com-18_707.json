@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "melbournecup2015livestream.com": {
+            "ttl": 45,
+            "ipid": 52613,
+            "responses": 2
+        },
+        "industrialtechnician.com": {
+            "ttl": 100,
+            "ipid": 21847,
+            "responses": 2
+        },
+        "carvakti.com": {
+            "ttl": 94,
+            "ipid": 2553,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ezplan4gas-electricbills.org": {
+            "ttl": 64,
+            "ipid": 62425,
+            "responses": 1
+        },
+        "ezplanit.org": {
+            "ttl": 64,
+            "ipid": 12368,
+            "responses": 1
+        },
+        "ezploit.org": {
+            "ttl": 64,
+            "ipid": 30025,
+            "responses": 1
+        }
+    }
+}

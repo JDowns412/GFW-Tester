@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "multisitechurches.com": {
+            "ttl": 62,
+            "ipid": 35783,
+            "responses": 2
+        },
+        "lackingfocusphotography.com": {
+            "ttl": 88,
+            "ipid": 43456,
+            "responses": 2
+        },
+        "metromusclecars.com": {
+            "ttl": 96,
+            "ipid": 22871,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "trabajoscolombia.com": {
+            "ttl": 95,
+            "ipid": 22948,
+            "responses": 2
+        },
+        "parkingface.com": {
+            "ttl": 60,
+            "ipid": 16849,
+            "responses": 2
+        }
+    }
+}

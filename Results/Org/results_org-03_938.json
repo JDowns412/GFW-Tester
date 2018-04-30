@@ -1,0 +1,65 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 988,
+        "blocked": 11,
+        "errors": 0
+    },
+    "domains": {
+        "horizondrive.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horizonnorth.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horizonpointe.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horizonpurity.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "horizons-sahel.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horizons-unbound.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horizonsfamilylaw.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "horizonsnew.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horizontalengineers.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "horizonviewdata.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "horizonwestlc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

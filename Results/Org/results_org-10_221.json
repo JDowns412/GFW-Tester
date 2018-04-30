@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "05cos4lvc68mlgu2efk4396s7jjs9qr4.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "allymusic.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bethesdasiloam.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "biochemua.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

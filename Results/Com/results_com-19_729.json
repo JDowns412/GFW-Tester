@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "shanhaitang.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sustainablysliced.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "orginsrecovery.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tngrnow.com": {
+            "ttl": 32,
+            "ipid": 5221,
+            "responses": 2
+        }
+    }
+}

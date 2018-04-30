@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "dutyfly.com": {
+            "ttl": 90,
+            "ipid": 1384,
+            "responses": 1
+        },
+        "hamptonswinerytour.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

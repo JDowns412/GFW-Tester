@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "half-earth.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "halfpennypublications.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "halgen.org": {
+            "ttl": 61,
+            "ipid": 3139,
+            "responses": 2
+        }
+    }
+}

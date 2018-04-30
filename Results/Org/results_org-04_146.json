@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "imediators.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "imexclinic.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "imfelektronik.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "imforsale.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "imforthehillcountrymovie.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

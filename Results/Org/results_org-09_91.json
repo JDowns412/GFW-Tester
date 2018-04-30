@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "walkerreid.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "walkersvillealumni.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "walkersystemssupportinc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "walkforcancer.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "walkfordecenthealthcare.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "walkforlifeclubfoot.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "walkingdevs.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "walkingoutdoors.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

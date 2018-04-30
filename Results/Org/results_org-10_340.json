@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "schaeffer-kontor.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sdbobcat.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sereneorganization.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "standingoh.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

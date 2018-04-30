@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "simplypurefrozen.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fencingtrainer.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "essentialoilsecrets.com": {
+            "ttl": 106,
+            "ipid": 21823,
+            "responses": 2
+        },
+        "harvesthealingcentre.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "fivitec.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tamafukushisousai.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rapidcyclingbikes.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ventrial.com": {
+            "ttl": 88,
+            "ipid": 50180,
+            "responses": 1
+        },
+        "loupingo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

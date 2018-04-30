@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "etools.org": {
+            "ttl": 64,
+            "ipid": 28759,
+            "responses": 1
+        },
+        "etoolshq.org": {
+            "ttl": 64,
+            "ipid": 51660,
+            "responses": 2
+        },
+        "etopia.org": {
+            "ttl": 64,
+            "ipid": 7482,
+            "responses": 1
+        },
+        "etopim.org": {
+            "ttl": 64,
+            "ipid": 42127,
+            "responses": 1
+        }
+    }
+}

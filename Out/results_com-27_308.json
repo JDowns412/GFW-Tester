@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "mlesfleurs.com": {
+            "ttl": 50,
+            "ipid": 26361,
+            "responses": 1
+        },
+        "nawawanich.com": {
+            "ttl": 81,
+            "ipid": 44903,
+            "responses": 2
+        },
+        "genrace.com": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "ennisapp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

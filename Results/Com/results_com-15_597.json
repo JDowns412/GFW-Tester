@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "hcheyue.com": {
+            "ttl": 30,
+            "ipid": 9571,
+            "responses": 2
+        },
+        "thehararis.com": {
+            "ttl": 67,
+            "ipid": 4850,
+            "responses": 1
+        }
+    }
+}

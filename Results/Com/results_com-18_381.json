@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "internalpostingsbytwitter.com": {
+            "ttl": 81,
+            "ipid": 3534,
+            "responses": 2
+        },
+        "websiteswap.com": {
+            "ttl": 90,
+            "ipid": 40553,
+            "responses": 2
+        },
+        "fujifilmproserviceus.com": {
+            "ttl": 99,
+            "ipid": 50004,
+            "responses": 1
+        }
+    }
+}

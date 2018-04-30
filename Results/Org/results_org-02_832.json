@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "europeanlighting.org": {
+            "ttl": 64,
+            "ipid": 42763,
+            "responses": 1
+        },
+        "europeanmade.org": {
+            "ttl": 64,
+            "ipid": 12370,
+            "responses": 2
+        },
+        "europeanmarketingprofessionalcertification.org": {
+            "ttl": 64,
+            "ipid": 47909,
+            "responses": 1
+        }
+    }
+}

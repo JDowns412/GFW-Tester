@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ameliaclairedesigns.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hotelmiamimashhad.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "writingbowl.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ipotguru.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

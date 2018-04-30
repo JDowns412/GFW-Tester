@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "rumaihco.com": {
+            "ttl": 36,
+            "ipid": 41456,
+            "responses": 1
+        },
+        "arbpaintinghouston.com": {
+            "ttl": 97,
+            "ipid": 49115,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cuervo-58.org": {
+            "ttl": 55,
+            "ipid": 23213,
+            "responses": 1
+        },
+        "cuir-center.org": {
+            "ttl": 94,
+            "ipid": 52649,
+            "responses": 1
+        }
+    }
+}

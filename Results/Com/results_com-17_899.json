@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "contactlessnews.com": {
+            "ttl": 74,
+            "ipid": 22575,
+            "responses": 1
+        },
+        "egrid-intl.com": {
+            "ttl": 62,
+            "ipid": 1818,
+            "responses": 1
+        }
+    }
+}

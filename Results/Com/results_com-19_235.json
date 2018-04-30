@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "danielagimeno.com": {
+            "ttl": 37,
+            "ipid": 7505,
+            "responses": 1
+        },
+        "savannah-musikverlag.com": {
+            "ttl": 91,
+            "ipid": 4859,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "outsourceae.com": {
+            "ttl": 100,
+            "ipid": 14397,
+            "responses": 1
+        },
+        "yijianvpnshenqi.com": {
+            "ttl": 67,
+            "ipid": 14060,
+            "responses": 2
+        }
+    }
+}

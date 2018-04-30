@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "elliedao.com": {
+            "ttl": 30,
+            "ipid": 7437,
+            "responses": 1
+        },
+        "thevenicepropertyhunter.com": {
+            "ttl": 80,
+            "ipid": 4124,
+            "responses": 1
+        }
+    }
+}

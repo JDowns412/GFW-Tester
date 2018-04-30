@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "ainonymous.org": {
+            "ttl": 95,
+            "ipid": 52370,
+            "responses": 2
+        },
+        "aipehinc.org": {
+            "ttl": 70,
+            "ipid": 52395,
+            "responses": 2
+        }
+    }
+}

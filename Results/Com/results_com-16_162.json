@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "operationhero.com": {
+            "ttl": 103,
+            "ipid": 32192,
+            "responses": 1
+        },
+        "no-pops.com": {
+            "ttl": 33,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

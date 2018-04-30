@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "eggsandwichmaker.com": {
+            "ttl": 64,
+            "ipid": 29708,
+            "responses": 1
+        },
+        "lincolnparkeast.com": {
+            "ttl": 64,
+            "ipid": 47875,
+            "responses": 1
+        },
+        "arexnon.com": {
+            "ttl": 64,
+            "ipid": 63716,
+            "responses": 1
+        },
+        "funnypunjabivideos.com": {
+            "ttl": 48,
+            "ipid": 11051,
+            "responses": 2
+        }
+    }
+}

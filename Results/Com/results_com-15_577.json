@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "nilesautoglass.com": {
+            "ttl": 99,
+            "ipid": 10919,
+            "responses": 1
+        },
+        "markenrebell.com": {
+            "ttl": 88,
+            "ipid": 40352,
+            "responses": 1
+        },
+        "amsterdamcannabus.com": {
+            "ttl": 55,
+            "ipid": 58037,
+            "responses": 2
+        }
+    }
+}

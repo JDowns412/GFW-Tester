@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "christophermorello.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "zurichimpressions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "js73.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "5886cp.com": {
+            "ttl": 98,
+            "ipid": 14913,
+            "responses": 1
+        },
+        "championsrowboston.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

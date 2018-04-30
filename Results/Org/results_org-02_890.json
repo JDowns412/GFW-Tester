@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ezfarmonline.org": {
+            "ttl": 64,
+            "ipid": 25020,
+            "responses": 1
+        },
+        "ezfastride.org": {
+            "ttl": 64,
+            "ipid": 53131,
+            "responses": 1
+        },
+        "ezferret.org": {
+            "ttl": 64,
+            "ipid": 41511,
+            "responses": 1
+        },
+        "ezfhwt.org": {
+            "ttl": 64,
+            "ipid": 17324,
+            "responses": 1
+        }
+    }
+}

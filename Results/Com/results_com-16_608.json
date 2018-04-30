@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "vossabanken.com": {
+            "ttl": 50,
+            "ipid": 11349,
+            "responses": 1
+        },
+        "lastoutpost.com": {
+            "ttl": 92,
+            "ipid": 59871,
+            "responses": 1
+        }
+    }
+}

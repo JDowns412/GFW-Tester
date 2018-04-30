@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "rediscoverlives.com": {
+            "ttl": 95,
+            "ipid": 203,
+            "responses": 2
+        },
+        "szjiuwei.com": {
+            "ttl": 51,
+            "ipid": 60743,
+            "responses": 2
+        },
+        "bhaleindia.com": {
+            "ttl": 64,
+            "ipid": 16615,
+            "responses": 2
+        },
+        "ultimatearmwrestlingleague.com": {
+            "ttl": 64,
+            "ipid": 46107,
+            "responses": 1
+        }
+    }
+}

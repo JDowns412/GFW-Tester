@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "buyingchain.com": {
+            "ttl": 29,
+            "ipid": 0,
+            "responses": 1
+        },
+        "zircon-direct.com": {
+            "ttl": 105,
+            "ipid": 18368,
+            "responses": 1
+        }
+    }
+}

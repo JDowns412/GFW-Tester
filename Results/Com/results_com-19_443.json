@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "bbgoddards.com": {
+            "ttl": 30,
+            "ipid": 5276,
+            "responses": 1
+        },
+        "gusttavolimalivestream.com": {
+            "ttl": 82,
+            "ipid": 1439,
+            "responses": 2
+        }
+    }
+}

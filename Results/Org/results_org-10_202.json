@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "hope4mission.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "muirpainting.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pathwaysmanitobafoundation.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

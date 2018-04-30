@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "rstewartconsulting.com": {
+            "ttl": 37,
+            "ipid": 12076,
+            "responses": 1
+        },
+        "gysio.com": {
+            "ttl": 45,
+            "ipid": 46405,
+            "responses": 2
+        }
+    }
+}

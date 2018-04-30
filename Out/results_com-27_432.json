@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "freebesics.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "powerfulbiomusclexr.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "feransa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "claudettemandalas.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "phoneflings.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "elyriachiropractor.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "flowrealty.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "flowuphill.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "floydmayweather.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "floydsdoubledutchelite.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "flphysicianmarketingsolutions.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "flreadingcorps.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "flrealestateagency.org": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        },
+        "flrecovery.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

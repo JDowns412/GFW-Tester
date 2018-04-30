@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "monkeyrecycling.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "b15647443e92946b3e4fa5b76890f6c9.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "jc88988.com": {
+            "ttl": 87,
+            "ipid": 30639,
+            "responses": 1
+        },
+        "northshorestocktonontees.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

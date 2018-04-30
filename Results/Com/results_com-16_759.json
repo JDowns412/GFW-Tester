@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 998,
+        "blocked": 1,
+        "errors": 0
+    },
+    "domains": {
+        "webproxy.com": {
+            "ttl": 54,
+            "ipid": 10880,
+            "responses": 2
+        }
+    }
+}

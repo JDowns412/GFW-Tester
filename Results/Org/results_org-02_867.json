@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "eximpulse.org": {
+            "ttl": 64,
+            "ipid": 938,
+            "responses": 1
+        },
+        "exin-us.org": {
+            "ttl": 64,
+            "ipid": 30025,
+            "responses": 1
+        },
+        "exinassessment.org": {
+            "ttl": 64,
+            "ipid": 39940,
+            "responses": 2
+        }
+    }
+}

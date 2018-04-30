@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "medicarexchange.com": {
+            "ttl": 64,
+            "ipid": 58551,
+            "responses": 1
+        },
+        "gettheminnow.com": {
+            "ttl": 64,
+            "ipid": 52210,
+            "responses": 1
+        },
+        "patriciaeveline.com": {
+            "ttl": 64,
+            "ipid": 53133,
+            "responses": 1
+        },
+        "sfeventscoordinator.com": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "guitarebonnet.com": {
+            "ttl": 80,
+            "ipid": 4124,
+            "responses": 1
+        }
+    }
+}

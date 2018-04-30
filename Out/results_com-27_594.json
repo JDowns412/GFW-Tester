@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "bentleystlouisvip.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vococallmenow.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "andaboxofcondoms.com": {
+            "ttl": 103,
+            "ipid": 4910,
+            "responses": 2
+        },
+        "donentwistle.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

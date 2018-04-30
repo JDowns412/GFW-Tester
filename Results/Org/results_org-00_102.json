@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "22things.org": {
+            "ttl": 37,
+            "ipid": 16673,
+            "responses": 1
+        },
+        "23236.org": {
+            "ttl": 41,
+            "ipid": 57964,
+            "responses": 2
+        }
+    }
+}

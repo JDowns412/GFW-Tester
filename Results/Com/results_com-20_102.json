@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "e5g5.com": {
+            "ttl": 29,
+            "ipid": 5582,
+            "responses": 1
+        },
+        "mrwoolf.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "onlinebhela.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rededomilhao.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "amasucci.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "tibetuprising.org": {
+            "ttl": 86,
+            "ipid": 14488,
+            "responses": 2
+        },
+        "tvpay.org": {
+            "ttl": 51,
+            "ipid": 41016,
+            "responses": 2
+        }
+    }
+}

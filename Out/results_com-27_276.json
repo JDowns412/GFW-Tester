@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "thecontinentgame.com": {
+            "ttl": 83,
+            "ipid": 10277,
+            "responses": 1
+        },
+        "vreewijk.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "readyjam.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vuxra.com": {
+            "ttl": 40,
+            "ipid": 18262,
+            "responses": 1
+        }
+    }
+}

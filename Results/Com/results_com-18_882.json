@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "nastitiputrikinanti.com": {
+            "ttl": 103,
+            "ipid": 62818,
+            "responses": 1
+        },
+        "nuovicolori.com": {
+            "ttl": 64,
+            "ipid": 20249,
+            "responses": 3
+        },
+        "gxnnrd.com": {
+            "ttl": 64,
+            "ipid": 16399,
+            "responses": 1
+        },
+        "olymptheatre.com": {
+            "ttl": 64,
+            "ipid": 20403,
+            "responses": 1
+        }
+    }
+}

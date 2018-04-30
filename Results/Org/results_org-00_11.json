@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "sugarmegs.org": {
+            "ttl": 33,
+            "ipid": 0,
+            "responses": 1
+        },
+        "imgspot.org": {
+            "ttl": 66,
+            "ipid": 64572,
+            "responses": 2
+        }
+    }
+}

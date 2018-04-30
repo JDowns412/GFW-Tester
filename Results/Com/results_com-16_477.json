@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "oregonculinaryinstitute.com": {
+            "ttl": 85,
+            "ipid": 2245,
+            "responses": 2
+        },
+        "beachbuddha.com": {
+            "ttl": 86,
+            "ipid": 47269,
+            "responses": 1
+        },
+        "almowazi.com": {
+            "ttl": 91,
+            "ipid": 4362,
+            "responses": 1
+        }
+    }
+}

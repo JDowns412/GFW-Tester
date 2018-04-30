@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "rollolado.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "njbxjy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "saddlewoodmanors.com": {
+            "ttl": 106,
+            "ipid": 19164,
+            "responses": 2
+        },
+        "261280.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

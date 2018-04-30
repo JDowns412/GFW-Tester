@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "gulfeconomics.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gulfgazette.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gulfhrs.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gulfmagicbricks.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

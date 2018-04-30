@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ets-information.org": {
+            "ttl": 64,
+            "ipid": 28767,
+            "responses": 1
+        },
+        "ets-pulliam.org": {
+            "ttl": 64,
+            "ipid": 29422,
+            "responses": 1
+        },
+        "ets-stncenter.org": {
+            "ttl": 64,
+            "ipid": 34277,
+            "responses": 1
+        }
+    }
+}

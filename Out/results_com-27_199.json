@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "spencerstoner.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "brou-haha.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "prouniv.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "puurworld.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "xn--lke-hoa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

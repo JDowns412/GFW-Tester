@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "loveridemexico.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nordwebsite.org": {
+            "ttl": 30,
+            "ipid": 20534,
+            "responses": 2
+        },
+        "pernefri.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

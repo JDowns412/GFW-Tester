@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "knowledges-transfer.com": {
+            "ttl": 36,
+            "ipid": 28469,
+            "responses": 2
+        },
+        "click2shops.com": {
+            "ttl": 64,
+            "ipid": 33342,
+            "responses": 2
+        },
+        "squareenixmovies.com": {
+            "ttl": 64,
+            "ipid": 26969,
+            "responses": 1
+        },
+        "shastarental.com": {
+            "ttl": 64,
+            "ipid": 52210,
+            "responses": 1
+        },
+        "bearsonly.com": {
+            "ttl": 64,
+            "ipid": 29710,
+            "responses": 1
+        },
+        "graphic-source.com": {
+            "ttl": 64,
+            "ipid": 41694,
+            "responses": 1
+        },
+        "36fords.com": {
+            "ttl": 64,
+            "ipid": 53166,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ami-turkey.org": {
+            "ttl": 50,
+            "ipid": 55930,
+            "responses": 2
+        },
+        "amibm.org": {
+            "ttl": 80,
+            "ipid": 56660,
+            "responses": 2
+        },
+        "amicablechurch.org": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 2
+        }
+    }
+}

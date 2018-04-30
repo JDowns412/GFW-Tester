@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "zapobiegaj.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mieg0vj9mr7rjg4qu1oqldh9h7oged6b.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "117chan.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "appdemo.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

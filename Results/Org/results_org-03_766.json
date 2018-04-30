@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "healthredone.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "healthrepublic.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "healthrepublicinsurance.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "healthrepublicinsurance-newjersey.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

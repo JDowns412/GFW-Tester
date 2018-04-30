@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "seren-group.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sexaround.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sh17.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "starlightonline.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

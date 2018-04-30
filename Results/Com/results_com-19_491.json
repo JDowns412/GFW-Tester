@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "moc198.com": {
+            "ttl": 72,
+            "ipid": 28214,
+            "responses": 1
+        },
+        "whenifindhome.com": {
+            "ttl": 53,
+            "ipid": 11192,
+            "responses": 2
+        },
+        "booking-nbg.com": {
+            "ttl": 95,
+            "ipid": 59004,
+            "responses": 1
+        }
+    }
+}

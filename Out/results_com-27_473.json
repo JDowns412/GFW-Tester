@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "marylandwindowsource.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "asapbonds.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "professionistimprese.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mainstreetinfo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "thaugen.com": {
+            "ttl": 35,
+            "ipid": 48725,
+            "responses": 1
+        }
+    }
+}

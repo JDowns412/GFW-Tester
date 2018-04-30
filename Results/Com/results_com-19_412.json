@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "hornbrookproductions.com": {
+            "ttl": 30,
+            "ipid": 5276,
+            "responses": 1
+        },
+        "opk009.com": {
+            "ttl": 41,
+            "ipid": 5321,
+            "responses": 1
+        },
+        "daytona-500-livestream.com": {
+            "ttl": 101,
+            "ipid": 26390,
+            "responses": 2
+        }
+    }
+}

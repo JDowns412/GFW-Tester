@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "100meilleurs.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "datepyramid.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kslily.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "crozel-avocat.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "los-angeles-art-galleries.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

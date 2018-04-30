@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "tobiastarsaranta.com": {
+            "ttl": 73,
+            "ipid": 10554,
+            "responses": 2
+        },
+        "canthoyori.com": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 2
+        },
+        "dngrealtygroup.com": {
+            "ttl": 77,
+            "ipid": 9735,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "wemyos.com": {
+            "ttl": 54,
+            "ipid": 17649,
+            "responses": 1
+        },
+        "0453fkyy.com": {
+            "ttl": 48,
+            "ipid": 43965,
+            "responses": 2
+        },
+        "americascup-sfrentals.com": {
+            "ttl": 77,
+            "ipid": 44445,
+            "responses": 1
+        }
+    }
+}

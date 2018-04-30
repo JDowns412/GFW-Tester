@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "bonellc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "paartherapeut-berlin.com": {
+            "ttl": 28,
+            "ipid": 8014,
+            "responses": 1
+        },
+        "vinsaintmont.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dmitriannenkov.com": {
+            "ttl": 93,
+            "ipid": 56101,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "newnadsauto.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "blackheartball.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lasermdlongbeach.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "readerwrite.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,365 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 928,
+        "blocked": 71,
+        "errors": 0
+    },
+    "domains": {
+        "polich.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policiacivil.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "policiadelpaisvasco.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "policialocalhuercal.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policiamilitar.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policies.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "policinginpartnership.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policingmatrix.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policingthecrisis.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policingthefuture.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policlinicacomarcal.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "policy-expert.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policy-search.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "policy4cities.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "policy4results.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "policyacademies.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policyafrica.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "policyandtaxationgroup.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "policyarchitects.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policybazarinsurance.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policycenter.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "policychallenge-usa.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "policychangenow.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policyconference.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policyconsulting.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policycontinuum.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policycycle.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policyforabundance.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policygroup.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policyhash.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policyhost.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policyideas.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "policyinterns.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policymarketplaces.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policymattersjournal.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "policymic.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policymon.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "policynewswire.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "policyquote.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "policyresolutiongroup.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policyselection.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "policyshare.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policysolutionsforwar.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "policytexas.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "policyvspaperclips.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policywiki.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "policywriter.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "polidream.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "poliempreende.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "poliestrategia.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "polifemo.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "polifroni.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "poliglotsexot.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "poligoncorp.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "poligonnational.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "poligonoelprado.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "poligrafica.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "poligraficiprinting.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "polihome.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "polijet.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "polikretis.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "polimeks.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "polimeksholding.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "polimentpoemne.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "polimes.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "polimoda.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "polinamosendz.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "polinc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "polinetworks.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "polinewsletter.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "polinezja.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

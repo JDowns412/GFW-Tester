@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "9799w.com": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "krings-elektrotechnik.com": {
+            "ttl": 98,
+            "ipid": 61382,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "hoordad.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hoosiemartin.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hoosierhopsandharvest.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hoosreadyatuva.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hoovermasontrestle.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hooyman.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hoozhou.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hopar.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

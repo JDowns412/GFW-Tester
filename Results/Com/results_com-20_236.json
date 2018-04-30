@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "sivarajewels.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "jameskennemer.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "foodtrucksouthpadreisland.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jx728.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

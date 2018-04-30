@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "cst-together.org": {
+            "ttl": 64,
+            "ipid": 28759,
+            "responses": 1
+        },
+        "csta20.org": {
+            "ttl": 64,
+            "ipid": 42488,
+            "responses": 1
+        },
+        "csta2016.org": {
+            "ttl": 64,
+            "ipid": 34143,
+            "responses": 1
+        }
+    }
+}

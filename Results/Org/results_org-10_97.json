@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "mirrorlist.org": {
+            "ttl": 30,
+            "ipid": 62234,
+            "responses": 2
+        },
+        "nationalgeograph.org": {
+            "ttl": 51,
+            "ipid": 41016,
+            "responses": 2
+        }
+    }
+}

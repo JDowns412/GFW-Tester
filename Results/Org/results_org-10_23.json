@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "weedinsurer.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "whgjvip.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "zenithum.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "aftogether.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "agenerousleaf.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

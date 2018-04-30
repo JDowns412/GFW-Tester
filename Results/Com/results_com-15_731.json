@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "actionanswer.com": {
+            "ttl": 76,
+            "ipid": 50130,
+            "responses": 1
+        },
+        "bootstamps.com": {
+            "ttl": 86,
+            "ipid": 30188,
+            "responses": 2
+        }
+    }
+}

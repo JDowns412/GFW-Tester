@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "oomoe.org": {
+            "ttl": 83,
+            "ipid": 35520,
+            "responses": 1
+        },
+        "idealistcareers.org": {
+            "ttl": 70,
+            "ipid": 52395,
+            "responses": 2
+        }
+    }
+}

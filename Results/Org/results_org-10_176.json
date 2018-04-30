@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "coopgateway.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "farms4usa.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fawnmobile-phone.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fightdirtykc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

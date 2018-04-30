@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "corkscrewclub.com": {
+            "ttl": 49,
+            "ipid": 61718,
+            "responses": 1
+        },
+        "xygirl.com": {
+            "ttl": 101,
+            "ipid": 33828,
+            "responses": 2
+        }
+    }
+}

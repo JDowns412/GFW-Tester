@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "wissenautosensing.com": {
+            "ttl": 64,
+            "ipid": 28431,
+            "responses": 1
+        },
+        "t-keizai-tokai.com": {
+            "ttl": 64,
+            "ipid": 29085,
+            "responses": 1
+        },
+        "chinajobstory.com": {
+            "ttl": 64,
+            "ipid": 11102,
+            "responses": 3
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "truefansusa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mindblownmedia.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jasminelonder.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "paradisostudios.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fitnessmid.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

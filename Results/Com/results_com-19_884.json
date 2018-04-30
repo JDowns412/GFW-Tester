@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "futureproductsworld.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rapidburst.com": {
+            "ttl": 36,
+            "ipid": 32977,
+            "responses": 2
+        },
+        "nowhere-men.com": {
+            "ttl": 76,
+            "ipid": 52532,
+            "responses": 1
+        }
+    }
+}

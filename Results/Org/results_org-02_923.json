@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "falun-inlandnw.org": {
+            "ttl": 99,
+            "ipid": 5064,
+            "responses": 2
+        },
+        "falundafa-carolina.org": {
+            "ttl": 29,
+            "ipid": 32565,
+            "responses": 2
+        },
+        "falundafa-nc.org": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "falundafaradio.org": {
+            "ttl": 52,
+            "ipid": 13122,
+            "responses": 2
+        },
+        "falunhr.org": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 1
+        },
+        "falunthai.org": {
+            "ttl": 40,
+            "ipid": 44352,
+            "responses": 2
+        }
+    }
+}

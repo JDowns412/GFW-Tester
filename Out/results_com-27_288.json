@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "sylandra.com": {
+            "ttl": 106,
+            "ipid": 21823,
+            "responses": 2
+        },
+        "charliehamillgroup.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "onlineslotsa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "navypilotwatch.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "luz-consult.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

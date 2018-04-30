@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "filterlead.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cashpaynet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "itworkstudio.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iberaweb.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

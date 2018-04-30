@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "hospiceaz.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospicecare.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospicecarealert.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospicedouglascounty.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hospicehealthcare.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospiceinwestchesterandputnam.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hospicesaintjoseph.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hospicesoky.org": {
+            "ttl": 90,
+            "ipid": 62699,
+            "responses": 2
+        },
+        "hospicesupport.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

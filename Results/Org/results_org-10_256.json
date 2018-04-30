@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "dongtianyi.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ejdys.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "elitesm.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "europewel.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "exstudents-khs.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

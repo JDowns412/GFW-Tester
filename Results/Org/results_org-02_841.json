@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "eventcube.org": {
+            "ttl": 64,
+            "ipid": 41727,
+            "responses": 1
+        },
+        "eventd.org": {
+            "ttl": 64,
+            "ipid": 51499,
+            "responses": 1
+        },
+        "eventdab.org": {
+            "ttl": 64,
+            "ipid": 32318,
+            "responses": 1
+        },
+        "eventdentistry.org": {
+            "ttl": 64,
+            "ipid": 7152,
+            "responses": 1
+        },
+        "eventdesigndays.org": {
+            "ttl": 64,
+            "ipid": 42488,
+            "responses": 1
+        }
+    }
+}

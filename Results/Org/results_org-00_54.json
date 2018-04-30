@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "gamearmada.org": {
+            "ttl": 33,
+            "ipid": 9165,
+            "responses": 2
+        },
+        "bridgesmathart.org": {
+            "ttl": 83,
+            "ipid": 28730,
+            "responses": 2
+        }
+    }
+}

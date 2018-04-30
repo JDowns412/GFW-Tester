@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "winsupplyofjasper.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shkangyi.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "agedmph.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mommyslittlemascot.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

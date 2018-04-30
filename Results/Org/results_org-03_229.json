@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "frombondagetofreedomhouse.org": {
+            "ttl": 77,
+            "ipid": 60514,
+            "responses": 2
+        },
+        "fromcaregivertocaregiver.org": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "fromlittlethingsgrow.org": {
+            "ttl": 55,
+            "ipid": 5152,
+            "responses": 2
+        }
+    }
+}

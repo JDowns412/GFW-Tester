@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "hemobar.com": {
+            "ttl": 59,
+            "ipid": 48165,
+            "responses": 2
+        },
+        "donaldbailey.com": {
+            "ttl": 102,
+            "ipid": 18589,
+            "responses": 1
+        }
+    }
+}

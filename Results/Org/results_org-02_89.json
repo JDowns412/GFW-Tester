@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ctaeconf.org": {
+            "ttl": 64,
+            "ipid": 51499,
+            "responses": 1
+        },
+        "ctafcw.org": {
+            "ttl": 64,
+            "ipid": 12368,
+            "responses": 1
+        },
+        "ctafterschoolnetwork.org": {
+            "ttl": 64,
+            "ipid": 16785,
+            "responses": 1
+        }
+    }
+}

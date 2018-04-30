@@ -1,0 +1,335 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 934,
+        "blocked": 65,
+        "errors": 0
+    },
+    "domains": {
+        "ngproxy.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ngrams.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ngrandburg.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ngrc2017.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ngro.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ngrswarning.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ngrwanda.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ngs-omics.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ngsahenkexplorium.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ngsbrands-dev.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 10
+        },
+        "ngsconsultants.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ngscuba.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ngservices.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ngsghana.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ngsglobal.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ngshare.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ngsim-community.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ngslabs.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ngsolutions.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ngstudentexpeditions.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ngt.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ngt-uk.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ngtcollege.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ngtcrxqdy.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ngtechnology.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ngtelecom.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ngtelecoms.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ngtengfongfoundation.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ngtenniseducation.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ngtinstitute.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "ngtle.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ngtradingco.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ngttransmission.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ngu.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "nguoideponline.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "nguoilaodong.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "nguoimauvietnam.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nguyenanhdung.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "nguyenary.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nguyenhaininh.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nguyenhoanganh.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "nguyenhoangfoundation.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "nguyenkim.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "nguyenmai.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "nguyenstore.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "nguyensycatdovan.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nguyentandungvn.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "nguyenthaonguyen.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "nguyenthithuha.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nguyentiennghia.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "nguyentrongtao.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nguzosabaassociation.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ngvets.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 8
+        },
+        "ngvi.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ngwaunion.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ngwengehmedianetwork.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ngworship.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ngwy.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "ngx.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "ngyaa.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "ngycp.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ngymiziy.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ngyn21.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ngyouthfoundation.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "nh-bc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

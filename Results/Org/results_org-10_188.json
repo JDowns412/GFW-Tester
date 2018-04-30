@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "fundacionmanosquesuman.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gameinspired.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "hex64.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "hopkintondogpark.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "jacquelinelemay.org": {
+            "ttl": 67,
+            "ipid": 15874,
+            "responses": 2
+        }
+    }
+}

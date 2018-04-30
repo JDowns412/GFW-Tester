@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "sapmobileappspartnercenter.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "aslanfit.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "zjmtg.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "auraworkout.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

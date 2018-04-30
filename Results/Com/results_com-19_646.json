@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "gas-werk.com": {
+            "ttl": 48,
+            "ipid": 25369,
+            "responses": 1
+        },
+        "streetstack.com": {
+            "ttl": 38,
+            "ipid": 57710,
+            "responses": 1
+        }
+    }
+}

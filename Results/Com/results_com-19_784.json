@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "montrealestatesales.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "guidedmichiganflyfishing.com": {
+            "ttl": 93,
+            "ipid": 53708,
+            "responses": 2
+        },
+        "aarvie.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

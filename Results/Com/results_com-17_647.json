@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "medicalprocessor.com": {
+            "ttl": 69,
+            "ipid": 42837,
+            "responses": 1
+        },
+        "keystarservicesco.com": {
+            "ttl": 104,
+            "ipid": 18674,
+            "responses": 2
+        }
+    }
+}

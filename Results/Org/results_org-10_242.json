@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "confidence-project.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "curious-2035.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dancarmoneytransfers.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dijitalmarket.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dirtywaterboston.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fghcalendar.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

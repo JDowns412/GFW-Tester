@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "themanlab.com": {
+            "ttl": 81,
+            "ipid": 36110,
+            "responses": 1
+        },
+        "spectramedsolutions.com": {
+            "ttl": 98,
+            "ipid": 61382,
+            "responses": 2
+        }
+    }
+}

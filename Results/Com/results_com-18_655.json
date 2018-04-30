@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "scalexltv.com": {
+            "ttl": 42,
+            "ipid": 49031,
+            "responses": 1
+        },
+        "repair-tecs.com": {
+            "ttl": 42,
+            "ipid": 26273,
+            "responses": 1
+        }
+    }
+}

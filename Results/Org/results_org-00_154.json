@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "5db2b.org": {
+            "ttl": 54,
+            "ipid": 3221,
+            "responses": 1
+        },
+        "5ele.org": {
+            "ttl": 36,
+            "ipid": 38252,
+            "responses": 2
+        }
+    }
+}

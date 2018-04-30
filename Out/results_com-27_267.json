@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "mhorfarr.com": {
+            "ttl": 46,
+            "ipid": 11129,
+            "responses": 1
+        },
+        "gslservice.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "myaxcloud.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dentalwebsitedesignpbhs.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tahria.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

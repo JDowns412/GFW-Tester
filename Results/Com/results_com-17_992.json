@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "desertstreamministries.com": {
+            "ttl": 105,
+            "ipid": 18368,
+            "responses": 1
+        },
+        "foxrobot.com": {
+            "ttl": 70,
+            "ipid": 6282,
+            "responses": 1
+        }
+    }
+}

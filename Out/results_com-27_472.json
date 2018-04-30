@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "apsmining.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bigtexpalms.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sscmw.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "firearmsretentionclasses.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "artfulaims.com": {
+            "ttl": 41,
+            "ipid": 6409,
+            "responses": 2
+        }
+    }
+}

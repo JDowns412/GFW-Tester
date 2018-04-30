@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ldznet.com": {
+            "ttl": 106,
+            "ipid": 4677,
+            "responses": 2
+        },
+        "tjcdist.com": {
+            "ttl": 76,
+            "ipid": 822,
+            "responses": 1
+        },
+        "kuzon.com": {
+            "ttl": 86,
+            "ipid": 47269,
+            "responses": 1
+        }
+    }
+}

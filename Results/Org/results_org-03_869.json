@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "history-of-israel.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "historyhacks.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "historyhorsesandsports.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "historylady.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "historymuseumeot.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "historyofpsychiatry.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

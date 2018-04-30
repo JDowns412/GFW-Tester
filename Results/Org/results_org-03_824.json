@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "heroprotectionprogram.org": {
+            "ttl": 53,
+            "ipid": 43894,
+            "responses": 1
+        },
+        "herosbridge1.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "heroself.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "heroux.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

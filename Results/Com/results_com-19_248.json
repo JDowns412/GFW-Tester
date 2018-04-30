@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "checkcardpoints.com": {
+            "ttl": 68,
+            "ipid": 49171,
+            "responses": 1
+        },
+        "tawadatours.com": {
+            "ttl": 91,
+            "ipid": 14639,
+            "responses": 1
+        },
+        "tyrestores.com": {
+            "ttl": 43,
+            "ipid": 44853,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "stoptexassmartmeters.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "stupidsoft.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tedxglobalacademy.org": {
+            "ttl": 27,
+            "ipid": 46998,
+            "responses": 2
+        },
+        "trkcancers.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "handsofthespirit.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "handsomeasia.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "handstoaid.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "handsunited4children.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "500mi.org": {
+            "ttl": 39,
+            "ipid": 29331,
+            "responses": 2
+        },
+        "501c3professionals.org": {
+            "ttl": 52,
+            "ipid": 19775,
+            "responses": 2
+        }
+    }
+}

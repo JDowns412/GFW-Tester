@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "pinkstonhome.com": {
+            "ttl": 30,
+            "ipid": 7437,
+            "responses": 1
+        },
+        "widesites.com": {
+            "ttl": 64,
+            "ipid": 37782,
+            "responses": 1
+        },
+        "harrisonboatworks.com": {
+            "ttl": 64,
+            "ipid": 53166,
+            "responses": 1
+        }
+    }
+}

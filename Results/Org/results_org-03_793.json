@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "helambu.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "helasuwaya.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "helbling-hippotherapie.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "helden-mentoren.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

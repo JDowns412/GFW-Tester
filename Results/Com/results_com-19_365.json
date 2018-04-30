@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "zendivadesigns.com": {
+            "ttl": 62,
+            "ipid": 30256,
+            "responses": 1
+        },
+        "q086.com": {
+            "ttl": 38,
+            "ipid": 5187,
+            "responses": 1
+        },
+        "firstchoicesa.com": {
+            "ttl": 93,
+            "ipid": 5719,
+            "responses": 2
+        },
+        "sspint.com": {
+            "ttl": 87,
+            "ipid": 22327,
+            "responses": 1
+        },
+        "justhavingalook.com": {
+            "ttl": 42,
+            "ipid": 2727,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "euphoriawellness.org": {
+            "ttl": 64,
+            "ipid": 53131,
+            "responses": 1
+        },
+        "euphoricdancecompany.org": {
+            "ttl": 64,
+            "ipid": 34800,
+            "responses": 1
+        }
+    }
+}

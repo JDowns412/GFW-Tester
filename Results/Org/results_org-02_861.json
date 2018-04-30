@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "excellencegirlsclub.org": {
+            "ttl": 64,
+            "ipid": 51854,
+            "responses": 1
+        },
+        "excellenceinaction.org": {
+            "ttl": 64,
+            "ipid": 7152,
+            "responses": 1
+        },
+        "excellenceinartsed.org": {
+            "ttl": 64,
+            "ipid": 29877,
+            "responses": 1
+        },
+        "excellenceincanadianfundraising.org": {
+            "ttl": 64,
+            "ipid": 13548,
+            "responses": 1
+        }
+    }
+}

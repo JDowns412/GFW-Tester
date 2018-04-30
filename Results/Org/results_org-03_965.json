@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "hoveround.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hovr.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "how-to-whistleblow.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "howai.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "howard-milsteinfamily.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

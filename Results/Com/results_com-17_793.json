@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "dowep.com": {
+            "ttl": 53,
+            "ipid": 48492,
+            "responses": 2
+        },
+        "gavinguest.com": {
+            "ttl": 60,
+            "ipid": 39649,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "holadayhouse.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "holaraquel.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holdgovernmentaccountable.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holdingfast.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

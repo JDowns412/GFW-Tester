@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "27pp.com": {
+            "ttl": 64,
+            "ipid": 15676,
+            "responses": 3
+        },
+        "royalmajestics.com": {
+            "ttl": 64,
+            "ipid": 17220,
+            "responses": 1
+        },
+        "charlesmacfarlane.com": {
+            "ttl": 80,
+            "ipid": 4124,
+            "responses": 1
+        }
+    }
+}

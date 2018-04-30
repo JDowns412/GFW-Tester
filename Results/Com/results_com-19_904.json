@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "adminado.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "luckyboyfoodtruck.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fussballfreestyler.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "innercareercompass.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "singingsand.com": {
+            "ttl": 91,
+            "ipid": 49703,
+            "responses": 1
+        },
+        "shaboozy.com": {
+            "ttl": 77,
+            "ipid": 7392,
+            "responses": 2
+        }
+    }
+}

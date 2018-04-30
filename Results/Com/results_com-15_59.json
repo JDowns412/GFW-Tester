@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "melp.com": {
+            "ttl": 88,
+            "ipid": 53411,
+            "responses": 2
+        },
+        "suzukirugby.com": {
+            "ttl": 58,
+            "ipid": 55253,
+            "responses": 2
+        }
+    }
+}

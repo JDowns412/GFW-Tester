@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "medicsbase.com": {
+            "ttl": 100,
+            "ipid": 44011,
+            "responses": 1
+        },
+        "livewellnaturalhealth.com": {
+            "ttl": 92,
+            "ipid": 20853,
+            "responses": 2
+        }
+    }
+}

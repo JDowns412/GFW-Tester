@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "vpn520.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "alexfares.com": {
+            "ttl": 88,
+            "ipid": 19895,
+            "responses": 2
+        },
+        "countdowndealz.com": {
+            "ttl": 91,
+            "ipid": 23363,
+            "responses": 2
+        }
+    }
+}

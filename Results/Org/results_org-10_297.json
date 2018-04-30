@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "thehyltoncollection.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "u-flip.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "waschstrasse.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "webasque.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

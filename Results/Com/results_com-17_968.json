@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "9702.com": {
+            "ttl": 82,
+            "ipid": 53485,
+            "responses": 2
+        },
+        "cenlet.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "q-zarpleasanton.com": {
+            "ttl": 46,
+            "ipid": 4010,
+            "responses": 1
+        }
+    }
+}

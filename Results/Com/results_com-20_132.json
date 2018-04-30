@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "spasolutioncompany.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "i5connection.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "broinethanol.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ka-chingo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "everydaydiet.org": {
+            "ttl": 64,
+            "ipid": 15561,
+            "responses": 1
+        },
+        "everydaydiets.org": {
+            "ttl": 64,
+            "ipid": 57634,
+            "responses": 1
+        },
+        "everydayebm.org": {
+            "ttl": 64,
+            "ipid": 38767,
+            "responses": 1
+        },
+        "everydayelves.org": {
+            "ttl": 64,
+            "ipid": 13418,
+            "responses": 1
+        }
+    }
+}

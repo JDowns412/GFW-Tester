@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "sea2ws.com": {
+            "ttl": 32,
+            "ipid": 54996,
+            "responses": 1
+        },
+        "nickmoranbass.com": {
+            "ttl": 35,
+            "ipid": 30834,
+            "responses": 1
+        },
+        "glencannongroup.com": {
+            "ttl": 81,
+            "ipid": 9840,
+            "responses": 1
+        }
+    }
+}

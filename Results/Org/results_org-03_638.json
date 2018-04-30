@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "guilfordgardenanswers.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "guilfordmuseum.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "guineapigsmafia.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "guinnessgastronomic.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

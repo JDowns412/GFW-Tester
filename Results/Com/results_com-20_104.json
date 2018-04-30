@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "bmoster.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "yonov.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "xueyuanlk.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "handkreations4you.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "barebe.com": {
+            "ttl": 75,
+            "ipid": 25636,
+            "responses": 1
+        },
+        "vumaresorts.com": {
+            "ttl": 104,
+            "ipid": 37434,
+            "responses": 1
+        },
+        "milanneto.com": {
+            "ttl": 67,
+            "ipid": 51056,
+            "responses": 2
+        }
+    }
+}

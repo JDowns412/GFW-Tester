@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "theboxingarena.com": {
+            "ttl": 30,
+            "ipid": 52802,
+            "responses": 2
+        },
+        "docketnavigator.com": {
+            "ttl": 59,
+            "ipid": 62736,
+            "responses": 2
+        }
+    }
+}

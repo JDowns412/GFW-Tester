@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "bohall.com": {
+            "ttl": 104,
+            "ipid": 30228,
+            "responses": 1
+        },
+        "pvcart.com": {
+            "ttl": 65,
+            "ipid": 12826,
+            "responses": 2
+        }
+    }
+}

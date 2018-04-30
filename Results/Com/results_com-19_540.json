@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "kisiselkoruyucu.com": {
+            "ttl": 87,
+            "ipid": 53873,
+            "responses": 1
+        },
+        "simnavi24.com": {
+            "ttl": 30,
+            "ipid": 52757,
+            "responses": 2
+        }
+    }
+}

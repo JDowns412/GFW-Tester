@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "tracpeek.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fotohorek.com": {
+            "ttl": 47,
+            "ipid": 39631,
+            "responses": 2
+        },
+        "coldwellbankergambrills.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "freerangearcade.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "wohnen-im-koenigsgarten.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "demosconexperiencia.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cgtn4.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

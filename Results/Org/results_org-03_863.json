@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "hirewarden.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hirnfick.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hirondelleusa.org": {
+            "ttl": 97,
+            "ipid": 22976,
+            "responses": 2
+        },
+        "hirsch-avocats.org": {
+            "ttl": 43,
+            "ipid": 139,
+            "responses": 2
+        },
+        "hirshluxuryboutique.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

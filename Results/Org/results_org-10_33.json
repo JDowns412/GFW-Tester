@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "motosdecarretera.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "naducoin.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "new-millennial-life.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nord-china-web.org": {
+            "ttl": 27,
+            "ipid": 46998,
+            "responses": 2
+        }
+    }
+}

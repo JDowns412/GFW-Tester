@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "10699.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "20percentfit.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "anti-social-social.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "chrismillington.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

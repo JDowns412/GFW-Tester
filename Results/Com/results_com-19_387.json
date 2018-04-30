@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "opportunitywindsor.com": {
+            "ttl": 49,
+            "ipid": 60849,
+            "responses": 2
+        },
+        "currietrainingcenter.com": {
+            "ttl": 87,
+            "ipid": 22327,
+            "responses": 1
+        },
+        "classicadultnetwork.com": {
+            "ttl": 41,
+            "ipid": 5321,
+            "responses": 1
+        }
+    }
+}

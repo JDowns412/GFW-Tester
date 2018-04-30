@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "gurudwara.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "gurugharsewakjatha.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gurukulacademy.org": {
+            "ttl": 92,
+            "ipid": 5664,
+            "responses": 2
+        },
+        "gurushree.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gurusinghyogi.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gurusofgood.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "guruvayurusa.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

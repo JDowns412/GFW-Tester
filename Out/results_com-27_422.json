@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "expresshomeinspection.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "exceed-your-limits.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "casinoonlinetime.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kb368.com": {
+            "ttl": 105,
+            "ipid": 9923,
+            "responses": 1
+        }
+    }
+}

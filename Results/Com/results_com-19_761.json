@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "vendition1.com": {
+            "ttl": 90,
+            "ipid": 1384,
+            "responses": 1
+        },
+        "jaysenbrown.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "texasindoorracing.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mebeli-edelvais.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "leonb52.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "extensionworld.org": {
+            "ttl": 64,
+            "ipid": 58552,
+            "responses": 1
+        },
+        "extensivereading.org": {
+            "ttl": 64,
+            "ipid": 46887,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "38345z.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "worldphonehut.com": {
+            "ttl": 43,
+            "ipid": 64999,
+            "responses": 2
+        }
+    }
+}

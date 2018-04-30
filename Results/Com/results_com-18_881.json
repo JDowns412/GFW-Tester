@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "addressesadvantage.com": {
+            "ttl": 30,
+            "ipid": 7437,
+            "responses": 1
+        },
+        "850919.com": {
+            "ttl": 43,
+            "ipid": 8626,
+            "responses": 1
+        },
+        "novaofis.com": {
+            "ttl": 64,
+            "ipid": 20216,
+            "responses": 1
+        },
+        "piedmontmusiccenter.com": {
+            "ttl": 84,
+            "ipid": 25005,
+            "responses": 1
+        }
+    }
+}

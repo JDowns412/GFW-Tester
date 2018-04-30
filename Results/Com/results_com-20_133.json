@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "13789a.com": {
+            "ttl": 29,
+            "ipid": 5582,
+            "responses": 1
+        },
+        "lovenfaith.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "lavalitalianrestaurants.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "1y25.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "icool4u.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "excelwindowsanddoors.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "elkcommander.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

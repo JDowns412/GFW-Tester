@@ -1,0 +1,340 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 933,
+        "blocked": 66,
+        "errors": 0
+    },
+    "domains": {
+        "salud-mental.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "saludamerica.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "saludatrees.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "saludcantabria.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "saludcuatrocentrosmedicos.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "saludcuba.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "saludderechosaccion.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "saluddignaparatodos.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "saluddkv.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "salude.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "saludextremadura.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "saludgratis.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "saludhan.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "saludhopkins.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "saludigna.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "saludington.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "saludintegrity.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "saludmamaria.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "saludmental-losangeles.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "saludnatural.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "saludosmax.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "saludpartners.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "saludpromo.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "saludpublicaglobal.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "saludtecuidamos.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "saludtotal.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "saluespot.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "salumerie.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "salunet.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "salus.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "salusbeet.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "saluscareflorida.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "saluscareprevention.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "salusgate.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "salushemtech.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "saluspot.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "salusunivhealth.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "salutaris.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "salutaris-ag.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "salutarismedicaldevices.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "salutary.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "salute-to-veterans.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "salute5k.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "saluteforma.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "saluteheroes-vetcircle.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "salutempower.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "salutemwellness.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "saluteorale.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "salutepastpresent.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "saluteperbologna.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "salutesociale.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "salutetaps.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "salutetocourage.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "salutetoeducation.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "salutetoisrael.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "salutetv.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "saluteuropa.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "saluthiers.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "salutiefoto.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "saluting.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "salutingarizonaveterans.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "salutmental.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "salutromania.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "salutstyle.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "saluvida.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "saluzzo.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

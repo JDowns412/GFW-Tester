@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "amazing-nature.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "anewlookinc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "charlotte-petiteenfance.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cnewalopez.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

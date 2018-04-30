@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "cureators.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "digitalminimalist.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "finishtrump.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gujurat.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

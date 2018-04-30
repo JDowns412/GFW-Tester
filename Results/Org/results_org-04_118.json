@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "iirtz.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iisc-soap.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iisport.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iisraelfoundation.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "iissam.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "iitcj.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iitghana.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "iiti.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iitmstact.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

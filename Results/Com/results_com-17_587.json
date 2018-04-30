@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "easyhomemade.com": {
+            "ttl": 90,
+            "ipid": 10328,
+            "responses": 2
+        },
+        "esw-bautraeger.com": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "200k-motoring.com": {
+            "ttl": 30,
+            "ipid": 57393,
+            "responses": 2
+        }
+    }
+}

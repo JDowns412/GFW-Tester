@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "fairdu.org": {
+            "ttl": 42,
+            "ipid": 12833,
+            "responses": 2
+        },
+        "fairexit.org": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "healthconsciousinc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "healthconservancy.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "healthcostguide.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "healthcreationusa.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "asbchicago.com": {
+            "ttl": 106,
+            "ipid": 13210,
+            "responses": 1
+        },
+        "finestoffice.com": {
+            "ttl": 64,
+            "ipid": 41129,
+            "responses": 1
+        }
+    }
+}

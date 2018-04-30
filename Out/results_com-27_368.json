@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "johnsonsofbondstreet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gildedstrumpetartworks.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "p-labor.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lofotenarctic.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "5gipr.org": {
+            "ttl": 35,
+            "ipid": 10725,
+            "responses": 2
+        },
+        "5jc.org": {
+            "ttl": 32,
+            "ipid": 13348,
+            "responses": 1
+        }
+    }
+}

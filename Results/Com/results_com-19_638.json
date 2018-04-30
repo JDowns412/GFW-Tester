@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "stander-info.com": {
+            "ttl": 86,
+            "ipid": 17256,
+            "responses": 1
+        },
+        "spscedu.com": {
+            "ttl": 48,
+            "ipid": 25369,
+            "responses": 1
+        },
+        "enjoyingrecovery.com": {
+            "ttl": 74,
+            "ipid": 34460,
+            "responses": 2
+        }
+    }
+}

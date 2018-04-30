@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "asilhaskaya.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bitcitychain.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bornbrilliant.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "boulderlife.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "caratownsend.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

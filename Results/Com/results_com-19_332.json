@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "sigalmodels.com": {
+            "ttl": 48,
+            "ipid": 6323,
+            "responses": 1
+        },
+        "allabouttwitter.com": {
+            "ttl": 34,
+            "ipid": 50080,
+            "responses": 2
+        },
+        "radicalbarstudy.com": {
+            "ttl": 26,
+            "ipid": 36002,
+            "responses": 2
+        },
+        "mamiai360.com": {
+            "ttl": 33,
+            "ipid": 53674,
+            "responses": 1
+        }
+    }
+}

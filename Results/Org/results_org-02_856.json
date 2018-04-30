@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "evvautoloan.org": {
+            "ttl": 64,
+            "ipid": 12156,
+            "responses": 1
+        },
+        "evvec.org": {
+            "ttl": 64,
+            "ipid": 17284,
+            "responses": 1
+        },
+        "evvelistanbul.org": {
+            "ttl": 64,
+            "ipid": 13418,
+            "responses": 1
+        }
+    }
+}

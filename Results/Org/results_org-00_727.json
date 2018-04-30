@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "asmusa.org": {
+            "ttl": 39,
+            "ipid": 5592,
+            "responses": 1
+        },
+        "asociacionasinet.org": {
+            "ttl": 75,
+            "ipid": 13238,
+            "responses": 2
+        }
+    }
+}

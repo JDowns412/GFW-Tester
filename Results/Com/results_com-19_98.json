@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "tdbsupplysolutions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "freehealthmagazine.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "emancipatebeing.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "spaceshope.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "biopsyprep.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

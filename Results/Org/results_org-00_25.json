@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cmdp-kvorum.org": {
+            "ttl": 79,
+            "ipid": 38581,
+            "responses": 2
+        },
+        "4sharedmp3.org": {
+            "ttl": 92,
+            "ipid": 33412,
+            "responses": 2
+        }
+    }
+}

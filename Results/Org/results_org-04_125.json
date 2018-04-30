@@ -1,0 +1,65 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 988,
+        "blocked": 11,
+        "errors": 0
+    },
+    "domains": {
+        "ilaunchpad.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ilbagnogroup.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ilban.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ilbigio.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ilbo.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ilc-2018.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ilc-france.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ilcabq.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ilcai.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ilcamp.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ilcan.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

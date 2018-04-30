@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cairorent.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bggambler.com": {
+            "ttl": 58,
+            "ipid": 30471,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "litbitcoinclub.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "magictube.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "manadsgivare.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "massppdfund.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mpconsulting1.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

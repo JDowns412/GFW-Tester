@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "jrbrearley.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "artcubedla.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "outlawseries.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "thedeathoffilm.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "spearsgary.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

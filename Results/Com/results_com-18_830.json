@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "janjoypierce.com": {
+            "ttl": 51,
+            "ipid": 60743,
+            "responses": 2
+        },
+        "nutritiondense.com": {
+            "ttl": 64,
+            "ipid": 34140,
+            "responses": 1
+        },
+        "coraboophoto.com": {
+            "ttl": 64,
+            "ipid": 53133,
+            "responses": 1
+        }
+    }
+}

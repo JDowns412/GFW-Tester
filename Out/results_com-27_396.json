@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "nightmarevr.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "webiago.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "footballintl.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "newbhfl.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "thegreatbikegiveaway.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

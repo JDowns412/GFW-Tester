@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "fomema.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "friendlyfundraiser.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "funshops.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gravitace21.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gssplano.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

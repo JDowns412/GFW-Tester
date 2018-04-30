@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "walnutcemetery.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "walnutcreekbc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "walnutgrovehomeowners.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "walnutgrovemadison.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "walnutgrovembc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "walnuthillecc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "walnuthillsarts.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "walnutparktogetherpdx.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "walpoleislandschool.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "accesstext.org": {
+            "ttl": 85,
+            "ipid": 10889,
+            "responses": 2
+        },
+        "svipshipin.org": {
+            "ttl": 61,
+            "ipid": 7773,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "rpmitconsulting.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "trex369.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "r-501.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "northernmentors.com": {
+            "ttl": 83,
+            "ipid": 5379,
+            "responses": 2
+        },
+        "zojadravai.com": {
+            "ttl": 29,
+            "ipid": 65389,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "mosento.com": {
+            "ttl": 64,
+            "ipid": 20249,
+            "responses": 3
+        },
+        "cateringpei.com": {
+            "ttl": 64,
+            "ipid": 58558,
+            "responses": 1
+        },
+        "blaadin.com": {
+            "ttl": 64,
+            "ipid": 20403,
+            "responses": 1
+        },
+        "augustousa.com": {
+            "ttl": 64,
+            "ipid": 63716,
+            "responses": 1
+        },
+        "zpmgt.com": {
+            "ttl": 43,
+            "ipid": 45719,
+            "responses": 1
+        }
+    }
+}

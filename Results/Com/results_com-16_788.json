@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "remoteman.com": {
+            "ttl": 29,
+            "ipid": 20652,
+            "responses": 1
+        },
+        "xn--ej5bt33a.com": {
+            "ttl": 104,
+            "ipid": 3311,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "strategic-hr-solutions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "digital-learning-solutions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mtcagency.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "provoskate.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vozinternet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

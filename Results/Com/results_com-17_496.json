@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "wrightsherburne.com": {
+            "ttl": 82,
+            "ipid": 48156,
+            "responses": 2
+        },
+        "hotrodscooterparts.com": {
+            "ttl": 48,
+            "ipid": 17618,
+            "responses": 2
+        }
+    }
+}

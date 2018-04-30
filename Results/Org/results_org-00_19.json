@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "hikinggfw.org": {
+            "ttl": 95,
+            "ipid": 23546,
+            "responses": 2
+        },
+        "rael.org": {
+            "ttl": 100,
+            "ipid": 1001,
+            "responses": 2
+        },
+        "miseshispano.org": {
+            "ttl": 44,
+            "ipid": 62749,
+            "responses": 2
+        },
+        "ywam.org": {
+            "ttl": 32,
+            "ipid": 34424,
+            "responses": 2
+        }
+    }
+}

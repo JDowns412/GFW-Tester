@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ideaphy.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "maggiewang.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "malgina.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "nsseaweed.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "lairdpark.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "multiculturalfutures.org": {
+            "ttl": 66,
+            "ipid": 54941,
+            "responses": 2
+        },
+        "nuremberg-hotels.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "krugernbrent.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lockjagdspezialist.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "wsdr9.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jlabesque.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nekedrugeprice.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

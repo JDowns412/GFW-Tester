@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "datvoiceactor.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "digitaler-zwilling.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "emertonchristie.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "enqc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "faithinblood.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

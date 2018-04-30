@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "shiningdecors.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "suncitydentist.com": {
+            "ttl": 106,
+            "ipid": 19164,
+            "responses": 2
+        },
+        "snc-lighting.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gurabamedia.com": {
+            "ttl": 50,
+            "ipid": 17745,
+            "responses": 2
+        }
+    }
+}

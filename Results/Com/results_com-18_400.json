@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "openingdoerrs.com": {
+            "ttl": 99,
+            "ipid": 50004,
+            "responses": 2
+        },
+        "vemichron.com": {
+            "ttl": 101,
+            "ipid": 6002,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "staythoughtful.com": {
+            "ttl": 63,
+            "ipid": 6225,
+            "responses": 1
+        },
+        "g20yea.com": {
+            "ttl": 49,
+            "ipid": 8180,
+            "responses": 1
+        }
+    }
+}

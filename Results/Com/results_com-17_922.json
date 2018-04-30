@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "algaard.com": {
+            "ttl": 74,
+            "ipid": 48367,
+            "responses": 1
+        },
+        "kolipost.com": {
+            "ttl": 93,
+            "ipid": 51184,
+            "responses": 1
+        }
+    }
+}

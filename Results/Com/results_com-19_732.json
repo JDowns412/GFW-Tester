@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "veko3.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ralphlaurenpolo-danmark.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "liverpoolrangers.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "xalfcw.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rorschachradioproduction.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

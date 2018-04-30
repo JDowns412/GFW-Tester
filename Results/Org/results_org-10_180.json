@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "trailsaccess.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "transparencytoken.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tyeforthurston.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "urbanenlightened.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vaxxfreedom.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "voterinformationalliance.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

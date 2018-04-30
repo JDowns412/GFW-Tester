@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "csrriskcheck.org": {
+            "ttl": 64,
+            "ipid": 51854,
+            "responses": 1
+        },
+        "csrsc.org": {
+            "ttl": 64,
+            "ipid": 30025,
+            "responses": 1
+        },
+        "csrscorecard.org": {
+            "ttl": 64,
+            "ipid": 3898,
+            "responses": 1
+        },
+        "csrserver.org": {
+            "ttl": 64,
+            "ipid": 53159,
+            "responses": 1
+        }
+    }
+}

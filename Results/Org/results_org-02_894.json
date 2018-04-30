@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "f9b.org": {
+            "ttl": 64,
+            "ipid": 15561,
+            "responses": 1
+        },
+        "f9cpa.org": {
+            "ttl": 64,
+            "ipid": 51499,
+            "responses": 1
+        },
+        "f9d.org": {
+            "ttl": 64,
+            "ipid": 32318,
+            "responses": 1
+        },
+        "f9k9s3.org": {
+            "ttl": 64,
+            "ipid": 29422,
+            "responses": 1
+        },
+        "f9mediacenter.org": {
+            "ttl": 64,
+            "ipid": 62882,
+            "responses": 1
+        }
+    }
+}

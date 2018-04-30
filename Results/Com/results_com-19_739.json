@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "sassysmile.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cabinet-eia.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "druformac.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cyclinggrouprides.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jxzhongze.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "batch44.com": {
+            "ttl": 45,
+            "ipid": 9588,
+            "responses": 2
+        },
+        "indiaphillips.com": {
+            "ttl": 32,
+            "ipid": 5221,
+            "responses": 2
+        }
+    }
+}

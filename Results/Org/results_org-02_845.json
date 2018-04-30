@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "everich.org": {
+            "ttl": 64,
+            "ipid": 19897,
+            "responses": 1
+        },
+        "everid.org": {
+            "ttl": 64,
+            "ipid": 15751,
+            "responses": 1
+        },
+        "everify.org": {
+            "ttl": 64,
+            "ipid": 29424,
+            "responses": 1
+        }
+    }
+}

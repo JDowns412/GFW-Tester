@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "privateharborinc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "1187cp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "augustenvironmentalservices.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "chiappaltd.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "myfriendspage.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "zilverrekening.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "shjinkang.com": {
+            "ttl": 63,
+            "ipid": 18624,
+            "responses": 2
+        }
+    }
+}

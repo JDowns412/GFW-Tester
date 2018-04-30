@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "linnovs.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wilderoseherbalapothecary.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rossgraphicdesign.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "moz-av.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

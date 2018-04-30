@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "renoresidence.com": {
+            "ttl": 37,
+            "ipid": 22007,
+            "responses": 2
+        },
+        "drawvpn.com": {
+            "ttl": 83,
+            "ipid": 764,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "eyeandpen.org": {
+            "ttl": 64,
+            "ipid": 10906,
+            "responses": 2
+        },
+        "eyeatlas.org": {
+            "ttl": 64,
+            "ipid": 34800,
+            "responses": 1
+        },
+        "eyebag.org": {
+            "ttl": 64,
+            "ipid": 16785,
+            "responses": 1
+        }
+    }
+}

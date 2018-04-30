@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "leoniepercy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cqypmm.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "uvclinics.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "grandfatherz.com": {
+            "ttl": 63,
+            "ipid": 18624,
+            "responses": 2
+        }
+    }
+}

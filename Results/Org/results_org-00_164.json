@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "704.org": {
+            "ttl": 39,
+            "ipid": 29331,
+            "responses": 2
+        },
+        "7040.org": {
+            "ttl": 75,
+            "ipid": 5009,
+            "responses": 2
+        },
+        "70by30.org": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

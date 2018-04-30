@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "agencygolf.com": {
+            "ttl": 100,
+            "ipid": 56648,
+            "responses": 2
+        },
+        "bhausaheb.com": {
+            "ttl": 36,
+            "ipid": 25580,
+            "responses": 1
+        },
+        "mirrorinthemudbook.com": {
+            "ttl": 45,
+            "ipid": 63306,
+            "responses": 2
+        }
+    }
+}

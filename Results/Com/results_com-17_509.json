@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "thebeckersweb.com": {
+            "ttl": 104,
+            "ipid": 26449,
+            "responses": 1
+        },
+        "gaming-pro.com": {
+            "ttl": 100,
+            "ipid": 58686,
+            "responses": 2
+        }
+    }
+}

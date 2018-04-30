@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ktfnews.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mgapi.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "milwaukeethrives.org": {
+            "ttl": 30,
+            "ipid": 20534,
+            "responses": 2
+        },
+        "mrccv.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

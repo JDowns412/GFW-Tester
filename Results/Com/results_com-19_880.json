@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "wind-research.com": {
+            "ttl": 44,
+            "ipid": 16998,
+            "responses": 1
+        },
+        "photostreetnola.com": {
+            "ttl": 60,
+            "ipid": 42424,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "fjqiangli.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "thisisquiteinteresting.com": {
+            "ttl": 56,
+            "ipid": 15766,
+            "responses": 2
+        },
+        "ccoolee.com": {
+            "ttl": 93,
+            "ipid": 40758,
+            "responses": 2
+        }
+    }
+}

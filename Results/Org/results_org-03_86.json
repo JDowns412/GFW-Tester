@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "flockers.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "flofera.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "flogrown.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "flolox.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "floodclean.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "flooduniversity.org": {
+            "ttl": 72,
+            "ipid": 5218,
+            "responses": 2
+        },
+        "flooidyoga.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

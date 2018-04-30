@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "insuranceforvacation.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ghostfluid.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "themineralpatch.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "anticops.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "fadras.org": {
+            "ttl": 64,
+            "ipid": 50972,
+            "responses": 1
+        },
+        "fadsjd.org": {
+            "ttl": 64,
+            "ipid": 13548,
+            "responses": 1
+        }
+    }
+}

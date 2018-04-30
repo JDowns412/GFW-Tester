@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "griffincloud.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sheltersobe.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "onlinetassen.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "railfactory.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

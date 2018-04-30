@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "seabid.com": {
+            "ttl": 68,
+            "ipid": 48562,
+            "responses": 1
+        },
+        "newbillion.com": {
+            "ttl": 59,
+            "ipid": 46023,
+            "responses": 1
+        }
+    }
+}

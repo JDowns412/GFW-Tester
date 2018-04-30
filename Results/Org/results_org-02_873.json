@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "expertbook.org": {
+            "ttl": 64,
+            "ipid": 15752,
+            "responses": 2
+        },
+        "expertbricolage.org": {
+            "ttl": 64,
+            "ipid": 10906,
+            "responses": 2
+        },
+        "expertcall.org": {
+            "ttl": 64,
+            "ipid": 1484,
+            "responses": 1
+        }
+    }
+}

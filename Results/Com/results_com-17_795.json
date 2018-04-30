@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "givenscarpet.com": {
+            "ttl": 39,
+            "ipid": 30140,
+            "responses": 1
+        },
+        "voormann.com": {
+            "ttl": 80,
+            "ipid": 23527,
+            "responses": 2
+        },
+        "1p0.com": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

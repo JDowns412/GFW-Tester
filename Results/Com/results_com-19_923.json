@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "thehudsonvalleystorycottage.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gooseislandsales.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nasskam.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "flavorschill.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

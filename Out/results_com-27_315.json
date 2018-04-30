@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "chicrestaurants.com": {
+            "ttl": 99,
+            "ipid": 36706,
+            "responses": 2
+        },
+        "fantasylinesandmancavedesigns.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "82137777.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "djwarchitect.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "breadforbread.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

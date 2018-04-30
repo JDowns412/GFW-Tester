@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "qualityrode.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "weeemanage.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "easternnursery.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iteltelematica.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "msyslive.com": {
+            "ttl": 50,
+            "ipid": 17745,
+            "responses": 2
+        }
+    }
+}

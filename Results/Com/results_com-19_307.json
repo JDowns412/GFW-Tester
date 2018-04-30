@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "wizardingnews.com": {
+            "ttl": 27,
+            "ipid": 9903,
+            "responses": 1
+        },
+        "sandiegoyogafestival.com": {
+            "ttl": 48,
+            "ipid": 6323,
+            "responses": 1
+        }
+    }
+}

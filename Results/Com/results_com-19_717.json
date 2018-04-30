@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "zebrasgarden.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "morganbaptistchurch.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ukrainianlove.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "g-and-w-lube-tools.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "genmaikabo.com": {
+            "ttl": 32,
+            "ipid": 59361,
+            "responses": 1
+        },
+        "aboluowang.com": {
+            "ttl": 100,
+            "ipid": 56648,
+            "responses": 2
+        }
+    }
+}

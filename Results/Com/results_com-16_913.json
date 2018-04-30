@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "floweri.com": {
+            "ttl": 34,
+            "ipid": 38249,
+            "responses": 2
+        },
+        "aigoron.com": {
+            "ttl": 36,
+            "ipid": 44968,
+            "responses": 2
+        },
+        "huaaojiamei.com": {
+            "ttl": 48,
+            "ipid": 34985,
+            "responses": 1
+        },
+        "prochazkovi.com": {
+            "ttl": 69,
+            "ipid": 52401,
+            "responses": 1
+        }
+    }
+}

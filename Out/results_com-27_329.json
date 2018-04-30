@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "4165v.com": {
+            "ttl": 50,
+            "ipid": 26361,
+            "responses": 1
+        },
+        "itstimetoshout.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "clemievegancake.com": {
+            "ttl": 95,
+            "ipid": 12408,
+            "responses": 2
+        },
+        "gbgphotovision.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "secilsoyturk.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

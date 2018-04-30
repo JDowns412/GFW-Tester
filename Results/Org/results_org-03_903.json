@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "holymotheroftherosary.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holyprotectionmonastery.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holyrosarypsbelfast.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holysite.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

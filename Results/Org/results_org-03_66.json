@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "fivesensesfestival.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fivestaraffinity.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fivewindsam.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "fix290.org": {
+            "ttl": 64,
+            "ipid": 26263,
+            "responses": 2
+        }
+    }
+}

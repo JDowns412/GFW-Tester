@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "premfashion.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "primeneuro.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rochesterareachamberofcommerce.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "romneystreetgroup.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sugiayeuthuong.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

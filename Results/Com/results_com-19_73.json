@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "lovefreexy.com": {
+            "ttl": 94,
+            "ipid": 59927,
+            "responses": 2
+        },
+        "sarajabril.com": {
+            "ttl": 32,
+            "ipid": 5221,
+            "responses": 2
+        },
+        "nocheretro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lovewillpavetheway.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

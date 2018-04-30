@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "pharma-regulatory-affairs.com": {
+            "ttl": 87,
+            "ipid": 31093,
+            "responses": 1
+        },
+        "b1ank-j0r.com": {
+            "ttl": 54,
+            "ipid": 14501,
+            "responses": 1
+        },
+        "grip-vs-slip.com": {
+            "ttl": 75,
+            "ipid": 13217,
+            "responses": 2
+        },
+        "thisiscanteen.com": {
+            "ttl": 42,
+            "ipid": 26273,
+            "responses": 1
+        }
+    }
+}

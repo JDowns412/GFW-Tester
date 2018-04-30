@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "h-k.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "h-matisse.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "h20lenzo.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "h20ninja.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "h20pay.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

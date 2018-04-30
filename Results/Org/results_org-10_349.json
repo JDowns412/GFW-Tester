@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "lions2a3.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mundoremedios.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "naritoolsaes.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "petevac.org": {
+            "ttl": 66,
+            "ipid": 54941,
+            "responses": 2
+        }
+    }
+}

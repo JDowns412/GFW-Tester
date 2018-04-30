@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "i-mng.com": {
+            "ttl": 24,
+            "ipid": 1,
+            "responses": 4
+        },
+        "fuyushiba.com": {
+            "ttl": 90,
+            "ipid": 39312,
+            "responses": 1
+        },
+        "ns-takken.com": {
+            "ttl": 59,
+            "ipid": 47597,
+            "responses": 2
+        }
+    }
+}

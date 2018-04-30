@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "meine-vereinte-volksbank.com": {
+            "ttl": 92,
+            "ipid": 35001,
+            "responses": 1
+        },
+        "edytype.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "galenarestaurantmenu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "andersnormal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "minhlongs9.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vidoons.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iamapetsitter.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "distributionlb.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "nasuha.com": {
+            "ttl": 64,
+            "ipid": 46107,
+            "responses": 1
+        },
+        "newgardentampa.com": {
+            "ttl": 83,
+            "ipid": 55434,
+            "responses": 2
+        }
+    }
+}

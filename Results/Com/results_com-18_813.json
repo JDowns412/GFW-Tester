@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "summithealthaz.com": {
+            "ttl": 30,
+            "ipid": 7437,
+            "responses": 1
+        },
+        "protocol96.com": {
+            "ttl": 64,
+            "ipid": 60019,
+            "responses": 1
+        },
+        "mashippingservice.com": {
+            "ttl": 64,
+            "ipid": 29710,
+            "responses": 1
+        }
+    }
+}

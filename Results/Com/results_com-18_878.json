@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "zerowone.com": {
+            "ttl": 64,
+            "ipid": 27978,
+            "responses": 1
+        },
+        "crowjconsulting.com": {
+            "ttl": 64,
+            "ipid": 6052,
+            "responses": 1
+        },
+        "childrenshoroscopes.com": {
+            "ttl": 64,
+            "ipid": 15253,
+            "responses": 1
+        },
+        "narumea-ch.com": {
+            "ttl": 64,
+            "ipid": 57849,
+            "responses": 1
+        },
+        "balealsurfingcamp.com": {
+            "ttl": 64,
+            "ipid": 34140,
+            "responses": 1
+        },
+        "rhondathedoula.com": {
+            "ttl": 64,
+            "ipid": 51752,
+            "responses": 3
+        }
+    }
+}

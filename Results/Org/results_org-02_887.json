@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "eyeseemore.org": {
+            "ttl": 64,
+            "ipid": 12370,
+            "responses": 2
+        },
+        "eyeseeyou.org": {
+            "ttl": 64,
+            "ipid": 42127,
+            "responses": 1
+        },
+        "eyeselfexam.org": {
+            "ttl": 64,
+            "ipid": 13418,
+            "responses": 1
+        }
+    }
+}

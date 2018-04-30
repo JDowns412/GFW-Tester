@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "liderlabs.com": {
+            "ttl": 78,
+            "ipid": 36239,
+            "responses": 1
+        },
+        "0445u.com": {
+            "ttl": 73,
+            "ipid": 51747,
+            "responses": 2
+        }
+    }
+}

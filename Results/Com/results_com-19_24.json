@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "alpinewyhomes.com": {
+            "ttl": 57,
+            "ipid": 51536,
+            "responses": 1
+        },
+        "portofsoyo.com": {
+            "ttl": 67,
+            "ipid": 14060,
+            "responses": 2
+        },
+        "oldsouthworkshop.com": {
+            "ttl": 62,
+            "ipid": 48585,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "jeraagranel.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jiaxing-groups.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "journalisten-akademie.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lavoiedeletre.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "fabpcsupport.org": {
+            "ttl": 64,
+            "ipid": 8845,
+            "responses": 1
+        },
+        "fabpsa.org": {
+            "ttl": 64,
+            "ipid": 3898,
+            "responses": 1
+        }
+    }
+}

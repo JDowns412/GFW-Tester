@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "losaltosbytoll.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pianomoversstlouis.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "combles-perdus.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "northscottsdaleloan.com": {
+            "ttl": 60,
+            "ipid": 64340,
+            "responses": 1
+        },
+        "in-vitae.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cerezoandino.com": {
+            "ttl": 32,
+            "ipid": 5221,
+            "responses": 2
+        },
+        "melvinsjuice.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

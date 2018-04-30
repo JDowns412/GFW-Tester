@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "lminsu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "brownowldesigns.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cp69444.com": {
+            "ttl": 70,
+            "ipid": 52024,
+            "responses": 1
+        },
+        "sunset-contracting.com": {
+            "ttl": 36,
+            "ipid": 36158,
+            "responses": 1
+        },
+        "hinduscoop.com": {
+            "ttl": 66,
+            "ipid": 59308,
+            "responses": 1
+        }
+    }
+}

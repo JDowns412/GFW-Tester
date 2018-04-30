@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "indonesianfloatassociation.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "kockengen.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kripacharities.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mebalance.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "momshome.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

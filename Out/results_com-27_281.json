@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "guangxiaodai.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "meueteu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bitsofwhimsey.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "onepostureatatime.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

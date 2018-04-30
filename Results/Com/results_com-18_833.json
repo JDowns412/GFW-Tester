@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "workingvets.com": {
+            "ttl": 64,
+            "ipid": 29085,
+            "responses": 1
+        },
+        "elevinsolution.com": {
+            "ttl": 64,
+            "ipid": 60018,
+            "responses": 1
+        },
+        "corarentalproperties.com": {
+            "ttl": 64,
+            "ipid": 63519,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "shipsnostalgia.com": {
+            "ttl": 76,
+            "ipid": 822,
+            "responses": 1
+        },
+        "afrotwitter.com": {
+            "ttl": 30,
+            "ipid": 52802,
+            "responses": 2
+        }
+    }
+}

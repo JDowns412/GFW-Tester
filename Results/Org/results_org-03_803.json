@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "helpinghandswildlifecenter.org": {
+            "ttl": 53,
+            "ipid": 15509,
+            "responses": 1
+        },
+        "helpingourneighbors.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "helpingpetsandpeoplenyc.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

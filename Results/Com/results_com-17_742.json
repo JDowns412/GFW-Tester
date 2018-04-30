@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "consultick.com": {
+            "ttl": 97,
+            "ipid": 49115,
+            "responses": 2
+        },
+        "anthonydawson.com": {
+            "ttl": 80,
+            "ipid": 23527,
+            "responses": 2
+        },
+        "solarlemoore.com": {
+            "ttl": 48,
+            "ipid": 13243,
+            "responses": 2
+        }
+    }
+}

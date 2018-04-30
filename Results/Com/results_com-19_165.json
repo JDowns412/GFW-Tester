@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "carolinaskydivingteam.com": {
+            "ttl": 61,
+            "ipid": 20795,
+            "responses": 1
+        },
+        "mmassociatesddn.com": {
+            "ttl": 59,
+            "ipid": 8875,
+            "responses": 2
+        }
+    }
+}

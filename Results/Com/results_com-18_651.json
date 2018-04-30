@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "wrongfullydeported.com": {
+            "ttl": 57,
+            "ipid": 12642,
+            "responses": 1
+        },
+        "my-videochat.com": {
+            "ttl": 64,
+            "ipid": 49921,
+            "responses": 1
+        }
+    }
+}

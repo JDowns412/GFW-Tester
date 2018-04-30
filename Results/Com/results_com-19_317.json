@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "easeperson.com": {
+            "ttl": 97,
+            "ipid": 61952,
+            "responses": 1
+        },
+        "wilddatastorage.com": {
+            "ttl": 81,
+            "ipid": 14889,
+            "responses": 1
+        },
+        "montagabend.com": {
+            "ttl": 77,
+            "ipid": 2554,
+            "responses": 1
+        }
+    }
+}

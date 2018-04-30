@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "cspearsf.org": {
+            "ttl": 64,
+            "ipid": 41522,
+            "responses": 1
+        },
+        "cspem.org": {
+            "ttl": 64,
+            "ipid": 62425,
+            "responses": 1
+        },
+        "cspensionrescue.org": {
+            "ttl": 64,
+            "ipid": 41511,
+            "responses": 1
+        }
+    }
+}

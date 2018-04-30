@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "blessedtraces.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "blossomsocial.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "castlegracie.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "clubmanagementassociation.org": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "complere.org": {
+            "ttl": 47,
+            "ipid": 24315,
+            "responses": 2
+        }
+    }
+}

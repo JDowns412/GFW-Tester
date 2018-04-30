@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "cavazanni-recruitment.com": {
+            "ttl": 77,
+            "ipid": 2554,
+            "responses": 1
+        },
+        "25zhu.com": {
+            "ttl": 27,
+            "ipid": 24088,
+            "responses": 2
+        },
+        "reelswitch.com": {
+            "ttl": 27,
+            "ipid": 29981,
+            "responses": 1
+        },
+        "8thstautos.com": {
+            "ttl": 95,
+            "ipid": 20469,
+            "responses": 1
+        }
+    }
+}

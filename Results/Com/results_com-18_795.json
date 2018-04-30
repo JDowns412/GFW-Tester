@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "reposespa.com": {
+            "ttl": 51,
+            "ipid": 21096,
+            "responses": 1
+        },
+        "morganyoutube.com": {
+            "ttl": 103,
+            "ipid": 34813,
+            "responses": 2
+        }
+    }
+}

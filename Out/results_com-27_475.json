@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "ecommercetrk.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "selltoitaly.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "bleublancyou.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "shilinbank.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "innovativaprojekt.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "uscope-classico.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "etao-tester.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}
