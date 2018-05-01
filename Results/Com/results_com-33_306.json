@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "shoremaster-dev.com": {
+            "ttl": 56,
+            "ipid": 65526,
+            "responses": 2
+        },
+        "webpromotionstore.com": {
+            "ttl": 73,
+            "ipid": 29993,
+            "responses": 1
+        },
+        "ecoursebox.com": {
+            "ttl": 31,
+            "ipid": 9897,
+            "responses": 2
+        }
+    }
+}

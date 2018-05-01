@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "poster6.com": {
+            "ttl": 40,
+            "ipid": 26760,
+            "responses": 1
+        },
+        "crafterscafe.com": {
+            "ttl": 85,
+            "ipid": 26065,
+            "responses": 1
+        }
+    }
+}

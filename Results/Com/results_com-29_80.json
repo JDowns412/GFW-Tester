@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "maafadvisor.com": {
+            "ttl": 69,
+            "ipid": 21242,
+            "responses": 2
+        },
+        "guzeyhukuk.com": {
+            "ttl": 106,
+            "ipid": 216,
+            "responses": 2
+        },
+        "larrydortch.com": {
+            "ttl": 42,
+            "ipid": 53215,
+            "responses": 1
+        }
+    }
+}

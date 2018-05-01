@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "daggerfallunity.net": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "25956.net": {
+            "ttl": 57,
+            "ipid": 18040,
+            "responses": 2
+        }
+    }
+}

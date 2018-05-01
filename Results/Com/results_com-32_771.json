@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "plantmunching.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "haoqi2012.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "winningwithmindset.com": {
+            "ttl": 64,
+            "ipid": 45706,
+            "responses": 2
+        },
+        "usavina.com": {
+            "ttl": 64,
+            "ipid": 44524,
+            "responses": 3
+        },
+        "sreint.com": {
+            "ttl": 64,
+            "ipid": 41200,
+            "responses": 2
+        }
+    }
+}

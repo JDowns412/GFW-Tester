@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cpn-dev.com": {
+            "ttl": 44,
+            "ipid": 4344,
+            "responses": 1
+        },
+        "gorgeousconcrete.com": {
+            "ttl": 83,
+            "ipid": 32634,
+            "responses": 1
+        }
+    }
+}

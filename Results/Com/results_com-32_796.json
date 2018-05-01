@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ntechy.com": {
+            "ttl": 102,
+            "ipid": 7254,
+            "responses": 2
+        },
+        "ienka.com": {
+            "ttl": 105,
+            "ipid": 24054,
+            "responses": 1
+        },
+        "57799678.com": {
+            "ttl": 72,
+            "ipid": 12883,
+            "responses": 1
+        }
+    }
+}

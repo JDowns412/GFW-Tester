@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "richkenmedia.com": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 2
+        },
+        "elrancheromeat.com": {
+            "ttl": 90,
+            "ipid": 45000,
+            "responses": 2
+        },
+        "queensgang.com": {
+            "ttl": 76,
+            "ipid": 58702,
+            "responses": 1
+        },
+        "swmusa.com": {
+            "ttl": 56,
+            "ipid": 21863,
+            "responses": 1
+        },
+        "tysoutboard.com": {
+            "ttl": 93,
+            "ipid": 61294,
+            "responses": 2
+        }
+    }
+}

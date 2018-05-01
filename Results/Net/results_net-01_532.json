@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "xn--wlfing-wxa.net": {
+            "ttl": 53,
+            "ipid": 50024,
+            "responses": 2
+        },
+        "centralhealthandwellnesscenter.net": {
+            "ttl": 35,
+            "ipid": 6064,
+            "responses": 2
+        }
+    }
+}

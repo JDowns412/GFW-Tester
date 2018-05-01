@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "bigsmilesphotos.com": {
+            "ttl": 35,
+            "ipid": 58149,
+            "responses": 2
+        },
+        "professionalconsultantsgroup.com": {
+            "ttl": 83,
+            "ipid": 11313,
+            "responses": 1
+        }
+    }
+}

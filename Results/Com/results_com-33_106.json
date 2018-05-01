@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "pappaweed.com": {
+            "ttl": 48,
+            "ipid": 46362,
+            "responses": 2
+        },
+        "omsomaha.com": {
+            "ttl": 90,
+            "ipid": 30230,
+            "responses": 2
+        },
+        "ezlimoandtaxiservice.com": {
+            "ttl": 66,
+            "ipid": 6101,
+            "responses": 2
+        }
+    }
+}

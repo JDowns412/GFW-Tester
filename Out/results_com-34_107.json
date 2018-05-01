@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "awesomedojo.com": {
+            "ttl": 60,
+            "ipid": 57561,
+            "responses": 1
+        },
+        "modernautobodyracing.com": {
+            "ttl": 89,
+            "ipid": 12006,
+            "responses": 1
+        }
+    }
+}

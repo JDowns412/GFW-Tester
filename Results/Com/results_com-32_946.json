@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "popplur.com": {
+            "ttl": 44,
+            "ipid": 40623,
+            "responses": 1
+        },
+        "webmunster.com": {
+            "ttl": 52,
+            "ipid": 12302,
+            "responses": 1
+        }
+    }
+}

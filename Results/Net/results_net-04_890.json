@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "0190-livesex.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "serbianconnection.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "karnevalkostueme.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "joshclark.net": {
+            "ttl": 71,
+            "ipid": 48123,
+            "responses": 2
+        }
+    }
+}

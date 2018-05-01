@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "swevefilms.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "dltsv.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "alpinesportsclub.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "elleguns.com": {
+            "ttl": 64,
+            "ipid": 22813,
+            "responses": 2
+        },
+        "caas4sap.com": {
+            "ttl": 64,
+            "ipid": 44524,
+            "responses": 3
+        },
+        "oil-angels.com": {
+            "ttl": 64,
+            "ipid": 41175,
+            "responses": 2
+        },
+        "dariocalmese.com": {
+            "ttl": 64,
+            "ipid": 30641,
+            "responses": 2
+        },
+        "sinardstore.com": {
+            "ttl": 64,
+            "ipid": 44877,
+            "responses": 2
+        }
+    }
+}

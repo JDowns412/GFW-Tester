@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "nervepath.net": {
+            "ttl": 49,
+            "ipid": 14079,
+            "responses": 1
+        },
+        "iqsp.net": {
+            "ttl": 50,
+            "ipid": 18726,
+            "responses": 2
+        }
+    }
+}

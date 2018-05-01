@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "fzgn.net": {
+            "ttl": 64,
+            "ipid": 51659,
+            "responses": 2
+        },
+        "posturecontrolinsoles.net": {
+            "ttl": 64,
+            "ipid": 9419,
+            "responses": 1
+        },
+        "karstensenweb.net": {
+            "ttl": 64,
+            "ipid": 33001,
+            "responses": 1
+        },
+        "aiteachu.net": {
+            "ttl": 64,
+            "ipid": 42103,
+            "responses": 1
+        }
+    }
+}

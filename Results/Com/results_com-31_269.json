@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "benchmarqcapital.com": {
+            "ttl": 100,
+            "ipid": 36487,
+            "responses": 1
+        },
+        "gaomianwa.com": {
+            "ttl": 98,
+            "ipid": 25021,
+            "responses": 1
+        }
+    }
+}

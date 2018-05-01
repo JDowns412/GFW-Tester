@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "businessprocessoutsourcing.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "24hourfitnesscenter.net": {
+            "ttl": 48,
+            "ipid": 14334,
+            "responses": 2
+        },
+        "lordknows.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "warnereditions.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "world-wide-web-servers.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

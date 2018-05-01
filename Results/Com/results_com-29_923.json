@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "bisynet.com": {
+            "ttl": 96,
+            "ipid": 42705,
+            "responses": 2
+        },
+        "forhelicopterpilots.com": {
+            "ttl": 38,
+            "ipid": 34144,
+            "responses": 1
+        }
+    }
+}

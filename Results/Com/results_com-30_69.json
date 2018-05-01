@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "remotedetailing.com": {
+            "ttl": 61,
+            "ipid": 8805,
+            "responses": 1
+        },
+        "illinoisdiabetesreport.com": {
+            "ttl": 82,
+            "ipid": 10559,
+            "responses": 2
+        }
+    }
+}

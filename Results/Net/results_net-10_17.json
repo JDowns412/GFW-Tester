@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "paintingbids.net": {
+            "ttl": 50,
+            "ipid": 55258,
+            "responses": 2
+        },
+        "traffictakeout.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "qdb-qa.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "petpaint.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "desmelie-loosen.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

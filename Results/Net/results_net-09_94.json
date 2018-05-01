@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "marcusmay.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sanayim.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "srmcivilworks.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "americagraffiti.net": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 2
+        }
+    }
+}

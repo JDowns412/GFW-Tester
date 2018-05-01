@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "thecolumbussaver.com": {
+            "ttl": 46,
+            "ipid": 61278,
+            "responses": 1
+        },
+        "nubbius.com": {
+            "ttl": 51,
+            "ipid": 22874,
+            "responses": 2
+        },
+        "nfwcn.com": {
+            "ttl": 88,
+            "ipid": 20069,
+            "responses": 2
+        }
+    }
+}

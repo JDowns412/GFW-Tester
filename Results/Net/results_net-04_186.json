@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "chitku.net": {
+            "ttl": 64,
+            "ipid": 28765,
+            "responses": 1
+        },
+        "army-of-one.net": {
+            "ttl": 64,
+            "ipid": 2454,
+            "responses": 1
+        },
+        "thesemoderntimes.net": {
+            "ttl": 64,
+            "ipid": 36985,
+            "responses": 1
+        },
+        "xcchina.net": {
+            "ttl": 64,
+            "ipid": 5046,
+            "responses": 1
+        },
+        "ronvenezolano.net": {
+            "ttl": 64,
+            "ipid": 48338,
+            "responses": 1
+        }
+    }
+}

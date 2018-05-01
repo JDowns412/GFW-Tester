@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "huaweiforum.net": {
+            "ttl": 72,
+            "ipid": 9161,
+            "responses": 1
+        },
+        "lksoccer.net": {
+            "ttl": 54,
+            "ipid": 46109,
+            "responses": 2
+        }
+    }
+}

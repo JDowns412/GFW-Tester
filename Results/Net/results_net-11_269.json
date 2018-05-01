@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "kyplanning.net": {
+            "ttl": 52,
+            "ipid": 45068,
+            "responses": 1
+        },
+        "carpet-cleaning-equipmnet.net": {
+            "ttl": 59,
+            "ipid": 40896,
+            "responses": 2
+        }
+    }
+}

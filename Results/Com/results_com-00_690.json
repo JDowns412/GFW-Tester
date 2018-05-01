@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "fdphotostudios.com": {
+            "ttl": 34,
+            "ipid": 12633,
+            "responses": 2
+        },
+        "aolontheweb.com": {
+            "ttl": 101,
+            "ipid": 53162,
+            "responses": 1
+        }
+    }
+}

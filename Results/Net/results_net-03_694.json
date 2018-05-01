@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "dh-music.net": {
+            "ttl": 30,
+            "ipid": 2328,
+            "responses": 2
+        },
+        "719888.net": {
+            "ttl": 105,
+            "ipid": 31062,
+            "responses": 1
+        },
+        "ssready.net": {
+            "ttl": 86,
+            "ipid": 22641,
+            "responses": 2
+        }
+    }
+}

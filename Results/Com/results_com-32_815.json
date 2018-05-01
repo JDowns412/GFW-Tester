@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "crycam.com": {
+            "ttl": 55,
+            "ipid": 8433,
+            "responses": 1
+        },
+        "amazingkisses.com": {
+            "ttl": 33,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

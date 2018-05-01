@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "eyesdns.net": {
+            "ttl": 38,
+            "ipid": 26451,
+            "responses": 1
+        },
+        "marleny.net": {
+            "ttl": 91,
+            "ipid": 195,
+            "responses": 1
+        }
+    }
+}

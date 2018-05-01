@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "pacoliana.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "100cc.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "candytower.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "matheyportal.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

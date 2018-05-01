@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "babadang.net": {
+            "ttl": 49,
+            "ipid": 19198,
+            "responses": 2
+        },
+        "fluxskincare.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "snap-md.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

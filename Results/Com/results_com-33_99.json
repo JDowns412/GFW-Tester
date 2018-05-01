@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "juqingwenhua.com": {
+            "ttl": 34,
+            "ipid": 45689,
+            "responses": 1
+        },
+        "cslivestream.com": {
+            "ttl": 36,
+            "ipid": 11400,
+            "responses": 2
+        },
+        "auracedarspringsapts.com": {
+            "ttl": 80,
+            "ipid": 49462,
+            "responses": 1
+        },
+        "virtualmoneysubscriptions.com": {
+            "ttl": 67,
+            "ipid": 51872,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 998,
+        "blocked": 1,
+        "errors": 0
+    },
+    "domains": {
+        "12345proxy.net": {
+            "ttl": 95,
+            "ipid": 28400,
+            "responses": 2
+        }
+    }
+}

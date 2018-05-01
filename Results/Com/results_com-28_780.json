@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "mnlght.com": {
+            "ttl": 35,
+            "ipid": 48372,
+            "responses": 2
+        },
+        "persianmc.com": {
+            "ttl": 84,
+            "ipid": 11200,
+            "responses": 2
+        },
+        "pwchords.com": {
+            "ttl": 73,
+            "ipid": 31067,
+            "responses": 2
+        }
+    }
+}

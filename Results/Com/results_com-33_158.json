@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "hicerebro.com": {
+            "ttl": 50,
+            "ipid": 44040,
+            "responses": 2
+        },
+        "dev-igentax.com": {
+            "ttl": 90,
+            "ipid": 45000,
+            "responses": 2
+        }
+    }
+}

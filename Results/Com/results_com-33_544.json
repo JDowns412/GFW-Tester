@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "driveoverstuff.com": {
+            "ttl": 78,
+            "ipid": 38536,
+            "responses": 1
+        },
+        "cellderma.com": {
+            "ttl": 46,
+            "ipid": 19594,
+            "responses": 1
+        },
+        "yennelee.com": {
+            "ttl": 103,
+            "ipid": 62642,
+            "responses": 1
+        },
+        "www-1900.com": {
+            "ttl": 77,
+            "ipid": 47098,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "teamkarte.net": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "mycurry.net": {
+            "ttl": 38,
+            "ipid": 48705,
+            "responses": 2
+        },
+        "onelex.net": {
+            "ttl": 34,
+            "ipid": 14818,
+            "responses": 2
+        }
+    }
+}

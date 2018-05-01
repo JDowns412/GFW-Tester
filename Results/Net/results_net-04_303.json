@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "jamrayan.net": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "vakhuis.net": {
+            "ttl": 52,
+            "ipid": 17077,
+            "responses": 2
+        },
+        "mobilesuccess.net": {
+            "ttl": 68,
+            "ipid": 59512,
+            "responses": 2
+        },
+        "sudoip.net": {
+            "ttl": 44,
+            "ipid": 15575,
+            "responses": 2
+        }
+    }
+}

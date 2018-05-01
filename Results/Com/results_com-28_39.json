@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "flirtspielchen.com": {
+            "ttl": 42,
+            "ipid": 50087,
+            "responses": 1
+        },
+        "tekfactors.com": {
+            "ttl": 74,
+            "ipid": 10983,
+            "responses": 2
+        }
+    }
+}

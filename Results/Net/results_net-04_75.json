@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "giaxaynha.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "thinkforceacademy.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cometcopywriting.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "h9lab.net": {
+            "ttl": 64,
+            "ipid": 3970,
+            "responses": 2
+        }
+    }
+}

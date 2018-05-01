@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "premiumgamer.net": {
+            "ttl": 53,
+            "ipid": 21645,
+            "responses": 2
+        },
+        "qlfm.net": {
+            "ttl": 43,
+            "ipid": 65035,
+            "responses": 2
+        },
+        "crewcloudvideo.net": {
+            "ttl": 104,
+            "ipid": 64713,
+            "responses": 2
+        }
+    }
+}

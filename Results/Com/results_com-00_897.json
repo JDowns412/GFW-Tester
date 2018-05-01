@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "mangokeramiek.com": {
+            "ttl": 42,
+            "ipid": 13192,
+            "responses": 1
+        },
+        "findanyware.com": {
+            "ttl": 78,
+            "ipid": 6879,
+            "responses": 2
+        }
+    }
+}

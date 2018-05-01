@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "vanguardwellnesscenter.net": {
+            "ttl": 31,
+            "ipid": 3621,
+            "responses": 2
+        },
+        "duck-1.net": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

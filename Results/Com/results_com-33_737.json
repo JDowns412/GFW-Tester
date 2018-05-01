@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "webhouse1900.com": {
+            "ttl": 32,
+            "ipid": 57533,
+            "responses": 1
+        },
+        "ozanoskay.com": {
+            "ttl": 62,
+            "ipid": 11766,
+            "responses": 2
+        },
+        "pisnickyyoutube.com": {
+            "ttl": 27,
+            "ipid": 33128,
+            "responses": 2
+        }
+    }
+}

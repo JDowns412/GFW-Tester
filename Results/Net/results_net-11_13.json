@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "cdsfiles.net": {
+            "ttl": 84,
+            "ipid": 55499,
+            "responses": 2
+        },
+        "nlproxy.net": {
+            "ttl": 86,
+            "ipid": 4762,
+            "responses": 2
+        },
+        "maijialianmeng.net": {
+            "ttl": 31,
+            "ipid": 59410,
+            "responses": 2
+        }
+    }
+}

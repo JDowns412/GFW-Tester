@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "fairtuition.net": {
+            "ttl": 51,
+            "ipid": 46151,
+            "responses": 2
+        },
+        "michiganwellnesscenter.net": {
+            "ttl": 54,
+            "ipid": 64198,
+            "responses": 2
+        }
+    }
+}

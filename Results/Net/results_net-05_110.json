@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "fsponline.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "breakpoint-inc.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "angeltritioninstitute.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jctokc.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "locnar.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "crossingthechasm.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "microstore.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "drjunk.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

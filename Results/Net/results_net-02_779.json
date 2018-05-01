@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "fxdetabeteiku.net": {
+            "ttl": 80,
+            "ipid": 14552,
+            "responses": 1
+        },
+        "architizer.net": {
+            "ttl": 29,
+            "ipid": 13418,
+            "responses": 2
+        },
+        "smiletraintravels.net": {
+            "ttl": 65,
+            "ipid": 34838,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "autorepairmiddleburgh.com": {
+            "ttl": 31,
+            "ipid": 15432,
+            "responses": 2
+        },
+        "sportscarholiday.com": {
+            "ttl": 62,
+            "ipid": 28980,
+            "responses": 1
+        },
+        "petarianenterprises.com": {
+            "ttl": 69,
+            "ipid": 52390,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "jimmygogo.com": {
+            "ttl": 80,
+            "ipid": 54864,
+            "responses": 1
+        },
+        "opegrouponline.com": {
+            "ttl": 72,
+            "ipid": 4019,
+            "responses": 2
+        }
+    }
+}

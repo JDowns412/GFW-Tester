@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "willstdu.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rdgtech.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pokemon-series.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hvorostovsky.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

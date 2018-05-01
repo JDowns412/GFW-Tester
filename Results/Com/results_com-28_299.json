@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "halfpricewindows.com": {
+            "ttl": 76,
+            "ipid": 55701,
+            "responses": 1
+        },
+        "bsweatt.com": {
+            "ttl": 32,
+            "ipid": 54059,
+            "responses": 1
+        }
+    }
+}

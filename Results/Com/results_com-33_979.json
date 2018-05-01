@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "vpnfaqs.com": {
+            "ttl": 27,
+            "ipid": 57982,
+            "responses": 2
+        },
+        "mistressli.com": {
+            "ttl": 58,
+            "ipid": 27293,
+            "responses": 2
+        }
+    }
+}

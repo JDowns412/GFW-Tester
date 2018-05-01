@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "brainbros.net": {
+            "ttl": 51,
+            "ipid": 35169,
+            "responses": 2
+        },
+        "superhealthcenter.net": {
+            "ttl": 51,
+            "ipid": 20386,
+            "responses": 2
+        }
+    }
+}

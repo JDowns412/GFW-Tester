@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "selfstorageverband.net": {
+            "ttl": 26,
+            "ipid": 43941,
+            "responses": 1
+        },
+        "lovethecoopersfilm.net": {
+            "ttl": 94,
+            "ipid": 60866,
+            "responses": 2
+        },
+        "xn--wk0b18bkyf.net": {
+            "ttl": 45,
+            "ipid": 15314,
+            "responses": 2
+        },
+        "apollobusinesscenter.net": {
+            "ttl": 37,
+            "ipid": 28146,
+            "responses": 2
+        }
+    }
+}

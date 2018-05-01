@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "prettysus.com": {
+            "ttl": 62,
+            "ipid": 44208,
+            "responses": 2
+        },
+        "ordercafecitowells.com": {
+            "ttl": 56,
+            "ipid": 21863,
+            "responses": 1
+        }
+    }
+}

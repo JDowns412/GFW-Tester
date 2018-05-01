@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "hauntingstoday.net": {
+            "ttl": 64,
+            "ipid": 59398,
+            "responses": 1
+        },
+        "healthyapp.net": {
+            "ttl": 64,
+            "ipid": 49668,
+            "responses": 1
+        },
+        "hipquality.net": {
+            "ttl": 64,
+            "ipid": 47882,
+            "responses": 2
+        },
+        "hiredbrains.net": {
+            "ttl": 64,
+            "ipid": 44909,
+            "responses": 2
+        },
+        "hivenus.net": {
+            "ttl": 64,
+            "ipid": 14972,
+            "responses": 1
+        },
+        "hobbyness.net": {
+            "ttl": 64,
+            "ipid": 25706,
+            "responses": 1
+        },
+        "holyfamilystow.net": {
+            "ttl": 64,
+            "ipid": 9794,
+            "responses": 1
+        },
+        "honjin-n.net": {
+            "ttl": 64,
+            "ipid": 26285,
+            "responses": 1
+        }
+    }
+}

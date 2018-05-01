@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "gpgy.net": {
+            "ttl": 95,
+            "ipid": 7388,
+            "responses": 2
+        },
+        "bettervpn.net": {
+            "ttl": 49,
+            "ipid": 15728,
+            "responses": 2
+        },
+        "made-inla.net": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

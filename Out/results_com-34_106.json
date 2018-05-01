@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "pinpointbrand.com": {
+            "ttl": 58,
+            "ipid": 42046,
+            "responses": 1
+        },
+        "webdesignforrecruiters.com": {
+            "ttl": 68,
+            "ipid": 27993,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "maturepassword.com": {
+            "ttl": 103,
+            "ipid": 39252,
+            "responses": 1
+        },
+        "virginiacrafthouse.com": {
+            "ttl": 62,
+            "ipid": 52003,
+            "responses": 2
+        }
+    }
+}

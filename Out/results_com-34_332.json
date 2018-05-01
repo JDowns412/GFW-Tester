@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ancientmagic.com": {
+            "ttl": 46,
+            "ipid": 29586,
+            "responses": 1
+        },
+        "grahamenglish.com": {
+            "ttl": 71,
+            "ipid": 13365,
+            "responses": 2
+        },
+        "xxrf.com": {
+            "ttl": 69,
+            "ipid": 40723,
+            "responses": 2
+        }
+    }
+}

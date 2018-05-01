@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "hdmumen.com": {
+            "ttl": 51,
+            "ipid": 28571,
+            "responses": 2
+        },
+        "dermadocsale.com": {
+            "ttl": 54,
+            "ipid": 24988,
+            "responses": 1
+        }
+    }
+}

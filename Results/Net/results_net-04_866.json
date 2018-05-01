@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "hangsorter.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kaylim.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "protontransport.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "engoogle.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ergotraining.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "k1e1.com": {
+            "ttl": 104,
+            "ipid": 53140,
+            "responses": 1
+        },
+        "taylorpropertygroup.com": {
+            "ttl": 93,
+            "ipid": 9074,
+            "responses": 2
+        }
+    }
+}

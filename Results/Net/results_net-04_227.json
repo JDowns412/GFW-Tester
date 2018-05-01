@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "payoutsweekly.net": {
+            "ttl": 64,
+            "ipid": 51121,
+            "responses": 1
+        },
+        "curvbeverages.net": {
+            "ttl": 64,
+            "ipid": 28761,
+            "responses": 1
+        },
+        "airbeenbee.net": {
+            "ttl": 64,
+            "ipid": 52118,
+            "responses": 2
+        },
+        "dandvnewyork.net": {
+            "ttl": 64,
+            "ipid": 63143,
+            "responses": 1
+        },
+        "ashleymao.net": {
+            "ttl": 64,
+            "ipid": 13229,
+            "responses": 1
+        }
+    }
+}

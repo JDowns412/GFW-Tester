@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "wirelayer.net": {
+            "ttl": 52,
+            "ipid": 9460,
+            "responses": 2
+        },
+        "huffmanwellnesscenter.net": {
+            "ttl": 71,
+            "ipid": 11556,
+            "responses": 2
+        }
+    }
+}

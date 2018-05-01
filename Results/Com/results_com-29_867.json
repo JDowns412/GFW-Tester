@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "jefferygeller.com": {
+            "ttl": 95,
+            "ipid": 32168,
+            "responses": 2
+        },
+        "connect-minitravel.com": {
+            "ttl": 100,
+            "ipid": 60873,
+            "responses": 1
+        },
+        "helpatechnologyreporter.com": {
+            "ttl": 66,
+            "ipid": 41213,
+            "responses": 2
+        }
+    }
+}

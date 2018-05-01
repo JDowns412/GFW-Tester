@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "ddcworks.net": {
+            "ttl": 88,
+            "ipid": 18233,
+            "responses": 2
+        },
+        "manfella.net": {
+            "ttl": 99,
+            "ipid": 61523,
+            "responses": 2
+        }
+    }
+}

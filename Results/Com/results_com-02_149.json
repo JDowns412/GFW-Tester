@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "theredseafoodrestaurant.com": {
+            "ttl": 41,
+            "ipid": 7467,
+            "responses": 1
+        },
+        "witchtoberfest.com": {
+            "ttl": 68,
+            "ipid": 1713,
+            "responses": 1
+        }
+    }
+}

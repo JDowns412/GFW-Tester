@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "jnzcd.com": {
+            "ttl": 33,
+            "ipid": 0,
+            "responses": 1
+        },
+        "vapvaporizers.com": {
+            "ttl": 102,
+            "ipid": 7254,
+            "responses": 2
+        },
+        "valleywideins.com": {
+            "ttl": 105,
+            "ipid": 24054,
+            "responses": 1
+        },
+        "toozon.com": {
+            "ttl": 103,
+            "ipid": 24397,
+            "responses": 1
+        }
+    }
+}

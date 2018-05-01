@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "iimtees.com": {
+            "ttl": 94,
+            "ipid": 11126,
+            "responses": 1
+        },
+        "ffgene.com": {
+            "ttl": 59,
+            "ipid": 29971,
+            "responses": 2
+        },
+        "drscsi.com": {
+            "ttl": 87,
+            "ipid": 46870,
+            "responses": 1
+        }
+    }
+}

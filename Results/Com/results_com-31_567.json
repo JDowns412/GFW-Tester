@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "4x4shocks.com": {
+            "ttl": 29,
+            "ipid": 47340,
+            "responses": 1
+        },
+        "myztiek.com": {
+            "ttl": 88,
+            "ipid": 26296,
+            "responses": 1
+        },
+        "elintrans.com": {
+            "ttl": 79,
+            "ipid": 11584,
+            "responses": 2
+        },
+        "socalhondaps.com": {
+            "ttl": 80,
+            "ipid": 39515,
+            "responses": 2
+        }
+    }
+}

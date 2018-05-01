@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "badminton-bup.com": {
+            "ttl": 60,
+            "ipid": 38724,
+            "responses": 1
+        },
+        "maomiav.com": {
+            "ttl": 92,
+            "ipid": 47317,
+            "responses": 1
+        },
+        "maomiav2.com": {
+            "ttl": 89,
+            "ipid": 14034,
+            "responses": 1
+        }
+    }
+}

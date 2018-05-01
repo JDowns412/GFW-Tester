@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "korbflechter.net": {
+            "ttl": 65,
+            "ipid": 60677,
+            "responses": 2
+        },
+        "rollnumber.net": {
+            "ttl": 43,
+            "ipid": 6385,
+            "responses": 2
+        }
+    }
+}

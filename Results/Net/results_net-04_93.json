@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "amiatrisk.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tamasos.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "xn--l8je0a5cvmya01a7l820y.net": {
+            "ttl": 45,
+            "ipid": 10792,
+            "responses": 2
+        }
+    }
+}

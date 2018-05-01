@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "crecl.com": {
+            "ttl": 78,
+            "ipid": 25931,
+            "responses": 2
+        },
+        "yixiju.com": {
+            "ttl": 55,
+            "ipid": 39616,
+            "responses": 2
+        },
+        "led919.com": {
+            "ttl": 48,
+            "ipid": 19201,
+            "responses": 1
+        }
+    }
+}

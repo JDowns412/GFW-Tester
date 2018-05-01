@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "privymovie.com": {
+            "ttl": 93,
+            "ipid": 30603,
+            "responses": 2
+        },
+        "sunflowerapts.com": {
+            "ttl": 105,
+            "ipid": 42250,
+            "responses": 2
+        },
+        "yogatvonline.com": {
+            "ttl": 78,
+            "ipid": 36777,
+            "responses": 2
+        }
+    }
+}

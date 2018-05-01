@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "needafloridalicense.com": {
+            "ttl": 62,
+            "ipid": 58948,
+            "responses": 2
+        },
+        "donaldtrumptwitter.com": {
+            "ttl": 41,
+            "ipid": 35376,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "mcmics.com": {
+            "ttl": 27,
+            "ipid": 3827,
+            "responses": 2
+        },
+        "hootjohnsonconst.com": {
+            "ttl": 57,
+            "ipid": 60663,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "beverlyfunds.com": {
+            "ttl": 83,
+            "ipid": 11313,
+            "responses": 1
+        },
+        "softeeinternational.com": {
+            "ttl": 83,
+            "ipid": 49887,
+            "responses": 2
+        }
+    }
+}

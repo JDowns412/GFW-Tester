@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "takumi-item.com": {
+            "ttl": 53,
+            "ipid": 13865,
+            "responses": 1
+        },
+        "aux-reflets-dailleurs.com": {
+            "ttl": 97,
+            "ipid": 59647,
+            "responses": 2
+        },
+        "gyulais.com": {
+            "ttl": 33,
+            "ipid": 6995,
+            "responses": 1
+        }
+    }
+}

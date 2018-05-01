@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "massiveinternetprofits.net": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        },
+        "la-bergerie.net": {
+            "ttl": 80,
+            "ipid": 19682,
+            "responses": 2
+        }
+    }
+}

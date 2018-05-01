@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "trypants.com": {
+            "ttl": 91,
+            "ipid": 15897,
+            "responses": 2
+        },
+        "ummao.com": {
+            "ttl": 29,
+            "ipid": 42040,
+            "responses": 1
+        },
+        "zrdc003.com": {
+            "ttl": 99,
+            "ipid": 4117,
+            "responses": 1
+        }
+    }
+}

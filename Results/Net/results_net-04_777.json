@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "th-robot.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shanehamilton.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "batchels-shop.net": {
+            "ttl": 99,
+            "ipid": 26476,
+            "responses": 2
+        }
+    }
+}

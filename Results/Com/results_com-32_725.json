@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "maxmassinsurancebroker.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "graphicmexico.com": {
+            "ttl": 64,
+            "ipid": 40955,
+            "responses": 1
+        },
+        "threeleafsoft.com": {
+            "ttl": 64,
+            "ipid": 48849,
+            "responses": 4
+        },
+        "juliesavalas.com": {
+            "ttl": 64,
+            "ipid": 53235,
+            "responses": 3
+        },
+        "softwaremillennium.com": {
+            "ttl": 64,
+            "ipid": 47770,
+            "responses": 1
+        },
+        "zglhh.com": {
+            "ttl": 64,
+            "ipid": 31405,
+            "responses": 1
+        },
+        "spark-shredder.com": {
+            "ttl": 54,
+            "ipid": 10911,
+            "responses": 1
+        }
+    }
+}

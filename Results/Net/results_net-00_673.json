@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "spiritinfused.net": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "prestigetest.net": {
+            "ttl": 65,
+            "ipid": 22669,
+            "responses": 2
+        }
+    }
+}

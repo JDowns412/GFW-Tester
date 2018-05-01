@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "mihnet.net": {
+            "ttl": 68,
+            "ipid": 23550,
+            "responses": 2
+        },
+        "reactserver.net": {
+            "ttl": 33,
+            "ipid": 29525,
+            "responses": 2
+        }
+    }
+}

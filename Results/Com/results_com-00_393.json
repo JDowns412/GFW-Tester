@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "collect1900.com": {
+            "ttl": 64,
+            "ipid": 64392,
+            "responses": 1
+        },
+        "japanesetire.com": {
+            "ttl": 80,
+            "ipid": 54294,
+            "responses": 1
+        }
+    }
+}

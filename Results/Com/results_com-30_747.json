@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "sabrinasonline.com": {
+            "ttl": 95,
+            "ipid": 33736,
+            "responses": 1
+        },
+        "lacenterstorage.com": {
+            "ttl": 43,
+            "ipid": 7590,
+            "responses": 1
+        },
+        "seausmilelures.com": {
+            "ttl": 95,
+            "ipid": 6829,
+            "responses": 1
+        }
+    }
+}

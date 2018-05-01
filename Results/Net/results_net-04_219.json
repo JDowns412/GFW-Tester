@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "finflix.net": {
+            "ttl": 64,
+            "ipid": 65334,
+            "responses": 1
+        },
+        "refleksolojiturkiye.net": {
+            "ttl": 64,
+            "ipid": 28764,
+            "responses": 1
+        },
+        "xn--fhqsml3js56a.net": {
+            "ttl": 64,
+            "ipid": 5648,
+            "responses": 1
+        },
+        "xn--verfhrungscode-jsb.net": {
+            "ttl": 64,
+            "ipid": 53173,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "scoutlogic.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "laicaopan.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "biszumhorizont.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "greatstatebank.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vic-tec.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

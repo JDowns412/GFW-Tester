@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "supersimplesurvey.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "filmchain.net": {
+            "ttl": 31,
+            "ipid": 38223,
+            "responses": 2
+        }
+    }
+}

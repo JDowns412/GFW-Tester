@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "stemdiversityconnect.net": {
+            "ttl": 68,
+            "ipid": 55605,
+            "responses": 2
+        },
+        "loodgieterdelft.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "uswj.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "arnonymous.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "algorithmsmiddlewarerobotics.net": {
+            "ttl": 104,
+            "ipid": 33445,
+            "responses": 2
+        },
+        "failbros.net": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

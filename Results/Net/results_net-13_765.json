@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "stateofmachine.net": {
+            "ttl": 64,
+            "ipid": 52991,
+            "responses": 1
+        },
+        "stevemacinnis.net": {
+            "ttl": 64,
+            "ipid": 37040,
+            "responses": 1
+        },
+        "strengthofawomen.net": {
+            "ttl": 64,
+            "ipid": 48144,
+            "responses": 1
+        },
+        "strongbond.net": {
+            "ttl": 64,
+            "ipid": 59398,
+            "responses": 1
+        },
+        "suchuse.net": {
+            "ttl": 64,
+            "ipid": 56937,
+            "responses": 1
+        },
+        "t1dlookslikeme.net": {
+            "ttl": 64,
+            "ipid": 25614,
+            "responses": 1
+        }
+    }
+}

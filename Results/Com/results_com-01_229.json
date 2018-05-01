@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "henlid.com": {
+            "ttl": 59,
+            "ipid": 16684,
+            "responses": 2
+        },
+        "bbqloversguide.com": {
+            "ttl": 39,
+            "ipid": 59021,
+            "responses": 2
+        }
+    }
+}

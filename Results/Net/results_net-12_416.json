@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "zone-videos.net": {
+            "ttl": 78,
+            "ipid": 34666,
+            "responses": 2
+        },
+        "stevesmithauctions.net": {
+            "ttl": 56,
+            "ipid": 2552,
+            "responses": 1
+        },
+        "mncashforhouses.net": {
+            "ttl": 55,
+            "ipid": 51139,
+            "responses": 1
+        }
+    }
+}

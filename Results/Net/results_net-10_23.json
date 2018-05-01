@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "funtobehealthy.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "zockerbuden-community.net": {
+            "ttl": 81,
+            "ipid": 30716,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "connieservative.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "noasd.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "quelle-der-heilung.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "keepingcouch.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

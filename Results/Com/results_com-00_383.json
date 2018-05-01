@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "bootlegmoviedownloads.com": {
+            "ttl": 75,
+            "ipid": 2727,
+            "responses": 1
+        },
+        "glue-application-systems.com": {
+            "ttl": 102,
+            "ipid": 33202,
+            "responses": 2
+        }
+    }
+}

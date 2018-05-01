@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "tradingdeposit.com": {
+            "ttl": 88,
+            "ipid": 52111,
+            "responses": 1
+        },
+        "finconnection.com": {
+            "ttl": 69,
+            "ipid": 61027,
+            "responses": 2
+        }
+    }
+}

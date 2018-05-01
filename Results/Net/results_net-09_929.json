@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "aficine.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "weddingdress-direct.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tag-mee.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "niechan.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

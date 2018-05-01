@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "goody-tenpo.net": {
+            "ttl": 65,
+            "ipid": 21268,
+            "responses": 2
+        },
+        "xxyimolrezi.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "quadquebec.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hlzyqc.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

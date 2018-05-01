@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "customer-helps.net": {
+            "ttl": 68,
+            "ipid": 44992,
+            "responses": 1
+        },
+        "oneamericaplaza.net": {
+            "ttl": 88,
+            "ipid": 52804,
+            "responses": 1
+        },
+        "thecuriosityofmonarchs.net": {
+            "ttl": 83,
+            "ipid": 60328,
+            "responses": 2
+        }
+    }
+}

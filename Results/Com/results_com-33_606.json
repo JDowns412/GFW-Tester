@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "devopstalking.com": {
+            "ttl": 101,
+            "ipid": 246,
+            "responses": 1
+        },
+        "chat-868.com": {
+            "ttl": 101,
+            "ipid": 15215,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "pinnaclerealestategroup.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vauxpedia.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "semanticvideo.net": {
+            "ttl": 99,
+            "ipid": 54814,
+            "responses": 2
+        },
+        "9vndl.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "uhouq.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

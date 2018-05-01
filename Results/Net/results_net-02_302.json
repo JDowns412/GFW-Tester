@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "toolboxgiant.net": {
+            "ttl": 58,
+            "ipid": 38,
+            "responses": 2
+        },
+        "nerdynerdz.net": {
+            "ttl": 53,
+            "ipid": 3581,
+            "responses": 2
+        }
+    }
+}

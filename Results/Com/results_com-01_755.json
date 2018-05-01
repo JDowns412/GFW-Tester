@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "jkyoutube.com": {
+            "ttl": 88,
+            "ipid": 50530,
+            "responses": 2
+        },
+        "rateaudi.com": {
+            "ttl": 84,
+            "ipid": 14299,
+            "responses": 1
+        },
+        "chezolabi.com": {
+            "ttl": 76,
+            "ipid": 25112,
+            "responses": 2
+        }
+    }
+}

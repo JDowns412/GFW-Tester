@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "parksteals.com": {
+            "ttl": 80,
+            "ipid": 54864,
+            "responses": 1
+        },
+        "highspeedtransfers.com": {
+            "ttl": 76,
+            "ipid": 62693,
+            "responses": 1
+        }
+    }
+}

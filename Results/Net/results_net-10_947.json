@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "minilulu.net": {
+            "ttl": 67,
+            "ipid": 13364,
+            "responses": 1
+        },
+        "khl-homeftp.net": {
+            "ttl": 80,
+            "ipid": 21694,
+            "responses": 2
+        }
+    }
+}

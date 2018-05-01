@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "wtforty.net": {
+            "ttl": 64,
+            "ipid": 10490,
+            "responses": 1
+        },
+        "grasschoppers.net": {
+            "ttl": 64,
+            "ipid": 29812,
+            "responses": 1
+        },
+        "rostria.net": {
+            "ttl": 64,
+            "ipid": 37050,
+            "responses": 1
+        },
+        "researchgraph.net": {
+            "ttl": 64,
+            "ipid": 60015,
+            "responses": 1
+        },
+        "laubergroup.net": {
+            "ttl": 64,
+            "ipid": 26966,
+            "responses": 1
+        },
+        "bostonbakedbeings.net": {
+            "ttl": 64,
+            "ipid": 52290,
+            "responses": 1
+        },
+        "woadraider.net": {
+            "ttl": 64,
+            "ipid": 31354,
+            "responses": 1
+        }
+    }
+}

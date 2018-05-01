@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "seamlessdistribution.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lakelandherbs.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wowhompy.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "zonenetwork.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vintage-online.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

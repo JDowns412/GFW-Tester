@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "chateauliouner.com": {
+            "ttl": 96,
+            "ipid": 42705,
+            "responses": 2
+        },
+        "solarleasingwa.com": {
+            "ttl": 34,
+            "ipid": 56588,
+            "responses": 1
+        }
+    }
+}

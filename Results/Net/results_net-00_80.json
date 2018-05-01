@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "lordong.net": {
+            "ttl": 104,
+            "ipid": 25998,
+            "responses": 2
+        },
+        "overplay.net": {
+            "ttl": 100,
+            "ipid": 61425,
+            "responses": 2
+        },
+        "smashedapples.net": {
+            "ttl": 71,
+            "ipid": 28070,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "expensivecustomawards.com": {
+            "ttl": 56,
+            "ipid": 4344,
+            "responses": 1
+        },
+        "845506.com": {
+            "ttl": 41,
+            "ipid": 6696,
+            "responses": 1
+        },
+        "carrelageurbain.com": {
+            "ttl": 58,
+            "ipid": 9592,
+            "responses": 1
+        },
+        "catharinebakerforassembly.com": {
+            "ttl": 90,
+            "ipid": 60161,
+            "responses": 1
+        }
+    }
+}

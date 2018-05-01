@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "yak-gear.net": {
+            "ttl": 64,
+            "ipid": 65334,
+            "responses": 1
+        },
+        "flaregunrecords.net": {
+            "ttl": 64,
+            "ipid": 16574,
+            "responses": 1
+        },
+        "askmanda.net": {
+            "ttl": 64,
+            "ipid": 36985,
+            "responses": 1
+        },
+        "lmfy.net": {
+            "ttl": 64,
+            "ipid": 53171,
+            "responses": 1
+        },
+        "jinshihao.net": {
+            "ttl": 31,
+            "ipid": 55993,
+            "responses": 2
+        }
+    }
+}

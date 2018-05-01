@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "gratiaapp.com": {
+            "ttl": 78,
+            "ipid": 27048,
+            "responses": 1
+        },
+        "icelandicelfstone.com": {
+            "ttl": 104,
+            "ipid": 48081,
+            "responses": 1
+        }
+    }
+}

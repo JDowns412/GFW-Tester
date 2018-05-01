@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "digimayo.com": {
+            "ttl": 103,
+            "ipid": 39252,
+            "responses": 1
+        },
+        "thesouthperthelectrician.com": {
+            "ttl": 32,
+            "ipid": 65360,
+            "responses": 2
+        },
+        "chilihunters.com": {
+            "ttl": 47,
+            "ipid": 53841,
+            "responses": 2
+        }
+    }
+}

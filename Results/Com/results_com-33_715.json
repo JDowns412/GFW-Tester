@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "auroxa.com": {
+            "ttl": 95,
+            "ipid": 8497,
+            "responses": 2
+        },
+        "brightsweden.com": {
+            "ttl": 95,
+            "ipid": 50303,
+            "responses": 2
+        },
+        "qq687.com": {
+            "ttl": 77,
+            "ipid": 20226,
+            "responses": 2
+        }
+    }
+}

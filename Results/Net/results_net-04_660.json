@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "mywebproxy.net": {
+            "ttl": 100,
+            "ipid": 38738,
+            "responses": 2
+        },
+        "turnkeydatasolutions.net": {
+            "ttl": 64,
+            "ipid": 55921,
+            "responses": 2
+        },
+        "videosh.net": {
+            "ttl": 67,
+            "ipid": 41090,
+            "responses": 2
+        },
+        "miraycompra.net": {
+            "ttl": 54,
+            "ipid": 36097,
+            "responses": 2
+        }
+    }
+}

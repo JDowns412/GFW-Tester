@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "timmusic.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "kol-bo.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cooperativerestaurants.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vectorelectronics.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "xn--bjq949ayqas24dtb208gpq1d.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

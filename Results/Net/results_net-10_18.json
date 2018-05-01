@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "cpc-airliners.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "superstarappliances.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "eco-trust.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "antonioiannello.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

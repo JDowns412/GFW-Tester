@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "permataborneo.com": {
+            "ttl": 90,
+            "ipid": 35994,
+            "responses": 2
+        },
+        "movie4kproxy.com": {
+            "ttl": 91,
+            "ipid": 10108,
+            "responses": 2
+        }
+    }
+}

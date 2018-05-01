@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "tbea-cables.com": {
+            "ttl": 56,
+            "ipid": 40285,
+            "responses": 2
+        },
+        "rickbrockwayproperty.com": {
+            "ttl": 79,
+            "ipid": 32917,
+            "responses": 1
+        },
+        "ganjabowls.com": {
+            "ttl": 46,
+            "ipid": 36305,
+            "responses": 2
+        }
+    }
+}

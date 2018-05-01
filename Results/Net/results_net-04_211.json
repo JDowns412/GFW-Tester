@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "titanmachinellc.net": {
+            "ttl": 64,
+            "ipid": 28761,
+            "responses": 2
+        },
+        "isolary.net": {
+            "ttl": 64,
+            "ipid": 15743,
+            "responses": 1
+        },
+        "landoflegendflyfishers.net": {
+            "ttl": 64,
+            "ipid": 29522,
+            "responses": 1
+        },
+        "btubosbumeiku.net": {
+            "ttl": 64,
+            "ipid": 27898,
+            "responses": 1
+        },
+        "multingo.net": {
+            "ttl": 64,
+            "ipid": 53171,
+            "responses": 1
+        }
+    }
+}

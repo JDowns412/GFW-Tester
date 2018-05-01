@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "tools4twitter.com": {
+            "ttl": 54,
+            "ipid": 49251,
+            "responses": 2
+        },
+        "associadosindfarsc.com": {
+            "ttl": 99,
+            "ipid": 2657,
+            "responses": 1
+        }
+    }
+}

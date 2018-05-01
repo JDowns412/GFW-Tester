@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "cpalander.net": {
+            "ttl": 64,
+            "ipid": 52118,
+            "responses": 1
+        },
+        "asktheexpert.net": {
+            "ttl": 64,
+            "ipid": 63143,
+            "responses": 1
+        },
+        "cimbaro.net": {
+            "ttl": 64,
+            "ipid": 16826,
+            "responses": 1
+        },
+        "kavockygroup.net": {
+            "ttl": 64,
+            "ipid": 13229,
+            "responses": 1
+        }
+    }
+}

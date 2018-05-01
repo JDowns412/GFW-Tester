@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "netstardata.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "aquacrestfilter.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "myumbro.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "burlingtonhomesales.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

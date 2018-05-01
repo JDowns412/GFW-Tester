@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "preventativemastectomymd.com": {
+            "ttl": 68,
+            "ipid": 10842,
+            "responses": 1
+        },
+        "chaparralsantapaula.com": {
+            "ttl": 99,
+            "ipid": 27164,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "boltpackrecycling.com": {
+            "ttl": 55,
+            "ipid": 8433,
+            "responses": 1
+        },
+        "midwestsportingnetwork.com": {
+            "ttl": 102,
+            "ipid": 10965,
+            "responses": 1
+        }
+    }
+}

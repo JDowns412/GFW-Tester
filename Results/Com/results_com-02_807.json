@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "zhanglc.com": {
+            "ttl": 95,
+            "ipid": 60077,
+            "responses": 2
+        },
+        "japanesematcha.com": {
+            "ttl": 78,
+            "ipid": 13140,
+            "responses": 1
+        }
+    }
+}

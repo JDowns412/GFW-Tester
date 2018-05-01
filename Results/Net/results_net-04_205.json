@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "domainmaker.net": {
+            "ttl": 64,
+            "ipid": 10647,
+            "responses": 1
+        },
+        "whentherearenowords.net": {
+            "ttl": 64,
+            "ipid": 9419,
+            "responses": 1
+        },
+        "sqlpoint.net": {
+            "ttl": 64,
+            "ipid": 29522,
+            "responses": 1
+        },
+        "soliddomain.net": {
+            "ttl": 64,
+            "ipid": 21264,
+            "responses": 1
+        },
+        "vogeler-consulting.net": {
+            "ttl": 64,
+            "ipid": 17069,
+            "responses": 1
+        },
+        "theleadersummit.net": {
+            "ttl": 64,
+            "ipid": 52745,
+            "responses": 1
+        }
+    }
+}

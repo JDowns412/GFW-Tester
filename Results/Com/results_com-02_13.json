@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "mappingpng.com": {
+            "ttl": 42,
+            "ipid": 5801,
+            "responses": 1
+        },
+        "cnboxun.com": {
+            "ttl": 96,
+            "ipid": 46695,
+            "responses": 2
+        }
+    }
+}

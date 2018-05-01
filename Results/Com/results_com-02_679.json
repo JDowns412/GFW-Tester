@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "candc-server.com": {
+            "ttl": 98,
+            "ipid": 51808,
+            "responses": 2
+        },
+        "workforpat.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "moonlitowl.com": {
+            "ttl": 87,
+            "ipid": 60407,
+            "responses": 2
+        }
+    }
+}

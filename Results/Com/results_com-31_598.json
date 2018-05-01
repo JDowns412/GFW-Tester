@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "theflyingt.com": {
+            "ttl": 29,
+            "ipid": 47340,
+            "responses": 1
+        },
+        "nyceb-5.com": {
+            "ttl": 106,
+            "ipid": 8178,
+            "responses": 2
+        },
+        "230parkplace.com": {
+            "ttl": 29,
+            "ipid": 16123,
+            "responses": 1
+        }
+    }
+}

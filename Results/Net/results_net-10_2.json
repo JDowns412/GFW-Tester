@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "gobstones.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hariadijt.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "romchurch.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "trailmadness.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

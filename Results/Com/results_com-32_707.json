@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "sagebusinesslab.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "jean22.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "kincaidmeats.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "janzyasolutions.com": {
+            "ttl": 64,
+            "ipid": 51887,
+            "responses": 1
+        },
+        "topendharbourfishing.com": {
+            "ttl": 64,
+            "ipid": 54537,
+            "responses": 1
+        },
+        "casperdev.com": {
+            "ttl": 64,
+            "ipid": 59869,
+            "responses": 1
+        },
+        "scottsdaleinspector.com": {
+            "ttl": 64,
+            "ipid": 28117,
+            "responses": 1
+        },
+        "souxun88.com": {
+            "ttl": 64,
+            "ipid": 22017,
+            "responses": 1
+        }
+    }
+}

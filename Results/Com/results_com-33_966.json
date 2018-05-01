@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "askamydoll.com": {
+            "ttl": 75,
+            "ipid": 28465,
+            "responses": 1
+        },
+        "carriebrazaski.com": {
+            "ttl": 76,
+            "ipid": 14192,
+            "responses": 2
+        }
+    }
+}

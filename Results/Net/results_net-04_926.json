@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "castlen.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mytaggly.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "servuscreditunion.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ujuzi.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "consultingis.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "cidcor.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "96988.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bambooairlines.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "norse-elites.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

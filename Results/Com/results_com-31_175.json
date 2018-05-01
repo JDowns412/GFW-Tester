@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "cnascend.com": {
+            "ttl": 44,
+            "ipid": 2949,
+            "responses": 2
+        },
+        "healthawake.com": {
+            "ttl": 71,
+            "ipid": 37966,
+            "responses": 1
+        },
+        "uchino-daizaburo.com": {
+            "ttl": 77,
+            "ipid": 53522,
+            "responses": 1
+        }
+    }
+}

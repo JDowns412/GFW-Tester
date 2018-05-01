@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "network-services-wny.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "voiceofthearcticinupiat.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ictnw.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rx3go.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "anartistscommunity.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

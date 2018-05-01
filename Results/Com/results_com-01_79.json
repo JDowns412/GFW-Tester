@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "denverseniorpix.com": {
+            "ttl": 39,
+            "ipid": 37427,
+            "responses": 1
+        },
+        "gatecrashermedia.com": {
+            "ttl": 60,
+            "ipid": 41257,
+            "responses": 2
+        }
+    }
+}

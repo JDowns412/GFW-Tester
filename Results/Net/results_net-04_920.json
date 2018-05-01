@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "flexeserve.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "expertnetworks.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "montanaprogrammers.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pacis-mediator.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "catadams.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

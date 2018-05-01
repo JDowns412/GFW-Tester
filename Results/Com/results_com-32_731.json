@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "jkkckj.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "nathanfwamba.com": {
+            "ttl": 64,
+            "ipid": 22813,
+            "responses": 2
+        },
+        "remplo.com": {
+            "ttl": 64,
+            "ipid": 49809,
+            "responses": 1
+        },
+        "kydpro.com": {
+            "ttl": 64,
+            "ipid": 6930,
+            "responses": 1
+        },
+        "fasc-terminal-tripeptide.com": {
+            "ttl": 64,
+            "ipid": 38873,
+            "responses": 1
+        },
+        "nextoverture.com": {
+            "ttl": 64,
+            "ipid": 32575,
+            "responses": 1
+        }
+    }
+}

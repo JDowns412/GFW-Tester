@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "frogsandboxes.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "clubseatleon.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cyberchief.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "plastiformance.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nexusten.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ring-alarm.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kh21.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ascendinghealth.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

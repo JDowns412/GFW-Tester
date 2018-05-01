@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "mackles.net": {
+            "ttl": 64,
+            "ipid": 45277,
+            "responses": 1
+        },
+        "marketingobgyn.net": {
+            "ttl": 64,
+            "ipid": 52837,
+            "responses": 1
+        },
+        "match85.net": {
+            "ttl": 64,
+            "ipid": 25793,
+            "responses": 1
+        },
+        "matteosrestaurants.net": {
+            "ttl": 64,
+            "ipid": 39024,
+            "responses": 1
+        },
+        "monomiyusan.net": {
+            "ttl": 78,
+            "ipid": 42708,
+            "responses": 2
+        }
+    }
+}

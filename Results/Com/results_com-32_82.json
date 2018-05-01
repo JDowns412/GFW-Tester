@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "raidh.com": {
+            "ttl": 56,
+            "ipid": 39211,
+            "responses": 2
+        },
+        "bossdiamonds.com": {
+            "ttl": 88,
+            "ipid": 8771,
+            "responses": 1
+        }
+    }
+}

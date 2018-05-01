@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "63pp.net": {
+            "ttl": 95,
+            "ipid": 4128,
+            "responses": 1
+        },
+        "63ff.net": {
+            "ttl": 81,
+            "ipid": 14360,
+            "responses": 1
+        }
+    }
+}

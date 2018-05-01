@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "177mh.com": {
+            "ttl": 60,
+            "ipid": 38724,
+            "responses": 1
+        },
+        "latinfusionnyc.com": {
+            "ttl": 28,
+            "ipid": 39214,
+            "responses": 2
+        }
+    }
+}

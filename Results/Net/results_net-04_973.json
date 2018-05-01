@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "goebe.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wibo-group.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "chetes.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

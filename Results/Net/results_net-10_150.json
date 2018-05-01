@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "sv-secondstar.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "willwater.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tritec-usa.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "k-milife.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nurse-ouenka.net": {
+            "ttl": 28,
+            "ipid": 25435,
+            "responses": 2
+        },
+        "sproutsville.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

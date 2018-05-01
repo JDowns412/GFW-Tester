@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "packetfile.com": {
+            "ttl": 54,
+            "ipid": 17755,
+            "responses": 1
+        },
+        "evebacktoeden.com": {
+            "ttl": 29,
+            "ipid": 51350,
+            "responses": 2
+        }
+    }
+}

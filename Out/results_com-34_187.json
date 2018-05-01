@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "teamsyuka.com": {
+            "ttl": 101,
+            "ipid": 42008,
+            "responses": 2
+        },
+        "thewoodlandsinsuranceagency.com": {
+            "ttl": 63,
+            "ipid": 16742,
+            "responses": 1
+        },
+        "dolruleattorney.com": {
+            "ttl": 97,
+            "ipid": 33237,
+            "responses": 1
+        }
+    }
+}

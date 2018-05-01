@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "12130.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "53962.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "35990.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "59212.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "14889.net": {
+            "ttl": 80,
+            "ipid": 19533,
+            "responses": 1
+        },
+        "werthaus.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "99685.net": {
+            "ttl": 73,
+            "ipid": 20524,
+            "responses": 2
+        }
+    }
+}

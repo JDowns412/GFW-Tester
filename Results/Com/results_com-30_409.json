@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "prep4test.com": {
+            "ttl": 36,
+            "ipid": 8166,
+            "responses": 1
+        },
+        "cactusjunkeez.com": {
+            "ttl": 81,
+            "ipid": 41695,
+            "responses": 2
+        }
+    }
+}

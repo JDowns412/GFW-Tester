@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ranchoosorv.com": {
+            "ttl": 64,
+            "ipid": 59365,
+            "responses": 1
+        },
+        "tummymatters.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "tokopiyama.com": {
+            "ttl": 43,
+            "ipid": 35645,
+            "responses": 2
+        }
+    }
+}

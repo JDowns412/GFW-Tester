@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "tgicwinedirect.net": {
+            "ttl": 64,
+            "ipid": 51124,
+            "responses": 2
+        },
+        "gyl2.net": {
+            "ttl": 64,
+            "ipid": 39593,
+            "responses": 1
+        },
+        "eapconnect.net": {
+            "ttl": 97,
+            "ipid": 21905,
+            "responses": 1
+        },
+        "redaktion-test.net": {
+            "ttl": 57,
+            "ipid": 7197,
+            "responses": 2
+        },
+        "corverainfo.net": {
+            "ttl": 52,
+            "ipid": 48977,
+            "responses": 2
+        }
+    }
+}

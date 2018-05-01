@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "chocomashpi.com": {
+            "ttl": 85,
+            "ipid": 64831,
+            "responses": 2
+        },
+        "trimotionclinic.com": {
+            "ttl": 103,
+            "ipid": 23183,
+            "responses": 1
+        },
+        "kneelingarcher.com": {
+            "ttl": 75,
+            "ipid": 28465,
+            "responses": 1
+        }
+    }
+}

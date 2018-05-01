@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "daytripsegypt.net": {
+            "ttl": 100,
+            "ipid": 38738,
+            "responses": 2
+        },
+        "calmducks.net": {
+            "ttl": 67,
+            "ipid": 41090,
+            "responses": 2
+        }
+    }
+}

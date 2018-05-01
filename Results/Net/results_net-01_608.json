@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "snaponsecurecorp.net": {
+            "ttl": 31,
+            "ipid": 51530,
+            "responses": 1
+        },
+        "sdapcs.net": {
+            "ttl": 62,
+            "ipid": 13411,
+            "responses": 2
+        },
+        "ironman703miami.net": {
+            "ttl": 49,
+            "ipid": 45487,
+            "responses": 2
+        }
+    }
+}

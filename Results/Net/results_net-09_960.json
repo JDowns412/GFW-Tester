@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "huntingcamping.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "elrowadamericandivision.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "condosmartrentals.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sarahclarkstuart.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

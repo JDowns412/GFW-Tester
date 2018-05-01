@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "luxedesignhotels.net": {
+            "ttl": 85,
+            "ipid": 40538,
+            "responses": 1
+        },
+        "solarpave.net": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 2
+        },
+        "papparoti.net": {
+            "ttl": 85,
+            "ipid": 52014,
+            "responses": 1
+        },
+        "wentzvillewellnesscenter.net": {
+            "ttl": 59,
+            "ipid": 21467,
+            "responses": 2
+        },
+        "purlifefitnesscenter.net": {
+            "ttl": 57,
+            "ipid": 25173,
+            "responses": 2
+        }
+    }
+}

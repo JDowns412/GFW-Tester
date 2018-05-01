@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "humanship.net": {
+            "ttl": 27,
+            "ipid": 56259,
+            "responses": 2
+        },
+        "ljfvpn.net": {
+            "ttl": 93,
+            "ipid": 42992,
+            "responses": 2
+        }
+    }
+}

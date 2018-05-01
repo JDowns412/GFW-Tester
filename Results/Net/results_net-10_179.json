@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "topdudestore.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "adcookies.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gattimorrison.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fokyu.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "igniterfit.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

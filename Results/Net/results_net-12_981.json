@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "versatilesolutions.net": {
+            "ttl": 103,
+            "ipid": 44666,
+            "responses": 2
+        },
+        "vpnhome.net": {
+            "ttl": 30,
+            "ipid": 55350,
+            "responses": 2
+        },
+        "wwwdafaok11.net": {
+            "ttl": 37,
+            "ipid": 9061,
+            "responses": 1
+        },
+        "wwwdafaok3.net": {
+            "ttl": 48,
+            "ipid": 53594,
+            "responses": 1
+        },
+        "wwwdafaok6.net": {
+            "ttl": 61,
+            "ipid": 29322,
+            "responses": 1
+        }
+    }
+}

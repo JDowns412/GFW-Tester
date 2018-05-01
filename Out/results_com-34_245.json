@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "linefeel.com": {
+            "ttl": 95,
+            "ipid": 61504,
+            "responses": 2
+        },
+        "wiener-staatsoper-livestream.com": {
+            "ttl": 50,
+            "ipid": 58391,
+            "responses": 2
+        },
+        "pk9919.com": {
+            "ttl": 83,
+            "ipid": 3155,
+            "responses": 1
+        },
+        "creeksideravines.com": {
+            "ttl": 96,
+            "ipid": 19906,
+            "responses": 2
+        }
+    }
+}

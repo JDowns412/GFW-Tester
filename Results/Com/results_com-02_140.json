@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "fishshare.com": {
+            "ttl": 103,
+            "ipid": 11150,
+            "responses": 2
+        },
+        "satoshi-kato.com": {
+            "ttl": 43,
+            "ipid": 45321,
+            "responses": 1
+        }
+    }
+}

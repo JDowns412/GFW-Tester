@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "netzteil-rechner.net": {
+            "ttl": 57,
+            "ipid": 62235,
+            "responses": 2
+        },
+        "fasad.net": {
+            "ttl": 53,
+            "ipid": 33152,
+            "responses": 2
+        }
+    }
+}

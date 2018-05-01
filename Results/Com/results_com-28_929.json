@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "jd137.com": {
+            "ttl": 74,
+            "ipid": 30804,
+            "responses": 1
+        },
+        "nicevpn.com": {
+            "ttl": 98,
+            "ipid": 23030,
+            "responses": 2
+        }
+    }
+}

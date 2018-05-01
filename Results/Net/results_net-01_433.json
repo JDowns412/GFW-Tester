@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "baulink.net": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "bmuramatsu.net": {
+            "ttl": 68,
+            "ipid": 53341,
+            "responses": 2
+        }
+    }
+}

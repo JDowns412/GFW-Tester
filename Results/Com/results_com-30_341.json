@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "madeinkumamoto.com": {
+            "ttl": 102,
+            "ipid": 52232,
+            "responses": 1
+        },
+        "statdximaging.com": {
+            "ttl": 37,
+            "ipid": 43221,
+            "responses": 2
+        }
+    }
+}

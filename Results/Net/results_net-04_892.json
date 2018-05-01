@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "all2ez.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "foleylegalservices.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "musix.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "metpreg.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "safdel.net": {
+            "ttl": 71,
+            "ipid": 48123,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "xfl3.com": {
+            "ttl": 98,
+            "ipid": 17432,
+            "responses": 2
+        },
+        "lehu528.com": {
+            "ttl": 72,
+            "ipid": 41246,
+            "responses": 1
+        },
+        "anwayatrib.com": {
+            "ttl": 60,
+            "ipid": 2089,
+            "responses": 1
+        },
+        "cattlepress.com": {
+            "ttl": 31,
+            "ipid": 17977,
+            "responses": 2
+        }
+    }
+}

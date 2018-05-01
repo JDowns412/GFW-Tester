@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "jaishu.net": {
+            "ttl": 40,
+            "ipid": 40724,
+            "responses": 2
+        },
+        "yebar.net": {
+            "ttl": 78,
+            "ipid": 31366,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "samolyk.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "studio-takano-koganei.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pstakumi.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "greatmerchants.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

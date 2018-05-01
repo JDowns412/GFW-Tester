@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "topspotsberlin.com": {
+            "ttl": 100,
+            "ipid": 35095,
+            "responses": 2
+        },
+        "gomusicpromotion.com": {
+            "ttl": 106,
+            "ipid": 216,
+            "responses": 2
+        }
+    }
+}

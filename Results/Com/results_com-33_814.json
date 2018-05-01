@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "rr00.com": {
+            "ttl": 49,
+            "ipid": 22474,
+            "responses": 1
+        },
+        "nancydconsulting.com": {
+            "ttl": 52,
+            "ipid": 44599,
+            "responses": 1
+        }
+    }
+}

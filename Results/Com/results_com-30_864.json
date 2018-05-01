@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "pencilific.com": {
+            "ttl": 74,
+            "ipid": 49885,
+            "responses": 1
+        },
+        "mactsports.com": {
+            "ttl": 33,
+            "ipid": 23065,
+            "responses": 1
+        }
+    }
+}

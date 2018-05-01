@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "lindenmedicalgroup.com": {
+            "ttl": 96,
+            "ipid": 15156,
+            "responses": 1
+        },
+        "brandillustrations.com": {
+            "ttl": 39,
+            "ipid": 8607,
+            "responses": 2
+        }
+    }
+}

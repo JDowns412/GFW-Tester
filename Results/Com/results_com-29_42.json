@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "plabak.com": {
+            "ttl": 93,
+            "ipid": 8219,
+            "responses": 1
+        },
+        "avameadors.com": {
+            "ttl": 69,
+            "ipid": 2632,
+            "responses": 2
+        }
+    }
+}

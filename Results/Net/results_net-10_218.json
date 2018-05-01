@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "buysellhold.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "survivaltechnology.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ketcha.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "heartlungsurgicalassociates.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "photographe-geneve.net": {
+            "ttl": 66,
+            "ipid": 21193,
+            "responses": 2
+        }
+    }
+}

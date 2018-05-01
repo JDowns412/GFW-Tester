@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "mycellmates.com": {
+            "ttl": 54,
+            "ipid": 54807,
+            "responses": 1
+        },
+        "wcofe-events.com": {
+            "ttl": 105,
+            "ipid": 20682,
+            "responses": 1
+        }
+    }
+}

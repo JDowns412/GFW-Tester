@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "grumpycatyoutube.com": {
+            "ttl": 74,
+            "ipid": 31111,
+            "responses": 2
+        },
+        "almansaguitars.com": {
+            "ttl": 97,
+            "ipid": 60194,
+            "responses": 1
+        }
+    }
+}

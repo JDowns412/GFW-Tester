@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "liblocomo.com": {
+            "ttl": 72,
+            "ipid": 22634,
+            "responses": 1
+        },
+        "ngdeal.com": {
+            "ttl": 70,
+            "ipid": 43036,
+            "responses": 1
+        },
+        "christianbread.com": {
+            "ttl": 66,
+            "ipid": 21397,
+            "responses": 1
+        },
+        "formreporter.com": {
+            "ttl": 95,
+            "ipid": 22439,
+            "responses": 1
+        },
+        "anabolicsteroidsrx.com": {
+            "ttl": 44,
+            "ipid": 16994,
+            "responses": 1
+        },
+        "yunkangjk.com": {
+            "ttl": 63,
+            "ipid": 37034,
+            "responses": 2
+        }
+    }
+}

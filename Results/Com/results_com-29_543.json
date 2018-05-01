@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "hjtoto.com": {
+            "ttl": 66,
+            "ipid": 21397,
+            "responses": 1
+        },
+        "andreygornov.com": {
+            "ttl": 63,
+            "ipid": 37034,
+            "responses": 2
+        },
+        "bebagames.com": {
+            "ttl": 43,
+            "ipid": 35645,
+            "responses": 2
+        }
+    }
+}

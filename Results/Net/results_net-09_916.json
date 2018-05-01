@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "cars-r-us.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "planeterror.net": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 2
+        },
+        "fastermail.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "netgestion.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "flat-feet.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mygreenmontgomery.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

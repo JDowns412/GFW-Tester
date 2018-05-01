@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "vw010.com": {
+            "ttl": 43,
+            "ipid": 7590,
+            "responses": 1
+        },
+        "artofthecard.com": {
+            "ttl": 86,
+            "ipid": 64623,
+            "responses": 1
+        },
+        "mariannelivestream.com": {
+            "ttl": 46,
+            "ipid": 20879,
+            "responses": 2
+        }
+    }
+}

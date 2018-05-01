@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "flyingeyegallery.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "paceflowrunning.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "crossfitsalcedo.com": {
+            "ttl": 64,
+            "ipid": 53254,
+            "responses": 1
+        },
+        "richhelfrich.com": {
+            "ttl": 64,
+            "ipid": 9645,
+            "responses": 1
+        },
+        "mariloubichara.com": {
+            "ttl": 64,
+            "ipid": 48145,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "farobrasil.com": {
+            "ttl": 67,
+            "ipid": 21502,
+            "responses": 1
+        },
+        "desengrasedeconductos.com": {
+            "ttl": 50,
+            "ipid": 19389,
+            "responses": 2
+        }
+    }
+}

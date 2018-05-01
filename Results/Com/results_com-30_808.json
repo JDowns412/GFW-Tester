@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "buffalo-in-a-box.com": {
+            "ttl": 74,
+            "ipid": 49885,
+            "responses": 1
+        },
+        "backwardbrilliance.com": {
+            "ttl": 77,
+            "ipid": 61059,
+            "responses": 2
+        }
+    }
+}

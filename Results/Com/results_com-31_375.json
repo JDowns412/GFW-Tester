@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "awppartners.com": {
+            "ttl": 100,
+            "ipid": 2182,
+            "responses": 1
+        },
+        "hoodznstuff.com": {
+            "ttl": 53,
+            "ipid": 3021,
+            "responses": 1
+        }
+    }
+}

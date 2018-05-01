@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "serviciosmedicosintegrales.net": {
+            "ttl": 64,
+            "ipid": 65334,
+            "responses": 1
+        },
+        "hullsbrewery.net": {
+            "ttl": 64,
+            "ipid": 29327,
+            "responses": 1
+        },
+        "kidsandplants.net": {
+            "ttl": 64,
+            "ipid": 16573,
+            "responses": 1
+        },
+        "fridaykind.net": {
+            "ttl": 64,
+            "ipid": 16350,
+            "responses": 1
+        },
+        "parventures.net": {
+            "ttl": 64,
+            "ipid": 42103,
+            "responses": 1
+        }
+    }
+}

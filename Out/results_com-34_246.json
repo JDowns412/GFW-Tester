@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "1466000.com": {
+            "ttl": 74,
+            "ipid": 43788,
+            "responses": 2
+        },
+        "1799000.com": {
+            "ttl": 67,
+            "ipid": 15141,
+            "responses": 2
+        },
+        "hamarajampur.com": {
+            "ttl": 64,
+            "ipid": 29337,
+            "responses": 1
+        },
+        "syndicat-saveaval.com": {
+            "ttl": 27,
+            "ipid": 37059,
+            "responses": 2
+        },
+        "allantracker1794.com": {
+            "ttl": 75,
+            "ipid": 49116,
+            "responses": 1
+        }
+    }
+}

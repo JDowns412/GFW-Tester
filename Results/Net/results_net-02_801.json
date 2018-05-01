@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "conguru.net": {
+            "ttl": 35,
+            "ipid": 16019,
+            "responses": 1
+        },
+        "xn--ygv.net": {
+            "ttl": 42,
+            "ipid": 50630,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ohdservices.com": {
+            "ttl": 77,
+            "ipid": 53522,
+            "responses": 1
+        },
+        "rascadelaroja.com": {
+            "ttl": 63,
+            "ipid": 18264,
+            "responses": 2
+        },
+        "derhundhaus.com": {
+            "ttl": 80,
+            "ipid": 2933,
+            "responses": 1
+        }
+    }
+}

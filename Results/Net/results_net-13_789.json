@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "eclipsetx.net": {
+            "ttl": 64,
+            "ipid": 36360,
+            "responses": 1
+        },
+        "electricianthousandoaks.net": {
+            "ttl": 64,
+            "ipid": 13759,
+            "responses": 1
+        },
+        "empirereportnewyorklist.net": {
+            "ttl": 64,
+            "ipid": 56030,
+            "responses": 4
+        },
+        "evian-les-bains.net": {
+            "ttl": 64,
+            "ipid": 29268,
+            "responses": 2
+        },
+        "excelairinc.net": {
+            "ttl": 64,
+            "ipid": 45545,
+            "responses": 1
+        }
+    }
+}

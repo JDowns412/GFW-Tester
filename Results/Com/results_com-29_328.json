@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "gigtea.com": {
+            "ttl": 98,
+            "ipid": 4318,
+            "responses": 1
+        },
+        "lvkuailian.com": {
+            "ttl": 37,
+            "ipid": 1245,
+            "responses": 2
+        }
+    }
+}

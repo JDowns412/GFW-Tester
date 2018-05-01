@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "visualmagnet.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "stallionwire.net": {
+            "ttl": 57,
+            "ipid": 64332,
+            "responses": 2
+        },
+        "haogame.net": {
+            "ttl": 103,
+            "ipid": 16349,
+            "responses": 2
+        }
+    }
+}

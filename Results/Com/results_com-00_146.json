@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "boyos.com": {
+            "ttl": 91,
+            "ipid": 33057,
+            "responses": 1
+        },
+        "jetsprojects.com": {
+            "ttl": 42,
+            "ipid": 64456,
+            "responses": 1
+        }
+    }
+}

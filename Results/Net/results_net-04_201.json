@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "knottypeacock.net": {
+            "ttl": 64,
+            "ipid": 28989,
+            "responses": 2
+        },
+        "tialing.net": {
+            "ttl": 64,
+            "ipid": 16421,
+            "responses": 1
+        },
+        "globgastroguide.net": {
+            "ttl": 64,
+            "ipid": 59485,
+            "responses": 1
+        },
+        "johnnys1964.net": {
+            "ttl": 64,
+            "ipid": 32735,
+            "responses": 2
+        },
+        "sqrlcode.net": {
+            "ttl": 64,
+            "ipid": 31350,
+            "responses": 1
+        }
+    }
+}

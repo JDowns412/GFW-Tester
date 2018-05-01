@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "fastskys.com": {
+            "ttl": 37,
+            "ipid": 5948,
+            "responses": 2
+        },
+        "superyouman.com": {
+            "ttl": 69,
+            "ipid": 32570,
+            "responses": 2
+        },
+        "mj9919.com": {
+            "ttl": 64,
+            "ipid": 43342,
+            "responses": 1
+        }
+    }
+}

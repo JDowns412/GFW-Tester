@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "ksfish.com": {
+            "ttl": 74,
+            "ipid": 1316,
+            "responses": 2
+        },
+        "1616.com": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cadentmed.net": {
+            "ttl": 77,
+            "ipid": 30023,
+            "responses": 1
+        },
+        "hibibi.net": {
+            "ttl": 91,
+            "ipid": 56835,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "thefrugalfarmer.net": {
+            "ttl": 64,
+            "ipid": 12117,
+            "responses": 1
+        },
+        "jumpbasic.net": {
+            "ttl": 64,
+            "ipid": 52346,
+            "responses": 1
+        },
+        "mydollars.net": {
+            "ttl": 64,
+            "ipid": 16826,
+            "responses": 1
+        },
+        "ike-nakayoshi.net": {
+            "ttl": 64,
+            "ipid": 34249,
+            "responses": 1
+        }
+    }
+}

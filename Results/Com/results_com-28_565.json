@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "sharkscholar.com": {
+            "ttl": 72,
+            "ipid": 29182,
+            "responses": 1
+        },
+        "badattorney.com": {
+            "ttl": 59,
+            "ipid": 27103,
+            "responses": 1
+        },
+        "dogowned.com": {
+            "ttl": 39,
+            "ipid": 33053,
+            "responses": 1
+        }
+    }
+}

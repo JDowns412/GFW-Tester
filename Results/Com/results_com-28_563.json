@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "latrotech.com": {
+            "ttl": 66,
+            "ipid": 15373,
+            "responses": 2
+        },
+        "caveau-puligny.com": {
+            "ttl": 39,
+            "ipid": 33053,
+            "responses": 1
+        }
+    }
+}

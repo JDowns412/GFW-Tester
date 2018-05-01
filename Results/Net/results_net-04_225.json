@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "qpcoin.net": {
+            "ttl": 64,
+            "ipid": 37050,
+            "responses": 1
+        },
+        "pittmanagement.net": {
+            "ttl": 64,
+            "ipid": 52290,
+            "responses": 1
+        },
+        "paywing.net": {
+            "ttl": 64,
+            "ipid": 34249,
+            "responses": 1
+        },
+        "ragamanfaat.net": {
+            "ttl": 64,
+            "ipid": 42103,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "jayhaz.com": {
+            "ttl": 40,
+            "ipid": 58911,
+            "responses": 1
+        },
+        "writingformultimedia.com": {
+            "ttl": 77,
+            "ipid": 31130,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "discounts24x7.com": {
+            "ttl": 88,
+            "ipid": 64313,
+            "responses": 2
+        },
+        "8055000.com": {
+            "ttl": 75,
+            "ipid": 49116,
+            "responses": 1
+        }
+    }
+}

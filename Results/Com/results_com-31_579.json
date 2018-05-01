@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "sanjuanobservatory.com": {
+            "ttl": 33,
+            "ipid": 246,
+            "responses": 2
+        },
+        "bigcopycat.com": {
+            "ttl": 27,
+            "ipid": 15538,
+            "responses": 2
+        }
+    }
+}

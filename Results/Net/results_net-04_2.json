@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "orthohealthcare.net": {
+            "ttl": 64,
+            "ipid": 47197,
+            "responses": 1
+        },
+        "whaesults.net": {
+            "ttl": 64,
+            "ipid": 12909,
+            "responses": 1
+        },
+        "sewchacha.net": {
+            "ttl": 64,
+            "ipid": 39593,
+            "responses": 2
+        },
+        "kf-navi.net": {
+            "ttl": 64,
+            "ipid": 26966,
+            "responses": 1
+        },
+        "abaassociates.net": {
+            "ttl": 64,
+            "ipid": 16350,
+            "responses": 1
+        },
+        "yourcbdwellnesscenter.net": {
+            "ttl": 57,
+            "ipid": 7197,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "yachiko.net": {
+            "ttl": 35,
+            "ipid": 22247,
+            "responses": 1
+        },
+        "r-and-co.net": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

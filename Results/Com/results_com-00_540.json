@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "8888s8.com": {
+            "ttl": 54,
+            "ipid": 21533,
+            "responses": 1
+        },
+        "liveparanormal.com": {
+            "ttl": 76,
+            "ipid": 53935,
+            "responses": 2
+        }
+    }
+}

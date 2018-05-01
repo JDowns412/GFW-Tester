@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "tune9.net": {
+            "ttl": 49,
+            "ipid": 40156,
+            "responses": 2
+        },
+        "thejackarmy.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "internationalhealthandfitness.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

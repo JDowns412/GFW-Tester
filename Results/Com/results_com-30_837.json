@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "upacgsa.com": {
+            "ttl": 53,
+            "ipid": 9711,
+            "responses": 1
+        },
+        "timothycorp.com": {
+            "ttl": 93,
+            "ipid": 17250,
+            "responses": 1
+        }
+    }
+}

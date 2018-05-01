@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "feinvestors.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "noamnoam.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "taskoflife.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cse-executive-relocations.com": {
+            "ttl": 64,
+            "ipid": 23495,
+            "responses": 2
+        },
+        "xintuoniu.com": {
+            "ttl": 64,
+            "ipid": 53873,
+            "responses": 1
+        },
+        "americansoccerplayer.com": {
+            "ttl": 64,
+            "ipid": 43469,
+            "responses": 1
+        },
+        "bearlyable.com": {
+            "ttl": 64,
+            "ipid": 17464,
+            "responses": 1
+        },
+        "tablestreasures.com": {
+            "ttl": 64,
+            "ipid": 36345,
+            "responses": 1
+        },
+        "moreninha.com": {
+            "ttl": 64,
+            "ipid": 22256,
+            "responses": 2
+        }
+    }
+}

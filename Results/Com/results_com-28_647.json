@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "curganic.com": {
+            "ttl": 102,
+            "ipid": 25106,
+            "responses": 2
+        },
+        "arthaindiaventures.com": {
+            "ttl": 105,
+            "ipid": 58445,
+            "responses": 2
+        }
+    }
+}

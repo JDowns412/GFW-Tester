@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "joyfmradio.net": {
+            "ttl": 64,
+            "ipid": 10490,
+            "responses": 1
+        },
+        "freeshipday.net": {
+            "ttl": 64,
+            "ipid": 9419,
+            "responses": 1
+        },
+        "matewa.net": {
+            "ttl": 64,
+            "ipid": 27898,
+            "responses": 1
+        },
+        "zipafoto.net": {
+            "ttl": 64,
+            "ipid": 42204,
+            "responses": 1
+        }
+    }
+}

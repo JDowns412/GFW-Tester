@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "598999ddd.com": {
+            "ttl": 52,
+            "ipid": 33104,
+            "responses": 2
+        },
+        "indianaguitarcompany.com": {
+            "ttl": 98,
+            "ipid": 52510,
+            "responses": 1
+        }
+    }
+}

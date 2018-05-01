@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "drshanemiller.com": {
+            "ttl": 71,
+            "ipid": 61979,
+            "responses": 1
+        },
+        "portagebabywearing.com": {
+            "ttl": 92,
+            "ipid": 32490,
+            "responses": 2
+        }
+    }
+}

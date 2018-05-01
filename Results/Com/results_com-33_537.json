@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "sxxndt.com": {
+            "ttl": 101,
+            "ipid": 246,
+            "responses": 1
+        },
+        "harpmarketing.com": {
+            "ttl": 104,
+            "ipid": 22558,
+            "responses": 2
+        },
+        "tattoomedics.com": {
+            "ttl": 103,
+            "ipid": 62642,
+            "responses": 1
+        },
+        "myembeddedwireless.com": {
+            "ttl": 85,
+            "ipid": 43345,
+            "responses": 1
+        }
+    }
+}

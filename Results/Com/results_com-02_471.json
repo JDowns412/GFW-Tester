@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "socaltropicals.com": {
+            "ttl": 74,
+            "ipid": 44750,
+            "responses": 1
+        },
+        "tourveyor.com": {
+            "ttl": 38,
+            "ipid": 24623,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "maakaala.com": {
+            "ttl": 35,
+            "ipid": 40573,
+            "responses": 1
+        },
+        "jansof.com": {
+            "ttl": 63,
+            "ipid": 55039,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "portail-matelas.com": {
+            "ttl": 84,
+            "ipid": 41905,
+            "responses": 1
+        },
+        "7988sf.com": {
+            "ttl": 47,
+            "ipid": 1017,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "highway-planning-consultants.com": {
+            "ttl": 42,
+            "ipid": 17410,
+            "responses": 1
+        },
+        "paris3dscan.com": {
+            "ttl": 101,
+            "ipid": 38740,
+            "responses": 1
+        }
+    }
+}

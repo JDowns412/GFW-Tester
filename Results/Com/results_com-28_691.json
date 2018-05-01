@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "accaacca.com": {
+            "ttl": 64,
+            "ipid": 16701,
+            "responses": 1
+        },
+        "theyouinventory.com": {
+            "ttl": 81,
+            "ipid": 8897,
+            "responses": 1
+        }
+    }
+}

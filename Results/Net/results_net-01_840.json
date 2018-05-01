@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "thebridalroom.net": {
+            "ttl": 90,
+            "ipid": 31641,
+            "responses": 2
+        },
+        "birdsvpn.net": {
+            "ttl": 83,
+            "ipid": 40908,
+            "responses": 2
+        }
+    }
+}

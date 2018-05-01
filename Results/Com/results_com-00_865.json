@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "whbys.com": {
+            "ttl": 77,
+            "ipid": 12143,
+            "responses": 2
+        },
+        "thehobbynook.com": {
+            "ttl": 53,
+            "ipid": 36988,
+            "responses": 2
+        },
+        "baurlife.com": {
+            "ttl": 84,
+            "ipid": 18751,
+            "responses": 2
+        }
+    }
+}

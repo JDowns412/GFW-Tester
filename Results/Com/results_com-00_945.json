@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "torobin.com": {
+            "ttl": 41,
+            "ipid": 65298,
+            "responses": 2
+        },
+        "getfreenotsetfree.com": {
+            "ttl": 91,
+            "ipid": 51414,
+            "responses": 2
+        }
+    }
+}

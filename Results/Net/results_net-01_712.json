@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "friedrich-gmbh.net": {
+            "ttl": 55,
+            "ipid": 39147,
+            "responses": 2
+        },
+        "chapimur.net": {
+            "ttl": 40,
+            "ipid": 55616,
+            "responses": 2
+        }
+    }
+}

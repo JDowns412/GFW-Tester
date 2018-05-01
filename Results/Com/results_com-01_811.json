@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "berkshire-landscapes.com": {
+            "ttl": 28,
+            "ipid": 39142,
+            "responses": 1
+        },
+        "psicosolution.com": {
+            "ttl": 84,
+            "ipid": 32793,
+            "responses": 2
+        }
+    }
+}

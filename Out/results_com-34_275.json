@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "kiaraillustration.com": {
+            "ttl": 41,
+            "ipid": 36149,
+            "responses": 2
+        },
+        "cherishbickel.com": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 2
+        },
+        "skiphire-dublin.com": {
+            "ttl": 78,
+            "ipid": 54749,
+            "responses": 1
+        },
+        "discounttravelplan.com": {
+            "ttl": 37,
+            "ipid": 63787,
+            "responses": 2
+        }
+    }
+}

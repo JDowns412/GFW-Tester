@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "transforming-recipes.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vrapropco.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "goldentrident.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "livelifelead.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "all4cure.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

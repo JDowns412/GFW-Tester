@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "aboutpaul.com": {
+            "ttl": 62,
+            "ipid": 39819,
+            "responses": 1
+        },
+        "lightwavecentral.com": {
+            "ttl": 85,
+            "ipid": 43345,
+            "responses": 1
+        }
+    }
+}

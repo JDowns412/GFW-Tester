@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "anythingoffice.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gowest-services.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "khidmat1malaysia.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dieradmacher.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

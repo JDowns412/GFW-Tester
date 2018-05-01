@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "kcgnet.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "xacttrak.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "delcargo.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

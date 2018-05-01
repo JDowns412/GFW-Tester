@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "salesdegrees.com": {
+            "ttl": 86,
+            "ipid": 60986,
+            "responses": 2
+        },
+        "lakeorchardfarm.com": {
+            "ttl": 80,
+            "ipid": 13481,
+            "responses": 1
+        }
+    }
+}

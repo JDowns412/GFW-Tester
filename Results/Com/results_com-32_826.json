@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "phab41900.com": {
+            "ttl": 55,
+            "ipid": 8433,
+            "responses": 1
+        },
+        "0bento.com": {
+            "ttl": 39,
+            "ipid": 29230,
+            "responses": 1
+        }
+    }
+}

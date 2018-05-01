@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "egyptcubicles.com": {
+            "ttl": 37,
+            "ipid": 63958,
+            "responses": 2
+        },
+        "yourbestmetrix.com": {
+            "ttl": 102,
+            "ipid": 22450,
+            "responses": 2
+        },
+        "destinationyum.com": {
+            "ttl": 102,
+            "ipid": 30614,
+            "responses": 1
+        }
+    }
+}

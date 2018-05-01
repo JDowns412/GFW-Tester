@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "nflpro.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "harry-jobrown.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "limaolakauai.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "beinghebrew.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "printikid.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

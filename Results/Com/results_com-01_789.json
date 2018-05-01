@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "eventting.com": {
+            "ttl": 62,
+            "ipid": 6936,
+            "responses": 2
+        },
+        "inmobiliaria-ensanche.com": {
+            "ttl": 81,
+            "ipid": 5464,
+            "responses": 2
+        },
+        "ipotgo.com": {
+            "ttl": 64,
+            "ipid": 21231,
+            "responses": 1
+        }
+    }
+}

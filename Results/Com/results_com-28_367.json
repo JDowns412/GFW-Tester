@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "aicomet.com": {
+            "ttl": 42,
+            "ipid": 50087,
+            "responses": 1
+        },
+        "webdutyfree.com": {
+            "ttl": 60,
+            "ipid": 38724,
+            "responses": 1
+        },
+        "dskelectric.com": {
+            "ttl": 33,
+            "ipid": 0,
+            "responses": 1
+        },
+        "hobiforumu.com": {
+            "ttl": 28,
+            "ipid": 39214,
+            "responses": 2
+        }
+    }
+}

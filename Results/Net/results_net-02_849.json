@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "vscoo.net": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "fuckgfw.net": {
+            "ttl": 83,
+            "ipid": 57758,
+            "responses": 2
+        },
+        "tm11.net": {
+            "ttl": 102,
+            "ipid": 44721,
+            "responses": 1
+        }
+    }
+}

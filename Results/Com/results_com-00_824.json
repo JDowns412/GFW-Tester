@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "amakuruyurwanda.com": {
+            "ttl": 63,
+            "ipid": 1742,
+            "responses": 2
+        },
+        "fizzphotography.com": {
+            "ttl": 32,
+            "ipid": 29381,
+            "responses": 2
+        },
+        "justotech.com": {
+            "ttl": 33,
+            "ipid": 11492,
+            "responses": 1
+        },
+        "nffla50.com": {
+            "ttl": 76,
+            "ipid": 38103,
+            "responses": 1
+        }
+    }
+}

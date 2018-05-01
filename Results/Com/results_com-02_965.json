@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "repsgear.com": {
+            "ttl": 85,
+            "ipid": 53754,
+            "responses": 2
+        },
+        "lapianzi.com": {
+            "ttl": 102,
+            "ipid": 41564,
+            "responses": 2
+        }
+    }
+}

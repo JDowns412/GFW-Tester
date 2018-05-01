@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "shopproxy.com": {
+            "ttl": 73,
+            "ipid": 35653,
+            "responses": 1
+        },
+        "asiadirects.com": {
+            "ttl": 30,
+            "ipid": 6240,
+            "responses": 1
+        }
+    }
+}

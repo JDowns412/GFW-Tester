@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "thedevilincalifornia.com": {
+            "ttl": 56,
+            "ipid": 3685,
+            "responses": 1
+        },
+        "ahumanchameleon.com": {
+            "ttl": 73,
+            "ipid": 51064,
+            "responses": 1
+        }
+    }
+}

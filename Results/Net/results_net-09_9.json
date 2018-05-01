@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "foureastcounty.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pestcontrolaardvarksd.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "epresentation.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "al-safwah.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "76fleetleads.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

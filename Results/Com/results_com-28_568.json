@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "nilfake.com": {
+            "ttl": 28,
+            "ipid": 34743,
+            "responses": 1
+        },
+        "amasontonite.com": {
+            "ttl": 62,
+            "ipid": 36504,
+            "responses": 2
+        }
+    }
+}

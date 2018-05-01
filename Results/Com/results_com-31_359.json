@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "oblique-angle.com": {
+            "ttl": 90,
+            "ipid": 6637,
+            "responses": 1
+        },
+        "tobihrbr.com": {
+            "ttl": 42,
+            "ipid": 34751,
+            "responses": 1
+        }
+    }
+}

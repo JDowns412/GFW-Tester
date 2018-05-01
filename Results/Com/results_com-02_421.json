@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "milkit-kit.com": {
+            "ttl": 80,
+            "ipid": 54831,
+            "responses": 1
+        },
+        "bootood.com": {
+            "ttl": 49,
+            "ipid": 36989,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "usclac.com": {
+            "ttl": 33,
+            "ipid": 18849,
+            "responses": 2
+        },
+        "buffalosense.com": {
+            "ttl": 33,
+            "ipid": 6995,
+            "responses": 1
+        }
+    }
+}

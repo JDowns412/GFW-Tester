@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "icloudcoffee.com": {
+            "ttl": 47,
+            "ipid": 30587,
+            "responses": 1
+        },
+        "servicemasterus.com": {
+            "ttl": 46,
+            "ipid": 16056,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "weirdshitpodcast.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "foresbusinesscenter.net": {
+            "ttl": 85,
+            "ipid": 20528,
+            "responses": 2
+        },
+        "siliconvalleybusinesscenter.net": {
+            "ttl": 81,
+            "ipid": 30716,
+            "responses": 2
+        }
+    }
+}

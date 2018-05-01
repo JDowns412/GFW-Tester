@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "novinhos.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "e-dentist.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "boardsimple.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "chrome-extensions.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "southwestairlines.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

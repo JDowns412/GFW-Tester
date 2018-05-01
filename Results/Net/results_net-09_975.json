@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "shahreagahi.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "zentr.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "eco-pod-lifedesign.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "onlinequiz.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

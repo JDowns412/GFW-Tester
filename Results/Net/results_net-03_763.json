@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "familandia.net": {
+            "ttl": 66,
+            "ipid": 21875,
+            "responses": 1
+        },
+        "elitedreamvacations.net": {
+            "ttl": 57,
+            "ipid": 23525,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ar09082014.com": {
+            "ttl": 56,
+            "ipid": 25476,
+            "responses": 2
+        },
+        "consultoriahotelera.com": {
+            "ttl": 104,
+            "ipid": 48081,
+            "responses": 1
+        },
+        "great-wearables.com": {
+            "ttl": 53,
+            "ipid": 34988,
+            "responses": 2
+        },
+        "mobilyoutube.com": {
+            "ttl": 57,
+            "ipid": 19702,
+            "responses": 2
+        }
+    }
+}

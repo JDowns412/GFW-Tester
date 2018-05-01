@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "jonathanbyrd.net": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "nadwellnesscenter.net": {
+            "ttl": 78,
+            "ipid": 60930,
+            "responses": 2
+        }
+    }
+}

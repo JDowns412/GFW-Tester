@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "my-interview-coach.net": {
+            "ttl": 64,
+            "ipid": 2977,
+            "responses": 1
+        },
+        "ukochani.net": {
+            "ttl": 64,
+            "ipid": 12157,
+            "responses": 1
+        },
+        "ostimteknoloji.net": {
+            "ttl": 64,
+            "ipid": 53173,
+            "responses": 2
+        }
+    }
+}

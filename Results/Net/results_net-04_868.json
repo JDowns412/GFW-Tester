@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "taiwanonward.net": {
+            "ttl": 47,
+            "ipid": 53592,
+            "responses": 2
+        },
+        "bestmortgage4u.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gandgcleaning.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "footytube.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

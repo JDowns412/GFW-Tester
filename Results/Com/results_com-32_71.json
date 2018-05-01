@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "mingfarm.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "myaerochamber.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lichtewellen.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "kioskcreation.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "a1-dynamicsinc.com": {
+            "ttl": 64,
+            "ipid": 56694,
+            "responses": 1
+        },
+        "localcustomertracker.com": {
+            "ttl": 64,
+            "ipid": 21518,
+            "responses": 2
+        },
+        "kiddiecaresolutions.com": {
+            "ttl": 64,
+            "ipid": 17653,
+            "responses": 1
+        },
+        "budhacar.com": {
+            "ttl": 64,
+            "ipid": 35960,
+            "responses": 1
+        },
+        "commentsonyoutube.com": {
+            "ttl": 52,
+            "ipid": 11104,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "acts2daily.net": {
+            "ttl": 67,
+            "ipid": 1136,
+            "responses": 2
+        },
+        "warnander.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "syvcrossroads.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

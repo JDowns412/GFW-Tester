@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "namastenewsline.com": {
+            "ttl": 52,
+            "ipid": 64162,
+            "responses": 1
+        },
+        "falconnekretnine.com": {
+            "ttl": 100,
+            "ipid": 25373,
+            "responses": 2
+        },
+        "silverperse.com": {
+            "ttl": 29,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

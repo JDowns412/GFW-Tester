@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "blackinkcontest.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "starmaxvisasusa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 7
+        },
+        "maryboyajianarchitect.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vegula.com": {
+            "ttl": 64,
+            "ipid": 36890,
+            "responses": 1
+        },
+        "packingsol.com": {
+            "ttl": 64,
+            "ipid": 55781,
+            "responses": 1
+        },
+        "batdongsanthinhdat.com": {
+            "ttl": 64,
+            "ipid": 44795,
+            "responses": 2
+        },
+        "instasummer.com": {
+            "ttl": 64,
+            "ipid": 46999,
+            "responses": 1
+        },
+        "glitchtechsupport.com": {
+            "ttl": 64,
+            "ipid": 3063,
+            "responses": 1
+        },
+        "deeryan.com": {
+            "ttl": 64,
+            "ipid": 3162,
+            "responses": 2
+        }
+    }
+}

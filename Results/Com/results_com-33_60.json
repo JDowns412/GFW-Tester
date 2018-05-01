@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "papertwitter.com": {
+            "ttl": 37,
+            "ipid": 14107,
+            "responses": 2
+        },
+        "lamisterioteka.com": {
+            "ttl": 90,
+            "ipid": 35994,
+            "responses": 2
+        },
+        "536919.com": {
+            "ttl": 101,
+            "ipid": 15215,
+            "responses": 1
+        }
+    }
+}

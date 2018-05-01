@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "100-designmoebel.com": {
+            "ttl": 41,
+            "ipid": 14897,
+            "responses": 1
+        },
+        "rebirthdaycards.com": {
+            "ttl": 105,
+            "ipid": 57735,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "rufusabbottmanor.com": {
+            "ttl": 82,
+            "ipid": 345,
+            "responses": 2
+        },
+        "ebookclick.com": {
+            "ttl": 29,
+            "ipid": 45599,
+            "responses": 2
+        },
+        "theatreandcompany.com": {
+            "ttl": 89,
+            "ipid": 37117,
+            "responses": 2
+        }
+    }
+}

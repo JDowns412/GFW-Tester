@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "tovpn.net": {
+            "ttl": 74,
+            "ipid": 34026,
+            "responses": 2
+        },
+        "gay-bb.net": {
+            "ttl": 40,
+            "ipid": 55616,
+            "responses": 2
+        }
+    }
+}

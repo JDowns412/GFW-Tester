@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "mf604.com": {
+            "ttl": 42,
+            "ipid": 50087,
+            "responses": 1
+        },
+        "sun3765.com": {
+            "ttl": 77,
+            "ipid": 44624,
+            "responses": 1
+        },
+        "smureit.com": {
+            "ttl": 63,
+            "ipid": 37380,
+            "responses": 1
+        },
+        "ptcyrm.com": {
+            "ttl": 102,
+            "ipid": 57669,
+            "responses": 2
+        }
+    }
+}

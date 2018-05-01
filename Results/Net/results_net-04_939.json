@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "bluecake.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "field2forecourt.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "xn--hb3a.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "stellaazzurra.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "togood.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "trioservices.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

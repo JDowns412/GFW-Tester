@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "movie-box.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "headfinders.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "guoone.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sozialstiftung.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "amourcam.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "actorjessenewell.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

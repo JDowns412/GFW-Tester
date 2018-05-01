@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "spacepapa.com": {
+            "ttl": 52,
+            "ipid": 51008,
+            "responses": 1
+        },
+        "marriottlivestream.com": {
+            "ttl": 37,
+            "ipid": 38406,
+            "responses": 2
+        },
+        "extremeisshinryu.com": {
+            "ttl": 47,
+            "ipid": 13350,
+            "responses": 1
+        }
+    }
+}

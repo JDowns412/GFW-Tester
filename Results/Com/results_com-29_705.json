@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "steaksandplates.com": {
+            "ttl": 37,
+            "ipid": 22137,
+            "responses": 1
+        },
+        "e360doctor.com": {
+            "ttl": 98,
+            "ipid": 53667,
+            "responses": 1
+        }
+    }
+}

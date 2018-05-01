@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "electionrecount.com": {
+            "ttl": 96,
+            "ipid": 9563,
+            "responses": 1
+        },
+        "albb20140919.com": {
+            "ttl": 52,
+            "ipid": 44599,
+            "responses": 1
+        },
+        "lanrenmb.com": {
+            "ttl": 66,
+            "ipid": 65287,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "n919.com": {
+            "ttl": 46,
+            "ipid": 29586,
+            "responses": 1
+        },
+        "luxemodern.com": {
+            "ttl": 82,
+            "ipid": 4880,
+            "responses": 1
+        },
+        "wyndhammontreal.com": {
+            "ttl": 102,
+            "ipid": 64518,
+            "responses": 1
+        },
+        "hansonfinewoodturning.com": {
+            "ttl": 56,
+            "ipid": 3378,
+            "responses": 1
+        }
+    }
+}

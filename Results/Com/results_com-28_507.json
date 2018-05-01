@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "seroplex.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "corpiestranei.com": {
+            "ttl": 86,
+            "ipid": 624,
+            "responses": 1
+        }
+    }
+}

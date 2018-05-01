@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "hjelmgaard-petersen.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "ahwanmei.com": {
+            "ttl": 43,
+            "ipid": 31471,
+            "responses": 2
+        }
+    }
+}

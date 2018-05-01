@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "eipros.com": {
+            "ttl": 27,
+            "ipid": 3992,
+            "responses": 2
+        },
+        "jpeg145.com": {
+            "ttl": 50,
+            "ipid": 49359,
+            "responses": 2
+        },
+        "wintertuinen.com": {
+            "ttl": 32,
+            "ipid": 29038,
+            "responses": 2
+        }
+    }
+}

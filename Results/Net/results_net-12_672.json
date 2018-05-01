@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "centervalores.net": {
+            "ttl": 42,
+            "ipid": 13383,
+            "responses": 2
+        },
+        "empleopuebla.net": {
+            "ttl": 89,
+            "ipid": 2658,
+            "responses": 2
+        }
+    }
+}

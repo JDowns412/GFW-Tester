@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "crp-office.net": {
+            "ttl": 64,
+            "ipid": 57257,
+            "responses": 3
+        },
+        "motionleap.net": {
+            "ttl": 64,
+            "ipid": 28765,
+            "responses": 1
+        },
+        "jackoffporn.net": {
+            "ttl": 64,
+            "ipid": 28989,
+            "responses": 2
+        },
+        "eonm.net": {
+            "ttl": 64,
+            "ipid": 16617,
+            "responses": 2
+        }
+    }
+}

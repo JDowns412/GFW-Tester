@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "campaignstart.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kingdomcapitalist.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "amazingnjhomes.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "attorneysrcc.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

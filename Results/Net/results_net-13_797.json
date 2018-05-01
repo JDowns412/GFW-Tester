@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "caraudiorecorders.net": {
+            "ttl": 64,
+            "ipid": 28509,
+            "responses": 1
+        },
+        "carpotato.net": {
+            "ttl": 64,
+            "ipid": 48848,
+            "responses": 1
+        },
+        "charleesbotanicals.net": {
+            "ttl": 64,
+            "ipid": 47882,
+            "responses": 2
+        }
+    }
+}

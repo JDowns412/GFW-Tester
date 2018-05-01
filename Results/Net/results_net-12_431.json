@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "tuffmusic.net": {
+            "ttl": 65,
+            "ipid": 58926,
+            "responses": 1
+        },
+        "easyfibra.net": {
+            "ttl": 55,
+            "ipid": 51139,
+            "responses": 1
+        },
+        "tradecentrum.net": {
+            "ttl": 55,
+            "ipid": 31060,
+            "responses": 2
+        }
+    }
+}

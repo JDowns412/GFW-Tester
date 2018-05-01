@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "parisdreamhome.com": {
+            "ttl": 41,
+            "ipid": 7467,
+            "responses": 1
+        },
+        "kinderkreis.com": {
+            "ttl": 50,
+            "ipid": 49359,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "ariajonesllc.com": {
+            "ttl": 42,
+            "ipid": 7068,
+            "responses": 1
+        },
+        "recrostorage.com": {
+            "ttl": 77,
+            "ipid": 23411,
+            "responses": 1
+        },
+        "rct249.com": {
+            "ttl": 85,
+            "ipid": 21690,
+            "responses": 1
+        },
+        "8gegouwu.com": {
+            "ttl": 61,
+            "ipid": 21248,
+            "responses": 1
+        },
+        "foreoreviews.com": {
+            "ttl": 102,
+            "ipid": 5171,
+            "responses": 1
+        }
+    }
+}

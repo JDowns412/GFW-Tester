@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cc784.com": {
+            "ttl": 53,
+            "ipid": 62881,
+            "responses": 2
+        },
+        "upgrading-business.com": {
+            "ttl": 81,
+            "ipid": 7694,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "as-produktion.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "frontrangecounseling.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "momsblogs.net": {
+            "ttl": 87,
+            "ipid": 51883,
+            "responses": 2
+        },
+        "rugexchange.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sxcctv.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "interstatesolar.net": {
+            "ttl": 92,
+            "ipid": 37142,
+            "responses": 2
+        },
+        "iwie.net": {
+            "ttl": 46,
+            "ipid": 12346,
+            "responses": 1
+        }
+    }
+}

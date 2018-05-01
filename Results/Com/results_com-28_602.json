@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "ultrahaven.com": {
+            "ttl": 101,
+            "ipid": 12824,
+            "responses": 1
+        },
+        "elegantoo.com": {
+            "ttl": 91,
+            "ipid": 63954,
+            "responses": 1
+        },
+        "bi-z.com": {
+            "ttl": 95,
+            "ipid": 60628,
+            "responses": 1
+        },
+        "hairbyeileeninc.com": {
+            "ttl": 57,
+            "ipid": 10448,
+            "responses": 2
+        },
+        "titleseminars.com": {
+            "ttl": 43,
+            "ipid": 62848,
+            "responses": 2
+        }
+    }
+}

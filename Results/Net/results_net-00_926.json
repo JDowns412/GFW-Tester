@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "braddock.net": {
+            "ttl": 45,
+            "ipid": 40433,
+            "responses": 2
+        },
+        "wetfeet.net": {
+            "ttl": 58,
+            "ipid": 47845,
+            "responses": 2
+        },
+        "emeetings.net": {
+            "ttl": 73,
+            "ipid": 58772,
+            "responses": 2
+        },
+        "smithandcompany.net": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

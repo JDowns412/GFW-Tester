@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "angelonguitar.com": {
+            "ttl": 50,
+            "ipid": 63502,
+            "responses": 1
+        },
+        "businessbrokerwoodbridge.com": {
+            "ttl": 99,
+            "ipid": 39245,
+            "responses": 1
+        }
+    }
+}

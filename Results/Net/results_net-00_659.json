@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "twistwood.net": {
+            "ttl": 42,
+            "ipid": 32938,
+            "responses": 2
+        },
+        "mizu32.net": {
+            "ttl": 98,
+            "ipid": 39433,
+            "responses": 2
+        },
+        "hikaku-mizu.net": {
+            "ttl": 65,
+            "ipid": 22669,
+            "responses": 2
+        }
+    }
+}

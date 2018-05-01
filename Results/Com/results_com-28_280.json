@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "greatamericaninternational.com": {
+            "ttl": 87,
+            "ipid": 50595,
+            "responses": 2
+        },
+        "bts-sio.com": {
+            "ttl": 47,
+            "ipid": 7667,
+            "responses": 1
+        },
+        "juancarlosmolinero.com": {
+            "ttl": 36,
+            "ipid": 35866,
+            "responses": 2
+        },
+        "investmentpanda.com": {
+            "ttl": 99,
+            "ipid": 2657,
+            "responses": 1
+        },
+        "beautedange-institut.com": {
+            "ttl": 86,
+            "ipid": 60125,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "impressiveline.com": {
+            "ttl": 104,
+            "ipid": 33979,
+            "responses": 1
+        },
+        "tiara-ishioka.com": {
+            "ttl": 62,
+            "ipid": 44208,
+            "responses": 2
+        }
+    }
+}

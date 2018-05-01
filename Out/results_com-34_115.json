@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "sudemanagement.com": {
+            "ttl": 71,
+            "ipid": 47686,
+            "responses": 1
+        },
+        "jldcable.com": {
+            "ttl": 36,
+            "ipid": 5022,
+            "responses": 1
+        },
+        "presidenttrumpssuccess.com": {
+            "ttl": 58,
+            "ipid": 42046,
+            "responses": 1
+        }
+    }
+}

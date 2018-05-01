@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "siloliners.com": {
+            "ttl": 69,
+            "ipid": 59208,
+            "responses": 1
+        },
+        "e-villerollerderby.com": {
+            "ttl": 54,
+            "ipid": 10246,
+            "responses": 2
+        }
+    }
+}

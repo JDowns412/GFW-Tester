@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "birchesatcountryside.com": {
+            "ttl": 83,
+            "ipid": 32634,
+            "responses": 1
+        },
+        "usefuleverydayitems.com": {
+            "ttl": 66,
+            "ipid": 27691,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "preciousvault.com": {
+            "ttl": 70,
+            "ipid": 37694,
+            "responses": 1
+        },
+        "hughanthonysimmonds.com": {
+            "ttl": 72,
+            "ipid": 40076,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "dancotw.com": {
+            "ttl": 50,
+            "ipid": 43314,
+            "responses": 1
+        },
+        "8pty.com": {
+            "ttl": 49,
+            "ipid": 32547,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "websitesunblocked.com": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        },
+        "victoriaborowski.com": {
+            "ttl": 103,
+            "ipid": 39476,
+            "responses": 1
+        },
+        "tonimueller.com": {
+            "ttl": 60,
+            "ipid": 13841,
+            "responses": 2
+        },
+        "dawei010.com": {
+            "ttl": 33,
+            "ipid": 8010,
+            "responses": 2
+        }
+    }
+}

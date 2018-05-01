@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "xtinkt.com": {
+            "ttl": 50,
+            "ipid": 63502,
+            "responses": 1
+        },
+        "simonhairsalon.com": {
+            "ttl": 62,
+            "ipid": 35800,
+            "responses": 2
+        },
+        "marrycareer.com": {
+            "ttl": 87,
+            "ipid": 50595,
+            "responses": 2
+        }
+    }
+}

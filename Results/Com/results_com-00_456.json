@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "beiraelectrica.com": {
+            "ttl": 64,
+            "ipid": 64392,
+            "responses": 1
+        },
+        "semacaconsulting.com": {
+            "ttl": 91,
+            "ipid": 14059,
+            "responses": 1
+        }
+    }
+}

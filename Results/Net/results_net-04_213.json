@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "artemyz.net": {
+            "ttl": 64,
+            "ipid": 47197,
+            "responses": 1
+        },
+        "thebrainstem.net": {
+            "ttl": 64,
+            "ipid": 60015,
+            "responses": 1
+        },
+        "colitahentai.net": {
+            "ttl": 64,
+            "ipid": 29327,
+            "responses": 1
+        },
+        "dgnn.net": {
+            "ttl": 31,
+            "ipid": 55993,
+            "responses": 2
+        }
+    }
+}

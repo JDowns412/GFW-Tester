@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "calgaryuniversitydistrict.net": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "mualaptopcu.net": {
+            "ttl": 60,
+            "ipid": 46970,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "polofrio.com": {
+            "ttl": 102,
+            "ipid": 20303,
+            "responses": 2
+        },
+        "animaltoppers.com": {
+            "ttl": 77,
+            "ipid": 36877,
+            "responses": 1
+        },
+        "premiercarstar-suncity.com": {
+            "ttl": 56,
+            "ipid": 25476,
+            "responses": 2
+        }
+    }
+}

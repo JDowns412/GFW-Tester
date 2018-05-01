@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "44336655.com": {
+            "ttl": 69,
+            "ipid": 46009,
+            "responses": 1
+        },
+        "abraxsilphi.com": {
+            "ttl": 71,
+            "ipid": 61979,
+            "responses": 1
+        },
+        "meiti58.com": {
+            "ttl": 27,
+            "ipid": 33128,
+            "responses": 2
+        },
+        "bsquaredexp.com": {
+            "ttl": 74,
+            "ipid": 31111,
+            "responses": 2
+        }
+    }
+}

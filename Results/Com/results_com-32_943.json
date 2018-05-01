@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "digimediaterms.com": {
+            "ttl": 40,
+            "ipid": 26760,
+            "responses": 1
+        },
+        "trakzit.com": {
+            "ttl": 44,
+            "ipid": 40623,
+            "responses": 1
+        }
+    }
+}

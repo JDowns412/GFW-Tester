@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "gseismic.com": {
+            "ttl": 67,
+            "ipid": 27865,
+            "responses": 2
+        },
+        "schoolsfortoddlers.com": {
+            "ttl": 45,
+            "ipid": 7722,
+            "responses": 1
+        }
+    }
+}

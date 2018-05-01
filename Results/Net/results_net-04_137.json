@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "the-bahamas.net": {
+            "ttl": 64,
+            "ipid": 28181,
+            "responses": 2
+        },
+        "dzyxc.net": {
+            "ttl": 34,
+            "ipid": 16974,
+            "responses": 2
+        }
+    }
+}

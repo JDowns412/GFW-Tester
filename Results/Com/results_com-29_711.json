@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "dy1900.com": {
+            "ttl": 27,
+            "ipid": 9469,
+            "responses": 1
+        },
+        "hotrodsworld.com": {
+            "ttl": 54,
+            "ipid": 24988,
+            "responses": 1
+        },
+        "haitianvacatian.com": {
+            "ttl": 83,
+            "ipid": 1659,
+            "responses": 2
+        },
+        "lower-back-stretches.com": {
+            "ttl": 104,
+            "ipid": 20873,
+            "responses": 2
+        }
+    }
+}

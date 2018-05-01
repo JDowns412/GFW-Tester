@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "yo-channel-cp.net": {
+            "ttl": 88,
+            "ipid": 2769,
+            "responses": 1
+        },
+        "huseyintekin.net": {
+            "ttl": 75,
+            "ipid": 17470,
+            "responses": 1
+        },
+        "zundaotang.net": {
+            "ttl": 38,
+            "ipid": 49919,
+            "responses": 1
+        },
+        "crane-sale.net": {
+            "ttl": 35,
+            "ipid": 16019,
+            "responses": 1
+        }
+    }
+}

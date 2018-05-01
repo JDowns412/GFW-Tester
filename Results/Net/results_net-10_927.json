@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "isn-ag.net": {
+            "ttl": 65,
+            "ipid": 63240,
+            "responses": 1
+        },
+        "raleighdiocese.net": {
+            "ttl": 69,
+            "ipid": 46670,
+            "responses": 2
+        }
+    }
+}

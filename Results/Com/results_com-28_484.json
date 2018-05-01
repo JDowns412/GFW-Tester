@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "emccshop.com": {
+            "ttl": 83,
+            "ipid": 20811,
+            "responses": 1
+        },
+        "greatwayround.com": {
+            "ttl": 43,
+            "ipid": 31471,
+            "responses": 2
+        }
+    }
+}

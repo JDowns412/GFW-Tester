@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "crim-semi.com": {
+            "ttl": 94,
+            "ipid": 3461,
+            "responses": 2
+        },
+        "mccaine-corp.com": {
+            "ttl": 104,
+            "ipid": 19928,
+            "responses": 2
+        }
+    }
+}

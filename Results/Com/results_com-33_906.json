@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "elivestream.com": {
+            "ttl": 98,
+            "ipid": 57727,
+            "responses": 2
+        },
+        "sklz-europe.com": {
+            "ttl": 85,
+            "ipid": 64831,
+            "responses": 2
+        }
+    }
+}

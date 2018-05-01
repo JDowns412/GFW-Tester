@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "gyssp.net": {
+            "ttl": 33,
+            "ipid": 0,
+            "responses": 1
+        },
+        "hawaiiwellnesscenter.net": {
+            "ttl": 41,
+            "ipid": 28059,
+            "responses": 2
+        },
+        "remarkinc.net": {
+            "ttl": 62,
+            "ipid": 61851,
+            "responses": 2
+        }
+    }
+}

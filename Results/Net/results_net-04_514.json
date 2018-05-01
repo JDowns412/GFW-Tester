@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "intercoastalsales.net": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "playmerkur.net": {
+            "ttl": 76,
+            "ipid": 5156,
+            "responses": 2
+        },
+        "envirohosting.net": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 1
+        },
+        "laurenshope.net": {
+            "ttl": 102,
+            "ipid": 3057,
+            "responses": 2
+        }
+    }
+}

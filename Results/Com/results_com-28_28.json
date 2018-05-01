@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "busibuy.com": {
+            "ttl": 35,
+            "ipid": 58149,
+            "responses": 2
+        },
+        "fashion4yoy.com": {
+            "ttl": 66,
+            "ipid": 36014,
+            "responses": 2
+        },
+        "derrydrivinglessons.com": {
+            "ttl": 54,
+            "ipid": 49251,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "omarqudrat.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gojiline.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "babatou.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "osmolux.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "unitedly.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

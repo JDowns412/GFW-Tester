@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "independentpayroll.com": {
+            "ttl": 73,
+            "ipid": 58244,
+            "responses": 1
+        },
+        "lottocredit.com": {
+            "ttl": 95,
+            "ipid": 33736,
+            "responses": 1
+        },
+        "lvs66.com": {
+            "ttl": 85,
+            "ipid": 9957,
+            "responses": 2
+        },
+        "mustafaterzi.com": {
+            "ttl": 101,
+            "ipid": 7958,
+            "responses": 2
+        }
+    }
+}

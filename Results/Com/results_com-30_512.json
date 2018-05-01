@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "87txt.com": {
+            "ttl": 37,
+            "ipid": 63958,
+            "responses": 2
+        },
+        "dallastxattorney.com": {
+            "ttl": 69,
+            "ipid": 59208,
+            "responses": 1
+        },
+        "51tokyo.com": {
+            "ttl": 33,
+            "ipid": 36216,
+            "responses": 2
+        }
+    }
+}

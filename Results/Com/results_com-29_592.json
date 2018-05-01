@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "kirklinlawfirm.com": {
+            "ttl": 95,
+            "ipid": 22439,
+            "responses": 1
+        },
+        "thecaninetrust.com": {
+            "ttl": 63,
+            "ipid": 37034,
+            "responses": 2
+        }
+    }
+}

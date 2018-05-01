@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "damn-dummy.net": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "topify.net": {
+            "ttl": 59,
+            "ipid": 25989,
+            "responses": 2
+        },
+        "contraplagas.net": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

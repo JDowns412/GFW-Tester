@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "dentalwellnesscenter.net": {
+            "ttl": 47,
+            "ipid": 53592,
+            "responses": 2
+        },
+        "maportablecabins.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "gokurakucho.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ozine.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "stsimonstrolleytours.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

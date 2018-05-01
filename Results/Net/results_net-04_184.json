@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ndedu.net": {
+            "ttl": 64,
+            "ipid": 9730,
+            "responses": 1
+        },
+        "taherehsamadi.net": {
+            "ttl": 64,
+            "ipid": 12121,
+            "responses": 2
+        },
+        "indigoarts.net": {
+            "ttl": 64,
+            "ipid": 13229,
+            "responses": 1
+        }
+    }
+}

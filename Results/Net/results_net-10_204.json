@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "yoastro.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "imtrk.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "getacrowdfund.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

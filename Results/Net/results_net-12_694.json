@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "tailtunnel.net": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "xpj28.net": {
+            "ttl": 79,
+            "ipid": 6747,
+            "responses": 2
+        }
+    }
+}

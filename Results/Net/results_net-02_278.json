@@ -1,0 +1,15 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 998,
+        "blocked": 1,
+        "errors": 0
+    },
+    "domains": {
+        "pingbuster.net": {
+            "ttl": 42,
+            "ipid": 8677,
+            "responses": 2
+        }
+    }
+}

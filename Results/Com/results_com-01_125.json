@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "http---www---twitter.com": {
+            "ttl": 33,
+            "ipid": 0,
+            "responses": 1
+        },
+        "japamazon.com": {
+            "ttl": 56,
+            "ipid": 12039,
+            "responses": 1
+        }
+    }
+}

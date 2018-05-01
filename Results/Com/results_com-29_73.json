@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "informativosbc.com": {
+            "ttl": 34,
+            "ipid": 550,
+            "responses": 2
+        },
+        "beyonddestinationmarketing.com": {
+            "ttl": 64,
+            "ipid": 20858,
+            "responses": 2
+        }
+    }
+}

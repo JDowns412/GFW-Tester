@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "quality3dprinting.com": {
+            "ttl": 64,
+            "ipid": 39299,
+            "responses": 2
+        },
+        "citywidepower.com": {
+            "ttl": 75,
+            "ipid": 17255,
+            "responses": 1
+        }
+    }
+}

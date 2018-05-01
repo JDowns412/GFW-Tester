@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "vcfan.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "omikester.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vavadating.net": {
+            "ttl": 46,
+            "ipid": 52708,
+            "responses": 2
+        }
+    }
+}

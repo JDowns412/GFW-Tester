@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "alvesbros.com": {
+            "ttl": 70,
+            "ipid": 43036,
+            "responses": 1
+        },
+        "metinglocal.com": {
+            "ttl": 44,
+            "ipid": 16994,
+            "responses": 1
+        },
+        "guoxians.com": {
+            "ttl": 74,
+            "ipid": 63373,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "arabfashionfilmfestival.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "a-mg.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tisec.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "qjvpn.net": {
+            "ttl": 46,
+            "ipid": 52708,
+            "responses": 2
+        }
+    }
+}

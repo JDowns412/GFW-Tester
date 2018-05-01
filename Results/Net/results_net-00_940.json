@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "alturo-mail.net": {
+            "ttl": 48,
+            "ipid": 11398,
+            "responses": 2
+        },
+        "ifico.net": {
+            "ttl": 72,
+            "ipid": 30698,
+            "responses": 2
+        }
+    }
+}

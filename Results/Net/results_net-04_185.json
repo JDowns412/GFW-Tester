@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "kenhgada.net": {
+            "ttl": 64,
+            "ipid": 15743,
+            "responses": 1
+        },
+        "ojinfla.net": {
+            "ttl": 64,
+            "ipid": 51573,
+            "responses": 1
+        },
+        "ttjt.net": {
+            "ttl": 64,
+            "ipid": 52118,
+            "responses": 2
+        },
+        "ko-kood.net": {
+            "ttl": 64,
+            "ipid": 36985,
+            "responses": 1
+        }
+    }
+}

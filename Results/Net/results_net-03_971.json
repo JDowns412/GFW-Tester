@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "tcsdw.net": {
+            "ttl": 95,
+            "ipid": 52500,
+            "responses": 2
+        },
+        "gowellnesscenter.net": {
+            "ttl": 50,
+            "ipid": 61660,
+            "responses": 2
+        }
+    }
+}

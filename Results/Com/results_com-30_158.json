@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "kautzflooring.com": {
+            "ttl": 52,
+            "ipid": 55536,
+            "responses": 1
+        },
+        "eastuniverse.com": {
+            "ttl": 79,
+            "ipid": 46251,
+            "responses": 2
+        }
+    }
+}

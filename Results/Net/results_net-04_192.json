@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "wallstreetprophecy.net": {
+            "ttl": 64,
+            "ipid": 57257,
+            "responses": 1
+        },
+        "johnstoncpa.net": {
+            "ttl": 64,
+            "ipid": 21264,
+            "responses": 1
+        },
+        "energiemar.net": {
+            "ttl": 64,
+            "ipid": 42204,
+            "responses": 1
+        },
+        "plascoenergy.net": {
+            "ttl": 64,
+            "ipid": 31203,
+            "responses": 1
+        },
+        "crossroadsautolocators.net": {
+            "ttl": 64,
+            "ipid": 42103,
+            "responses": 1
+        },
+        "weanfa.net": {
+            "ttl": 31,
+            "ipid": 55993,
+            "responses": 2
+        }
+    }
+}

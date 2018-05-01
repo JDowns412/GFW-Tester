@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "gankijapan.net": {
+            "ttl": 40,
+            "ipid": 64134,
+            "responses": 2
+        },
+        "ymlp78.net": {
+            "ttl": 64,
+            "ipid": 41218,
+            "responses": 1
+        },
+        "xinducn.net": {
+            "ttl": 88,
+            "ipid": 46064,
+            "responses": 2
+        }
+    }
+}

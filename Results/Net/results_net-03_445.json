@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "pr0xii.net": {
+            "ttl": 47,
+            "ipid": 51268,
+            "responses": 2
+        },
+        "impactshutters.net": {
+            "ttl": 65,
+            "ipid": 4467,
+            "responses": 2
+        }
+    }
+}

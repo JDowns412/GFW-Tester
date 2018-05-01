@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "apartmentfitnesscenter.net": {
+            "ttl": 75,
+            "ipid": 1093,
+            "responses": 2
+        },
+        "sexshopify.net": {
+            "ttl": 85,
+            "ipid": 57209,
+            "responses": 2
+        },
+        "florentinlemoine.net": {
+            "ttl": 54,
+            "ipid": 22989,
+            "responses": 2
+        },
+        "turbobit.net": {
+            "ttl": 93,
+            "ipid": 35312,
+            "responses": 2
+        }
+    }
+}

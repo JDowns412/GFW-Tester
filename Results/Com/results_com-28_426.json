@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "723765.com": {
+            "ttl": 76,
+            "ipid": 52411,
+            "responses": 1
+        },
+        "beertrix.com": {
+            "ttl": 102,
+            "ipid": 57669,
+            "responses": 2
+        },
+        "receitasyoutube.com": {
+            "ttl": 31,
+            "ipid": 0,
+            "responses": 1
+        },
+        "saudeyoutube.com": {
+            "ttl": 96,
+            "ipid": 17671,
+            "responses": 2
+        }
+    }
+}

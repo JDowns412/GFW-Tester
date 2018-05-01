@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "dipash.com": {
+            "ttl": 40,
+            "ipid": 26760,
+            "responses": 1
+        },
+        "rearfacingtoddlers.com": {
+            "ttl": 65,
+            "ipid": 53290,
+            "responses": 1
+        },
+        "mydataspeak.com": {
+            "ttl": 47,
+            "ipid": 58402,
+            "responses": 1
+        }
+    }
+}

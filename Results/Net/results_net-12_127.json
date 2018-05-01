@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "openervpn.net": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "joyfulwellnesscenter.net": {
+            "ttl": 39,
+            "ipid": 35922,
+            "responses": 2
+        }
+    }
+}

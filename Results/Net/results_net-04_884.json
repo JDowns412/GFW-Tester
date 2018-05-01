@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "xn--cjr66qjvcj99btd5a.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "quintadoconde.net": {
+            "ttl": 48,
+            "ipid": 14334,
+            "responses": 2
+        },
+        "steina.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iosafe.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "es-screen.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

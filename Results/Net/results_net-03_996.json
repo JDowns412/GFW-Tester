@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "shanghaiweekend.net": {
+            "ttl": 64,
+            "ipid": 28181,
+            "responses": 2
+        },
+        "cncmachinesflorida.net": {
+            "ttl": 95,
+            "ipid": 28400,
+            "responses": 1
+        },
+        "bugulin.net": {
+            "ttl": 94,
+            "ipid": 60866,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "terraauth.net": {
+            "ttl": 43,
+            "ipid": 41715,
+            "responses": 1
+        },
+        "truehealingandcare.net": {
+            "ttl": 105,
+            "ipid": 55131,
+            "responses": 1
+        }
+    }
+}

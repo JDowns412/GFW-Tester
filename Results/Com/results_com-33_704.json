@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "kushgrass.com": {
+            "ttl": 95,
+            "ipid": 8497,
+            "responses": 2
+        },
+        "cheuksgz.com": {
+            "ttl": 54,
+            "ipid": 58133,
+            "responses": 1
+        }
+    }
+}

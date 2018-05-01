@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "sinoturf.com": {
+            "ttl": 46,
+            "ipid": 17313,
+            "responses": 2
+        },
+        "takerdns.com": {
+            "ttl": 41,
+            "ipid": 10615,
+            "responses": 1
+        }
+    }
+}

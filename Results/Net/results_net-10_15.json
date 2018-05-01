@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "wodian8.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shockshere.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "joeefm.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cdgs.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

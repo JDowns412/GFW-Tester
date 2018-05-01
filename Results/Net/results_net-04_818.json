@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "admina.net": {
+            "ttl": 43,
+            "ipid": 7298,
+            "responses": 2
+        },
+        "direwellness.net": {
+            "ttl": 79,
+            "ipid": 16604,
+            "responses": 1
+        },
+        "siili-sofian.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

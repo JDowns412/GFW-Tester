@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "web2markethosting.com": {
+            "ttl": 75,
+            "ipid": 693,
+            "responses": 1
+        },
+        "senvpn.com": {
+            "ttl": 94,
+            "ipid": 17804,
+            "responses": 2
+        },
+        "beamdrops.com": {
+            "ttl": 28,
+            "ipid": 5939,
+            "responses": 1
+        }
+    }
+}

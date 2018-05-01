@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "elpasodentalhealth.net": {
+            "ttl": 29,
+            "ipid": 32484,
+            "responses": 2
+        },
+        "erensogutma.net": {
+            "ttl": 65,
+            "ipid": 17863,
+            "responses": 2
+        },
+        "8mars.net": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

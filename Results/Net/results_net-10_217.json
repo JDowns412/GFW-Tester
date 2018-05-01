@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "footballfreaks.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ulcare.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rljy.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "yonkersworks.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ivangelise.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "orlandomedicalfitnesscenter.net": {
+            "ttl": 66,
+            "ipid": 21193,
+            "responses": 2
+        }
+    }
+}

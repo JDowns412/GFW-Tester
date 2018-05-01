@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "darcyshepherdsd.net": {
+            "ttl": 28,
+            "ipid": 6103,
+            "responses": 2
+        },
+        "islandwellnesscenter.net": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "365mcfitnesscenter.net": {
+            "ttl": 46,
+            "ipid": 3499,
+            "responses": 2
+        }
+    }
+}

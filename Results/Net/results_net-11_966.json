@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "fiberhoodtv.net": {
+            "ttl": 29,
+            "ipid": 61776,
+            "responses": 1
+        },
+        "cf-growhow.net": {
+            "ttl": 62,
+            "ipid": 60164,
+            "responses": 2
+        }
+    }
+}

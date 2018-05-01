@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "sunnytees.net": {
+            "ttl": 64,
+            "ipid": 28758,
+            "responses": 1
+        },
+        "fantasyfare.net": {
+            "ttl": 64,
+            "ipid": 9730,
+            "responses": 1
+        },
+        "057786.net": {
+            "ttl": 64,
+            "ipid": 51573,
+            "responses": 1
+        },
+        "bkmabrasiveflow.net": {
+            "ttl": 64,
+            "ipid": 16574,
+            "responses": 1
+        },
+        "soulfood-japan.net": {
+            "ttl": 97,
+            "ipid": 21905,
+            "responses": 1
+        }
+    }
+}

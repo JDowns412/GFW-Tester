@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "nubimus.net": {
+            "ttl": 48,
+            "ipid": 63519,
+            "responses": 2
+        },
+        "kidcambodia.net": {
+            "ttl": 75,
+            "ipid": 47777,
+            "responses": 2
+        }
+    }
+}

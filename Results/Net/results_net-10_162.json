@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "esplendidaibiza.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "effabilis.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "virunga-rdc.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "presantiaservices.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

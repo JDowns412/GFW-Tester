@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "resilienta.com": {
+            "ttl": 41,
+            "ipid": 6696,
+            "responses": 1
+        },
+        "holidaygaloreandmore.com": {
+            "ttl": 102,
+            "ipid": 35371,
+            "responses": 1
+        }
+    }
+}

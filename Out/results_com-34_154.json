@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "whereverinbd.com": {
+            "ttl": 38,
+            "ipid": 33879,
+            "responses": 2
+        },
+        "2288sf.com": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        },
+        "nubentia.com": {
+            "ttl": 76,
+            "ipid": 49393,
+            "responses": 1
+        }
+    }
+}

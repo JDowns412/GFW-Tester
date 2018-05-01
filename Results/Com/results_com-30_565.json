@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "webdevsearches.com": {
+            "ttl": 94,
+            "ipid": 3461,
+            "responses": 2
+        },
+        "imaginationgardens.com": {
+            "ttl": 84,
+            "ipid": 41905,
+            "responses": 1
+        },
+        "myvdad.com": {
+            "ttl": 60,
+            "ipid": 26771,
+            "responses": 2
+        }
+    }
+}

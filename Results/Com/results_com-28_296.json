@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "ihhwa.com": {
+            "ttl": 50,
+            "ipid": 63502,
+            "responses": 1
+        },
+        "vegetariandad.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "boissondesdieux.com": {
+            "ttl": 83,
+            "ipid": 49887,
+            "responses": 2
+        }
+    }
+}

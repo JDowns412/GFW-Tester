@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "alibabafireinthehole.com": {
+            "ttl": 63,
+            "ipid": 6021,
+            "responses": 2
+        },
+        "themissfits.com": {
+            "ttl": 55,
+            "ipid": 8433,
+            "responses": 1
+        },
+        "gdsmyy.com": {
+            "ttl": 88,
+            "ipid": 51676,
+            "responses": 1
+        }
+    }
+}

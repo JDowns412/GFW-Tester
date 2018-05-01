@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "stingersound.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "assuraproperty.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "clubcompetences-rh.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wikilibri.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

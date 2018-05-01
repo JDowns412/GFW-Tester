@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "ikhon.net": {
+            "ttl": 79,
+            "ipid": 16604,
+            "responses": 1
+        },
+        "kapylacup.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "domo-sapiens.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gcbcwillis.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

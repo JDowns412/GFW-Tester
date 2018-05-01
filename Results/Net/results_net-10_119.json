@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "9900mm.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wangstable.net": {
+            "ttl": 88,
+            "ipid": 25186,
+            "responses": 2
+        },
+        "projectmk.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "frenchviolins.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

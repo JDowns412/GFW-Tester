@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "iroom.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "amaquina.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "vivendi-content.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "baslangicdergi.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

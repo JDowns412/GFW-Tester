@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "iusedtosnores.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "kandoindustry.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "actionbasedresults.com": {
+            "ttl": 64,
+            "ipid": 51887,
+            "responses": 1
+        },
+        "stamplef.com": {
+            "ttl": 64,
+            "ipid": 1998,
+            "responses": 2
+        },
+        "ttlbloguette.com": {
+            "ttl": 64,
+            "ipid": 45342,
+            "responses": 1
+        },
+        "siliconlabz.com": {
+            "ttl": 64,
+            "ipid": 64171,
+            "responses": 1
+        },
+        "civicoventures.com": {
+            "ttl": 64,
+            "ipid": 51886,
+            "responses": 1
+        },
+        "mizahouse.com": {
+            "ttl": 64,
+            "ipid": 30693,
+            "responses": 1
+        }
+    }
+}

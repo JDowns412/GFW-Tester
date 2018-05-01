@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "chwine.net": {
+            "ttl": 64,
+            "ipid": 10490,
+            "responses": 2
+        },
+        "megex.net": {
+            "ttl": 64,
+            "ipid": 12909,
+            "responses": 1
+        },
+        "sitedock.net": {
+            "ttl": 64,
+            "ipid": 52118,
+            "responses": 2
+        },
+        "genexy.net": {
+            "ttl": 64,
+            "ipid": 52745,
+            "responses": 1
+        },
+        "swanfatlosscenter.net": {
+            "ttl": 65,
+            "ipid": 36285,
+            "responses": 2
+        }
+    }
+}

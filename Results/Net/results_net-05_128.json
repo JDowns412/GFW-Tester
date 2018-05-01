@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "displaymyrates.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bknpartners.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kaopita.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wine-it2me.net": {
+            "ttl": 41,
+            "ipid": 11838,
+            "responses": 2
+        },
+        "resurectionstudios.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lewatmana.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "joelbecker.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "texasmusicchannel.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sage300erpconsultants.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "getlinktube.net": {
+            "ttl": 40,
+            "ipid": 16542,
+            "responses": 2
+        },
+        "campbellindustries.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rockstarrecipe.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sporthope.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sportex-trading.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "magelinecz.com": {
+            "ttl": 83,
+            "ipid": 20811,
+            "responses": 1
+        },
+        "artfromtheheartoflove.com": {
+            "ttl": 34,
+            "ipid": 32083,
+            "responses": 2
+        }
+    }
+}

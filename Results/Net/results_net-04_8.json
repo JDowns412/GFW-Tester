@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "bparena.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tabiateczanesi.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "augustaoralsurgery.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "doomandcuteness.net": {
+            "ttl": 75,
+            "ipid": 59128,
+            "responses": 1
+        }
+    }
+}

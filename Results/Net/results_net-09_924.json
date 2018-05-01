@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "inflowing.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "motorcycleriders.net": {
+            "ttl": 97,
+            "ipid": 41403,
+            "responses": 2
+        },
+        "donpolletta.net": {
+            "ttl": 28,
+            "ipid": 0,
+            "responses": 2
+        },
+        "hidewatanabe.net": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

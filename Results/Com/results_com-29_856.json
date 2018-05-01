@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "wineorwhine.com": {
+            "ttl": 106,
+            "ipid": 49951,
+            "responses": 1
+        },
+        "norris4assembly.com": {
+            "ttl": 95,
+            "ipid": 32168,
+            "responses": 2
+        }
+    }
+}
