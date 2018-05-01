@@ -17,25 +17,29 @@ def main():
 	responses = []
 	blocked, allowed, total, errors = 0,0,0,0
 	seen_domains = []
-	for file in os.listdir("../Out"):
-		data = json.load(open("../Out/"+file))
-		domains = data["domains"]
-		blocked+=data["meta"]["blocked"]
-		allowed+=data["meta"]["allowed"]
-		total+=data["meta"]["tried"]
-		errors+=data["meta"]["errors"]
-		for k,v in domains.items():
-			if k not in seen_domains:
-				seen_domains.append(k)
-				ipid = domains[k]["ipid"]
-				ipids.append(ipid)
-				ttl = domains[k]["ttl"]
-				ttls.append(ttl)
-				response = domains[k]["responses"]
-				responses.append(response)
-			else:
-				total-=1
-				blocked-=1
+	print("Beginning file walk")
+	for subdir, dirs, files in os.walk("../Results"):
+		print("Now in: ",subdir)
+		for file in files:
+			data = json.load(open(subdir+"/"+file))
+			domains = data["domains"]
+			blocked+=data["meta"]["blocked"]
+			allowed+=data["meta"]["allowed"]
+			total+=data["meta"]["tried"]
+			errors+=data["meta"]["errors"]
+			for k,v in domains.items():
+				if k not in seen_domains:
+					seen_domains.append(k)
+					ipid = domains[k]["ipid"]
+					ipids.append(ipid)
+					ttl = domains[k]["ttl"]
+					ttls.append(ttl)
+					response = domains[k]["responses"]
+					responses.append(response)
+				else:
+					total-=1
+					blocked-=1
+
 	
 	output_file("../Figures/graphs.html")
 	p1 = Histogram(ipids,title="IPID Distribution")
@@ -51,6 +55,8 @@ def main():
 	p3.yaxis.axis_label = "Count"
 	print()
 	categories = ["blocked","allowed"]
+	print("current stats")
+	print("-------------")
 	quants = [blocked,allowed]
 	print("blocked: ",blocked)
 	print("allowed: ",allowed)
@@ -60,7 +66,7 @@ def main():
 	p4.vbar(x=categories,top=quants,width=0.3)
 
 	cnt = Counter(ttls)
-	print("ttls ",cnt.most_common(5))
+	print("top 5 ttls (most common, frequency)",cnt.most_common(5))
 
 	p5 = figure(x_range=["April 2014","April 2018"],title="April 2014 v April 2018")
 	p5.vbar(x=["April 2014", "April 2018"],top=[35332,blocked],width=0.3)
