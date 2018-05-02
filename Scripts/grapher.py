@@ -17,6 +17,7 @@ def main():
 	responses = []
 	blocked, allowed, total, errors = 0,0,0,0
 	seen_domains = []
+	metadatafile = open("../metadata.txt",'w')
 	print("Beginning file walk")
 	for subdir, dirs, files in os.walk("../Results"):
 		print("Now in: ",subdir)
@@ -59,6 +60,10 @@ def main():
 	print("-------------")
 	quants = [blocked,allowed]
 	print("blocked: ",blocked)
+	metadatafile.write("blocked: %d\n" %blocked)
+	metadatafile.write("allowed: %d\n" %allowed)
+	metadatafile.write("tried: %d\n" %total)
+	metadatafile.write("errors: %d\n" %blocked)	
 	print("allowed: ",allowed)
 	print("total: ",total)
 	print("errors: ",errors)
@@ -67,10 +72,11 @@ def main():
 
 	cnt = Counter(ttls)
 	print("top 5 ttls (most common, frequency)",cnt.most_common(5))
-
+	metadatafile.write("top 5 ttls (most common, frequency)\n")
+	metadatafile.write(str(cnt.most_common(5)))
 	p5 = figure(x_range=["April 2014","April 2018"],title="April 2014 v April 2018")
 	p5.vbar(x=["April 2014", "April 2018"],top=[35332,blocked],width=0.3)
-
+	metadatafile.close()
 	#hmdata = {"ttl":ttls,"ipids":ipids}
 	#p3 = HeatMap(hmdata,x=bins("ipids"),y=bins("ttl"),stat='mean')
 	show(column(row(p1,p2),row(p3,p4),row(p5)))
