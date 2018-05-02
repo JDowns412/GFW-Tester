@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "cxhhbl.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "699303.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "documentarydistribution.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nordicdeluxe.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "publicsinging.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "xinhly.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tomasirkava.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "imfamouson.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "337455.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        }
+    }
+}

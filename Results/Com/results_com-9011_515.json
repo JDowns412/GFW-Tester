@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "reeyonrouse.com": {
+            "ttl": 96,
+            "ipid": 43305,
+            "responses": 2
+        },
+        "apartamentoriodejaneiro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "famousdavebbq.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "xn--lh1al05c.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

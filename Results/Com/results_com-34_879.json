@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "ethotel.com": {
+            "ttl": 45,
+            "ipid": 14770,
+            "responses": 2
+        },
+        "buylebanesefood.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sumeetchopra.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "versiondvd.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wood-make.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "mediacenter-suedtirol.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "verycheapholidays.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "livingpcs.com": {
+            "ttl": 34,
+            "ipid": 4468,
+            "responses": 1
+        }
+    }
+}

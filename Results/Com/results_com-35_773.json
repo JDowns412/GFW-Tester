@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cleanthepipes.com": {
+            "ttl": 53,
+            "ipid": 23356,
+            "responses": 1
+        },
+        "barbers-family-tradition.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

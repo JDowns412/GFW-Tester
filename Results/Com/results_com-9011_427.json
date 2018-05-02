@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "allstatestitleservice.com": {
+            "ttl": 103,
+            "ipid": 27004,
+            "responses": 1
+        },
+        "usfloodwall.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "veroarchery.com": {
+            "ttl": 75,
+            "ipid": 2475,
+            "responses": 1
+        },
+        "bl-parts.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "outerfashionlish.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

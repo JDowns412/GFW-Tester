@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "advantavoice.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "virtualtourofaboriginalcanada.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "infostampede.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "rockward.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "earthgazerdigital.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "bmtrada.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reservationplus.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "heptalon.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "windsorhomecleaning.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "studioksouthwest.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

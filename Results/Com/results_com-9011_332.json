@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "librolacarta.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ecoassist-group.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "speedimagery.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vip19444.com": {
+            "ttl": 35,
+            "ipid": 24969,
+            "responses": 1
+        }
+    }
+}

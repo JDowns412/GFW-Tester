@@ -1,0 +1,55 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 990,
+        "blocked": 9,
+        "errors": 0
+    },
+    "domains": {
+        "virtualacademyschool.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "lax801.com": {
+            "ttl": 45,
+            "ipid": 64187,
+            "responses": 2
+        },
+        "nusantarakaya.com": {
+            "ttl": 105,
+            "ipid": 62350,
+            "responses": 2
+        },
+        "guymassage.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "californiateachingjobs.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cutlervilleproperty.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "252800.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "teenchess.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "morningpulse.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

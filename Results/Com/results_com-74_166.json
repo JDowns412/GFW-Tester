@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "licifang.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "guomeicellarwine.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "bjschallenge.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "thefoodfrat.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

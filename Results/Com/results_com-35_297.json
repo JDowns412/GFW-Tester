@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "super-vpn.com": {
+            "ttl": 71,
+            "ipid": 21643,
+            "responses": 2
+        },
+        "oulamvalve.com": {
+            "ttl": 69,
+            "ipid": 58528,
+            "responses": 1
+        },
+        "www090919.com": {
+            "ttl": 58,
+            "ipid": 53365,
+            "responses": 3
+        }
+    }
+}

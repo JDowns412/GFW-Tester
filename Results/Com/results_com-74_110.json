@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "zoricstrans.com": {
+            "ttl": 62,
+            "ipid": 34860,
+            "responses": 1
+        },
+        "375game.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "my-smart-pizza.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "celik-sa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "303sss.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "d2dsoft.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "kontal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tcbwhealthandwelfare.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "owenwiseinc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "nmet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "martinappelo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "campaignheadquarter.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "stripclubseek.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

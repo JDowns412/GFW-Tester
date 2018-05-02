@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "ascometals.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sandbeltclubhotel.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "largocarinsurance.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "carelectronicsplus.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "fantomdrone.com": {
+            "ttl": 62,
+            "ipid": 43229,
+            "responses": 1
+        }
+    }
+}

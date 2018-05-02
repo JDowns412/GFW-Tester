@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cineeldorado.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "toddpress.com": {
+            "ttl": 46,
+            "ipid": 19831,
+            "responses": 1
+        }
+    }
+}

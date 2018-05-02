@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "520yujia.com": {
+            "ttl": 41,
+            "ipid": 47664,
+            "responses": 2
+        },
+        "istanbulhalisahalar.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "corpsoftsa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "newbornfoundation.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

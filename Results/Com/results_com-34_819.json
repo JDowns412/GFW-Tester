@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "tonidelamata.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "boundless-vision.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "allenclapp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nordemo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "troupenambah.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

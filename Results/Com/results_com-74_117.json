@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "beijing-air.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "andrewcumho.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "syyfld.com": {
+            "ttl": 27,
+            "ipid": 12254,
+            "responses": 2
+        },
+        "burdick2014.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

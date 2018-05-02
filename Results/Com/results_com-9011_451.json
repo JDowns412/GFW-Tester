@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "emeritense.com": {
+            "ttl": 102,
+            "ipid": 34849,
+            "responses": 1
+        },
+        "theblacxperience.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "processitelematici.com": {
+            "ttl": 32,
+            "ipid": 35107,
+            "responses": 2
+        },
+        "stormgunner.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

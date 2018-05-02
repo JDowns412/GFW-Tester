@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "inventionstore.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "babeporn.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "niwaka.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "desti.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gr-303.com": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

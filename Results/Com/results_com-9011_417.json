@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "mshowpro.com": {
+            "ttl": 89,
+            "ipid": 64072,
+            "responses": 1
+        },
+        "didees.com": {
+            "ttl": 103,
+            "ipid": 24595,
+            "responses": 1
+        },
+        "ceracrafts.com": {
+            "ttl": 54,
+            "ipid": 12076,
+            "responses": 1
+        },
+        "climatehustler.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "tongshiwang.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

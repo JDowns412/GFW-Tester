@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "visktw.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "markswear.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "unitedcancerfoundation.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "e2games.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "putnamcountiesluxuryhomes.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

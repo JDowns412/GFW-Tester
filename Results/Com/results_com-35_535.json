@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "durukanorman.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nothinn1.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "blairbburke.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "getdresdapp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "munchiemobilemovie.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

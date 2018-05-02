@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "thismadhope.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "caraibesfactory.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learnflyfishing.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "residencesatrollinghillscc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "arty-zans.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

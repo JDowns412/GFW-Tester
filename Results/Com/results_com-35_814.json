@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "riversidehomes4sale.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "keepcalmandcarryonstitching.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "chantenaybistro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "doodleinvents.com": {
+            "ttl": 92,
+            "ipid": 62339,
+            "responses": 2
+        }
+    }
+}

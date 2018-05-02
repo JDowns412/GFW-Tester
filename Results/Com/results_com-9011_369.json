@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "lfgypx.com": {
+            "ttl": 28,
+            "ipid": 24288,
+            "responses": 1
+        },
+        "huanduobao.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "etislogistics.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "expertsinyoutube.com": {
+            "ttl": 32,
+            "ipid": 35107,
+            "responses": 2
+        }
+    }
+}

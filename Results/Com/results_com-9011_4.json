@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "in-pasta.com": {
+            "ttl": 105,
+            "ipid": 16223,
+            "responses": 1
+        },
+        "servismerkezi-ankara.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "snadmin.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wportbet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "uptimeitcall.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

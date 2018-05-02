@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "z64-media.com": {
+            "ttl": 27,
+            "ipid": 0,
+            "responses": 1
+        },
+        "mi-accessories.com": {
+            "ttl": 74,
+            "ipid": 14116,
+            "responses": 1
+        },
+        "fillinhome.com": {
+            "ttl": 62,
+            "ipid": 52260,
+            "responses": 2
+        },
+        "yrmt1.com": {
+            "ttl": 70,
+            "ipid": 60123,
+            "responses": 1
+        }
+    }
+}

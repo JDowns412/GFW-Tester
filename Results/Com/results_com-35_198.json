@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "emilycowling.com": {
+            "ttl": 55,
+            "ipid": 60473,
+            "responses": 1
+        },
+        "gjerstadrockfestival.com": {
+            "ttl": 39,
+            "ipid": 18114,
+            "responses": 2
+        }
+    }
+}

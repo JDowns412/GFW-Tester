@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "barzakhbook.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "usgoodland.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "chrishauman.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "charlesclawhead.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "thequeenblend.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

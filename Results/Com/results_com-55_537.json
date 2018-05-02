@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "santodesejo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jgnelsonlaw.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "brokemodel.com": {
+            "ttl": 88,
+            "ipid": 59770,
+            "responses": 1
+        },
+        "logicalchoicelite.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

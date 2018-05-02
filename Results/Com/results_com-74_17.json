@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "sandras-zwergentreff.com": {
+            "ttl": 42,
+            "ipid": 30386,
+            "responses": 2
+        },
+        "daviecaraccidentattorney.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "startupgenomecompass.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "shancunli.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "ocrcribs.com": {
+            "ttl": 102,
+            "ipid": 34849,
+            "responses": 1
+        },
+        "maxcashbacks.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fanetterickert.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "therealpursuit.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sslprox.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "mercatodo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "garzantiscuola.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "oldorchardmall.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "journalofchemistry.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

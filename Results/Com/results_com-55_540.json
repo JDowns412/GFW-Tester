@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "iglooimports.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "airporthotel-vienna.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wowcataloglive.com": {
+            "ttl": 88,
+            "ipid": 36093,
+            "responses": 2
+        },
+        "fipro-ag.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

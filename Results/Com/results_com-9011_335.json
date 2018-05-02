@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "fabienmahe.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "yeshivacollege.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "sou01.com": {
+            "ttl": 39,
+            "ipid": 952,
+            "responses": 1
+        },
+        "perttukauppinen.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tecnologiadestaque.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ezbatteryreconditioning-official.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

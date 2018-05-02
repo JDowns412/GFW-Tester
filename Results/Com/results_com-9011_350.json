@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "beverage-machine-china.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "theaikenateam.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "staceysolutions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "huanqiugom.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "viet-a.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "smarttimes2017.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hawkeyewear.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

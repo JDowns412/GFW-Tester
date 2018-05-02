@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "somethingconcrete.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jeannettegoon.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "zhaoxingwenhua.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "enerprizesupport.com": {
+            "ttl": 36,
+            "ipid": 31112,
+            "responses": 1
+        },
+        "true-champions-construction.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seizethedaytravels.com": {
+            "ttl": 64,
+            "ipid": 18104,
+            "responses": 2
+        }
+    }
+}

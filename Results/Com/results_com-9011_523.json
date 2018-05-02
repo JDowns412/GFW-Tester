@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "wjych.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "phyllous.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "investnetprop.com": {
+            "ttl": 96,
+            "ipid": 43305,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "elizabethanneweddings.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "didactymobil.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "modernsilks.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mediapendidikan.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "stoneagecomputing.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seamenow.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
+}

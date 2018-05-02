@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "joyouslyfitworkplace.com": {
+            "ttl": 53,
+            "ipid": 39246,
+            "responses": 1
+        },
+        "cooeebeachcottages.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gstelecomm.com": {
+            "ttl": 47,
+            "ipid": 4892,
+            "responses": 1
+        },
+        "tsdmediallc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

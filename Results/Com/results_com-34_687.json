@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "chanbetsuya.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "myerw.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "unitedagainstanucleariran.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "chromaset.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "instant-messenger-chat.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

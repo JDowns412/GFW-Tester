@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "mask-vendor3.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "facitech.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rentsafeguard.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "stochasticapital.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "thisislaunchpad.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "oficinaspuntacana.com": {
+            "ttl": 42,
+            "ipid": 38770,
+            "responses": 2
+        }
+    }
+}

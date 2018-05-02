@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "twwpc.com": {
+            "ttl": 59,
+            "ipid": 14583,
+            "responses": 2
+        },
+        "anfermar.com": {
+            "ttl": 105,
+            "ipid": 62350,
+            "responses": 2
+        },
+        "fatteddysbrewer.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
+}

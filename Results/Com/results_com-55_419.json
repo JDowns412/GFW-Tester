@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "dywv.com": {
+            "ttl": 30,
+            "ipid": 0,
+            "responses": 1
+        },
+        "thousandoakssupermarket.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 6
+        },
+        "joepgen.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sangman.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "americanpublictv.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

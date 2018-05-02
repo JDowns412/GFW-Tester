@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "scottsdaleroadside.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "karinoko.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "foreverhealthyinc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

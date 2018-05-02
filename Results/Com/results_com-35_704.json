@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "annecarole-perreux.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "achaunest.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "liu-space.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "axterial.com": {
+            "ttl": 73,
+            "ipid": 46913,
+            "responses": 2
+        },
+        "flitesmith.com": {
+            "ttl": 85,
+            "ipid": 18634,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "croweekly.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "giga-find.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "skyvisionimages.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "santacruzprp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "massagerland.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nuocmamtruyenthong.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "waterserver-line.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

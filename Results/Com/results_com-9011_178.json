@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "76cp.com": {
+            "ttl": 27,
+            "ipid": 28500,
+            "responses": 1
+        },
+        "lettucebfarms.com": {
+            "ttl": 96,
+            "ipid": 61800,
+            "responses": 1
+        }
+    }
+}

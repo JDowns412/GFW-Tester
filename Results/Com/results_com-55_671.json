@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "popheroes.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lauhoff.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "isarv.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cityboutiques.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cardmailer.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "darkdayssoftware.com": {
+            "ttl": 26,
+            "ipid": 0,
+            "responses": 1
+        },
+        "yishaoguang.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "truckspare.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

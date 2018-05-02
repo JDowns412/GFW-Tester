@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "cnsplanning.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "rudebusters.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "essentialfreight.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "t-townmusic.com": {
+            "ttl": 76,
+            "ipid": 53480,
+            "responses": 2
+        }
+    }
+}

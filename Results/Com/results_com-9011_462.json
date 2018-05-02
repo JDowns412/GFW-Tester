@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "loyalpropertyrentals.com": {
+            "ttl": 70,
+            "ipid": 40347,
+            "responses": 1
+        },
+        "txmfr.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
+}

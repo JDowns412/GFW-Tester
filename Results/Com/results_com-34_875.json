@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "dcdrugcard.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "schneemann-system.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kokopelli-seed-foundation.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "lebaronbooks.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "coloradochecking.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "system-bau-sl.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

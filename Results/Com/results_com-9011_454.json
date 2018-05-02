@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "rickysfriends.com": {
+            "ttl": 35,
+            "ipid": 59170,
+            "responses": 2
+        },
+        "denimrackamerica.com": {
+            "ttl": 89,
+            "ipid": 64072,
+            "responses": 1
+        },
+        "triceptoner.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "michaelrichardsalerno.com": {
+            "ttl": 32,
+            "ipid": 35107,
+            "responses": 2
+        },
+        "austinvail.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

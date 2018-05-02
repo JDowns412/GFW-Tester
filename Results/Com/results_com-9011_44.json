@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "hestestalden.com": {
+            "ttl": 75,
+            "ipid": 2475,
+            "responses": 1
+        },
+        "bobsautorepair92.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "femidaspb.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "campybear.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "doguturkistantv.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "findagadget.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "aujourdhui1900.com": {
+            "ttl": 45,
+            "ipid": 49601,
+            "responses": 1
+        }
+    }
+}

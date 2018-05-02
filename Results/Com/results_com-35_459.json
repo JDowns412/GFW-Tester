@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "croudtech.com": {
+            "ttl": 53,
+            "ipid": 39246,
+            "responses": 1
+        },
+        "minikpilav.com": {
+            "ttl": 50,
+            "ipid": 40674,
+            "responses": 2
+        },
+        "cmeig.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "four5media.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "xmdiagnostics.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

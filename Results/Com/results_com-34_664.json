@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "newsarum.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "artisticcomedy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cjdonnelly.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sharkshootout.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "psbj.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "courtable.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

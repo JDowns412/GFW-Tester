@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "justgoodfoodtv.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sreap.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "xn--khler-baumaschinen-d3b.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "foreverplanter.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bruceflindsay.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "jdpowersky.com": {
+            "ttl": 75,
+            "ipid": 63847,
+            "responses": 1
+        }
+    }
+}

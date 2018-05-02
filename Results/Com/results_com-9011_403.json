@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "datalope.com": {
+            "ttl": 36,
+            "ipid": 24298,
+            "responses": 1
+        },
+        "sunnysideworkers.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "theatre-ct.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

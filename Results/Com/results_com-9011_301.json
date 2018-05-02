@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "cesnaacoustics.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "demarestrealestate.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "earthsrelief.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "luminoseditions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kdlmj.com": {
+            "ttl": 69,
+            "ipid": 60304,
+            "responses": 2
+        }
+    }
+}

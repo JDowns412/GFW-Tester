@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "helixlearningcenter.com": {
+            "ttl": 42,
+            "ipid": 62706,
+            "responses": 1
+        },
+        "vodka-bio.com": {
+            "ttl": 84,
+            "ipid": 41539,
+            "responses": 1
+        }
+    }
+}

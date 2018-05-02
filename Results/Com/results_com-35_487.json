@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "nikestory.com": {
+            "ttl": 38,
+            "ipid": 6570,
+            "responses": 2
+        },
+        "andersonpropertyservicesil.com": {
+            "ttl": 56,
+            "ipid": 61862,
+            "responses": 2
+        },
+        "piccaboo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ig16.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "badmeow.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        },
+        "applesoftwaresim.com": {
+            "ttl": 47,
+            "ipid": 4892,
+            "responses": 1
+        },
+        "upcycleflea.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

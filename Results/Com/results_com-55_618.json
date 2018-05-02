@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "visitdevonandcornwall.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ivorytrails.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pcconcordiaflorebit.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "arabiancall.com": {
+            "ttl": 98,
+            "ipid": 36020,
+            "responses": 1
+        }
+    }
+}

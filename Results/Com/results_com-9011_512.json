@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "ramenbio.com": {
+            "ttl": 83,
+            "ipid": 51081,
+            "responses": 2
+        },
+        "modernwebdeveloper.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

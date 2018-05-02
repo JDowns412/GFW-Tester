@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "socialmanifest.com": {
+            "ttl": 35,
+            "ipid": 55526,
+            "responses": 2
+        },
+        "hypnoseabbeville.com": {
+            "ttl": 90,
+            "ipid": 58168,
+            "responses": 1
+        },
+        "onelasttwitter.com": {
+            "ttl": 105,
+            "ipid": 19082,
+            "responses": 2
+        },
+        "onelastyoutube.com": {
+            "ttl": 44,
+            "ipid": 48627,
+            "responses": 2
+        }
+    }
+}

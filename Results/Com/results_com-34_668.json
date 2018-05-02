@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "wasybib.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "argensa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "europagarden.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "crei-france.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "azmable.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "jaatog.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "delsandy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

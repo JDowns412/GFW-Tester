@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "dopoc.com": {
+            "ttl": 100,
+            "ipid": 61139,
+            "responses": 1
+        },
+        "denizkizihaliyikama.com": {
+            "ttl": 62,
+            "ipid": 55945,
+            "responses": 1
+        }
+    }
+}

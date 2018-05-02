@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "thehappyyogi.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "madisonartguild.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "carbuyerconfessions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "physionutrition.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "napoliicecream.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "economicrisks.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

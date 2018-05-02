@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "scauctions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "relphs.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "auctioneeramplifier.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "digitalreinsurance.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "globalexotics.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

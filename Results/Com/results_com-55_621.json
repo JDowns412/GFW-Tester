@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "orike.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "sahibinden-kiralik.com": {
+            "ttl": 65,
+            "ipid": 16881,
+            "responses": 1
+        }
+    }
+}

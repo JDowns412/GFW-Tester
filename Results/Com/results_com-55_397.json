@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "zukermancpa.com": {
+            "ttl": 80,
+            "ipid": 42363,
+            "responses": 2
+        },
+        "fieldrenu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "upvcwindowssydney.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "homeofthegyros.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pdf2epub.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

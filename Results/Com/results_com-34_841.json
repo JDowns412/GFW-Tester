@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "closeoutsforsale.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "free-virus-protection.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "onwalkabout.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "reformpr.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "simmsdevelopment.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "hongkongchinesemiami.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "capetowndmc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "angiesrawalchemy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "philadelphiaobits.com": {
+            "ttl": 42,
+            "ipid": 38770,
+            "responses": 2
+        }
+    }
+}

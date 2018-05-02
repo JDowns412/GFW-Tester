@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "coolneonman.com": {
+            "ttl": 103,
+            "ipid": 27004,
+            "responses": 1
+        },
+        "pinbola.com": {
+            "ttl": 103,
+            "ipid": 61273,
+            "responses": 2
+        },
+        "livinglovingbaltimore.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "flagcinder.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

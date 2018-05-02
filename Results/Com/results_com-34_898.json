@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "galux.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cddupeit.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "airpressure.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "meissnerscomoffice.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "drsd.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

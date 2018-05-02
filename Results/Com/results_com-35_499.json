@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "diamond-digger-saga.com": {
+            "ttl": 94,
+            "ipid": 64545,
+            "responses": 2
+        },
+        "wegwarte.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "ukikris.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "teradekboltrental.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fcelaba.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

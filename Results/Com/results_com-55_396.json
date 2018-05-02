@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "neilyoungart.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "danmclane.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "isl-pro.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "eloipare.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "donlicamelliacafe.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

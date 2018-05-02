@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "annapolisboatwraps.com": {
+            "ttl": 103,
+            "ipid": 27004,
+            "responses": 1
+        },
+        "agentjari.com": {
+            "ttl": 95,
+            "ipid": 55126,
+            "responses": 1
+        },
+        "chlangability.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "seemandhrapeople.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hammockslinger.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

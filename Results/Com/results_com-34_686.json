@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "outsideit.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "fastbreakbaitandtackle.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "muriko.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "moodletemplatespier.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nayaritretirement.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "lelandfoerster.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "orlandoteamevents.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

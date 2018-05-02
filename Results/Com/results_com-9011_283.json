@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "nomoneybailbonds.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "blueboxsolutions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "strategyflow.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lantain.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "16che.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "txbipartisanadvocacy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "artplatforma.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

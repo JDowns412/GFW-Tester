@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "vortice-ti.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "reiki-therapie-paris.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "toreytpa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "grindalehouse.com": {
+            "ttl": 75,
+            "ipid": 52941,
+            "responses": 2
+        },
+        "thevisafirm.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "chateauatpoetscorner.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "marquede.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

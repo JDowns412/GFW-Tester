@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "kommanditbolag.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cabinetnabet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "snappygator.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iphonebabe.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "www2458s.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

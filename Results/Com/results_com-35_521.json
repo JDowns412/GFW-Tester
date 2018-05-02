@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "jakelizzio.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "accelerationmetrics.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "naturalightfolio.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "emotionalintelligenceclass.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "dreamnationinc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "teamgohardenterprise.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "richgieg.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "bluowl.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "suchowre.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "weerio.com": {
+            "ttl": 69,
+            "ipid": 43414,
+            "responses": 1
+        },
+        "goldfishltd.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "roadstodamascus.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kim-snyder.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

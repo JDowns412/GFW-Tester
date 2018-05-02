@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "fourpointsbuffalo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ninarich.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "art-incorporated.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "7522.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kbario.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "geoffherguth.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

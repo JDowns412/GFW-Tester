@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cheapgrasscutter.com": {
+            "ttl": 88,
+            "ipid": 47457,
+            "responses": 1
+        },
+        "reporting-cm.com": {
+            "ttl": 55,
+            "ipid": 4500,
+            "responses": 2
+        }
+    }
+}

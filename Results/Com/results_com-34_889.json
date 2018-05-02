@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "psychgames.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "orsmab.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "portlandsales.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "letsgosanjose.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "noguez.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

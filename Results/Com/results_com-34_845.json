@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "uspalmers.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "foundationofvenice.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "soudure-unique.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "singlesinag.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

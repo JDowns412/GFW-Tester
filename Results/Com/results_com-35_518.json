@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "zumeigj.com": {
+            "ttl": 90,
+            "ipid": 33615,
+            "responses": 2
+        },
+        "cn-sft.com": {
+            "ttl": 27,
+            "ipid": 34078,
+            "responses": 2
+        },
+        "1stchoicebankca.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mysticshoe.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "artiadesigns.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "payfive.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "nepawebhosting.com": {
+            "ttl": 102,
+            "ipid": 8175,
+            "responses": 1
+        },
+        "alcban.com": {
+            "ttl": 106,
+            "ipid": 26289,
+            "responses": 2
+        },
+        "aselogix.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

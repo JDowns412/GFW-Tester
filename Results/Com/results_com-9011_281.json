@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "daniellacwilliams.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "givenrace.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "revteknoloji.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "jweb-sys.com": {
+            "ttl": 45,
+            "ipid": 47564,
+            "responses": 2
+        }
+    }
+}

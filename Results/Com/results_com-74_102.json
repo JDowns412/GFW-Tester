@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "bearskinstudios.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "realnyfc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "createhealthierlives.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ballasisters.com": {
+            "ttl": 41,
+            "ipid": 1862,
+            "responses": 1
+        },
+        "findingthebeautyinlife.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

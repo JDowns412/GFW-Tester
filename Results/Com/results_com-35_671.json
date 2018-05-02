@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "dicscogs.com": {
+            "ttl": 41,
+            "ipid": 52115,
+            "responses": 1
+        },
+        "frontlinecare.com": {
+            "ttl": 58,
+            "ipid": 30132,
+            "responses": 2
+        },
+        "bozmonot.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

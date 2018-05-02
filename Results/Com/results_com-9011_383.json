@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "charlottechristianlawyer.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wrneill.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "medicalprescriptiondrugplan.com": {
+            "ttl": 33,
+            "ipid": 24321,
+            "responses": 2
+        },
+        "connectionrealestateschool.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

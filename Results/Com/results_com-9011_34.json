@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "catalindumitrescu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "timpviewstorage.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "salesalytics.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bitandme.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "buyacarraleigh.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "503signworks.com": {
+            "ttl": 36,
+            "ipid": 44927,
+            "responses": 1
+        }
+    }
+}

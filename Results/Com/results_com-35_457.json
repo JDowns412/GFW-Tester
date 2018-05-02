@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "poppinpartieshouston.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "01zone.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "powerlandingpage.com": {
+            "ttl": 47,
+            "ipid": 4892,
+            "responses": 1
+        },
+        "a51cloud.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "thurstonconsult.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

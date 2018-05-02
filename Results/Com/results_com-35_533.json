@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "mariasangriarestaurants.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "seattlecarzone.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "giocareandamare.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "oopsracing.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "luxuryrealtyinlasvegas.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

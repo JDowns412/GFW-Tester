@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "greekscape.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "joshblue.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mutugading.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "carlson-consult.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "macrivcel.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mylittlepatch.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "heizungsmaterial.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "hmgpaintdecorative.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sogii.com": {
+            "ttl": 74,
+            "ipid": 7289,
+            "responses": 2
+        },
+        "edlp2013.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "brotherwolfjewelry.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

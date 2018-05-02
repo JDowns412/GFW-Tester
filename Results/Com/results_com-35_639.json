@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "happyvalleykarate.com": {
+            "ttl": 75,
+            "ipid": 19107,
+            "responses": 1
+        },
+        "azyftagw.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "drrobdunn.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "nycinjuryattys.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "accountantsantabarbara.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "laforet-immobilier-limoges.com": {
+            "ttl": 41,
+            "ipid": 1862,
+            "responses": 1
+        },
+        "redelljimenez.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

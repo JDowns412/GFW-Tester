@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "stellamw.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sansha-city-china.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "netsetgamers.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wildsidemotorcycles.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "pix-park.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gangarov.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "eureka85.com": {
+            "ttl": 37,
+            "ipid": 18289,
+            "responses": 2
+        }
+    }
+}

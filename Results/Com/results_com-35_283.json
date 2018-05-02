@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "tappingtennis.com": {
+            "ttl": 53,
+            "ipid": 15893,
+            "responses": 2
+        },
+        "bdg145.com": {
+            "ttl": 58,
+            "ipid": 53365,
+            "responses": 3
+        }
+    }
+}

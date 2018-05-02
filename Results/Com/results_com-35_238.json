@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "routetofit.com": {
+            "ttl": 57,
+            "ipid": 41342,
+            "responses": 2
+        },
+        "inklusion-jetzt.com": {
+            "ttl": 28,
+            "ipid": 25379,
+            "responses": 1
+        },
+        "marnellassetmanagement.com": {
+            "ttl": 85,
+            "ipid": 20023,
+            "responses": 2
+        },
+        "awaywegotooz.com": {
+            "ttl": 61,
+            "ipid": 32454,
+            "responses": 2
+        }
+    }
+}

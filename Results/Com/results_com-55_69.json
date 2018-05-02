@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "hvnfun.com": {
+            "ttl": 64,
+            "ipid": 47492,
+            "responses": 2
+        },
+        "besttaxtwitter.com": {
+            "ttl": 53,
+            "ipid": 38418,
+            "responses": 2
+        },
+        "dicentralized.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "valley-landscapes.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "torchmatetechnical.com": {
+            "ttl": 41,
+            "ipid": 4781,
+            "responses": 2
+        },
+        "saleyardsrd.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "cayocattlecompany.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

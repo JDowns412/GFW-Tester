@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "engineerinaction.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "saigonsbookhotel.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "learningfactorybook.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "devonpond.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "cheerleaderbush.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "xn--12cma7gknl8bza9d4h4e.com": {
+            "ttl": 64,
+            "ipid": 20254,
+            "responses": 1
+        }
+    }
+}

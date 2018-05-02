@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "moroeast.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "chineselinguistics.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pwsa-jp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "mystatedept.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "prrivate.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "chinesedecor.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "softwareantivirus.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gnph.com": {
+            "ttl": 35,
+            "ipid": 10767,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "collezionepantoneuniverse.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "dbblock.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "855p.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "raineur.com": {
+            "ttl": 100,
+            "ipid": 17628,
+            "responses": 1
+        },
+        "familyrecipebbq.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

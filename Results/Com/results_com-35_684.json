@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "uniteinfra.com": {
+            "ttl": 69,
+            "ipid": 43414,
+            "responses": 1
+        },
+        "32millvalley.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kimberkelly.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "87716.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "00449e.com": {
+            "ttl": 77,
+            "ipid": 19922,
+            "responses": 1
+        }
+    }
+}

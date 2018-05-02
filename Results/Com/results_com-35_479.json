@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "kaixingyou31.com": {
+            "ttl": 50,
+            "ipid": 40674,
+            "responses": 2
+        },
+        "just-live-happy.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "specialofferblog.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "doosangallerynewyork.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "transitionalhousingla.com": {
+            "ttl": 75,
+            "ipid": 63847,
+            "responses": 1
+        }
+    }
+}

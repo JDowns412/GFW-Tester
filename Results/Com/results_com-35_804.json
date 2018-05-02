@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "yl-mall.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "avenuescooters.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "schilder-reeg.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "mycrmbiz.com": {
+            "ttl": 74,
+            "ipid": 64548,
+            "responses": 2
+        }
+    }
+}

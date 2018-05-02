@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "cococottage.com": {
+            "ttl": 98,
+            "ipid": 30297,
+            "responses": 2
+        },
+        "columbusbraces.com": {
+            "ttl": 80,
+            "ipid": 59453,
+            "responses": 1
+        }
+    }
+}

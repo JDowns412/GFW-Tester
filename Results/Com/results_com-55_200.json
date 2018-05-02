@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "herald-today.com": {
+            "ttl": 39,
+            "ipid": 42066,
+            "responses": 1
+        },
+        "malika-kishino.com": {
+            "ttl": 83,
+            "ipid": 21145,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "zhitoubiao.com": {
+            "ttl": 27,
+            "ipid": 34078,
+            "responses": 2
+        },
+        "theanswerismalbec.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "digiquan.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "motorforpumps.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "informationcincinnati.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

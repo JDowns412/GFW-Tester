@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "parrilladonjulio.com": {
+            "ttl": 65,
+            "ipid": 789,
+            "responses": 2
+        },
+        "aquapanel-sales-conference.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "boisecloud.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "graciegirf.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

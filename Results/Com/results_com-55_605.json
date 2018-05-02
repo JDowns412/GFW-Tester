@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "finehonesthk.com": {
+            "ttl": 65,
+            "ipid": 16881,
+            "responses": 1
+        },
+        "ontarioarchitects.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

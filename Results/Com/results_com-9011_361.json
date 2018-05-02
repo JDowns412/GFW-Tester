@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "onsiad.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "colosseo28.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "write4medical.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "figueredoabogados.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "blues-licks.com": {
+            "ttl": 76,
+            "ipid": 63691,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "vgroosters.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "voetballivestream.com": {
+            "ttl": 39,
+            "ipid": 56811,
+            "responses": 2
+        },
+        "haircabri.com": {
+            "ttl": 57,
+            "ipid": 12377,
+            "responses": 1
+        },
+        "advancedpediatricsnyc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

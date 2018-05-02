@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "pussyboi.com": {
+            "ttl": 98,
+            "ipid": 26875,
+            "responses": 1
+        },
+        "coretsolutions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bedrock-healthcare.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "alyssavandall.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

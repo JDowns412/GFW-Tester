@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "wtailormade.com": {
+            "ttl": 70,
+            "ipid": 60843,
+            "responses": 1
+        },
+        "orlandohelicopterpilot.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "maryimbong.com": {
+            "ttl": 64,
+            "ipid": 18104,
+            "responses": 2
+        }
+    }
+}

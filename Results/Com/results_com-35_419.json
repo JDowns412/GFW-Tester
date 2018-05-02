@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "loveyunti.com": {
+            "ttl": 72,
+            "ipid": 53404,
+            "responses": 2
+        },
+        "jimmyban.com": {
+            "ttl": 36,
+            "ipid": 43208,
+            "responses": 1
+        },
+        "370919.com": {
+            "ttl": 33,
+            "ipid": 13999,
+            "responses": 1
+        }
+    }
+}

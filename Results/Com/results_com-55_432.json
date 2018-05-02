@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "billingsfastfood.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tcipower.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "susanperlman.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "infiniteautosports.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

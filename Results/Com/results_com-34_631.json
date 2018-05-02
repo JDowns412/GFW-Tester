@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "wecarryandcare.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "la-marianna.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "happydoor.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "blogdeldia.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "cissp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "juliethcardona.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "panelkabin.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "errity.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "012480.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mom2beevent.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        }
+    }
+}

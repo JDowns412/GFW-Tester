@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "handlercompanies.com": {
+            "ttl": 78,
+            "ipid": 60232,
+            "responses": 1
+        },
+        "mxchino.com": {
+            "ttl": 48,
+            "ipid": 7252,
+            "responses": 1
+        }
+    }
+}

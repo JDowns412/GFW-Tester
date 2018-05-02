@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "amenmen.com": {
+            "ttl": 35,
+            "ipid": 59170,
+            "responses": 2
+        },
+        "footballclubforums.com": {
+            "ttl": 103,
+            "ipid": 24595,
+            "responses": 1
+        },
+        "fooddecoart.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "healthexchangerus.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

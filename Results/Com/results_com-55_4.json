@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "agenceplay.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "driftandco.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "nxagemco.com": {
+            "ttl": 74,
+            "ipid": 29021,
+            "responses": 2
+        },
+        "myplumberscrack.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

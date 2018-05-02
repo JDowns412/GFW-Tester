@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "grussoconstruction.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "csgqfs.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "afrik-yaar.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "createitzone.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "terrapinengine.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

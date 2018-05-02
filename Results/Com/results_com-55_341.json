@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "emhcorp.com": {
+            "ttl": 63,
+            "ipid": 43885,
+            "responses": 1
+        },
+        "zend2.com": {
+            "ttl": 41,
+            "ipid": 46842,
+            "responses": 2
+        }
+    }
+}

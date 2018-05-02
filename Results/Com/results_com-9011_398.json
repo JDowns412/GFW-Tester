@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "iot-gear.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "bestofcomments.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "gonzalezmilan.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "worldonlineservice.com": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

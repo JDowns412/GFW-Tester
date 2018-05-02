@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "xin887.com": {
+            "ttl": 45,
+            "ipid": 57629,
+            "responses": 1
+        },
+        "12772345.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sammystire.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "naitsmusic.com": {
+            "ttl": 70,
+            "ipid": 28390,
+            "responses": 2
+        },
+        "mrdirectorio.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "qlhyn.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "itscoolidiomas.com": {
+            "ttl": 39,
+            "ipid": 56811,
+            "responses": 2
+        },
+        "kenchaan.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "vidahapp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "kendorvannoah.com": {
+            "ttl": 86,
+            "ipid": 6038,
+            "responses": 1
+        }
+    }
+}

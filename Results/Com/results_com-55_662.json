@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "stpware.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "charenterencontres.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "madamesloane.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "30monumentstreet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

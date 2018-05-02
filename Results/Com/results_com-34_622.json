@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "ewapal.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "talentunderground.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "transportationassistance.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "privodopada.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "wondertimemagazine.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "moralcodex.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "portalifquilting.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

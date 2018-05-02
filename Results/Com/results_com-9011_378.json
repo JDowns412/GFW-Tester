@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "timpek.com": {
+            "ttl": 105,
+            "ipid": 16223,
+            "responses": 1
+        },
+        "yurenmatou4.com": {
+            "ttl": 40,
+            "ipid": 16078,
+            "responses": 1
+        },
+        "vip99444.com": {
+            "ttl": 102,
+            "ipid": 8175,
+            "responses": 1
+        },
+        "applerepairschilliwack.com": {
+            "ttl": 58,
+            "ipid": 18873,
+            "responses": 2
+        },
+        "meetbangnowmail.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

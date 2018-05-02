@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "happyhippiehollow.com": {
+            "ttl": 35,
+            "ipid": 59170,
+            "responses": 2
+        },
+        "bibianaeman.com": {
+            "ttl": 89,
+            "ipid": 64072,
+            "responses": 1
+        },
+        "newboto.com": {
+            "ttl": 28,
+            "ipid": 24288,
+            "responses": 1
+        },
+        "klavier-duo.com": {
+            "ttl": 55,
+            "ipid": 32841,
+            "responses": 1
+        },
+        "ubernyc.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hismaeldesigner.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "ararbulursatar.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

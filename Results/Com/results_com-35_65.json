@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "7300yh.com": {
+            "ttl": 41,
+            "ipid": 52115,
+            "responses": 1
+        },
+        "rocklandsystems.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lapakpendingin.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "onepayworld.com": {
+            "ttl": 70,
+            "ipid": 28390,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "qj81.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "100ushop.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "1000bookstoberead.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sturcross.com": {
+            "ttl": 75,
+            "ipid": 29150,
+            "responses": 1
+        }
+    }
+}

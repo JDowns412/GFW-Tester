@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "tstmml.com": {
+            "ttl": 65,
+            "ipid": 789,
+            "responses": 2
+        },
+        "intnltrade.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "2ndlovedesigns.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "beautyspa2go.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "iweblive.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

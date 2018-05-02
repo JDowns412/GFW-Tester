@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "northandyork.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "modifywp.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "lb0004.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "xinwokeji.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hswx9.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 5
+        }
+    }
+}

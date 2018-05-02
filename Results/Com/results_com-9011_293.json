@@ -1,0 +1,40 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 993,
+        "blocked": 6,
+        "errors": 0
+    },
+    "domains": {
+        "govtjobsisland.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "holyfamilychurchgoa.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "mazuryzpsem.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "ipardaaz.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "motusrehabilitation.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "complexlearning.com": {
+            "ttl": 106,
+            "ipid": 4349,
+            "responses": 1
+        }
+    }
+}

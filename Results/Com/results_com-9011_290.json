@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "hampshiremotorsales.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "altocredito.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "miraflorescentrocomercial.com": {
+            "ttl": 39,
+            "ipid": 952,
+            "responses": 1
+        },
+        "hudsonbuilding.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "marketermaps.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

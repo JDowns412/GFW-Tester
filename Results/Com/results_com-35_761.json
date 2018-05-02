@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "boisemedicaldoctors.com": {
+            "ttl": 65,
+            "ipid": 2937,
+            "responses": 1
+        },
+        "473499.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "scrubs2ual.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sissystrawberry.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

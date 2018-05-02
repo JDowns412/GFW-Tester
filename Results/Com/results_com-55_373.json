@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "hongkongtaiko.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "1800kits.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "3076a.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "herohydrogen.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "plexigami.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "fulton4ventura.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "washingtonautocollision.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

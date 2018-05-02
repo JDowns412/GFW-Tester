@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "antoniokhledesma.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "pancaketutu.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "michaelfoerst.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "contractorsmarketingexpert.com": {
+            "ttl": 39,
+            "ipid": 52042,
+            "responses": 1
+        }
+    }
+}

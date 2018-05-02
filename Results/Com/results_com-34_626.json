@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "aaeads2017.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "redlandssewingcenter.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "danacameron.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "edicionesalmargen.com": {
+            "ttl": 58,
+            "ipid": 13703,
+            "responses": 2
+        },
+        "insurealert.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "basic-best-things.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "basiccatalog.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

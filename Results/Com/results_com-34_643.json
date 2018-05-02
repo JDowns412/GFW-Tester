@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "dri-box.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "itmadrid.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "yasmincaseinfo.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sail-eolienne.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 4
+        },
+        "discipling.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "domold.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "tdreeb.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        }
+    }
+}

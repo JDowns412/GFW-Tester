@@ -1,0 +1,25 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 996,
+        "blocked": 3,
+        "errors": 0
+    },
+    "domains": {
+        "esticura.com": {
+            "ttl": 38,
+            "ipid": 8636,
+            "responses": 2
+        },
+        "akolov.com": {
+            "ttl": 51,
+            "ipid": 55523,
+            "responses": 2
+        },
+        "verifiedsupporttwitter.com": {
+            "ttl": 79,
+            "ipid": 56965,
+            "responses": 2
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "trinity003.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "broadbandable.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "saltlakeparadeofhomes.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "btibternet.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

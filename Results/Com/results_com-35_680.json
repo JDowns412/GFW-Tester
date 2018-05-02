@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "clarapersis.com": {
+            "ttl": 41,
+            "ipid": 52115,
+            "responses": 1
+        },
+        "gift-card-services.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "coverstaridaho.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "hyjled.com": {
+            "ttl": 77,
+            "ipid": 19922,
+            "responses": 1
+        },
+        "bradhudak.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

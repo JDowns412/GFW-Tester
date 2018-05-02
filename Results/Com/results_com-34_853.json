@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "bostontube.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "artrbd.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "idahoflyer.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "burgundyvacation.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "prestigiouspictures.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "buybestpower.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "drawimage.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        }
+    }
+}

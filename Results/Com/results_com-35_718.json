@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "teento1000.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "juku-thera.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "blockature.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "reubencannonentertainment.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 994,
+        "blocked": 5,
+        "errors": 0
+    },
+    "domains": {
+        "maxipinna.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "effectlandscaping.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "lunwenzhixieci.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "eetech-lcd.com": {
+            "ttl": 90,
+            "ipid": 59183,
+            "responses": 1
+        },
+        "eventswiththeedge.com": {
+            "ttl": 23,
+            "ipid": 0,
+            "responses": 1
+        }
+    }
+}

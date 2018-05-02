@@ -1,0 +1,50 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 991,
+        "blocked": 8,
+        "errors": 0
+    },
+    "domains": {
+        "energyhawaii.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "piano-guru.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "sanjosecitycollege.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "lexasfloral.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "almanasir.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "samspassport.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "evanwrye.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "eventworx.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

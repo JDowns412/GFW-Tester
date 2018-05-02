@@ -1,0 +1,45 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 992,
+        "blocked": 7,
+        "errors": 0
+    },
+    "domains": {
+        "hengge.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "visual-distractions.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 3
+        },
+        "samandwallys.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "wildflowergreetings.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 2
+        },
+        "beijingsilk.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "beijingteahouses.com": {
+            "ttl": 45,
+            "ipid": 37540,
+            "responses": 2
+        },
+        "shakopeeinsurance.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}

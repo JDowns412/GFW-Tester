@@ -1,0 +1,20 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 997,
+        "blocked": 2,
+        "errors": 0
+    },
+    "domains": {
+        "nextpractice-institute.com": {
+            "ttl": 32,
+            "ipid": 10885,
+            "responses": 1
+        },
+        "zt2016.com": {
+            "ttl": 45,
+            "ipid": 55434,
+            "responses": 2
+        }
+    }
+}

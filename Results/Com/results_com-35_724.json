@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "tried": 999,
+        "allowed": 995,
+        "blocked": 4,
+        "errors": 0
+    },
+    "domains": {
+        "24neur.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "elisabethpreston.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "sniptool.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        },
+        "aegisresearchcongress.com": {
+            "ttl": 101,
+            "ipid": 21588,
+            "responses": 1
+        }
+    }
+}
